@@ -162,3 +162,5 @@ Built and used daily by the [Grinfi](https://grinfi.io) team on our own
 outreach. The numbers in `reference/metrics.md` are ours: 3,812 invites,
 1,095 first messages, measured in September 2026. Use the kit freely,
 adapt it, and tell us what you changed.
+MIT licensed: use it, change it, ship it with your own work, keep the
+notice.
