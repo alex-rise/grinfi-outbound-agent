@@ -132,8 +132,29 @@ Download the ZIP again (or `git pull`) and replace everything except the
 
 ## Codex
 
-The same folder works with OpenAI Codex through `AGENTS.md`. Setup notes
-for Codex are in the article that ships with this kit.
+The same folder works with OpenAI Codex through `AGENTS.md`: the modes,
+the rules and the `business/` memory are shared, only the connection
+differs.
+
+1. Connect Grinfi to Codex. In a terminal, the first command adds the
+   server, the second opens the browser to log in to Grinfi:
+
+   ```
+   codex mcp add grinfi --url https://mcp.grinfi.io
+   codex mcp login grinfi
+   ```
+
+   Prefer a token in a file instead of signing in? Paste your Grinfi API
+   key on [mcp.grinfi.io](https://mcp.grinfi.io), copy the generated block
+   into `~/.codex/config.toml`. One token covers one Grinfi team. On older
+   Codex versions remote servers need `experimental_use_rmcp_client = true`
+   at the top of `config.toml`, or simply upgrade Codex.
+2. Open this folder in Codex: run `codex` inside it, or open it in the
+   Codex app. Codex reads `AGENTS.md` and works by the same rules as Claude
+   Code: onboarding first, then the modes.
+
+Codex works on any plan that has MCP. Current instructions for every
+client, ChatGPT included, live on [mcp.grinfi.io](https://mcp.grinfi.io).
 
 ## Made by Grinfi
 
