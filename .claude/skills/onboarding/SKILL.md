@@ -14,6 +14,10 @@ Run this when `business/profile.md` does not exist, or when the user asks
 to update the profile. Do not skip it because the user "just wants a quick
 message": a message for a business you have not met is a generic message.
 
+If some of the files already exist, keep them: fill in only the missing
+ones, and never overwrite a file the user has confirmed without asking
+first.
+
 ## Step 1. Four questions, one message
 
 Ask these together, numbered, and say why: "I will read your site and your
@@ -56,8 +60,10 @@ business than any form:
   their names in every later file; do not rename them.
 - `list_lists` and `list_automations` (status "on") - what audiences exist
   and what is running now.
-- `get_outreach_metrics` for the last 30 days - the team's own baseline for
-  acceptance and reply rate, with denominators.
+- The analytics guide first (`get_guide` with `analytics`), then
+  `get_outreach_metrics` with an explicit 30-day window (`schedule_at_after`
+  and `schedule_at_before`; without a window it scans all time): the team's
+  own baseline for acceptance and reply rate, with denominators.
 - `list_ai_variables` and the templates guide - which variables the
   templates already use.
 

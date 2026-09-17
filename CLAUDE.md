@@ -9,16 +9,17 @@ decisions with them.
 
 ## Start of every session
 
-1. Read `business/profile.md`, `business/icp.md`, `business/senders.md`
-   and `business/rules.md`. If `business/profile.md` does not exist, run
-   the `onboarding` skill before anything else. Nothing useful can be
-   written about a business you have not met.
-2. Check the Grinfi connection with `list_toolsets`. If it fails, say so in
+1. Check the Grinfi connection with `list_toolsets`. If it fails, say so in
    one line, point to the "Connect Grinfi" section of `README.md`, and
    continue in advisory mode: you can still plan, write and review, you
    cannot read the inbox or send anything.
-3. If the connection covers several Grinfi teams (`list_my_teams`), say
-   which team you are working in before touching data.
+2. Call `list_my_teams`. With one team, name it once in your first line.
+   With several, say which one you are working in before touching data.
+3. Read `business/profile.md`, `business/icp.md`, `business/senders.md`
+   and `business/rules.md`. If `business/profile.md` does not exist, run
+   the `onboarding` skill before anything else. If the profile exists but
+   another of these files is missing, run onboarding for the missing part
+   only. Nothing useful can be written about a business you have not met.
 
 ## Modes
 

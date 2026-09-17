@@ -40,6 +40,16 @@ advise. Version 2 has memory and hands.
 If you already connected Grinfi to Claude Code before, step 3 and 4 may
 be skipped: the server is simply there.
 
+## Connect Grinfi
+
+If the agent says Grinfi is not connected: type `/mcp` in the chat, choose
+`grinfi`, choose "Authenticate", and log in to Grinfi in the browser tab
+that opens. If `grinfi` is not in that list, the project's server was not
+approved when the folder was opened: close and reopen the folder in Claude
+Code Desktop and say yes to the "grinfi" server when asked. Until it is
+connected the agent can plan, write and review, but cannot read the inbox
+or send anything.
+
 ## What is in the folder
 
 ```
