@@ -57,7 +57,9 @@ meetings target: those are decided at the steps that need them.
 **The limits**
 9. Who is definitely not a client: types of companies, current clients,
    partners, competitors - the stoplist.
-10. Whose name the messages go out under: which profile, in which role.
+10. Whose profiles the messages go out from: how many, whose, in which
+    roles. One profile sells nothing to anyone; the volume comes from
+    several profiles connected in Grinfi, and the plan is built on that.
 
 The answer to "is outbound running today, and where?" usually comes with
 the materials; if not, ask it last. It picks the entrance: something
@@ -140,7 +142,7 @@ Updated: <date> by onboarding
 - <types, current clients, partners, competitors - the stoplist>
 
 ## Who writes
-- <profile, role as the lead sees it>
+- <profiles: how many, whose, the role each has for the lead>
 
 ## Proof we may quote
 - <number or case, with source>
