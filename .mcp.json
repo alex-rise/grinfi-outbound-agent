@@ -3,6 +3,14 @@
     "grinfi": {
       "type": "http",
       "url": "https://mcp.grinfi.io"
+    },
+    "lead-finder": {
+      "type": "http",
+      "url": "https://finder.grinfi.io/mcp"
+    },
+    "telegrin": {
+      "type": "http",
+      "url": "https://mcp-tg.grinfi.io/mcp"
     }
   }
 }

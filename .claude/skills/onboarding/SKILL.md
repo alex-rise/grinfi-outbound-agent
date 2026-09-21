@@ -18,10 +18,10 @@ If some of the files already exist, keep them: fill in only the missing
 ones, and never overwrite a file the user has confirmed without asking
 first.
 
-## Step 1. Four questions, one message
+## Step 1. Five questions, one message
 
 Ask these together, numbered, and say why: "I will read your site and your
-Grinfi workspace myself. I only need four things from you first."
+Grinfi workspace myself. I only need five things from you first."
 
 1. Website address (and any page that explains the product best: pricing,
    cases, a deck link).
@@ -30,6 +30,14 @@ Grinfi workspace myself. I only need four things from you first."
 3. Who will use this agent (founder, marketer, SDR) and who the messages go
    out from: your own profile, teammates' profiles, or both.
 4. The language or languages your outreach is written in.
+5. Is outbound running today - in Grinfi, in another tool, or not at all?
+   And do you already know who you want to reach first, or should I
+   propose?
+
+The fifth answer picks the entrance: something running means the `audit`
+comes right after these files; nothing running and a known audience
+means `segments` or `signals`; nothing running and no audience yet means
+the strategist's picker.
 
 Wait for the answer. Do not start reading before you have the address.
 
@@ -59,7 +67,8 @@ business than any form:
 - `list_pipeline_stages` - the stage names the team actually uses. Use
   their names in every later file; do not rename them.
 - `list_lists` and `list_automations` (status "on") - what audiences exist
-  and what is running now.
+  and what is running now. Running automations with numbers behind them
+  mean the `audit` skill comes next, whatever the user answered.
 - The analytics guide first (`get_guide` with `analytics`), then
   `get_outreach_metrics` with an explicit 30-day window (`schedule_at_after`
   and `schedule_at_before`; without a window it scans all time): the team's
@@ -105,6 +114,12 @@ Updated: <date> by onboarding
 ## Objections we hear and how the team answers
 - "<objection>": <answer in the team's words>
 
+## Who bought and why
+- <client or segment>: <how they found us, what tipped the decision>
+
+## What was tried before
+- <channel, audience, what it returned, why it stopped>
+
 ## Facts I could not verify
 - <list>
 ```
@@ -138,6 +153,24 @@ meetings, verdict.
 (name and Grinfi link), waiting for (reply, booking, meeting, hold),
 ping on, pings so far, sender, language, context.
 
+**`business/plan.md`** - the pass from strategy to result, seven lines,
+all "not started":
+
+```
+# Plan
+Updated: <date>
+1. Strategy - not started
+2. Portrait - not started
+3. List - not started
+4. Signals - not started
+5. Texts - not started
+6. Launch - not started
+7. Result - not started
+```
+
+Every skill that finishes a step rewrites its line with the date and a
+link to what it produced.
+
 ## Step 5. Ask only about the gaps
 
 Show the user a five-line summary of what you understood, then ask up to
@@ -151,17 +184,29 @@ seven numbered questions, only for things you could not find:
 - the one concrete difference from the nearest competitor;
 - numbers they allow you to quote (and numbers they do not);
 - who must never be written to (competitors, existing customers, a
-  region, a title).
+  region, a title);
+- who bought in the last year and why: how they found the company, what
+  tipped the decision - the site says what is sold, the buyers say what
+  is actually bought;
+- what was tried in outbound before, to whom, what it returned and why
+  it stopped - a segment that was burned once is not a segment to start
+  with.
 
 One message, all questions. Then write the answers into the files, replace
 "(unconfirmed)" where the user confirmed, and delete what they rejected.
 
-## Step 6. Confirm and explain what happens next
+## Step 6. Confirm and name the next step
 
 Show where the files are and say, in two lines, how the memory works:
 corrections go to `business/rules.md`, campaign results go to
-`business/campaigns.md`, and "update my profile" reruns this skill for the
-parts that changed. Suggest a review once a quarter.
+`business/campaigns.md`, the plan lives in `business/plan.md`, and
+"update my profile" reruns this skill for the parts that changed. Suggest
+a review once a quarter.
+
+Then name the entrance in one line and start it in the same session:
+"Your outbound is running, so the audit comes first"; "You know who to
+reach - the list comes first"; "Let me propose three audiences to choose
+from".
 
 ## What this skill never does
 

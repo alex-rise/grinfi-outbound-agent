@@ -12,7 +12,10 @@ builds the flow in Grinfi, in draft, and starts it only after the user's
 yes.
 
 Start from the segment brief. No brief, no sequence: ask the strategist
-first.
+first. Where the list came from sets the length: a list built from a
+portrait through Lead Finder is a cold or company-first list, anchor B or
+C, unless the strategist attached a signal to it; cards handed over from
+Telegrin are a signal list, anchor A, and get the warm structure.
 
 ## Principles
 

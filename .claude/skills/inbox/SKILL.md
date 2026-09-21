@@ -46,6 +46,13 @@ per sender and language), `business/profile.md` (facts for answers) and
 `business/followups.md`. Confirm the active team with `list_my_teams` if
 there is more than one.
 
+If Telegrin is connected, the morning covers its feed too: `list_feed`
+with `ai-selected` and unread only, the cards waiting for a person. Each
+one is a reply to write, in the language of the post, and follows the
+`signals` skill and the `reply_to_lead` guide; it goes into the same
+numbered report as the Grinfi drafts. A card is never marked handled
+before its reply was approved or the card was set aside on purpose.
+
 ## Step 1. One picture in two calls, not forty
 
 1. `get_unread_conversations` with `limit: 50`: the unread list with lead
