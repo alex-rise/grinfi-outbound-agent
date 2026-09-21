@@ -23,92 +23,71 @@ one subscription covers them all.
 
 ### What it is
 
-You describe who to take and who not to. Lead Finder searches LinkedIn
-for people who match, an AI judge reads every profile against the
-portrait, and you get a table of the people who matched. You pay only for
-them.
+You describe who you need in your own words - "founders of marketing
+agencies in Spain and Portugal, 11 to 50 people, founded before 2022, no
+freelancers" - and Lead Finder brings you those people from LinkedIn.
+Not a filter export: an AI reads every profile against your description
+and keeps only the ones that match. 99 of 100 people you receive match
+the portrait.
 
-### How it works
+### What you get
 
-1. **The form.** Who we take, who we do not (by a sign visible in a
-   profile), the grey zone, company facts (size, founding year,
-   countries, industries, product or services), person facts (titles as
-   LinkedIn writes them, countries, languages), what counts as a lead,
-   volumes. The rules live on the server and the form is checked before
-   anything is spent: a condition the data cannot verify comes back as a
-   question, not as a silent miss.
-2. **The route.** People first when the person's own country matters
-   ("founders from Ukraine", the company may be anywhere). Companies first
-   when the company must be right: LinkedIn companies by country, size
-   band and industry, then headquarters, size, founding year and "product
-   or services" verified on the company page before anyone is bought,
-   chains, franchisors and suppliers screened out by description, then
-   the titled people of each company that passed.
-3. **The judge.** An AI reads every bought profile - positions,
-   experience, the "about" text, the company - against the portrait and
-   gives a verdict with its reason. Company size and year are checked as
-   numbers from the company page, not guessed from a headline.
-4. **Search words.** The user says who they need; the tool derives the
-   job titles and niche words in the language of every country of the
-   form, with synonyms, and shows what it picked.
-5. **Delivery.** A table per person: first and last name, title,
-   headline, location and country, LinkedIn URL, since when at the
-   company, a short "about", top skills, the company with its LinkedIn
-   URL, website, declared size, people on LinkedIn, founded year,
-   industry and country, the verdict with its reason, the email when it
-   was looked up. The same columns as a CSV. The agent imports it into
-   Grinfi as one list per segment, tagged.
+A ready table of people: name, title, LinkedIn profile, the company
+with its size, founding year, industry and country, and for every person
+the reason they matched. Verified facts, not guesses from a headline.
+The list goes straight into Grinfi as a tagged list, or comes as a CSV
+for any other tool.
 
-### What it does that a search export cannot
+### Why it beats a search export
 
-- Someone has read every profile. A Sales Navigator or database export
-  is a list of people who match a filter; this is a list of people who
-  match the portrait. 99 of 100 delivered people match it.
-- The company is verified before a person is bought, on the companies
-  route: headquarters, size, year, type. Vendors registered in a country
-  the user does not want are dropped for free.
-- Expats: people who studied in one country and live in another, with
-  the universities picked by the tool.
-- Local businesses - restaurants, salons, studios, clinics, shops -
-  through Google Maps: every venue with phone, website, address and
-  rating, and the owner from LinkedIn where the venue has a page.
-- Countries, industries and words in the local language handled by the
-  tool, not by the user.
+- **You pay only for people who match.** Everyone the judge rejected
+  costs you nothing.
+- **You know the price per lead before you spend.** A short paid check
+  names it and tells you how many people it can find for your balance.
+  You approve every step yourself, through a link.
+- **The company is checked before the person.** Headquarters, size, age
+  and type of business are verified, so a list of "agencies in Spain"
+  does not turn out to be franchisors, suppliers and companies
+  registered elsewhere.
+- **Countries in their own language.** Titles and niche words are
+  translated and extended for every country you name. You say who you
+  need; the rest is done for you.
 
-### What it cannot filter, said honestly
+### Audiences a search cannot build
 
-LinkedIn shows a title, a country and city, a headcount band, a founding
-year, offices. It does not show revenue (only an estimate by headcount),
-headcount growth, funding rounds or what people post. The agent says so
-at the portrait and leaves such conditions out of the form and out of the
-copy.
+- **Companies first.** The right companies by country, size, age and
+  type, then the right people in each of them.
+- **Expats.** People who studied in one country and live in another -
+  Ukrainian founders abroad, for example.
+- **Local businesses.** Restaurants, salons, studios, clinics, shops:
+  every venue with phone, website, address and rating from Google Maps,
+  and the owner from LinkedIn where there is one.
+
+### Honest about the data
+
+Some conditions cannot be checked on LinkedIn: headcount growth, funding
+rounds, revenue, what people post. The agent tells you this at the
+portrait, before any money moves, so you never pay for a condition that
+does not filter anything.
 
 ### Money
 
-Two gates, each approved by the user through a link they open
-themselves. First the **probe**: the judge reads one page per country of
-the form and names a price range per lead - the probe's own price to
-thirty percent above it - and how many it can find for the balance. The
-probe is charged at cost, usually well under a euro, never above the cap
-shown, and hands over no leads. Then the **collection**, after the yes to
-the maximum of the range: charged by the actual cost inside the range,
-never below the probe's price, never above the maximum, only for the
-people who matched. Fewer than five matches in the probe means no price
-and no charge. The balance is topped up by card, whole euros from twenty.
-A new account comes with a trial balance for the first probe.
+Two steps, each approved by you. First a short paid check that names the
+price per lead. Then the collection at that price, only for the people
+who matched. A new account comes with a trial balance for the first
+check; the balance is topped up by card.
 
-### When the ask does not fit
+### If your ask is unusual
 
-A signal the form has no field for, a source that does not exist, a fact
-the user insists on that the data cannot verify, a probe that came back
-empty: a case goes to the Grinfi team, looked into by hand within a
-couple of hours in working hours, nothing charged; the answer comes back
-into the same chat, sometimes as a finished collection.
+A signal nobody collects yet, a source that does not exist, a condition
+the data cannot verify: the Grinfi team looks into it by hand, usually
+within a couple of hours in working hours, free of charge, and the answer
+comes back into the same chat.
 
 ### Start
 
-finder.grinfi.io/login - the user's email, the link from the mail opens
-their workspace. Settings, "Connect Claude", copy the key. Then `/mcp`,
+finder.grinfi.io/login - your email, the link from the mail opens your
+workspace. Settings, "Connect Claude", copy the key. Then `/mcp`,
 `lead-finder`, "Authenticate", paste the key.
 
 ---
@@ -154,20 +133,19 @@ only on Telegram and Threads.
    Every reply is written in the brand's voice and the writer's language.
 4. **A campaign.** Channel, sources (chats, keywords, subreddits, titles),
    who we look for - a description of the buyer and of who is not the
-   buyer; the tool writes and maintains the search itself, which finds
-   more than typed keywords - and how we reply. The estimate of credits
-   is shown at every step. A campaign can also find relevant Telegram
-   chats by itself from the description of the business.
+   buyer; the AI builds and maintains the search from that description,
+   which finds more than typed keywords - and how we reply. The cost is
+   shown before the campaign starts. A campaign can also find the right
+   Telegram chats by itself from the description of the business.
 5. **Cards.** Every post the AI read becomes a card in the feed: the post,
-   the verdict, a confidence score, a draft reply. The feed has two
-   buckets, lead and set aside; a set-aside card is not hidden, the user
-   can overrule it with one click. Notifications in a Telegram bot and by
-   push.
+   the verdict, a draft reply. What the AI set aside stays visible, and
+   the user can overrule it with one click. Notifications in a Telegram
+   bot and by push.
 6. **Copilot or autopilot.** Copilot: the user confirms, edits or
-   regenerates the reply. Autopilot, on Telegram and Threads only: the
-   agent sends when its confidence is above the threshold; it can be set
-   per stage - hot leads by hand, neutral ones on autopilot. Start with
-   the copilot; a month of confirmed replies teaches the brain.
+   regenerates the reply with one click. Autopilot, on Telegram and
+   Threads: the agent replies by itself, and it can be set per stage -
+   hot leads by hand, neutral ones on autopilot. Start with the copilot;
+   a month of confirmed replies teaches the brain.
 7. **CRM.** A board: new, in dialogue, confirmed, rejected; stages move on
    their own. Follow-ups, notes, tags, a blocklist.
 8. **History scan.** The last 1 to 30 days of the chosen chats, run once,
@@ -277,8 +255,8 @@ hand-over, export of LinkedIn and Sales Navigator results.
 ### Knowledge
 
 The Leadgen School on grinfi.io in Ukrainian and English, a mentorship
-programme, and the founders' own outreach numbers that this kit's
-baselines come from.
+programme, and the founders' own outreach practice behind every rule in
+this kit.
 
 ### Money
 
