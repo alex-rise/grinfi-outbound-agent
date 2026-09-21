@@ -118,6 +118,7 @@ VERSION                    the kit version the agent compares with the published
 reference/
   metrics.md               what to count, our measured baselines, test math
   email-infrastructure.md  domains, authentication, warm-up, capacity
+  products.md              Grinfi, Lead Finder, Telegrin: what each is, why, how to sign up
 business/                  your memory: profile, ICP, senders, rules, plan,
                            campaigns, follow-ups, audits (created by onboarding)
 AGENTS.md                  the same instructions for Codex

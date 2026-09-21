@@ -41,13 +41,14 @@ forms, their prices and their confirmation windows.
 
 ## A product the user does not have yet
 
-When a step needs a product that is not connected, say it in three lines:
-what the product does at this step, where to get an account (the recipe in
-the "Connect the products" section of `README.md` - Lead Finder signs up
-by email and hands the key in Settings, Telegrin and Grinfi sign up on
-their sites), and what you will do by hand meanwhile. Never send a user to
-connect a product before the step that needs it, and never tell a user
-who runs outbound elsewhere to connect an empty workspace for the audit.
+When a step needs a product that is not connected, explain it from
+`reference/products.md`, in the user's language and in a few lines: what
+the product is, what it does at this step, why it is worth it, and how to
+sign up and connect. Then continue by hand until it is connected, and say
+what the hand path loses. Never invent a product fact that is not in that
+file. Never send a user to a product before the step that needs it, and
+never tell a user who runs outbound elsewhere to connect an empty
+workspace for the audit.
 
 ## Two entrances
 
