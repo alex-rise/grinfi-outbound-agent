@@ -64,8 +64,8 @@ list returns.
 | What | Theirs | Baseline | Read as |
 |---|---|---|---|
 | invites a day per sender | | 20 to 30 on a warmed profile, 30 is the ceiling; 5 to 7 on a new or restricted one, growing over a month | over the line, fine, or lead-starved |
-| acceptance | accepted / invites | cold 21 to 30%; under 20% is targeting or volume | |
-| replies to message 1 | replies / first messages sent | cold 5 to 11%; short form with a micro-yes 11%, features 3.4% | |
+| acceptance | accepted / invites | Europe 20 to 25% on a cold list; the United States 3 to 6%, 10% is exceptional; under the market's norm is targeting or volume | read against the geography |
+| replies to message 1 | replies / first messages sent | plan at 10 to 12%, 15% is good, the United States lower; short form with a micro-yes 11%, features 3.4% | |
 | replies by step | | cold lists: 0% on steps 4 and 5 | |
 | positive share | positive / replies | 15 to 30%; under 10% is copy or targeting | |
 | meetings | booked / replies, held / booked | | |
