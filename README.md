@@ -69,12 +69,28 @@ have accounts for; the others can be enabled later from `/mcp`.
 ## Connect the products
 
 Each product is connected once, from the chat: type `/mcp`, choose the
-server, choose "Authenticate", and log in in the browser tab that opens.
+server, choose "Authenticate", and follow the browser tab that opens. The
+agent asks for a product only at the step that needs it, and works by
+hand meanwhile.
 
-- `grinfi` - log in to Grinfi and approve the connection.
-- `lead-finder` - sign in to Lead Finder.
-- `telegrin` - log in with a Telegrin account that is an admin of the
-  workspace.
+**Grinfi** (`grinfi`) - sending and conversations, step 6. No account yet:
+sign up at [grinfi.io](https://grinfi.io) and connect a LinkedIn sender
+inside the product; then `/mcp`, `grinfi`, "Authenticate", log in.
+
+**Lead Finder** (`lead-finder`) - a verified list from a portrait, steps
+2 and 3. No account yet: open
+[finder.grinfi.io/login](https://finder.grinfi.io/login), enter your
+email, open the link from the mail: that is your workspace, with a trial
+balance for the first probe. In the workspace, Settings, "Connect Claude",
+copy the key. Then `/mcp`, `lead-finder`, "Authenticate", and paste the
+key into the window that opens.
+
+**Telegrin** (`telegrin`) - the people asking right now, step 4. No
+account yet: sign up at [tg.grinfi.io](https://tg.grinfi.io); the trial
+comes with credits and no end date. Connect your Telegram and Threads
+accounts inside the product if you want replies delivered from them. Then
+`/mcp`, `telegrin`, "Authenticate", log in with the workspace admin
+account.
 
 If a server is not in the `/mcp` list, it was not approved when the
 folder was opened: close and reopen the folder and say yes when asked.
@@ -86,6 +102,7 @@ list or watch a channel through it.
 
 ```
 CLAUDE.md                  the project instructions: entrances, modes, rules, memory
+VERSION                    the kit version the agent compares with the published one
 .mcp.json                  the three MCP connections
 .claude/skills/
   onboarding/              first run: meet the business, write business/
@@ -209,8 +226,10 @@ profile" when something changed.
 
 ## Updating the kit
 
-Download the ZIP again (or `git pull`) and replace everything except the
-`business/` folder. Your memory stays.
+The agent checks once a day whether a newer kit is published and offers
+the update in one line. Say yes: with git it runs `git pull` in the
+folder; with a ZIP it downloads the new one and replaces everything except
+`business/`. Your memory stays either way.
 
 ## Codex
 

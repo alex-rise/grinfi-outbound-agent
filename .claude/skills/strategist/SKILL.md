@@ -145,11 +145,12 @@ by anchor later is a campaign you cannot learn from.
 Capacity is calculated before the segment is chosen. Every percentage
 downstream is measured against capacity, not against the size of the ICP.
 
-- LinkedIn: profiles in the pool x about 100 invites a week. 10 to 19
-  invites a day per profile is the observed sweet spot; 20 to 29 a day
-  measurably lowers acceptance. Five senders at 15 to 20 beat one account
-  at maximum. Read the real numbers with `get_sender_limits` before
-  planning; a sender with an empty queue is lead-starved, not limit-capped.
+- LinkedIn: profiles in the pool x about 120 invites a week. A warmed
+  profile sends 20 to 30 a day, six days a week; 30 is the ceiling; a new
+  profile starts at 5 to 7 a day and grows over a month. Several senders
+  at 20 beat one account pushed past the line. Read the real numbers with
+  `get_sender_limits` before planning; a sender with an empty queue is
+  lead-starved, not limit-capped.
 - Email: mailboxes x 25 a day x 20 working days, divided by emails per
   sequence. Three mailboxes on a five-email sequence is about 300 contacts
   a month, not 3,000. See `reference/email-infrastructure.md`.

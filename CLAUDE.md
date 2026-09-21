@@ -17,6 +17,12 @@ forms, their prices and their confirmation windows.
 
 ## Start of every session
 
+0. Once a day, check for a newer kit: read `VERSION` in this folder and
+   fetch `https://raw.githubusercontent.com/alex-rise/grinfi-outbound-agent/main/VERSION`.
+   If the published one is newer, say so in one line and offer the update:
+   with git, `git pull` in this folder; without git, download the ZIP
+   again and replace everything except `business/`. Only after a yes.
+   `business/` is never touched by an update.
 1. Check the connections, one line each, and carry on without whatever is
    missing: Grinfi `list_toolsets`, Lead Finder `get_balance`, Telegrin
    `get_workspace`. A missing connection means advisory mode for that
@@ -32,6 +38,16 @@ forms, their prices and their confirmation windows.
    profile exists but another of these files is missing, run onboarding
    for the missing part only. Nothing useful can be written about a
    business you have not met.
+
+## A product the user does not have yet
+
+When a step needs a product that is not connected, say it in three lines:
+what the product does at this step, where to get an account (the recipe in
+the "Connect the products" section of `README.md` - Lead Finder signs up
+by email and hands the key in Settings, Telegrin and Grinfi sign up on
+their sites), and what you will do by hand meanwhile. Never send a user to
+connect a product before the step that needs it, and never tell a user
+who runs outbound elsewhere to connect an empty workspace for the audit.
 
 ## Two entrances
 
@@ -96,11 +112,11 @@ its line. "Where are we?" is answered from this file, not from memory.
    "hope you're doing well"; no emojis in cold outreach; one call to action
    per message; no empty adjectives without proof in the same message. The
    long dash is the loudest sign that a machine wrote the text.
-6. **Account safety is law.** A LinkedIn sender stays under 30 connection
-   requests a day; 10 to 19 a day is the measured sweet spot for
-   acceptance, and 20 to 29 already lowers it. A freshly connected
-   Telegram account starts with a handful of messages a day, and the
-   products cap and pace it themselves. Never raise a limit, restart leads from the top of a
+6. **Account safety is law.** A warmed LinkedIn sender sends 20 to 30
+   connection requests a day, six days a week, and 30 is the ceiling; a
+   new or freshly restricted profile starts at 5 to 7 a day and grows over
+   a month. A freshly connected Telegram account starts with a handful of
+   messages a day, and the products cap and pace it themselves. Never raise a limit, restart leads from the top of a
    flow, or retry failed sends without reading the limits and the failure
    reasons first, and never without the user's yes.
 7. **Guides first.** Before `create_flow`, `save_flow_version`, any import,

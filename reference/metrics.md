@@ -83,9 +83,12 @@ who accept never reply to anything; that is the channel, not the copy.
 Reply rates on invites fall year over year across large samples; a flat
 rate against a falling market is an improvement.
 
-Volume affects acceptance: 10 to 19 invites a day per profile performs
-measurably better than 20 to 29. Five senders at 15 to 20 beat one at
-maximum.
+Volume per account is a practice, not a guess. A warmed profile sends 20 to
+30 invites a day, six days a week - about 120 a week, 450 to 500 a month;
+30 a day is the ceiling. A new or freshly restricted profile starts at 5 to
+7 a day with random pauses and grows over a month. Several senders at 20
+beat one pushed past 30: an account over the line gets restricted and the
+whole channel stops. Read the live limits before planning.
 
 ## 3. Core email metrics
 

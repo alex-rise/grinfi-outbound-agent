@@ -181,7 +181,10 @@ price range, how many were delivered - and the step into
 
 ## Without Lead Finder
 
-The same portrait, done by hand: titles, countries, headcount bands,
+Say in three lines what Lead Finder does at this step and how to get an
+account (the recipe in `README.md`: sign up by email, copy the key from
+Settings, paste it at "Authenticate"), then continue by hand. The same
+portrait, done by hand: titles, countries, headcount bands,
 industry names as LinkedIn spells them, the founding year checked on each
 company page by the user, freelancers dropped by headline. Give it as a
 Sales Navigator recipe and import through Grinfi's

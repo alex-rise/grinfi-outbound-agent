@@ -18,26 +18,36 @@ If some of the files already exist, keep them: fill in only the missing
 ones, and never overwrite a file the user has confirmed without asking
 first.
 
-## Step 1. Five questions, one message
+## Step 1. Ask for everything, in one message
 
-Ask these together, numbered, and say why: "I will read your site and your
-Grinfi workspace myself. I only need five things from you first."
+Say why: "I will read your site and your workspace myself. Send me
+everything that helps me understand the business, in one go, and skip what
+you do not have." Then the list, numbered:
 
-1. Website address (and any page that explains the product best: pricing,
-   cases, a deck link).
-2. One paragraph in your own words: what you sell, to whom, and what
-   changes for the client after they buy.
-3. Who will use this agent (founder, marketer, SDR) and who the messages go
-   out from: your own profile, teammates' profiles, or both.
-4. The language or languages your outreach is written in.
-5. Is outbound running today - in Grinfi, in another tool, or not at all?
-   And do you already know who you want to reach first, or should I
-   propose?
+1. The website, and the pages that explain the product best: pricing,
+   cases, a deck.
+2. What you sell and to whom, in your own words, and what changes for the
+   client after they buy.
+3. Your best clients of the last year: who they are, how they found you,
+   why they bought. Three to five is enough.
+4. Deal size and the sales cycle: the typical cheque, and how long from
+   the first contact to money.
+5. What was tried in outbound before: channels, audiences, what it
+   returned, why it stopped. Old sequences, exports and screenshots of
+   campaign numbers are welcome as they are.
+6. What runs today, and in which tool.
+7. Who will work with the agent, and whose profiles the messages go out
+   from.
+8. Anything you would tell a new head of sales on day one: what the
+   company does not do, who must never be written to, the objections you
+   hear most.
 
-The fifth answer picks the entrance: something running means the `audit`
-comes right after these files; nothing running and a known audience
-means `segments` or `signals`; nothing running and no audience yet means
-the strategist's picker.
+Languages, tone and the channel of the first touch are decided later, at
+the sequence and the copy; do not ask for them here. Answers 5 and 6 pick
+the entrance: something running means the `audit` comes right after these
+files; nothing running and a known audience means `segments` or
+`signals`; nothing running and no audience yet means the strategist's
+picker.
 
 Wait for the answer. Do not start reading before you have the address.
 
@@ -117,6 +127,9 @@ Updated: <date> by onboarding
 ## Who bought and why
 - <client or segment>: <how they found us, what tipped the decision>
 
+## Deal size and cycle
+<typical cheque, time from first contact to money>
+
 ## What was tried before
 - <channel, audience, what it returned, why it stopped>
 
@@ -132,9 +145,10 @@ would come from (Sales Navigator search, LinkedIn search, post engagement,
 own network, CSV).
 
 **`business/senders.md`** - one line per sender: name, role as the lead
-sees it (founder, account manager, SDR), which segments and languages they
-write in, their booking link, and the rule for meetings ("if the founder
-writes, the demo is with the founder"). Sender uuids from Grinfi go here
+sees it (founder, account manager, SDR), which segments they write to,
+their booking link, and the rule for meetings ("if the founder writes, the
+demo is with the founder"). The language each sender writes in is added
+when the first sequence is written, not here. Sender uuids from Grinfi go here
 too, so later sessions do not have to look them up.
 
 **`business/rules.md`** - start it with the header below and leave it
@@ -185,12 +199,8 @@ seven numbered questions, only for things you could not find:
 - numbers they allow you to quote (and numbers they do not);
 - who must never be written to (competitors, existing customers, a
   region, a title);
-- who bought in the last year and why: how they found the company, what
-  tipped the decision - the site says what is sold, the buyers say what
-  is actually bought;
-- what was tried in outbound before, to whom, what it returned and why
-  it stopped - a segment that was burned once is not a segment to start
-  with.
+- anything from step 1 they skipped that a later step needs: the best
+  clients and why they bought, the deal size, what was tried before.
 
 One message, all questions. Then write the answers into the files, replace
 "(unconfirmed)" where the user confirmed, and delete what they rejected.

@@ -63,7 +63,7 @@ list returns.
 
 | What | Theirs | Baseline | Read as |
 |---|---|---|---|
-| invites a day per sender | | 10 to 19 is the measured sweet spot; 20 to 29 lowers acceptance; under 30 is the safety line | too high, fine, lead-starved |
+| invites a day per sender | | 20 to 30 on a warmed profile, 30 is the ceiling; 5 to 7 on a new or restricted one, growing over a month | over the line, fine, or lead-starved |
 | acceptance | accepted / invites | cold 21 to 30%; under 20% is targeting or volume | |
 | replies to message 1 | replies / first messages sent | cold 5 to 11%; short form with a micro-yes 11%, features 3.4% | |
 | replies by step | | cold lists: 0% on steps 4 and 5 | |
@@ -89,9 +89,10 @@ the bottom ones move it by percent.
 3. **Sequence length against the source.** More than an invite and three
    messages on a cold list; every step opening with a new reason; message
    1 fired the minute the invite is accepted.
-4. **Sender load.** Invites a day against the sweet spot; one account at
-   the maximum instead of several at 15 to 20; automated warming on
-   accounts that already send.
+4. **Sender load.** Invites a day against the 20 to 30 norm and the 30
+   ceiling; one account pushed past the line instead of several at 20; a
+   new profile started at full speed; automated warming on accounts that
+   already send.
 5. **Segmentation.** One sequence for every country, title and size band;
    no tags; no numbers per segment.
 6. **Replies.** Who answers, how fast (hot within the hour, warm the same
@@ -128,10 +129,10 @@ message; the rest goes into the file.
 
 "3x" means one of two things, and you say which before you say how.
 
-**More of the same.** Capacity is senders x invites a week (about 100 per
-healthy profile), never invites per account: an account pushed past the
-line gets restricted and the whole channel stops. Five senders at 15 to
-20 a day beat one at the maximum. Email adds mailboxes x 25 a day x 20
+**More of the same.** Capacity is senders x invites a week (about 120 per
+warmed profile at 20 to 30 a day), never more invites per account: an
+account pushed past 30 gets restricted and the whole channel stops.
+Several senders at 20 beat one at the maximum. Email adds mailboxes x 25 a day x 20
 working days, divided by touches in the sequence, and needs two to four
 weeks of warm-up before it counts. A finite market runs out faster at
 3x; say how many months of list they have at the new pace.

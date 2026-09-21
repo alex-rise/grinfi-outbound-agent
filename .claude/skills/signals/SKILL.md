@@ -32,6 +32,14 @@ first.
 | a decision maker posted about your topic on LinkedIn | the LinkedIn channel - a card, then a hand-off to Grinfi |
 | a portrait and no event | not here: the segments skill |
 
+## Without Telegrin
+
+Say in three lines what Telegrin does at this step and how to get an
+account (the recipe in `README.md`: sign up on the site, the trial comes
+with credits and no end date, connect the Telegram and Threads accounts
+inside the product), and give the user the description of the buyer and
+the exclusion as text they can paste into the product themselves.
+
 ## Step 0. The guides, the workspace, the plan
 
 - `get_workspace` - name it in the first line. Everything below happens
