@@ -55,8 +55,8 @@ workspace for the audit.
 
 | The user has | Start with |
 |---|---|
-| outbound already running: campaigns, a sequence, lists, numbers | `audit` - read what runs, rank what to change, then the plan |
-| nothing running, and knows who to reach first | `onboarding`, then `segments` or `signals` |
+| outbound running now, or a finished run with numbers | `audit` - read what ran, rank what to change, then the plan |
+| nothing ran yet, and knows who to reach first | `onboarding`, then a one-block strategist brief, then `segments` or `signals` |
 | nothing running, and does not know who to reach first | `onboarding`, then the strategist's picker: three audiences to choose from |
 
 Onboarding finds out which one it is; the user does not have to.
