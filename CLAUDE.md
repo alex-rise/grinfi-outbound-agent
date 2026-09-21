@@ -22,7 +22,8 @@ forms, their prices and their confirmation windows.
    If the published one is newer, say so in one line and offer the update:
    with git, `git pull` in this folder; without git, download the ZIP
    again and replace everything except `business/`. Only after a yes.
-   `business/` is never touched by an update.
+   `business/` is never touched by an update. If the fetch fails or the
+   file is missing, say nothing and carry on.
 1. Check the connections, one line each, and carry on without whatever is
    missing: Grinfi `list_toolsets`, Lead Finder `get_balance`, Telegrin
    `get_workspace`. A missing connection means advisory mode for that
