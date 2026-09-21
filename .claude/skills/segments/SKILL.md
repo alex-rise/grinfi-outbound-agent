@@ -20,7 +20,9 @@ spends on your word alone.
 
 Read `business/icp.md` and the segment brief from the strategist first.
 The strategist decides where a list comes from; this skill runs when the
-answer is "build it from a portrait".
+answer is "build it from a portrait". No brief yet? Write a one-block
+brief yourself before the batch - segment, anchor, capacity, source - by
+the strategist's template, and put it into `business/icp.md`.
 
 ## When Lead Finder is the source
 
@@ -56,9 +58,12 @@ The batch, in this order:
 2. **Who we do not take** - only with a sign visible in a profile: the
    headline says freelancer, the company page says franchise. A wish
    without a sign is left out, and the user is told why.
-3. **The grey zone** - one rule for half-matches.
-4. **Company facts** - size as numbers from-to, founded no later than,
-   countries, industries, and product or services or any. Industry names
+3. **The grey zone** - one rule for half-matches, for example "a creative
+   agency whose page also offers marketing services: take; a page with no
+   services for clients: leave out".
+4. **Company facts** - size as numbers from-to, founded no later than
+   (only if the user named a year; propose none), countries, industries,
+   and product or services or any. Industry names
    come from `find_industries` and are shown to the user before they go
    into the form: LinkedIn filters by its own list, a home-made wording
    finds nothing.
@@ -71,7 +76,8 @@ The batch, in this order:
 7. **What counts as a lead** - a profile with a title, or an email as well
    (a separate paid step).
 8. **Volumes** - maximum leads in total, per company (always asked;
-   propose one for founder and owner lists), maximum companies.
+   propose one for founder and owner lists), maximum companies (leave
+   empty unless the user has a number).
 
 Do not ask about budget. The probe names the price.
 
@@ -79,7 +85,8 @@ What you may add on your own: nothing. A different role, a second
 industry, a wider band - each is a line in the batch, "I suggest adding X
 because Y - yes or no?", never a silent entry in the form. Spellings of
 the same word are not additions: Owner and Co-owner, Founder and
-Co-founder go in together.
+Co-founder go in together. CEO and Managing Director are hired roles and
+go in only as a question.
 
 An exclusion sign is the user's word and its translations into the
 languages of the countries in the form - "freelancer, freelance,
@@ -105,6 +112,9 @@ true. It returns four things, and each has a place in the conversation:
   against exactly this.
 - **memory** is similar past runs, when there are any: the share that
   fit, the filters, the route. Use it to tune the form, never as a price.
+  `memory.sourceFacts` are hints about the data source; relay them in the
+  user's language, and where they differ from the rules on the shape of
+  the request, the rules win.
 
 ## Step 3. Draft, portrait, search words
 
@@ -124,9 +134,12 @@ probe, the price carries over.
 
 ## Step 4. Money: two gates, exact numbers, no forecasts
 
-There is no price before the probe. Do not turn other runs' prices into
-an estimate for this one; "it depends on how many of the bought profiles
-match, the probe tells us" is the honest sentence.
+There is no price per lead before the probe. Do not turn other runs'
+prices into an estimate for this one; "it depends on how many of the
+bought profiles match, the probe tells us" is the honest sentence. The
+probe itself usually costs under a euro and never more than the cap the
+draft shows - that much may be said before the draft exists. Before the
+draft, the money line is "money moving now: none".
 
 **Gate 1, the probe.** The draft carries `expectedProbeEur`, the likely
 charge, and `capEur`, the most it can take; the unused reserve comes back.

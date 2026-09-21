@@ -152,11 +152,12 @@ Updated: <date> by onboarding
 ```
 
 **`business/icp.md`** - one block per segment: industry, size, geography,
-titles, core pain, desired outcome, red flags (never write to), the
-signals that are realistically available for this segment (job postings,
-new hires, funding, posts, tool changes), and where in Grinfi the audience
-would come from (Sales Navigator search, LinkedIn search, post engagement,
-own network, CSV).
+titles, red flags (never write to), the signals that are realistically
+available for this segment (job postings, new hires, funding, posts, tool
+changes), and where the audience would come from (Lead Finder, Telegrin,
+a Grinfi import). Core pain, desired outcome and "why now" are the
+strategist's: it asks for them when it writes the brief, if the profile
+does not say.
 
 **`business/senders.md`** - one line per sender: name, role as the lead
 sees it (founder, account manager, SDR), which segments they write to,

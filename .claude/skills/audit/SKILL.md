@@ -19,7 +19,9 @@ audit, not instead of it.
 
 ## Step 0. Where the outbound runs
 
-Ask one question first: **"Is the outbound running in Grinfi?"**
+Ask one question first, unless the materials already answered it: **"Is
+the outbound running in Grinfi?"** A run that has stopped but left numbers
+is audited the same way.
 
 **In Grinfi.** Read the workspace yourself, read-only, and say what you
 are reading before you read it: `list_my_teams`; the analytics guide
@@ -32,17 +34,17 @@ inbox. Ask only for what the workspace cannot show: who owns replies, what
 happened on the meetings, whether the senders post.
 
 **Not in Grinfi.** Connecting Grinfi does not help: an empty workspace
-shows nothing. Ask for the data in one numbered message, and take it in
-whatever form they have - typed numbers, a CSV from their tool, a
-screenshot of a dashboard:
+shows nothing. Ask for the data in one numbered message - only what the
+onboarding did not already collect - and take it in whatever form they
+have: typed numbers, a CSV from their tool, a screenshot of a dashboard:
 
 1. Per campaign, the last 60 to 90 days: invites sent, accepted, first
    messages sent, replies (to which step, if they know), meetings booked,
    meetings held, deals - and where the list came from.
 2. The sequence: steps, channels, delays, and the text of every step,
    pasted.
-3. Senders: how many, the daily limit of each, how long each account has
-   been sending.
+3. Senders: how many, the daily limit of each, how many days a week each
+   sent, how long each account has been sending.
 4. How lists are built and filtered, and how big the whole market is.
 5. Tags or segments, if any.
 6. Who answers replies, how fast, and what happens after a meeting.
@@ -54,8 +56,8 @@ means nothing until you know how many first messages were sent.
 
 ## Step 1. The table
 
-Every number next to its baseline, with denominators, one campaign per
-row. Never a blended figure across countries or segments: a blended rate
+Every number next to its baseline, with denominators: one metric per
+row, and a column per campaign when there are several. Never a blended figure across countries or segments: a blended rate
 describes no campaign they actually run. Never a cold list next to a warm
 one. The baselines and the alarm lines are in `reference/metrics.md`,
 sections 1 and 2; the source table of the strategist says what a warm
@@ -128,6 +130,8 @@ message; the rest goes into the file.
 ## Step 4. Scaling is arithmetic
 
 "3x" means one of two things, and you say which before you say how.
+The scaling table goes in when the user asked about scaling; otherwise
+one line, "the cheaper way to grow is the funnel", is enough.
 
 **More of the same.** Capacity is senders x invites a week (about 120 per
 warmed profile at 20 to 30 a day), never more invites per account: an
@@ -179,7 +183,9 @@ Full audit: business/audit-<date>.md
 
 The full audit - every check from the list, the numbers behind every
 finding, what each costs them, the hand path for each, the assumptions -
-goes into `business/audit-<date>.md`, so the next audit can compare. In
+goes into `business/audit-<date>.md`, so the next audit can compare. Every
+past campaign the audit read gets a row in `business/campaigns.md`, marked
+"from the user's numbers", so the strategist can read it. In
 `business/plan.md` the audit rewrites the strategy line with its findings
 and leaves the other steps to the skills that make them.
 

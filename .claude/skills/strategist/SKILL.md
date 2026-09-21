@@ -66,7 +66,9 @@ Before any list exists, the segment must. Required fields:
 8. Why now: the timing reason.
 
 Write it as one block per segment into `business/icp.md`. One segment,
-one block, one name.
+one block, one name. Core pain, desired outcome and "why now" come from
+`business/profile.md` when the interview covered them; when they do not,
+ask the user for the three in one message before the brief.
 
 ## Phase 2. Signals and anchors
 
