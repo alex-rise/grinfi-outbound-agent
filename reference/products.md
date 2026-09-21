@@ -5,8 +5,9 @@ account there, it explains the product from this file, in the user's
 language and in their situation - what it is, what it does at this step,
 why it is worth it, how to start - and continues by hand until the
 product is connected. The facts here are what the products state
-publicly; use them as written. Do not add numbers or promises from
-memory; for a price, send the user to the product's site.
+publicly; use them as written, prices included. Do not add numbers or
+promises from memory; for the current price list, send the user to the
+product's site.
 
 The three fit together. Lead Finder builds the list when there is no
 signal yet. Telegrin catches the person at the moment they publicly look

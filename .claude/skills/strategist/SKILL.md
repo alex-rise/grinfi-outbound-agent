@@ -152,7 +152,9 @@ downstream is measured against capacity, not against the size of the ICP.
   profile starts at 5 to 7 a day and grows over a month. Several senders
   at 20 beat one account pushed past the line. Read the real numbers with
   `get_sender_limits` before planning; a sender with an empty queue is
-  lead-starved, not limit-capped.
+  lead-starved, not limit-capped. Without Grinfi, plan on the rule: a
+  profile that never sent in volume starts at 5 to 7 a day, a warmed one
+  runs at 20 to 30.
 - Email: mailboxes x 25 a day x 20 working days, divided by emails per
   sequence. Three mailboxes on a five-email sequence is about 300 contacts
   a month, not 3,000. See `reference/email-infrastructure.md`.

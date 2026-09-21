@@ -29,8 +29,9 @@ whom, and the numbers say what worked.
 
 ## Step 1a. Ask only what the materials did not answer
 
-Ten questions at most, one numbered message, only the ones still open
-after reading. Nothing about languages, limits, budgets, tools or a
+Eleven questions at most, one numbered message, only the ones still
+open after reading. No website yet, or no address given: skip the
+reading and say the profile stands on the user's words. Nothing about languages, limits, budgets, tools or a
 meetings target: those are decided at the steps that need them.
 
 **The product**
@@ -58,8 +59,11 @@ meetings target: those are decided at the steps that need them.
 9. Who is definitely not a client: types of companies, current clients,
    partners, competitors - the stoplist.
 10. Whose profiles the messages go out from: how many, whose, in which
-    roles. One profile sells nothing to anyone; the volume comes from
+    roles, whether they are premium, and whether their owners post on
+    LinkedIn. One profile sells nothing to anyone; the volume comes from
     several profiles connected in Grinfi, and the plan is built on that.
+11. Proof that may be quoted to a stranger: a number, a named client, a
+    result - or "none yet", which the copy then respects.
 
 The answer to "is outbound running today, and where?" usually comes with
 the materials; if not, ask it last. It picks the entrance: something

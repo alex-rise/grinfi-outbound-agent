@@ -215,6 +215,9 @@ taste.
 
 ## Delivering copy
 
+Every text goes into `business/sequences/<segment>.md` under the
+sequence brief, versions side by side, so it survives the session.
+
 Give two lengths side by side when the niche is new (a short version and
 a fuller one) and let the user measure. Number the versions. State the
 anchor and the CTA under each. Never send anything yourself: the

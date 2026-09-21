@@ -45,9 +45,10 @@ the exclusion as text they can paste into the product themselves.
 - `get_workspace` - name it in the first line. Everything below happens
   in the user's own workspace; if the name is not theirs, stop and say
   so.
-- `get_guide` with `manage_campaigns` before the first campaign,
-  `triage_signals` before reading the feed, `reply_to_lead` before any
-  reply. The guides know the product better than this file.
+- `get_guide` with `manage_campaigns` and `create_external_campaign`
+  before the first campaign - the second holds what every channel needs
+  and refuses - `triage_signals` before reading the feed, `reply_to_lead`
+  before any reply. The guides know the product better than this file.
 - `get_channel_capabilities` - which channels the plan unlocks. A locked
   channel fails the whole campaign, not just its own part.
 - `get_billing_balance` - credits left, in one line to the user.
@@ -109,11 +110,19 @@ Numbered, in one message, each with a proposed answer from
   languages, cap, what delivers and what drafts. Show it, wait for the
   yes, call again with the token. The campaign spends from the moment it
   exists, inside its cap.
-- "This week" means a look-back, and it comes after the campaign exists:
-  `estimate_history_scan` on the Telegram child is free, show the
-  messages and the credits, `start_history_scan` only on a yes. The
-  other channels have no stated look-back; report what the first
-  collection returns instead of promising one.
+- "This week" means a look-back. On Telegram it comes after the campaign
+  exists: `estimate_history_scan` is free, show the messages and the
+  credits, `start_history_scan` only on a yes. Job boards, LinkedIn and
+  Reddit take a first-collection window in the campaign itself
+  (`jobFirstScanDays`, `linkedinFirstScanDays`, `redditFirstScanPosts`),
+  and everything that window returns is charged like any other post:
+  propose seven days, never thirty on a trial, and say the number.
+- The reply language lock accepts a few languages only; for any other
+  market leave it on auto-detect, and the reply follows the post.
+- A job card names the company, not a person. The person to write to is
+  the founder or the operations lead on the company's LinkedIn page - by
+  hand, or through Grinfi's search by company - and the message goes out
+  from the user's own profile with the vacancy as the reason.
 
 ## Step 3. The feed
 
