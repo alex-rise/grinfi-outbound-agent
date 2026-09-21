@@ -18,82 +18,52 @@ If some of the files already exist, keep them: fill in only the missing
 ones, and never overwrite a file the user has confirmed without asking
 first.
 
-## Step 1. The address, then the interview
+## Step 1. The address and the materials
 
-First message, two lines: the website address and the pages that explain
-the product best, and one paragraph in the user's own words about what
-they sell and to whom. Then read the site and the workspace (steps 2 and
-3) before asking anything else: the interview is for what the materials
-cannot say.
+First message, short: the website address, and everything they already
+have - a deck, old sequences or message texts, collected audiences or
+exports from their tool, a client list. "Send it as it is, I will sort it
+out." Then read (steps 2 and 3) before asking anything: the site says
+what is sold, the sequences say how it was offered, the audiences say to
+whom, and the numbers say what worked.
 
-## Step 1a. The interview
+## Step 1a. Ask only what the materials did not answer
 
-The same questions we ask every client before building their outbound:
-about the business, never about the operations we handle ourselves. Six
-blocks, one numbered message; the starred ones are the ten without which
-outbound cannot be built, the rest are asked when the site left them open.
+Ten questions at most, one numbered message, only the ones still open
+after reading. Nothing about languages, limits, budgets, tools or a
+meetings target: those are decided at the steps that need them.
 
-**Money**
-1. ★ How revenue splits by product or service, where the margin is
-   higher, what they want to sell more of and why.
-2. The average cheque, the biggest cheque, how long a client stays and
-   what they bring over that time; how a client grows from the first
-   purchase.
+**The product**
+1. What exactly is sold and in what form - a subscription, a project, a
+   service by the hour - and the price or the range, if the site hides
+   it.
+2. If there are several products, which one goes through outreach first.
 
-**Best clients and how they came**
-3. ★ The five best clients of the last two years, each: where they came
-   from, who made the first step, what was happening in their business at
-   that moment, who decided, what they bought first and what next.
-4. The two worst: why, and how to spot such a client at the door.
-5. ★ If the whole next year could be sold to one type of client, who is
-   it. Three real companies as the sample.
-6. ★ Partners and referrals, if they bring clients: who they are, what
-   they get, why they recommend.
+**The segments**
+3. Who has bought so far: what kind of companies, and who inside them.
+   Three to five real clients as the sample.
+4. Who they tried to sell to and it did not work.
 
-**How they buy**
-7. ★ The last deal from first contact to signature: how many days, how
-   many meetings, who took part on their side, what worried them, what
-   decided it.
-8. ★ Who they are compared with on a deal - hiring in-house, a
-   freelancer, a local agency, another team, no-code - and to whom they
-   lose, and why.
-9. The objections they hear, what they answer, and which answers work.
-10. ★ The free step - an audit, a consultation, a trial: how many were
-    held in a year, how many turned into money, why the rest did not.
+**The offer**
+5. How the offer sounds today, in the first message or on the site.
+6. What the first step is: a demo, an audit, a trial, a call.
 
-**The offer and the promises**
-11. ★ What can be promised in the first message and kept: a fixed price
-    after discovery, a start in N days, a delivery date, a guarantee,
-    rights to the work. What must never be promised.
-12. ★ What makes them better than the three nearest competitors at the
-    same price: a fact the client can check, not an adjective.
+**What already exists**
+7. Old sequences or message texts, and what they returned, if they
+   remember.
+8. Collected audiences or exports from their tool: which worked, which
+   did not.
 
-**Clients in their own words**
-13. ★ The words clients use to describe the problem when they come: three
-    to five phrases, verbatim, from messages or calls.
-14. What happens in a client's business the month before they come.
-15. What they tried before and why it did not work.
+**The limits**
+9. Who is definitely not a client: types of companies, current clients,
+   partners, competitors - the stoplist.
+10. Whose name the messages go out under: which profile, in which role.
 
-**Proof**
-16. For each case: what can be shown with a name and a number, what only
-    anonymously; which numbers are measured and which are estimates. One
-    canonical set of numbers about the company.
-
-**To send after the interview**
-- the "do not touch" list: clients, partners, open negotiations, people
-  written to before;
-- messages or recordings of the last three deals, if they exist: the
-  client's language lives there.
-
-Languages, tone and the channel of the first touch are decided later, at
-the sequence and the copy; do not ask for them here. Also not asked:
-team capacity, a meetings target, budget for tools, profiles and
-accesses - those are decided at the steps that need them. What runs
-today and in which tool comes up in the last question of the batch:
-"Is outbound running today, and where?" - it picks the entrance:
-something running means the `audit` comes right after these files;
-nothing running and a known audience means `segments` or `signals`;
-nothing running and no audience yet means the strategist's picker.
+The answer to "is outbound running today, and where?" usually comes with
+the materials; if not, ask it last. It picks the entrance: something
+running means the `audit` comes right after these files; nothing running
+and a known audience means `segments` or `signals`; nothing running and
+no audience yet means the strategist's picker.
 
 ## Step 2. Read the website
 
@@ -147,48 +117,33 @@ them short. Templates:
 # <Company> - profile
 Updated: <date> by onboarding
 
-## What we sell
-<one sentence> Site: <url>
+## What we sell, in what form, at what price
+<one sentence a stranger understands; the form; the price or range> Site: <url>
+## The product that goes through outreach first
+<which, and why>
 
-## Who buys and why
-<segments in one line each, pain, outcome>
+## Who has bought so far
+- <type of company, who inside decided>: <three to five real clients>
+## Who did not buy
+- <segment tried, what happened>
 
-## Pricing
-<model and public numbers, or "on request">
+## The offer today
+<how it sounds in the first message or on the site>
+## The first step we offer
+<demo / audit / trial / call, and what happens after>
+
+## What already exists
+- Sequences: <file, what it returned>
+- Audiences: <file or export, worked / did not>
+
+## Who is definitely not a client
+- <types, current clients, partners, competitors - the stoplist>
+
+## Who writes
+- <profile, role as the lead sees it>
 
 ## Proof we may quote
 - <number or case, with source>
-
-## What we do NOT do
-- <limits the agent must respect in every text>
-
-## Competitors and our one difference
-- <name>: <their strength> / ours: <the concrete difference>
-
-## Money
-<how revenue splits, where the margin is, what they want to sell more of; average and biggest cheque, lifetime>
-
-## Best clients and how they came
-- <client>: <where from, who made the first step, what was happening, who decided, bought first / next>
-- The one type of client for next year: <who, three sample companies>
-- Partners and referrals: <who, what they get, why they recommend>
-
-## How they buy
-<the last deal step by step; who they are compared with and to whom they lose; the free step and its conversion>
-
-## Objections we hear and how the team answers
-- "<objection>": <answer in the team's words, and whether it works>
-
-## What we may promise in the first message, and what never
-- <promise that can be kept> / <never>
-
-## Clients in their own words
-- "<verbatim phrase>"
-- The month before they come: <what happens>
-- What they tried before: <and why it failed>
-
-## Proof
-- <case: what may be shown with a name and a number, what only anonymously; measured vs estimate>
 
 ## Facts I could not verify
 - <list>
@@ -242,24 +197,13 @@ Updated: <date>
 Every skill that finishes a step rewrites its line with the date and a
 link to what it produced.
 
-## Step 5. Ask only about the gaps
+## Step 5. Close the gaps
 
-Show the user a five-line summary of what you understood, then ask only
-for what the interview and the site left open:
-
-- pricing, if the site hides it;
-- the booking link per sender, and whether a call, a demo or a trial is
-  the goal;
-- what the company does not do (the agent must never promise it);
-- the three objections they hear most and how they answer;
-- the one concrete difference from the nearest competitor;
-- numbers they allow you to quote (and numbers they do not);
-- who must never be written to (competitors, existing customers, a
-  region, a title);
-- any starred question from the interview they skipped.
-
-One message, all questions. Then write the answers into the files, replace
-"(unconfirmed)" where the user confirmed, and delete what they rejected.
+Show the user a five-line summary of what you understood from the
+materials and the answers. If any of the ten questions is still open,
+ask it now, in one message; if all are closed, ask nothing. Then write
+the answers into the files, replace "(unconfirmed)" where the user
+confirmed, and delete what they rejected.
 
 ## Step 6. Confirm and name the next step
 

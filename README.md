@@ -36,21 +36,22 @@ where they belong.
   signals.
 - Ten minutes for the first run.
 
-## Install: the short way
+## Install: give your Claude the link
 
-Tell your Claude (or Codex), word for word:
+Tell your Claude (or Codex): "Install this for me:
+https://github.com/alex-rise/grinfi-outbound-agent". It downloads the
+kit, opens the folder as the project and says when it is ready. Then say
+hello. On the way it asks whether to enable the kit's MCP servers,
+`grinfi`, `lead-finder` and `telegrin`: say yes to the ones you have
+accounts for, the others can be enabled later from `/mcp`.
 
-> Download https://github.com/alex-rise/grinfi-outbound-agent into a
-> folder called outbound-agent and tell me where you put it.
-
-Then open that folder as a project - in Claude Code Desktop, "Open
-folder"; in Codex, run `codex` inside it - and say hello. Claude Code
-picks the skills and the connections up only from the open folder, which
-is why the folder has to be opened, not just downloaded.
-
-On the first run Claude Code asks whether to enable the project's MCP
-servers `grinfi`, `lead-finder` and `telegrin`. Say yes to the ones you
-have accounts for; the others can be enabled later from `/mcp`.
+**For the agent installing this kit:** clone the repository (or download
+and unpack the ZIP) into a folder the person will find again, for example
+`~/outbound-agent`. Then make that folder the current project: in Claude
+Code Desktop, switch the session's directory to it; where you cannot, ask
+the person to open the folder as a project. Approve the three MCP servers
+from `.mcp.json` when asked. Say when it is ready, and start with
+`CLAUDE.md`.
 
 ## Install: by hand
 
