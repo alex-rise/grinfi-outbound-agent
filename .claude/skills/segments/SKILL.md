@@ -11,8 +11,6 @@ first when the company must be right before anyone is bought - an AI judge
 reads every profile against the portrait, and the user gets a table: name,
 title, LinkedIn URL, company with its size, year, industry and country,
 the verdict with its reason. The user pays only for people who matched.
-Its own rules text calls it the Audience Collector; it is the same
-product.
 
 Money moves here in two gates, each after an explicit yes, and in most
 workspaces the user clicks an approval link themselves. Nothing spends on

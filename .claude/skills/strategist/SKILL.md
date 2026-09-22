@@ -119,7 +119,12 @@ Required fields, all of them, before any list exists:
 
 Take pain, outcome and "why now" from `business/profile.md`; where the
 interview did not cover them, ask for the three in one message before the
-brief. One segment, one block, one name, into `business/icp.md`.
+brief.
+
+One question per number, always. Two asks under one number ("how many
+people a month do you need, and how many profiles write?") get one
+answer, and the missing half is the one the whole capacity calculation
+stands on. One segment, one block, one name, into `business/icp.md`.
 
 ## Step 4. Signals and anchors
 
