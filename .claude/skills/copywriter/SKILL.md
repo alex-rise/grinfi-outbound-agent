@@ -6,7 +6,12 @@ description: Every word that goes to a stranger. Use for connection notes, first
 # Copywriter: the words that get a reply
 
 Read `business/profile.md`, `business/rules.md` and the sequence brief
-before the first line. The language a sender writes in is decided here,
+before the first line. On a first session there may be no profile yet:
+then ask the five things a text needs - what is sold, in what form and at
+what price; who buys; the first step offered; what may be quoted as
+proof, where "nothing yet" is a normal answer; whose profiles send and
+how the lead sees them - in one message, and write the answers into
+`business/profile.md` as you go. The language a sender writes in is decided here,
 per segment, the first time a sequence is written for them; ask once and
 write it into `business/senders.md`. Every claim in a message must trace back to
 `business/profile.md` or to the user's words. A case you were not given

@@ -11,8 +11,10 @@ silence. The copywriter fills the skeleton with words. The architect also
 builds the flow in Grinfi, in draft, and starts it only after the user's
 yes.
 
-Start from the segment brief. No brief, no sequence: ask the strategist
-first. Where the list came from sets the length: a list built from a
+Start from the segment brief. No brief, no sequence - but when the user
+asked for a sequence and none exists, that does not send them away: take
+the strategist's questions for this segment, write the one-block brief
+yourself, show it in a line, and build on it. Where the list came from sets the length: a list built from a
 portrait through Lead Finder is a cold or company-first list, anchor B or
 C, unless the strategist attached a signal to it; cards handed over from
 Telegrin are a signal list, anchor A, and get the warm structure.
