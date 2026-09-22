@@ -87,6 +87,39 @@ check a draft against, not a template to fill.
 apologies, "hope you're well", emojis, metaphors, blame aimed at a
 current contractor, closed questions, or "just a reminder".
 
+## Six more, each from a draft that was corrected
+
+**The promise belongs to whoever writes.** "I" can only promise what the
+person whose profile it is will actually do. From a team profile or a
+rented one, the promise rests on the offer instead: "the call is with
+him, I am arranging the time".
+
+**Never make the language itself a topic.** "I am writing in Russian on
+purpose" and "English may be hard for you" break a conversation equally
+well. The message is in the language of the list, and that is the end of
+it. Where the language really is part of the offer, talk about the
+terminology as a separate skill, never about how well they speak.
+
+**Verify a number taken from the client's own document.** One client's
+material said a tax deduction was 23%; the law said 20%. It goes out
+under their name, and the reader checks.
+
+**A public norm beats an invented case, and an example with a sum beats
+one without.** "$60,000", "250+ banks", "1 to 3 years down to 3 to 9
+months", "up to 70%", "two minutes to connect".
+
+**Corporate vocabulary is anything the owner of a small business would
+not say out loud.** "Ecosystem", "leverage", "generate savings", "capex",
+"sanity check". And do not promise plain language in one paragraph while
+using jargon in the one above it.
+
+**A follow-up is an observation, not a nudge.** Message one lands a few
+hours to a day or two after the invite is accepted, never the same
+minute; the follow-up on day four or five; the next a week after that. On
+a cold list the invite plus three messages is the whole sequence. The
+best anti-nudge we have seen opens by refusing to be one: "not going to
+just nudge - one observation instead", then an open question.
+
 ## How to edit this file
 
 Add a rule only when it came from a correction on a real draft, and write
