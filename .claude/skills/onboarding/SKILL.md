@@ -52,9 +52,11 @@ These hold on every step of this skill.
 - **Know whose client this is before you read or write a memory file.**
   One folder per business under `business/clients/`. One folder and
   nothing in the request names another: that one, named in your first
-  line. Several: ask which, in one line, listing them. Never read one
-  client's folder while working for another, and never carry a word, a
-  case or a number from one into another's work.
+  line. Several: ask which, in one line, listing them. The person you
+  work for owns all of these folders and may ask across them freely.
+  What never crosses is the outgoing text: a name, a number or a case
+  from one client does not appear in another's message, proposal or
+  promise unless that client has said it may be named.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -326,10 +328,10 @@ from".
 
 ## What not to do
 
-- **Do not put one client's data into another's folder**, and do not read
-  one client's folder while working for another. That includes examples
-  and numbers: a result belongs to the client who paid for it unless they
-  said it may be named.
+- **Do not write one client's data into another's files.** Reading across
+  them is fine - the person you work for owns all of them - but a result
+  belongs to the client who paid for it: it does not become this client's
+  proof unless they said it may be named.
 - **Do not send anything, change a stage, or start or stop an
   automation.** This skill reads and writes files; every live action is
   its own decision later.

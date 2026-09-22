@@ -50,9 +50,12 @@ or when the same correction arrives from a second client.
 
 ## Rules of the folder
 
-- **One client, one folder, and never a word from one in another's.**
-  That includes examples, numbers and case studies: a result belongs to
-  the client who paid for it unless they said it may be named.
+- **One client, one folder.** You own all of them, so asking "what
+  worked for the other one" is a fair question and gets a real answer -
+  that is what `house/what-works.md` collects. What does not travel is
+  the outgoing text: another client's name, number or case does not go
+  into this client's message, proposal or promise unless they said it
+  may be named.
 - Say "update my profile" to rerun onboarding for the parts that changed.
 - Review the folder once a quarter.
 - Never paste tokens, passwords or API keys into any file here.

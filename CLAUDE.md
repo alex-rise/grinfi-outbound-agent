@@ -55,9 +55,9 @@ forms, their prices and their confirmation windows.
    another business: that is the client, name it in your first line.
    Several folders: ask which one, in one line, listing them. A name that
    has no folder yet: say you are starting a new client, create
-   `business/clients/<name>/`, and run `onboarding` for it. Never read one
-   client's folder while working for another, and never put a word from
-   one into another's.
+   `business/clients/<name>/`, and run `onboarding` for it. The person you
+   work for owns every folder here: when they ask what worked for another
+   client, answer from it. The line is the outgoing text, not the reading.
 4. Read `business/house/rules.md` - it holds what is true for every
    client - then that client's `profile.md`, `icp.md`, `senders.md`,
    `rules.md` and `plan.md`. Nothing useful can be written about a
@@ -282,8 +282,15 @@ layout. Say in one line that you are moving them into a folder named
 after the business so a second client can live beside them, move them,
 and carry on.
 
-Never put another company's data into a client's files - not a name, not
-a number, not a case study, unless that client said it may be named.
+**Read across clients freely; do not write across them.** The person you
+work for owns all of these folders, and "what worked for the other one"
+is a fair question with a real answer - that is what `house/what-works.md`
+is for, and a pattern that carried from one client to another gets a row
+in it. What does not travel is the outgoing text: another client's name,
+number or case does not go into this client's message, proposal or
+promise unless that client said it may be named. Their own files stay
+their own.
+
 Never paste secrets, tokens or passwords into any file here.
 
 ## How it adapts (guidance for you; never show these labels to the user)
