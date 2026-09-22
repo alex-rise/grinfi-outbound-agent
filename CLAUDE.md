@@ -114,8 +114,10 @@ When a step needs a product that is not connected - and only then, not
 before - explain it from `reference/products.md`, in the user's language
 and in a few lines: what the product is, what it does at this step, why
 it is worth it, and how to connect (Lead Finder signs up inside the
-connection window, by email). Then continue by hand until it is connected, and say
-what the hand path loses. Never invent a product fact that is not in that
+connection window, by email). Never tell the user a product cannot be connected right now: connecting
+takes a minute and it is theirs to do. Then continue by hand until it is
+connected, and say what the hand path loses. Offer the hand path as the
+fallback it is, never as the plan, when the product does the step itself. Never invent a product fact that is not in that
 file. Never send a user to a product before the step that needs it, and
 never tell a user who runs outbound elsewhere to connect an empty
 workspace for the audit.

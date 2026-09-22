@@ -117,7 +117,7 @@ returned - write three audiences, one block each:
 - what the first sentence could honestly stand on for them;
 - where the list comes from and what it costs to get;
 - what a list like it returns, from the table above;
-- whether the senders can carry it, from step 6.
+- whether the senders can carry it, from step 7.
 
 Rank by leads a month. Say which one you would start with, and unless the
 user already posts regularly that is the cold portrait. Let them pick.
@@ -183,12 +183,50 @@ Anchor C is the default for most of any list and a legitimate track. The
 test: if the opening line could be pasted unchanged into a message to the
 reader's direct competitor, the segment is too wide.
 
+**A fact you cannot see on the person is not a dead end when the company
+carries it.** A founder's Estonian company does not appear in their
+profile; the company register and the company page do. That is the
+companies-first route of `segments`: find the companies on what is
+verifiable about them - country, size, year of registration - and take
+their people from there. Say that, not "LinkedIn does not have it". Reach
+for a hand-built list from a public register only when the user does not
+want the product doing it, and say what the hand path costs.
+
+Whether a portrait actually holds people is not a thing to reason about
+either. The probe answers it for about a euro: it buys one page, has the
+judge read it, and comes back with the real price per lead and how many
+it can find. "We will know after the probe, and it costs under a euro" is
+a better answer than any estimate.
+
 Never invent an anchor. No event and no verifiable fact means the message
 goes on anchor C and says so. One campaign, one anchor: in a mixed
 campaign the signal contacts pull the average up and hide a segment track
 that returns nothing.
 
-## Step 5. Scoring and what a good list holds
+## Step 5. How many campaigns
+
+Split by the offer. One offer and one anchor across the whole list is one
+campaign, whatever its size. **There is no contact count at which a
+campaign has to be divided**, and a threshold produced to answer the
+question - "over 500 contacts conversion sags" - is an invented number:
+we have never measured one, and neither has anyone who says it.
+
+Split when the offer differs: a different first step, a different price,
+a different thing being sold. Split when the anchor differs, because a
+slice standing on an event and a slice standing on a segment pattern
+cannot be read against each other - the event slice pulls the average up
+and hides a segment track that returns nothing.
+
+Everything else is read, not split. Country, company age, title, source,
+sender: put them on the contact as tags and slice the report by them.
+Splitting the sending to get a readable report is work the tags already
+do, and it costs a warm-up and a separate queue for nothing.
+
+One exception is worth its own campaign: two markets whose acceptance is
+known to differ by more than the copy does - Europe against the United
+States - kept apart so one does not hide the other in the average.
+
+## Step 6. Scoring and what a good list holds
 
 Exact title match +3, company size in range +2, Tier 1 signal +3, Tier 2
 signal +1, warm path +1. 8 to 10 is Tier 1: maximum personalisation,
@@ -204,7 +242,7 @@ to verify, a company outside the ICP, or any red flag. In Grinfi keep
 anchor and tier as tags or custom fields: a campaign you cannot slice by
 anchor later is a campaign you cannot learn from.
 
-## Step 6. Capacity and channel
+## Step 7. Capacity and channel
 
 Calculate capacity before choosing the segment. Every percentage
 downstream is measured against capacity, not against the size of the ICP.
@@ -230,7 +268,7 @@ Persona switching inside one sequence is never a step: a person first
 contacted at step 4 receives a fourth touch as a first message. With one
 contact per company you cannot tell "wrong person" from "wrong company".
 
-## Step 7. Where the list comes from
+## Step 8. Where the list comes from
 
 Grinfi does not search LinkedIn by itself: the audience is gathered from a
 source, then sorted inside it. Call `get_guide` with `import_leads` before
@@ -312,3 +350,9 @@ result, one line per step with its status.
   options.
 - **Do not invent a signal.** No event with a date and no verifiable fact
   means the message stands on a segment pattern, and it says so.
+- **Do not invent a threshold to justify a split.** No measurement of
+  ours ties conversion to list size. Campaigns divide by offer and by
+  anchor; everything else is a tag on the contact.
+- **Do not answer "LinkedIn does not have it" when the company does.**
+  Check the companies-first route before calling anything impossible, and
+  let the probe measure what a portrait holds instead of guessing at it.

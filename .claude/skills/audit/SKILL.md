@@ -110,7 +110,10 @@ out.
 
 One metric per row, every number next to its baseline, a column per
 campaign where there are several. Never blend across countries or
-segments: a blended rate describes no campaign they actually run. Never
+segments in the report: a blended rate describes no campaign they
+actually run. Read them apart by the tags on the contacts; a campaign
+does not have to be split to be read in slices, and telling them to split
+one is a rebuild they do not need. Never
 put a cold list next to a warm one. Baselines and alarm lines are in
 `reference/metrics.md`, sections 1 and 2.
 
