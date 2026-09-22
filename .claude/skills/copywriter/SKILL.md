@@ -151,14 +151,22 @@ personalisation.
 
 ## Step 3. Write it
 
-**Connection request.** Empty or with a note works out about the same in
-our own sending, so this is not a decision worth spending time on and not
-worth testing: the difference sits inside the noise, and the published
-benchmarks that argue for empty are measuring acceptance, which is not
-the goal metric. Default to empty because it cannot say the wrong thing.
-Write a note when there is a real one to write - a narrow audience and a
-signal that fits in 120 to 180 characters, from a profile that has the
-character allowance. No pitch in it, no call to action, ever.
+**Connection request.** With a note or without comes out about the same
+in our own sending, so it is not a decision worth a test: the difference
+sits inside the noise, and the published benchmarks arguing for empty
+measure acceptance, which is not the goal metric.
+
+**The note earns its place when there is a subject for it**, not when
+there is a pitch. A subject is something true that exists outside the
+sale: you will both be at the same conference, you are handing over
+something useful, you are writing about a thing they published. With one
+of those, write it - 120 to 180 characters, the subject and nothing else.
+
+Without a subject, send it empty. An invite is not the place to invent a
+reason, and "I would like to connect with professionals in your field" is
+worse than silence.
+
+No pitch in a note, no call to action, ever.
 
 **First message, service or warm list.** Greet by first name. Carry the
 main thing - the pain, the money, the geography - in the first one or two

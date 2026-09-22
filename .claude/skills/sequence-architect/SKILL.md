@@ -92,9 +92,10 @@ the last column and say in one line what it costs.
 **Cold list (anchor C or B), 4 steps, 10 to 12 days:**
 
 ```
-Step 1  Connection request, empty by default (with or without a note
-        performs about the same; a note only when it carries a real
-        signal for a narrow audience, and never a pitch)
+Step 1  Connection request, empty unless there is a subject for a note
+        (both perform about the same; a note when something true exists
+        outside the sale - a shared conference, something useful being
+        handed over - and never a pitch)
   accepted           -> step 2
   not accepted, 14d  -> email track if an email exists, else rotation
 Step 2  First message, a few hours to 1-2 days after acceptance, never
