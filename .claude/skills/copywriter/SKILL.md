@@ -238,6 +238,27 @@ the draft, so the next reviewer sees why.
 31. Review with the owner one message at a time, in sequence order. Four
     versions in a row cannot be read, and a correction to message 1
     arrives before message 2 is shown.
+32. A technical company reads as technical. If the reader could take the
+    message for reputation management, marketing or consulting, the second
+    sentence names what the team actually does: "a mobile development
+    team, we fix, rework and extend apps that are already live". Offer to
+    fix what users complain about; the rating, the retention and the
+    reviews are consequences, never the promise. Do not swap cause and
+    effect.
+33. No worn sales phrases: "one more thing", "quick reminder", "as this is
+    a follow-up", "following up from", "just circling back". Reminding who
+    you are means saying what business you are and how you are useful,
+    not telling the reader this is a follow-up. A follow-up continues the
+    thought: "I wanted to add one thing to the point about X".
+34. Shorten by cutting explanations and examples, not meaning. "No longer
+    offered to new users on new phones, so an audience of N installs has
+    quietly stopped growing" becomes "no longer offered to users on new
+    versions, which slows down installs". A first message rarely needs
+    more than 450 characters.
+35. Never frame the reader as behind ("a project a couple of years
+    behind"). State the mechanism in the abstract: "done now it takes a
+    day or two; put off until spring it becomes a week or more, because
+    each new release drops more of what the current build relies on".
 
 ## Never write
 
