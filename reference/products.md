@@ -211,9 +211,9 @@ credits, no card and no end date; the first campaign checks up to twenty
 posts per channel for free. Plans from €27 a month (Starter: 2,500 to
 4,500 credits, two accounts, five campaigns), Growth €67 (6,500 to
 16,000 credits, five accounts, fifteen campaigns), Scale above that;
-one-off credit packs exist. A campaign opens on 200 credits a day, one
-cap shared across its channels; the agent proposes no less, and never
-unlimited on its own.
+one-off credit packs exist. A campaign opens on 200 credits a day and 200
+is the floor, one cap shared across its channels; never less, and never
+unlimited unless the customer says the word themselves.
 
 ### Telegram safety, as the product states it
 
