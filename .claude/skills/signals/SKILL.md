@@ -124,11 +124,14 @@ Numbered, in one message, each with a proposed answer from
    writes them. Reddit, LinkedIn, X, Bluesky and Hacker News need nothing
    but the description.
 5. **The daily cap** - one number for the whole campaign, shared across
-   its channels. **200 credits a day is the floor and a campaign opens
-   there.** Never propose less: below it a campaign reads too little to
-   tell a working search from a broken one, and a week of that costs more
-   than the credits it saves. Raise it only once the feed is read every
-   day and the leads per card are known. Raise it only once the feed is
+   its channels, and **200 a day is the floor**. It is a safety rail
+   against a runaway campaign, not a budget dial: 200 is the most the AI
+   will read in a day, and most days it finds fewer, so the cap usually
+   never binds at all. Lowering it therefore saves nothing - you are only
+   ever charged for what was actually read - and it cuts short the one
+   day the search finds something. Say it that way when a user asks to
+   set it lower. Raise it only once the feed is read every day and the
+   leads per card are known. Raise it only once the feed is
    read every day and the leads per card are known. Unlimited never,
    unless the user says the word themselves.
 6. **Reply mode.** Copilot: every draft waits for a yes. Autopilot

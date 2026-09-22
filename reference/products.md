@@ -212,7 +212,10 @@ posts per channel for free. Plans from €27 a month (Starter: 2,500 to
 4,500 credits, two accounts, five campaigns), Growth €67 (6,500 to
 16,000 credits, five accounts, fifteen campaigns), Scale above that;
 one-off credit packs exist. A campaign opens on 200 credits a day and 200
-is the floor, one cap shared across its channels; never less, and never
+is the floor, one cap shared across its channels. It is a safety rail
+against a runaway campaign, not a budget dial: 200 is the most the AI
+reads in a day and most days it finds fewer, so lowering the cap saves
+nothing and only risks cutting short a day that found something. Never
 unlimited unless the customer says the word themselves.
 
 ### Telegram safety, as the product states it
