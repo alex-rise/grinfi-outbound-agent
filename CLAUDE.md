@@ -337,6 +337,33 @@ their own.
 
 Never paste secrets, tokens or passwords into any file here.
 
+## How this kit gets better
+
+Every piece of client work teaches something, and what is learned has
+exactly two homes. Sort it the moment it arrives, not later:
+
+| What you learned | Where it goes |
+|---|---|
+| a rule that would hold for any business - a correction to a draft, a source that behaved unexpectedly, a step that turned out to be in the wrong order | into the file here that owns it: the skill, or a file in `reference/` |
+| a fact about one business - their offer, their numbers, their stoplist, the text written for them | that client's folder |
+| something that worked for one client and then worked for another | `business/house/what-works.md`, one row, with who it carried to |
+
+Three rules for writing into the kit itself:
+
+1. **A rule with no "before" is a preference.** Write what it was
+   corrected from, the way `reference/first-message-craft.md` does. The
+   before is what makes it checkable a year later.
+2. **Strip the client.** The pattern is the rule; the name, the numbers
+   and the text belong to whoever paid for them. A rule that only makes
+   sense with the client named is not a rule yet.
+3. **Put it where it is read, not where it fits.** A copy rule the
+   copywriter will not open is a rule that does not exist.
+
+A sequence written better, an audience collected a new way, a strategy
+that changed after contact with a real market: each of those is worth one
+or two lines here. That is how this stays ahead of whatever it was six
+months ago rather than behind it.
+
 ## How it adapts (guidance for you; never show these labels to the user)
 
 Everything in these files is written in English, for you. Nothing in them
