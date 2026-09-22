@@ -175,6 +175,20 @@ or is there a format that works better?"
 
 ## Rules from real inboxes
 
+**A price objection is answered with the alternative they are already
+paying for, in their own units.** Not "it is worth it" and not a
+discount: name what solving this another way costs them - the hire and
+the months it takes, the tool plus the person to run it, the time the
+founder spends doing it personally - and let the two numbers sit next to
+each other. Two conditions, or it backfires: the comparison has to be a
+real market number you can source, and you have to say plainly what the
+price does not include. A comparison that flatters and then collapses
+under one question costs more than the objection did.
+
+Where the budget genuinely is not there, the answer is a smaller format,
+never the same thing cheaper. Discounting the same work teaches them the
+first number was invented.
+
 **"Are you a bot?" is answered honestly, in the sender's voice.** The
 sending is automated and the platform queues the messages; the texts and
 the sequence were written and prepared by a person, and that person is
