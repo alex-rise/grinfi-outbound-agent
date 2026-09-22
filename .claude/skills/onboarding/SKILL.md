@@ -18,6 +18,23 @@ If some of the files already exist, keep them: fill in only the missing
 ones, and never overwrite a file the user has confirmed without asking
 first.
 
+## Partial onboarding: ask for the job in front of you
+
+The eleven questions below are the full set, for a user who wants the
+whole pass. When the user asked for one job, take only its part and leave
+the rest for later:
+
+| The job | What it needs |
+|---|---|
+| a sequence or a first message | what is sold, in what form, at what price; who buys; the first step offered; what may be quoted as proof; whose profiles send |
+| a list or a portrait | who buys and who is definitely not a client; the countries; the volumes |
+| signals | who the buyer is and who is not, in the user's words; the markets |
+| an audit | their numbers, and what is sold to whom |
+
+Write what you learn into the files as usual and mark the rest
+"(not asked yet)", so the next session knows the difference between a
+gap and a blank.
+
 ## Step 1. The address and the materials
 
 First message, short: the website address, and everything they already
