@@ -17,6 +17,15 @@ audit's data request doubles as onboarding: what they sent, to whom, and
 what came back is the best profile there is. Write the files after the
 audit, not instead of it.
 
+## Tools used
+
+| Tool | What it does here | Required? |
+|---|---|---|
+| grinfi | read campaigns, flows, senders, limits, stoplist | no (ask for their numbers in one message) |
+| telegrin | read the feed and the campaigns | no (skip the signal part of the audit) |
+
+A tool that is not connected never stops the step: take the fallback in
+the last column and say in one line what it costs.
 ## Step 0. Where the outbound runs
 
 Ask one question first, unless the materials already answered it: **"Is
@@ -212,7 +221,7 @@ past campaign the audit read gets a row in `business/campaigns.md`, marked
 `business/plan.md` the audit rewrites the strategy line with its findings
 and leaves the other steps to the skills that make them.
 
-## What this skill never does
+## What not to do
 
 - Changes a limit, a stage, a flow or a list during the audit. Findings
   are proposals; each change is its own yes later.

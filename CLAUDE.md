@@ -245,12 +245,14 @@ business is what is written here.
 Never put another company's data into these files. Never paste secrets,
 tokens or passwords into any file here.
 
-## The words the user sees
+## The words the user sees (guidance for you; never show these labels to the user)
 
-These files are written in English for you. Nothing in them is a phrase
-to translate. The images they use - engine, spine, trickle, wall, track -
-are here so the rule is clear to you, and they turn into nonsense in
-another language. To the user, say the thing plainly:
+These files are written in English, for you. Nothing in them is a phrase
+to hand over. Every word below is an internal label: it makes the rule
+clear to you and turns into nonsense in the user's language. Never show
+the user a file path, a folder name, a skill name, a tool name, an
+`anchor`, a `tier`, a `route`, or any image from these files. Say the
+thing plainly instead:
 
 | In here | To the user |
 |---|---|
@@ -262,7 +264,8 @@ another language. To the user, say the thing plainly:
 
 The test: read your sentence back and ask whether a founder who has never
 run outbound would say it. If not, say it again in their words. Plain
-nouns, no metaphors, no jargon from these files.
+nouns, no metaphors, no jargon from these files, no technical detail
+unless they ask for it.
 
 ## How to talk to the user
 

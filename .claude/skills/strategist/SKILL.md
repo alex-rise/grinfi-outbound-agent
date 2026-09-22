@@ -13,6 +13,15 @@ strategist does not write copy (copywriter), does not design steps
 Read `business/icp.md` and `business/campaigns.md` first. A segment that
 already ran has a number; a number beats an opinion.
 
+## Tools used
+
+| Tool | What it does here | Required? |
+|---|---|---|
+| grinfi | live sender limits for capacity | no (plan on 5 to 7 a day new, 20 to 30 warmed) |
+| lead-finder | what a portrait can supply | no (say the volume is unknown until checked) |
+
+A tool that is not connected never stops the step: take the fallback in
+the last column and say in one line what it costs.
 ## Rule: build the cold portrait first, everything else beside it
 
 Cold outreach to a portrait is the default plan. It needs no audience, no
@@ -237,3 +246,14 @@ Write the segment into `business/icp.md` if it is new, and the pass into
 `business/plan.md`: strategy, portrait, list, signals, texts, launch,
 result - one line per step, with its status and what it produced. Every
 skill that finishes a step updates its line.
+
+## What not to do
+
+- **Do not rank a source by reply rate.** The client wants leads. A source
+  that answers twice as well and holds a tenth of the people is the
+  smaller audience.
+- **Do not propose a content-based source to a business that does not
+  post.** That is content marketing, and it delays the outreach by
+  months.
+- **Do not invent a signal.** No event with a date and no verifiable fact
+  means the message stands on a segment pattern, and it says so.

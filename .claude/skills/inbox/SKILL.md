@@ -15,6 +15,15 @@ tool name). Toolsets: `linkedin` (messages, unread, mark read), `crm`
 (contacts, stages, mass actions, stoplist), `automations` (continue,
 cancel, tasks), `email` (mailbox threads on the card).
 
+## Tools used
+
+| Tool | What it does here | Required? |
+|---|---|---|
+| grinfi | unread, replies, stages, tasks | yes (there is no inbox to read without it) |
+| telegrin | the cards waiting for a person | no (the Grinfi inbox alone) |
+
+A tool that is not connected never stops the step: take the fallback in
+the last column and say in one line what it costs.
 ## Iron rules
 
 1. **"Read" is set only after an action.** An action is one of: a sent
@@ -202,3 +211,11 @@ later; if the dialogue moved on, do not apologise.
 - [ ] failed and stuck sends were looked at
 - [ ] signals and rules are written down
 - [ ] the report lists what needs the user's decision
+
+## What not to do
+
+- **Do not mark anything read before it has been answered or filed on
+  purpose.** That is how people get lost.
+- **Do not send a follow-up without checking the calendar first.** A silent
+  booking looks like silence.
+- **Do not change a stage on a live conversation without saying so.**

@@ -18,6 +18,15 @@ If some of the files already exist, keep them: fill in only the missing
 ones, and never overwrite a file the user has confirmed without asking
 first.
 
+## Tools used
+
+| Tool | What it does here | Required? |
+|---|---|---|
+| grinfi | read the workspace: senders, stages, live campaigns | no (the user's own words instead) |
+| web | read their site | no (ask them what they sell) |
+
+A tool that is not connected never stops the step: take the fallback in
+the last column and say in one line what it costs.
 ## Partial onboarding: ask for the job in front of you
 
 The eleven questions below are the full set, for a user who wants the
@@ -243,7 +252,7 @@ Then name the entrance in one line and start it in the same session:
 reach - the list comes first"; "Let me propose three audiences to choose
 from".
 
-## What this skill never does
+## What not to do
 
 - Sends anything, changes any stage, starts or stops any automation.
 - Writes a fact it did not find or was not told.

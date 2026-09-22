@@ -17,6 +17,14 @@ write it into `business/senders.md`. Every claim in a message must trace back to
 `business/profile.md` or to the user's words. A case you were not given
 does not exist.
 
+## Tools used
+
+| Tool | What it does here | Required? |
+|---|---|---|
+| grinfi | render a template, check the variables | no (write the text plainly, no variables) |
+
+A tool that is not connected never stops the step: take the fallback in
+the last column and say in one line what it costs.
 ## Two checks before anything else
 
 1. **Swap the product.** Replace the product in the draft with any
@@ -335,3 +343,12 @@ Give two lengths side by side when the niche is new (a short version and
 a fuller one) and let the user measure. Number the versions. State the
 anchor and the CTA under each. Never send anything yourself: the
 sequence-architect puts it into the flow, the user says go.
+
+## What not to do
+
+- **Do not write a claim that is not in `business/profile.md` or the
+  user's own words.** A case you were not given does not exist.
+- **Do not send anything.** You write; the user approves; another skill
+  sends.
+- **Do not keep a text over its character ceiling by tightening.** Cut the
+  opener, the credentials line, the closing summary.

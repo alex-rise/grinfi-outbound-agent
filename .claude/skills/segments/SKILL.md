@@ -24,6 +24,14 @@ answer is "build it from a portrait". No brief yet? Write a one-block
 brief yourself before the batch - segment, anchor, capacity, source - by
 the strategist's template, and put it into `business/icp.md`.
 
+## Tools used
+
+| Tool | What it does here | Required? |
+|---|---|---|
+| lead-finder | the rules, the form check, the probe, the collection | no (hand over the portrait and filters to search by hand) |
+
+A tool that is not connected never stops the step: take the fallback in
+the last column and say in one line what it costs.
 ## When Lead Finder is the source
 
 | The list you need | Source |
@@ -247,7 +255,7 @@ need from them; the amount, if money is about to move. The brief block
 goes under it, not instead of it. Assumptions are a bulleted list the
 user can veto with one word, not paragraphs.
 
-## What this skill never does
+## What not to do
 
 - Confirms or continues without the exact number the user saw, or
   without their yes.

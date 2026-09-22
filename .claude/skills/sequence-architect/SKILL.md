@@ -19,6 +19,14 @@ portrait through Lead Finder is a cold or company-first list, anchor B or
 C, unless the strategist attached a signal to it; cards handed over from
 Telegrin are a signal list, anchor A, and get the warm structure.
 
+## Tools used
+
+| Tool | What it does here | Required? |
+|---|---|---|
+| grinfi | build the flow, import the list | no (hand over the day map and the texts to run elsewhere) |
+
+A tool that is not connected never stops the step: take the fallback in
+the last column and say in one line what it costs.
 ## Principles
 
 1. One goal per sequence: a reply. Not a sale, not an explanation.
@@ -195,3 +203,11 @@ email; silence -> close, re-queue 60 days
 After launch, add a row to `business/campaigns.md` with the date, the
 list, the anchor and the senders. The numbers come later from
 `get_flow_node_statistics`.
+
+## What not to do
+
+- **Do not add steps to a cold list past what its own numbers earn.**
+  Read their decay first; ours is one team's measurement.
+- **Do not start a flow.** Build it as a draft, show the tree, wait for the
+  yes.
+- **Do not let two senders write to one company.** Split the list.

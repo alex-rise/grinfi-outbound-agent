@@ -23,6 +23,14 @@ This is anchor A of the strategist - an event with a date, the strongest
 opener the method has. Read `business/icp.md` and the segment brief
 first.
 
+## Tools used
+
+| Tool | What it does here | Required? |
+|---|---|---|
+| telegrin | channels, the campaign, the feed, the replies | no (hand over the buyer description and the words to paste) |
+
+A tool that is not connected never stops the step: take the fallback in
+the last column and say in one line what it costs.
 ## When Telegrin is the source
 
 | The signal | Where it comes from |
@@ -173,7 +181,7 @@ In the user's language. Short. What happens next, in one line; the one thing you
 the credits about to be spent. The brief block under it. Assumptions as a
 list the user can veto with one word.
 
-## What this skill never does
+## What not to do
 
 - Creates a campaign without the preview and the yes, or spends credits
   the user has not seen.
