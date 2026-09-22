@@ -55,17 +55,14 @@ from `.mcp.json` when asked. Say when it is ready, and start with
 
 ## Install: by hand
 
-1. Download this repository as a ZIP (the green "Code" button, then
-   "Download ZIP") and unpack it somewhere you will find it again, for
-   example `Documents/outbound-agent`. Or clone it with git if you use
-   git.
+1. Open [the repository](https://github.com/alex-rise/grinfi-outbound-agent),
+   press the green "Code" button and choose "Download ZIP", or clone it with
+   git if you use git. Unpack it somewhere you will find it again, for example
+   `Documents/outbound-agent`.
 2. Open Claude Code Desktop and open that folder as a project.
 3. Say yes when Claude Code asks about the project's MCP servers.
-4. Say hello. The agent sees that it has not met your business yet and
-   starts onboarding: it asks for your website and a paragraph about what
-   you sell, reads the site and your Grinfi workspace itself, asks a few
-   questions about what it could not find, and writes what it learned
-   into `business/`.
+4. Say hello. The agent sees that it has not met your business yet and starts
+   by asking for your site and the materials you already have.
 
 ## Connect the products
 
@@ -228,10 +225,12 @@ profile" when something changed.
 
 ## Updating the kit
 
-The agent checks once a day whether a newer kit is published and offers
-the update in one line. Say yes: with git it runs `git pull` in the
-folder; with a ZIP it downloads the new one and replaces everything except
-`business/`. Your memory stays either way.
+The agent checks once a day whether a newer version is published and offers
+the update in one line. Say yes: with git it runs `git pull` in the folder;
+without git it downloads the repository again and replaces everything except
+`business/`. Your memory stays either way, which is why the kit is taken from
+the repository rather than kept as a copy somewhere else: a copy goes stale
+and a clone does not.
 
 ## Codex
 
