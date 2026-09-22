@@ -28,8 +28,9 @@ You describe who you need in your own words - "founders of marketing
 agencies in Spain and Portugal, 11 to 50 people, founded before 2022, no
 freelancers" - and Lead Finder brings you those people from LinkedIn.
 Not a filter export: an AI reads every profile against your description
-and keeps only the ones that match. 99 of 100 people you receive match
-the portrait.
+and keeps only the ones that match. You pay only for the people it
+accepted, and each one arrives with the reason it was accepted, so the
+judge can be checked instead of trusted.
 
 ### What you get
 
