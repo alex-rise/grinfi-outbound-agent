@@ -242,7 +242,7 @@ Next: <sequence-architect and copywriter, anchor <A/B/C>>
 
 ## The message to the user, at every step
 
-Short. In this order: what happens next, in one line; the one thing you
+In the user's language. Short. In this order: what happens next, in one line; the one thing you
 need from them; the amount, if money is about to move. The brief block
 goes under it, not instead of it. Assumptions are a bulleted list the
 user can veto with one word, not paragraphs.

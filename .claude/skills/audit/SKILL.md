@@ -174,7 +174,8 @@ and the AI variables render it; the strategist's phase 2 has the rules.
 
 ## Output
 
-The message to the user is the summary, and it has a budget: the
+The message to the user is written in the user's language, and it has a
+budget: the
 headline in two sentences, the table in at most six rows, at most six
 findings of two sentences each, three lines for this week, the 3x table
 in at most six rows, at most three questions. Under 600 words. Everything

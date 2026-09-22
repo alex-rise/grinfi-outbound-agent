@@ -169,7 +169,7 @@ Hand-offs: <LinkedIn cards -> Grinfi list "<name>">
 
 ## The message to the user, at every step
 
-Short. What happens next, in one line; the one thing you need from them;
+In the user's language. Short. What happens next, in one line; the one thing you need from them;
 the credits about to be spent. The brief block under it. Assumptions as a
 list the user can veto with one word.
 
