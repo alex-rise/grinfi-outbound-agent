@@ -15,45 +15,38 @@ These hold on every step of this skill.
 
 - **Nothing that costs money or reaches a stranger leaves without an
   explicit yes to the exact amount or the exact action.** One yes covers
-  one action: never a second action, never a second product.
+  one action: never a second action, never a second product. The only
+  pre-approved things are the two standing exceptions named in
+  `CLAUDE.md`.
 - **Never invent a fact or a number.** Unknown means ask, or mark it
   unconfirmed. Invented personalisation is visible to the reader and it
   costs the profile it was sent from its acceptance rate for weeks.
 - **Report what the tool returned**, zero counts and partial results
-  included. A run that finished with nothing is a result to state, not a
-  step to walk past. A zero and a broken metric look identical: before
-  reporting a number, ask what would make it look like this if the
-  business were fine, and what would make it look like this if the data
-  were wrong. If you cannot tell the two apart, say so instead of
-  picking one. A named gap is useful; an invented zero gets acted on.
+  included. A zero and a broken metric look identical: before reporting a
+  figure, ask what would make it look like this if the business were fine
+  and what would make it look like this if the data were wrong, and say
+  so when you cannot tell. A named gap is useful; an invented zero gets
+  acted on.
 - **Know whose client this is before you read or write a memory file.**
-  One folder per business under `business/clients/`. Nothing there at all
-  is a first run: do not ask which client, take the name from what they
-  said and start the folder when the job needs it. One folder and nothing
-  in the request names another: that one, named in your first line.
-  Several: ask which, in one line, listing them. The person you
-  work for owns all of these folders and may ask across them freely.
-  What never crosses is the outgoing text: a name, a number or a case
-  from one client does not appear in another's message, proposal or
-  promise unless that client has said it may be named.
-- **A correction about how we work goes to the house.** The user's
-  corrections are written down the moment they are made: one about this
-  business into that client's `rules.md`, one about how outreach is done
-  at all into `business/house/rules.md`.
+  One folder per business under `business/clients/`; nothing there at all
+  is a first run, so take the name from what they said rather than
+  asking. One folder and no other named: that one. Several: ask which, in
+  one line. The person you work for owns all of them and may ask across
+  them freely. What never crosses is the outgoing text: another client's
+  name, number or case does not appear in this client's message,
+  proposal or promise unless that client said it may be named.
+- **Write the user's correction down the moment it is made.** About this
+  business, into that client's `rules.md`; about how outreach is done at
+  all, into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
-  what they mean instead. Someone who has never run outbound has no way
-  to decode a label you invented while you worked.
+  what they mean instead.
 - **Say it plainly, with no images.** Mannered writing swaps a direct
-  statement for a picture: "the engine" instead of "the plan we build
-  first", "a dial worth turning" instead of "a setting worth changing".
-  The picture shows off the writer instead of carrying the idea, the
-  reader feels it, and it is less exact, because a metaphor drags in
-  meanings nobody chose. It also travels: the register you read here
-  becomes the register you write in, and an image out of an English file
-  arrives in the user's language translated word for word, meaning
-  nothing. The images in these files are shorthand for you. To the user,
-  say the thing.
+  statement for a picture, which shows off the writer instead of carrying
+  the idea and drags in meanings nobody chose. It travels, too: the
+  register you read here becomes the register you write in, and an image
+  out of an English file reaches the user translated word for word,
+  meaning nothing. Say the thing.
 
 ## Tools used
 
@@ -156,40 +149,17 @@ stands on. One segment, one block, one name, into `business/icp.md`.
 
 ## Step 4. Signals and anchors
 
-A signal is an event that gives this person a reason to listen now.
+Assign one anchor per campaign; the whole sequence inherits it. The full
+definitions, the tier lists with their usable windows, the hiring
+question and what cannot be verified at all are in
+`reference/anchors-and-signals.md` - read it before assigning, every time
+the segment is new.
 
-**Tier 1, high intent:** an open SDR, BDR or sales role (about 30 days);
-a funding round (30 to 90 days); a new decision maker in the role (best
-inside 30 days); headcount growing more than 20% a quarter; the decision
-maker posted about the problem you solve (24 to 72 hours).
-
-**Tier 2, medium:** a key tool changed (1 to 3 months); the decision
-maker changed jobs 3 to 12 months ago; a competitor is their customer;
-they spoke at a conference on your topic; they won a tender.
-
-**Tier 3:** firmographic fit only. A track of its own, never a filler
-mixed into a signal campaign.
-
-Ask "who is being hired?" before calling a vacancy a signal: it is a
-signal only when they are hiring the buyer. An agency hiring a PPC
-specialist is building in-house; a company hiring a Head of Marketing is
-about to rewrite its strategy. A role open ninety days or more is a stuck
-hire - anchor B, a data point with a comparison, not a Tier 1 signal.
-
-Assign one anchor per campaign; the whole sequence inherits it.
-
-| Anchor | Stands on | Source |
-|---|---|---|
-| **A, signal** | an event with a date | Tier 1 and 2 signals |
-| **B, data point** | a verifiable fact about the company now, plus what you compare it to | careers page, headcount, tech stack, public metrics |
-| **C, segment insight** | a pattern true of a narrow segment, not of this company | ICP knowledge |
-
-Anchor B alone says nothing: "you have 8 engineers" is a database row.
-The formula is data point, comparison, what it usually means.
-
-Anchor C is the default for most of any list and a legitimate track. The
-test: if the opening line could be pasted unchanged into a message to the
-reader's direct competitor, the segment is too wide.
+In short: **A** stands on an event with a date, **B** on a verifiable
+fact plus what you compare it to, **C** on a pattern true of a narrow
+segment. C is the default for most of any list and a legitimate track.
+Never invent one - no event and no verifiable fact means C, said openly.
+One campaign, one anchor.
 
 **A fact you cannot see on the person is not a dead end when the company
 carries it.** A founder's Estonian company does not appear in their
@@ -201,16 +171,10 @@ for a hand-built list from a public register only when the user does not
 want the product doing it, and say what the hand path costs.
 
 Whether a portrait actually holds people is not a thing to reason about
-either. The probe answers it: it takes one sample of up to 25 people, has the
-judge read it, and comes back with the real price per lead and how many
-it can find. "We will know after the probe, and I show you its exact cap
-first" is
-a better answer than any estimate.
-
-Never invent an anchor. No event and no verifiable fact means the message
-goes on anchor C and says so. One campaign, one anchor: in a mixed
-campaign the signal contacts pull the average up and hide a segment track
-that returns nothing.
+either. The probe answers it: it takes one sample of up to 25 people, has
+the judge read it, and comes back with the real price per lead and how
+many it can find. "We will know after the probe, and I show you its exact
+cap first" beats any estimate.
 
 ## Step 5. How many campaigns
 
@@ -287,31 +251,15 @@ contact per company you cannot tell "wrong person" from "wrong company".
 
 ## Step 8. Where the list comes from
 
-Grinfi does not search LinkedIn by itself: the audience is gathered from a
-source, then sorted inside it. Call `get_guide` with `import_leads` before
-any import. The table is ordered warmest first, which is not the order to
-choose in - start with a source that can carry the volume, add a warm one
-only where it already exists.
+Grinfi does not search LinkedIn by itself: the audience is gathered from
+a source and then sorted inside it. Call `get_guide` with `import_leads`
+before any import. The sources, their tools and when each one fits are in
+`reference/products.md` under Grinfi - read it rather than remembering
+it, because the list changes.
 
-| Source | Tool | When |
-|---|---|---|
-| People who reacted to your posts or a competitor's | `import_post_engagement` | the warmest list available without a signal; 16% replies in our data |
-| A list that does not exist yet, built from a portrait | Lead Finder, the `segments` skill | titles at companies of a size, country, industry, age; the company verified before anyone is bought; expats; local businesses. Priced by a probe, paid only for people who matched |
-| Your own first-degree network | `import_ln_my_network` | reactivation, referrals |
-| Sales Navigator search, saved or ad hoc | `import_sn_saved_search`, `import_sn_dynamic_search` | ICP lists with title and size filters |
-| Regular LinkedIn people search | `import_ln_leads_search` | no Sales Navigator seat |
-| Sales Navigator accounts search | `import_sn_accounts_search` | company-first routes |
-| A CSV from any other tool | `upload_csv` then `import_leads_from_file` | signal lists built elsewhere |
-| People asking about the problem right now | Telegrin, the `signals` skill | only once a cold track is running and has numbers; a few a week, on their own channel |
-
-Every import needs a target list (`create_list`, one per segment) and a
-sender profile to run the query. Check the existing relationship before
-enrolling anyone: `get_linkedin_connection_state` says whether a seat is
-already connected or an invite is pending. Two invites from one company
-is the classic multi-seat blunder. Contacts in the stoplist
-(`list_leads_blacklist`, `list_companies_blacklist`) never come back into
-a campaign; customers and open conversations are excluded before the
-first invite.
+Choose by what the source can carry, not by how warm it is: start with
+the one that holds the volume, add a warm one only where it already
+exists. Signals belong to the increment after the cold track has numbers.
 
 ## The segment brief (internal; translate every label before it is shown)
 

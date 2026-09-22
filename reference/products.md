@@ -95,6 +95,44 @@ you are connected. The cabinet itself is at finder.grinfi.io.
 
 ---
 
+### Where a Grinfi audience comes from
+
+Grinfi does not search LinkedIn by itself: an audience is gathered from a
+source and then sorted inside it with lists, tags, stages and stoplists.
+Ordered warmest first, which is not the order to choose in - start with a
+source that can carry the volume, add a warm one only where it exists.
+
+| Source | Tool | When |
+|---|---|---|
+| People who reacted to your posts or a competitor's | `import_post_engagement` | the warmest list available without a signal; 16% replies in our data |
+| A list that does not exist yet, built from a portrait | Lead Finder, the `segments` skill | titles at companies of a size, country, industry, age; the company verified before anyone is bought; expats; local businesses. Priced by a probe, paid only for people who matched |
+| Your own first-degree network | `import_ln_my_network` | reactivation, referrals |
+| Sales Navigator search, saved or ad hoc | `import_sn_saved_search`, `import_sn_dynamic_search` | ICP lists with title and size filters |
+| Regular LinkedIn people search | `import_ln_leads_search` | no Sales Navigator seat |
+| Sales Navigator accounts search | `import_sn_accounts_search` | company-first routes |
+| A CSV from any other tool | `upload_csv` then `import_leads_from_file` | signal lists built elsewhere |
+| People asking about the problem right now | Telegrin, the `signals` skill | only once a cold track is running and has numbers; a few a week, on their own channel |
+
+Every import needs a target list (one per segment) and a sender profile
+to run the query. Check the existing relationship before enrolling
+anyone: two invites from one company is the classic multi-seat blunder.
+Contacts in the stoplist never come back into a campaign, and customers
+and open conversations are excluded before the first invite.
+
+### Lead Finder: the fields the two gates use
+
+`expectedProbeEur` the likely probe charge, `capEur` the most it can
+take (the expectation times three; the unused reserve comes back),
+`approvedCapEur` the number a yes must carry back exactly.
+`pricePerLeadEur` the probe's own price, `priceMaxEur` thirty percent
+above it, `approvedMaxPricePerLeadEur` the number the continuation must
+carry. `offer.nextLeads` how many more for the balance,
+`offer.shortfall` above zero means a top-up is needed,
+`offer.freeLeads` above zero means granted leads are spent first.
+`priceFromRequestId` reuses a finished probe's price for the same
+portrait. Stop reasons: `probe_thin` and `probe_empty` under five
+matched, `price_up` when the cost rose and a new range needs a new yes.
+
 ## Telegrin - the people asking right now
 
 **Step 4.** tg.grinfi.io, also a PWA on the phone. MCP at

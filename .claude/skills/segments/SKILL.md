@@ -22,45 +22,38 @@ These hold on every step of this skill.
 
 - **Nothing that costs money or reaches a stranger leaves without an
   explicit yes to the exact amount or the exact action.** One yes covers
-  one action: never a second action, never a second product.
+  one action: never a second action, never a second product. The only
+  pre-approved things are the two standing exceptions named in
+  `CLAUDE.md`.
 - **Never invent a fact or a number.** Unknown means ask, or mark it
   unconfirmed. Invented personalisation is visible to the reader and it
   costs the profile it was sent from its acceptance rate for weeks.
 - **Report what the tool returned**, zero counts and partial results
-  included. A run that finished with nothing is a result to state, not a
-  step to walk past. A zero and a broken metric look identical: before
-  reporting a number, ask what would make it look like this if the
-  business were fine, and what would make it look like this if the data
-  were wrong. If you cannot tell the two apart, say so instead of
-  picking one. A named gap is useful; an invented zero gets acted on.
+  included. A zero and a broken metric look identical: before reporting a
+  figure, ask what would make it look like this if the business were fine
+  and what would make it look like this if the data were wrong, and say
+  so when you cannot tell. A named gap is useful; an invented zero gets
+  acted on.
 - **Know whose client this is before you read or write a memory file.**
-  One folder per business under `business/clients/`. Nothing there at all
-  is a first run: do not ask which client, take the name from what they
-  said and start the folder when the job needs it. One folder and nothing
-  in the request names another: that one, named in your first line.
-  Several: ask which, in one line, listing them. The person you
-  work for owns all of these folders and may ask across them freely.
-  What never crosses is the outgoing text: a name, a number or a case
-  from one client does not appear in another's message, proposal or
-  promise unless that client has said it may be named.
-- **A correction about how we work goes to the house.** The user's
-  corrections are written down the moment they are made: one about this
-  business into that client's `rules.md`, one about how outreach is done
-  at all into `business/house/rules.md`.
+  One folder per business under `business/clients/`; nothing there at all
+  is a first run, so take the name from what they said rather than
+  asking. One folder and no other named: that one. Several: ask which, in
+  one line. The person you work for owns all of them and may ask across
+  them freely. What never crosses is the outgoing text: another client's
+  name, number or case does not appear in this client's message,
+  proposal or promise unless that client said it may be named.
+- **Write the user's correction down the moment it is made.** About this
+  business, into that client's `rules.md`; about how outreach is done at
+  all, into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
-  what they mean instead. Someone who has never run outbound has no way
-  to decode a label you invented while you worked.
+  what they mean instead.
 - **Say it plainly, with no images.** Mannered writing swaps a direct
-  statement for a picture: "the engine" instead of "the plan we build
-  first", "a dial worth turning" instead of "a setting worth changing".
-  The picture shows off the writer instead of carrying the idea, the
-  reader feels it, and it is less exact, because a metaphor drags in
-  meanings nobody chose. It also travels: the register you read here
-  becomes the register you write in, and an image out of an English file
-  arrives in the user's language translated word for word, meaning
-  nothing. The images in these files are shorthand for you. To the user,
-  say the thing.
+  statement for a picture, which shows off the writer instead of carrying
+  the idea and drags in meanings nobody chose. It travels, too: the
+  register you read here becomes the register you write in, and an image
+  out of an English file reaches the user translated word for word,
+  meaning nothing. Say the thing.
 
 ## Tools used
 
@@ -83,29 +76,30 @@ happen after the invite instead of before.
 
 Read `business/icp.md` and the strategist's segment brief. The strategist
 decides where a list comes from; run this skill when the answer is "build
-it from a portrait". No brief yet: write a one-block brief yourself before
-the batch - segment, anchor, capacity, source - and put it into
+it from a portrait". No brief yet: write a one-block brief yourself
+before the batch - segment, anchor, capacity, source - and put it into
 `business/icp.md`. Never make the user wait for a brief they did not ask
 for.
 
-| The list you need | Source |
-|---|---|
-| people who reacted to your posts, your own network | Grinfi imports - warmer and free, first whenever they exist |
-| a segment on paper: titles at companies of a size, country, industry, age | **Lead Finder** |
-| the company must be right before anyone is bought: headquarters, size, year, product or services, not a chain or a supplier | **Lead Finder**, companies-first route |
-| the fact is invisible on the person but visible on the company - a registration country, a founding date, a headcount | **Lead Finder**, companies-first route. Not a dead end, and not a reason to send the user to a public register by hand |
-| people who studied in country X and live elsewhere | **Lead Finder**, expats |
-| owners of local businesses: restaurants, salons, clinics, studios, shops | **Lead Finder**, places route - public map listings for the venue, LinkedIn for the owner where there is one |
-| a saved Sales Navigator search the user already trusts | Grinfi `import_sn_saved_search` - nobody has read those profiles; Lead Finder's judge has |
+This is the right source when the list does not exist yet: titles at
+companies of a size, country, industry or age; a company that must be
+verified before anyone is bought; people who studied in one country and
+live in another; owners of local businesses. It is the wrong source when
+the people are already reachable warm - reactions to a post on the topic,
+the user's own network - which is a Grinfi import, free and warmer.
 
-**The companies-first route stands on the company having a LinkedIn page.**
-Say this before the probe, not after it comes back thin: a freshly
-registered company of one or two people often has no page at all, and a
-route that starts from companies cannot see what is not there. It is the
-same failure that makes restaurants and clinics unfindable this way. When
-the segment is that young and that small, tell the user the probe is
-measuring whether the segment exists at all, not only what it costs - and
-that the draft names the exact cap before anything runs.
+A saved Sales Navigator search the user already trusts can be imported
+directly, but nobody has read those profiles against a portrait; here
+every one of them is read.
+
+**The companies-first route stands on the company having a page on
+LinkedIn.** Say this before the probe, not after it comes back thin: a
+freshly registered company of one or two people often has no page at all,
+and a route that starts from companies cannot see what is not there. It
+is the same failure that makes restaurants and clinics unfindable this
+way. When the segment is that young and that small, tell the user the
+probe is measuring whether the segment exists at all, not only what it
+costs, and that the draft names its exact cap before anything runs.
 
 ## Step 0. Get the rules from the server
 
@@ -237,22 +231,21 @@ clicks. The request stays a draft until then. When they say they clicked,
 
 The probe takes one sample of up to 25 people for the whole request - not
 one per country - has the judge read it, and names the price. It hands over no leads and does not say how many it found.
-`PRICED` means a range from `pricePerLeadEur`, the probe's own price, to
-`priceMaxEur`, thirty percent above it, plus `offer.nextLeads`: how many it
-can find for the balance at the maximum. `STOPPED` with `probe_thin` or
-`probe_empty` means fewer than five matched: no price, no charge. Narrow
-the form with the user - niche words, an industry, one title less, one
-country less - and probe again. An empty probe opens a case with the team
-by itself; tell the user.
+A priced request comes back with a range: the probe's own price at the
+bottom, thirty percent above it at the top, and how many more it can find
+for the balance. A stopped one means fewer than five matched - no price,
+no charge: narrow the form with the user (niche words, an industry, one
+title less, one country less) and probe again. An empty probe opens a
+case with the team by itself; tell the user. The field names are in
+`reference/products.md` under Lead Finder.
 
 **Gate 2, the collection.** The range in one sentence: charged by actual
 cost inside it, never below the probe's price, never above the maximum,
-only for people who matched. If `offer.shortfall` is above zero the
-balance covers part of the request: `create_topup` returns a card payment
-link, whole euros from twenty, and the user pays it themselves. After the
-explicit yes to the maximum: `continue_request` with
-`approvedMaxPricePerLeadEur` equal to `priceMaxEur` exactly. Link mode
-returns `approval.url` again.
+only for people who matched. Where the balance covers only part of it,
+`create_topup` returns a card payment link, whole euros from twenty, and
+the user pays it themselves. Then `continue_request`, after an explicit
+yes to the maximum and carrying exactly that number. Link mode returns an
+approval link again.
 
 A run that stops with `price_up` delivered what it had at the old range
 and is `PRICED` again with a new one: say how many arrived and what a lead
@@ -290,14 +283,12 @@ Next: <sequence-architect and copywriter, anchor <A/B/C>>
 
 ## When the ask does not fit
 
-A signal the form has no field for - app-store ratings, GitHub activity, a
-funding round - a source that does not exist, a fact the user insists on
-that the data cannot verify, or an empty probe: `escalate_request` opens a
-case with the Grinfi team. Show the user exactly what goes out first,
-their ask in their words and the draft form, and wait for a yes. Say the
-sentence the tool returns and nothing more. Later, `get_case`: `DONE`
-carries the answer in `note`, and `resultRequestId`, when set, is a
-finished collection whose leads `list_leads` can show.
+A signal the form has no field for, a source that does not exist, a fact
+the data cannot verify that the user insists on, or an empty probe:
+`escalate_request` opens a case with the Grinfi team, by the rule in
+`CLAUDE.md`. Show the user exactly what goes out first and wait for a
+yes. Later, `get_case` carries the answer, and a finished collection it
+points at can be read with `list_leads`.
 
 ## How it sounds in the chat
 

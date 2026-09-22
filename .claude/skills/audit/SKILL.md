@@ -15,45 +15,38 @@ These hold on every step of this skill.
 
 - **Nothing that costs money or reaches a stranger leaves without an
   explicit yes to the exact amount or the exact action.** One yes covers
-  one action: never a second action, never a second product.
+  one action: never a second action, never a second product. The only
+  pre-approved things are the two standing exceptions named in
+  `CLAUDE.md`.
 - **Never invent a fact or a number.** Unknown means ask, or mark it
   unconfirmed. Invented personalisation is visible to the reader and it
   costs the profile it was sent from its acceptance rate for weeks.
 - **Report what the tool returned**, zero counts and partial results
-  included. A run that finished with nothing is a result to state, not a
-  step to walk past. A zero and a broken metric look identical: before
-  reporting a number, ask what would make it look like this if the
-  business were fine, and what would make it look like this if the data
-  were wrong. If you cannot tell the two apart, say so instead of
-  picking one. A named gap is useful; an invented zero gets acted on.
+  included. A zero and a broken metric look identical: before reporting a
+  figure, ask what would make it look like this if the business were fine
+  and what would make it look like this if the data were wrong, and say
+  so when you cannot tell. A named gap is useful; an invented zero gets
+  acted on.
 - **Know whose client this is before you read or write a memory file.**
-  One folder per business under `business/clients/`. Nothing there at all
-  is a first run: do not ask which client, take the name from what they
-  said and start the folder when the job needs it. One folder and nothing
-  in the request names another: that one, named in your first line.
-  Several: ask which, in one line, listing them. The person you
-  work for owns all of these folders and may ask across them freely.
-  What never crosses is the outgoing text: a name, a number or a case
-  from one client does not appear in another's message, proposal or
-  promise unless that client has said it may be named.
-- **A correction about how we work goes to the house.** The user's
-  corrections are written down the moment they are made: one about this
-  business into that client's `rules.md`, one about how outreach is done
-  at all into `business/house/rules.md`.
+  One folder per business under `business/clients/`; nothing there at all
+  is a first run, so take the name from what they said rather than
+  asking. One folder and no other named: that one. Several: ask which, in
+  one line. The person you work for owns all of them and may ask across
+  them freely. What never crosses is the outgoing text: another client's
+  name, number or case does not appear in this client's message,
+  proposal or promise unless that client said it may be named.
+- **Write the user's correction down the moment it is made.** About this
+  business, into that client's `rules.md`; about how outreach is done at
+  all, into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
-  what they mean instead. Someone who has never run outbound has no way
-  to decode a label you invented while you worked.
+  what they mean instead.
 - **Say it plainly, with no images.** Mannered writing swaps a direct
-  statement for a picture: "the engine" instead of "the plan we build
-  first", "a dial worth turning" instead of "a setting worth changing".
-  The picture shows off the writer instead of carrying the idea, the
-  reader feels it, and it is less exact, because a metaphor drags in
-  meanings nobody chose. It also travels: the register you read here
-  becomes the register you write in, and an image out of an English file
-  arrives in the user's language translated word for word, meaning
-  nothing. The images in these files are shorthand for you. To the user,
-  say the thing.
+  statement for a picture, which shows off the writer instead of carrying
+  the idea and drags in meanings nobody chose. It travels, too: the
+  register you read here becomes the register you write in, and an image
+  out of an English file reaches the user translated word for word,
+  meaning nothing. Say the thing.
 
 ## Tools used
 
