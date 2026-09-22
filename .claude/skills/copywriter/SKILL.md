@@ -259,6 +259,19 @@ the draft, so the next reviewer sees why.
     behind"). State the mechanism in the abstract: "done now it takes a
     day or two; put off until spring it becomes a week or more, because
     each new release drops more of what the current build relies on".
+36. Message 2 brings new details or new value, not the same pain with a
+    different metric. "Your rating is low, let me tell you what to do"
+    twice in a row is a repeat even with a fresh number. Dig the new angle
+    out of the business's own materials: platform rules and thresholds,
+    deadlines, whatever costs the reader users beyond what message 1
+    already named.
+37. A free first step is framed as a trial run of working together: "I'd
+    gladly walk you through what needs doing on a call, or do it for you
+    free of charge as a trial run of working together". The same framing
+    carries into message 2. The CTA stays as it is.
+38. Time pressure comes from the platform's deadline, never from your own
+    offer expiring. Not "free until 1 November" but "starting now still
+    leaves time to make the store's deadline".
 
 ## Never write
 
