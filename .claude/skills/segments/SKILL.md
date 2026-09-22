@@ -87,9 +87,19 @@ for.
 | people who reacted to your posts, your own network | Grinfi imports - warmer and free, first whenever they exist |
 | a segment on paper: titles at companies of a size, country, industry, age | **Lead Finder** |
 | the company must be right before anyone is bought: headquarters, size, year, product or services, not a chain or a supplier | **Lead Finder**, companies-first route |
+| the fact is invisible on the person but visible on the company - a registration country, a founding date, a headcount | **Lead Finder**, companies-first route. Not a dead end, and not a reason to send the user to a public register by hand |
 | people who studied in country X and live elsewhere | **Lead Finder**, expats |
 | owners of local businesses: restaurants, salons, clinics, studios, shops | **Lead Finder**, places route - Google Maps for the venue, LinkedIn for the owner where there is one |
 | a saved Sales Navigator search the user already trusts | Grinfi `import_sn_saved_search` - nobody has read those profiles; Lead Finder's judge has |
+
+**The companies-first route stands on the company having a LinkedIn page.**
+Say this before the probe, not after it comes back thin: a freshly
+registered company of one or two people often has no page at all, and a
+route that starts from companies cannot see what is not there. It is the
+same failure that makes restaurants and clinics unfindable this way. When
+the segment is that young and that small, tell the user the probe is
+measuring whether the segment exists at all, not only what it costs - and
+that under a euro is a cheap answer to that question.
 
 ## Step 0. Get the rules from the server
 
@@ -117,6 +127,19 @@ can say "yes to all" or fix one line. Take the proposals from
    product or services or any. Take industry names from `find_industries`
    and show them to the user before they go into the form: LinkedIn
    filters by its own list, and a home-made wording finds nothing.
+
+   **The founding year has one boundary and it is a year.** The form takes
+   "founded no later than <year>" and nothing else: no lower bound, no
+   months. A user who asks for "registered 3 to 12 months ago" is asking
+   for something that is not a filter. Say so before they picture one:
+   the window goes into the portrait instead, the judge applies it after
+   the company page is read, and they pay only for the people who matched
+   - so nothing wrong is delivered, but each delivered lead costs more
+   than a filtered one would. For founder titles the search leans on how
+   long the person has been at the company, which for a founder is the
+   company's age; companies registered right at the edge of the year can
+   fall out of that, and `foundedMode: "exact"` checks the page only,
+   dearer. Let them choose, in plain words, before the probe.
 5. **Person facts** - titles as LinkedIn writes them, in English, several
    variants; countries; languages.
 6. **Whose country** - where the person lives, or where the company is.
