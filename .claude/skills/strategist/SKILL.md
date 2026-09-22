@@ -77,6 +77,11 @@ team, one copy skeleton:
    count it separately. Never instead of it.
 4. Propose signals and content as the next increment, after the cold
    track has run and has its own numbers. Not in the first plan.
+5. Do not compare sources out loud before you know whether this business
+   posts at all. Naming a warm source in the first message of a session
+   is a fork the user can walk into, and it ends in content marketing.
+   Say you start from the portrait; bring the comparison when they ask
+   for it, or when the answers show they already post.
 
 ## Step 2. The picker, when the user does not know who to reach first
 
@@ -247,7 +252,7 @@ result, one line per step with its status.
 
 ## How it sounds in the chat
 
-**When the user asks which source answers best.**
+**When the user asks which source answers best** - and only then, not before.
 
 > Bad: "People who react to your posts - 16% replies against 6.8%."
 >

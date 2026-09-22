@@ -54,17 +54,25 @@ Read `business/profile.md`, `business/rules.md` and the sequence brief.
 Read `reference/owner-rules.md`: 38 corrections made by the people whose
 name went under the text.
 
-No profile yet: ask these five in one message and write the answers into
-`business/profile.md` as they come. Do not wait for a separate onboarding.
+No profile yet: ask these seven in one message, and nothing else. Write
+the answers into `business/profile.md` as they come, and do not wait for
+a separate onboarding. Seven, not five: the last two decide the form of
+the message, and asking them later turns one draft into three.
 
 1. What is sold, in what form, at what price.
 2. Who buys it.
 3. What first step is offered.
 4. What may be quoted as proof. "Nothing yet" is a normal answer.
 5. Whose profiles send, and how the reader sees them.
+6. LinkedIn or email, and in which language.
+7. Is there anything on this list you can point to - a role just opened,
+   a round, a post about the problem? "No" is a normal answer and it
+   decides the opening, not whether the message gets written.
 
-Decide the sender's language here, once per segment, and write it into
-`business/senders.md`.
+Add no eighth question and no paragraph explaining the format. The user
+asked for a message; the questions are the price of getting one, and
+everything past seven reads as a form. Write the sender's language into
+`business/senders.md` once per segment.
 
 Trace every claim back to `business/profile.md` or to the user's own
 words. A case you were not given does not exist.
