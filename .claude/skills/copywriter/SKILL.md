@@ -135,8 +135,12 @@ every domain and campaign.
 
 ## Rules from the owners who reviewed our drafts
 
-These came from real corrections of real drafts. They are rules, not
-taste.
+These came from real corrections of real drafts across several
+businesses. They are rules, not taste. They are also not templates:
+every sequence is written for one specific business, one offer and one
+reader, and situations differ. When a rule and the situation pull in
+different directions, the situation wins and the reason is written under
+the draft, so the next reviewer sees why.
 
 1. "We help you build", not "we do it for you". The reader stays the
    owner of the process.
@@ -168,6 +172,67 @@ taste.
 14. Sell the difference, not the list of services. "Bookkeeping, payroll,
     sales tax" is every accountant; who answers, what you do yourselves,
     the packaged price, the personal alongside the business is one.
+15. Open softly and like a person: "I noticed your app sits at 3.1 while
+    similar ones sit around 4.2". Not a dry analyst's report, not a punch
+    at the pain. The sentence that explains their pain to them ("that is
+    the number every new customer sees") is cut: they know.
+16. No exit paths in your own text. "Whether we work together or not",
+    "you keep it either way" attract people who collect free work and
+    leave. The deliverable stays with them, yes; it is presented as what
+    they get from the call, not as a door out.
+17. A follow-up restates in one line who you are and why you are writing.
+    The reader does not remember message 1 and may not open it. Greet by
+    name in follow-ups too.
+18. Never claim a number you cannot know. "The three complaints that
+    repeat most" is a lie if nobody read the reviews. Pick the number
+    that is large enough to land: the share of ratings at three stars or
+    below, not the share of one-star ratings, which may be 3% and sound
+    silly. Avoid variables that may not exist on the send day (new
+    reviews since the last message, a fresh count).
+19. The breakup does not ask for a referral: nobody ever gives one to a
+    stranger. It reveals something else that may be relevant, the full
+    range of what the business does, and offers to talk if there is a
+    challenge on their side. Give the reader options; do not decide for
+    them what they care about.
+20. Do not say "build" to someone who already has the product. Say you
+    help improve what they have: the engineering behind it first, the
+    user's experience as the result. Do not insist the product is "their
+    channel to customers" when for many it is not.
+21. Reviews: no verbatim quotes, they run long and read as an exposé.
+    Not "your one- and two-star reviews" but "judging by the reviews,
+    users are most often unhappy with X and Y". Do not count the fixes
+    ("one or two spots"); keep the idea that the cause usually sits in
+    the technical side, not in the business.
+22. Do not show the reader their own small numbers (installs, ratings
+    count, followers). A small number pushes them away from their product
+    instead of towards fixing it.
+23. The CTA of a free service offer is the call. "Who looks after this on
+    your side?" gives you nothing; the call is where you qualify the lead,
+    a client or someone who wants the free part and leaves.
+24. A free step comes with a caveat: "if you let us take a look and
+    clarify a few details, we could do it for you free of charge". The
+    promise follows the look, not the other way round, which keeps the
+    right to decline after qualification. Say "free", not "at cost". Hint
+    softly at what comes next ("if there are plans for the product beyond
+    that, happy to talk them through") instead of "a first step to
+    something bigger".
+25. Every claim carries its argument. "A day or two now, a week in
+    spring" is cut unless the text says what takes the time and why it
+    grows.
+26. Never promise a result that depends on things outside your control
+    ("let's see how many replies to expect"). Promise only what happens on
+    the call or after the click.
+27. One product per sequence. The add-on gets one phrase, never the
+    finale; the lead product is named first and closes the sequence.
+28. A product message is two short paragraphs by function, two or three
+    benefits in each, no lists, and nothing the reader will see on the
+    demo anyway.
+29. A demo shows your own live setup; it does not build the client's on
+    the call. The invitation promises only what really happens there.
+30. Greet in every message, including the breakup.
+31. Review with the owner one message at a time, in sequence order. Four
+    versions in a row cannot be read, and a correction to message 1
+    arrives before message 2 is shown.
 
 ## Never write
 
@@ -201,10 +266,10 @@ taste.
    numbers verified; legal and tax wording signed off by the person whose
    name is under the text.
 6. What the reader gets is visible; the difference is sold, not the list.
-7. Every follow-up is a new angle; the promise of message 1 is kept for
-   everyone.
+7. Every follow-up is a new angle, restates who you are in one line, and
+   the promise of message 1 is kept for everyone.
 8. One CTA, open closing question, "if relevant" before a link, first
-   person invitation.
+   person invitation, no exit path written into your own text.
 9. Nobody is blamed; nothing technical left untranslated.
 10. Tautologies gone, no long dashes, no emojis, no corporate vocabulary
     the reader would not use ("ecosystem", "leverage", "seamless").
