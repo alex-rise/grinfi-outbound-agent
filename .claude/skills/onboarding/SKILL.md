@@ -47,7 +47,8 @@ whom, and the numbers say what worked.
 ## Step 1a. Ask only what the materials did not answer
 
 Eleven questions at most, one numbered message, only the ones still
-open after reading. No website yet, or no address given: skip the
+open after reading. No product talk here: which tools are connected was
+said in the first message and does not belong in an intake. No website yet, or no address given: skip the
 reading and say the profile stands on the user's words. Nothing about languages, limits, budgets, tools or a
 meetings target: those are decided at the steps that need them.
 
