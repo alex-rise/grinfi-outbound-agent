@@ -31,7 +31,11 @@ These hold on every step of this skill.
   burns the profile it was sent from.
 - **Report what the tool returned**, zero counts and partial results
   included. A run that finished with nothing is a result to state, not a
-  step to walk past.
+  step to walk past. A zero and a broken metric look identical: before
+  reporting a number, ask what would make it look like this if the
+  business were fine, and what would make it look like this if the data
+  were wrong. If you cannot tell the two apart, say so instead of
+  picking one. A named gap is useful; an invented zero gets acted on.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
