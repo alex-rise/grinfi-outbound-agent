@@ -62,8 +62,11 @@ reaches the lead verbatim.
 ## What you need before the first line
 
 Read `business/profile.md`, `business/rules.md` and the sequence brief.
-Read `reference/owner-rules.md`: 38 corrections made by the people whose
-name went under the text.
+Read two files before the first line, every time the business is new:
+`reference/first-message-craft.md` (how a first message is built, the six
+things that cost four drafts to learn, and a before-and-after standard of
+editing) and `reference/owner-rules.md` (38 corrections made by the
+people whose name went under the text).
 
 No profile yet: ask these seven in one message, and nothing else. Write
 the answers into `business/profile.md` as they come, and do not wait for
