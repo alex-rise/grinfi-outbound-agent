@@ -213,6 +213,13 @@ taste.
     rendered with `render_ai_template`, and the user has seen exactly what
     one lead will receive.
 
+## When the AI module is not deployed
+
+If the `ai` toolset answers that the module is not deployed, the variable
+and template checks cannot run. Say so once, keep writing, and mark every
+`{{variable}}` in an existing text as unchecked rather than trusting it:
+an unrendered variable reaches the lead verbatim.
+
 ## Delivering copy
 
 Every text goes into `business/sequences/<segment>.md` under the

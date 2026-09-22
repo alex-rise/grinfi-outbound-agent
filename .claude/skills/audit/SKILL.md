@@ -25,10 +25,12 @@ is audited the same way.
 
 **In Grinfi.** Read the workspace yourself, read-only, and say what you
 are reading before you read it: `list_my_teams`; the analytics guide
-(`get_guide` with `analytics`), then `get_outreach_metrics` per campaign
-with an explicit 30-day window and a 90-day window; `list_automations`
-with their steps and delays; `list_sender_profiles`, `get_sender_limits`,
-`get_health_snapshots`; `list_lists` and where each came from; tags and
+(`get_guide` with `analytics`); `get_flow_node_statistics` per flow for
+acceptance and replies, dated by the flow version, because the workspace
+level metrics report zero replies; `get_outreach_metrics` for send volume
+only; `list_automations` with their steps and delays;
+`list_sender_profiles` and `get_sender_limits` for health, and
+`get_health_snapshots` only if it returns anything but nulls; `list_lists` and where each came from; tags and
 custom fields; `list_leads_blacklist`; the age of the oldest unread in the
 inbox. Ask only for what the workspace cannot show: who owns replies, what
 happened on the meetings, whether the senders post.
@@ -88,9 +90,11 @@ the bottom ones move it by percent.
    the sender's years, headcount and client count? The last one is
    anchor none. The two swap tests of the copywriter: swap the product,
    swap the recipient.
-3. **Sequence length against the source.** More than an invite and three
-   messages on a cold list; every step opening with a new reason; message
-   1 fired the minute the invite is accepted.
+3. **Sequence length against the source.** Their own decay first: read
+   what each step returned before proposing to cut it - our zero on
+   messages 4 and 5 is one team's measurement, and other cold flows keep
+   earning a few percent there. Then: every step opening with a new
+   reason; message 1 fired the minute the invite is accepted.
 4. **Sender load.** Invites a day against the 20 to 30 norm and the 30
    ceiling; one account pushed past the line instead of several at 20; a
    new profile started at full speed; automated warming on accounts that
@@ -104,8 +108,14 @@ the bottom ones move it by percent.
    used for cold email; no warm-up, no suppression list.
 8. **Hygiene.** Customers, open threads and refusals not in the stoplist;
    two senders writing to the same person.
-9. **Health.** Failed sends, expired cookies, restricted accounts - Grinfi
-   only.
+9. **Health.** Failed sends and their error text, expired cookies,
+   restricted accounts - Grinfi only.
+10. **Automated warming.** Auto-likes, profile views and follows inside
+    the flows: they eat the daily limit of seats that are already at the
+    ceiling and lower acceptance.
+11. **Frozen queues.** On every stopped flow, read what sits in progress
+    on the invite node. A large old queue is a landmine: switching the
+    flow back on dumps it onto the fleet.
 
 ## Step 3. Findings, ranked, each with its route
 
@@ -123,6 +133,8 @@ the file, not the message:
 | the sequence is the wrong length or shape for its source | `sequence-architect` |
 | replies sit unanswered | `inbox` daily, `dialogue` for the words |
 | the market is bigger than the senders can carry | capacity, below |
+| the flows run automated warming | `sequence-architect`: remove the node |
+| a stopped flow holds a large queue in progress | say it before anything is restarted |
 
 Rank by effect, not by how easy it is. Six findings at most in the
 message; the rest goes into the file.

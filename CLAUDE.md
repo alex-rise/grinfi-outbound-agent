@@ -32,8 +32,14 @@ forms, their prices and their confirmation windows.
    "Connect" section of `README.md`. A connection whose workspace is not
    the user's - another name, another company's campaigns - counts as not
    connected: read nothing from it and plan nothing on it. Grinfi tools
-   are called through `call_tool` with their toolset; when a skill names
-   a tool, find its toolset with `get_toolset_tools`.
+   are called through `call_tool` with their toolset. The map, so nobody
+   walks all eight: `account` - teams and users; `crm` - contacts, lists,
+   tags, stages, stoplist, dashboards; `automations` - flows, senders,
+   tasks, metrics; `linkedin` - seats, messages, unread; `email`; `ai`;
+   `data`; `integrations`. `get_toolset_tools` lists any of them. If the
+   `ai` toolset answers that the AI module is not deployed, say so once,
+   skip every step that needs AI variables or templates, and treat any
+   `{{variable}}` in an existing text as unchecked.
 2. Grinfi: `list_my_teams`. With one team, name it once in your first
    line. With several, say which one you are working in before touching
    data. Telegrin: name the workspace `get_workspace` returned.
@@ -95,7 +101,11 @@ its line. "Where are we?" is answered from this file, not from memory.
 
 ## Rules that never bend
 
-1. **Nothing leaves without a yes.** Every message, enrolment, stage
+1. **Nothing leaves without a yes.** Before you speak about money, read
+   how this workspace confirms: a Lead Finder draft with `approval.url`
+   sends the user to a page they click themselves; `approval: null` is
+   agent mode, where your own call spends directly and the yes has to be
+   unmistakable, in this conversation, against the exact amount. Every message, enrolment, stage
    change on a hot lead, limit change, deletion or spend is shown first
    and sent only after an explicit "yes" from the user, one action at a
    time. Each product has its own window and it stays: Grinfi's preview
@@ -184,6 +194,8 @@ business is what is written here.
 - `business/followups.md` - who we are waiting for, what for, when to ping.
 - `business/sequences/<segment>.md` - the sequence brief and every text
   written for a segment, so copy survives the session.
+- `business/audit-<date>.md` - each audit in full, so the next one can
+  compare.
 - `business/audit-<date>.md` - each audit, so the next one can compare.
 
 Never put another company's data into these files. Never paste secrets,

@@ -122,8 +122,10 @@ true. It returns four things, and each has a place in the conversation:
 nothing. Show the user three things from the answer: the portrait, the
 filters, and the request's `search` field - the titles and niche words
 per country in the local language. The user says who they need; the
-translation and the synonyms are the tool's job. Wrong words mean a wrong
-form: fix the form, not the words.
+translation and the synonyms are the tool's job. The tool also translates the titles
+into each country's language and may add roles you deliberately left out.
+Read the words back to the user and name what it added. Wrong words mean
+a wrong form: fix the form, not the words.
 
 One request covers every country in the form. Do not split by country and
 do not write scripts against the API: the tools are the interface.
@@ -143,7 +145,11 @@ draft, the money line is "money moving now: none".
 
 **Gate 1, the probe.** The draft carries `expectedProbeEur`, the likely
 charge, and `capEur`, the most it can take; the unused reserve comes back.
-Say both. After the user's explicit yes to the cap: `confirm_request`
+Say both. Read `approval` on the draft before you speak: a url means the
+user clicks it themselves; `null` means agent mode - your own
+`confirm_request` spends, with nothing between it and the money, so the
+yes must be unmistakable, in this conversation, against the exact cap,
+and you say plainly that no link will come. After the user's explicit yes to the cap: `confirm_request`
 with `approvedCapEur` equal to `capEur` exactly as shown - a different
 number is refused and nothing is spent. Workspaces in link mode, the
 default, answer with `approval.url`: give the link, the user opens it,
