@@ -47,12 +47,19 @@ Reply decay by step, the same three flows:
 | Post engagement | 16.0% | 7.1% | 6.7% | 4.4% | 4.0% |
 | Cold list | 6.8% | 5.0% | 2.6% | 0% | 0% |
 
-What it says: the audience source moves the reply rate about four times
+What it says, and what it does not: the audience source moves the reply
+rate about four times
 with the same product, team and copy skeleton; acceptance follows the
 same order and blows past the "25 to 30% typical" reference on warm
 sources; the step that dies is message 4 and 5 on cold lists, while on
 warm lists the tail still returns 4 to 5%. Sequence length should not be
 the same for both.
+
+What it does not say: that a warm source is the better plan. It answers
+better per person and holds far fewer people. Cold volume against a
+portrait is what carries a sender pool for months; a warm track is a
+supplement where an audience already exists. Judge a source by leads a
+month, never by reply rate alone.
 
 Form of message 1 on the same cold audience, same senders:
 

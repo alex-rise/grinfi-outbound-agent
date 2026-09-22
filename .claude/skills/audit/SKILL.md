@@ -81,10 +81,12 @@ list returns.
 Walk it top to bottom. The top items move the result several times over;
 the bottom ones move it by percent.
 
-1. **The list source.** Cold ICP on paper, or people who reacted to their
-   content, or people who posted about the topic, or a signal with a
-   date? The source moves replies four times over. Are anchor and tier
-   on the contacts, so the campaign can be sliced?
+1. **The list source and its size.** Cold ICP on paper, people who
+   reacted to their content, a signal with a date? A warm source answers
+   better per person but holds fewer people: judge a source by leads a
+   month, not by reply rate, and never prescribe a content-based source
+   to someone who does not post. Are anchor and tier on the contacts, so
+   the campaign can be sliced?
 2. **The anchor of message 1.** What does the first sentence stand on -
    an event, a data point with a comparison, a narrow-segment pattern, or
    the sender's years, headcount and client count? The last one is
@@ -128,7 +130,7 @@ the file, not the message:
 |---|---|
 | the list is cold and the ICP exists only on paper | `segments`: a verified list from the portrait through Lead Finder, or the same portrait as filters by hand |
 | the replies need a reason to answer now | `signals`: the people asking this week through Telegrin; companies hiring the buyer through its job board channel |
-| the senders post and nobody writes to the people who react | the strategist's post-engagement import in Grinfi - the warmest free list |
+| the senders already post regularly and nobody writes to the people who react | the strategist's post-engagement import in Grinfi, as a track beside the cold one, never instead of it |
 | the first sentence stands on nothing | `copywriter`, with the anchor the strategist assigns |
 | the sequence is the wrong length or shape for its source | `sequence-architect` |
 | replies sit unanswered | `inbox` daily, `dialogue` for the words |
