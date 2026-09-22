@@ -194,9 +194,10 @@ price range, how many were delivered - and the step into
 
 ## Without Lead Finder
 
-Say in three lines what Lead Finder does at this step and how to get an
-account (the recipe in `README.md`: sign up by email, copy the key from
-Settings, paste it at "Authenticate"), then continue by hand. The same
+Say in three lines what Lead Finder does at this step and how to
+connect it: `/mcp`, `lead-finder`, "Authenticate", your email, the link
+from the mail; no account yet means the link creates one. Then continue
+by hand. The same
 portrait, done by hand: titles, countries, headcount bands,
 industry names as LinkedIn spells them, the founding year checked on each
 company page by the user, freelancers dropped by headline. Give it as a

@@ -87,9 +87,10 @@ comes back into the same chat.
 
 ### Start
 
-finder.grinfi.io/login - your email, the link from the mail opens your
-workspace. Settings, "Connect Claude", copy the key. Then `/mcp`,
-`lead-finder`, "Authenticate", paste the key.
+In the chat: `/mcp`, `lead-finder`, "Authenticate". The window asks for
+your email and sends a sign-in link; no account yet means the link
+creates one, with a trial balance for the first probe. Open the link and
+you are connected. The cabinet itself is at finder.grinfi.io.
 
 ---
 

@@ -79,12 +79,10 @@ sign up at [grinfi.io](https://grinfi.io) and connect a LinkedIn sender
 inside the product; then `/mcp`, `grinfi`, "Authenticate", log in.
 
 **Lead Finder** (`lead-finder`) - a verified list from a portrait, steps
-2 and 3. No account yet: open
-[finder.grinfi.io/login](https://finder.grinfi.io/login), enter your
-email, open the link from the mail: that is your workspace, with a trial
-balance for the first probe. In the workspace, Settings, "Connect Claude",
-copy the key. Then `/mcp`, `lead-finder`, "Authenticate", and paste the
-key into the window that opens.
+2 and 3. `/mcp`, `lead-finder`, "Authenticate": the window asks for your
+email and sends a sign-in link; no account yet means the link creates
+one, with a trial balance for the first probe. Open the link, and the
+connection is done.
 
 **Telegrin** (`telegrin`) - the people asking right now, step 4. No
 account yet: sign up at [tg.grinfi.io](https://tg.grinfi.io); the trial
