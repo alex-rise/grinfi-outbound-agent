@@ -175,6 +175,13 @@ The user approved these in advance; do them, then report them:
   the uuids, only for the handled ones; or `mark_conversation_as_read`
   one by one.
 
+A batch call is not done because it returned. A long `leads_mass_action`
+can die mid-stream, and the half that never ran looks exactly like the
+half that did. Read the result per contact - `unread_counts` at zero, the
+stage uuid you asked for - or call `get_unread_conversations` again
+afterwards. Reporting a batch as finished without that check is how leads
+that were answered stay unread, and the user finds it before you do.
+
 Refusals also go to the stoplist (`add_to_leads_blacklist`) so that no
 future campaign brings them back.
 
@@ -221,6 +228,13 @@ waiting for (reply, booking, meeting, hold), ping on, pings so far,
 sender, language, context. Grinfi tasks are not follow-ups: a task is a
 delayed send and fires even after the lead has booked.
 
+Before you create a row, search the table by the lead's id, not by their
+name. More than one session can work the same inbox on the same day, and a
+search by name misses a row a sister session wrote minutes ago; two live
+rows on one person means that person gets pinged twice. When you find a
+duplicate, keep the newer, richer row and close the other one with a
+pointer to it.
+
 Every row whose date has come: inbox (did they reply?), calendar and email
 (did they book?), only then a ping draft for approval. After a ping: pings
 +1 and a new date (booking +5, reply +7), or hold +4 weeks. After the
@@ -256,7 +270,7 @@ later; if the dialogue moved on, do not apologise.
 
 - [ ] `get_unread_conversations` shows only the people we are drafting for
 - [ ] every read inbound message with a question has an outbound or a draft
-- [ ] every "waiting" and "booked" has a follow-up row with a date
+- [ ] every "waiting" and "booked" has exactly one follow-up row with a date
 - [ ] the calendar was checked for everyone silent after a link
 - [ ] failed and stuck sends were looked at
 - [ ] signals and rules are written down
