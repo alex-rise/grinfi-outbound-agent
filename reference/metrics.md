@@ -69,6 +69,25 @@ node from `replied` divided by `closed`. That is the same data the web UI
 shows. `get_outreach_metrics` gives the workspace-level view by period;
 `get_unread_conversations` is unread only and says nothing about totals.
 
+### Which Grinfi tool answers which question
+
+- **Acceptance and replies per campaign: `get_flow_node_statistics` only.**
+  It counts what each node actually did. It takes no period: the numbers
+  are the lifetime of the current flow version, so date the flow version
+  and say which window it stands for.
+- **Send volume: `get_outreach_metrics` or `send_volume_report`.** Nothing
+  else. On a live workspace `get_outreach_metrics` reports zero replies
+  for every flow and acceptance above 100%, because accepts lag sends and
+  the reply counter needs a reply node wired in the flow.
+- **Seat health: `get_sender_limits`**, which returns live rows.
+  `get_health_snapshots` may answer with nulls for every field; when it
+  does, it is not wired on that instance.
+- **Windows differ by tool.** `get_outreach_metrics` takes timestamps;
+  `send_volume_report` takes fixed buckets; `get_dashboard` takes dates
+  but ignores them for the conversion funnel; `get_flow_node_statistics`
+  and `list_linkedin_messages` take no period at all. Numbers from two of
+  these are not comparable unless you say what each one covers.
+
 ## 2. Core LinkedIn metrics
 
 | Metric | Formula | Reference (verify against your own data) | Investigate below |

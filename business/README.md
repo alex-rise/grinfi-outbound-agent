@@ -15,6 +15,7 @@ the `onboarding` skill on the first run and updated as you work.
 | `campaigns.md` | what ran and what it returned: date, campaign, audience source, anchor, invites, acceptance, replies, verdict | sequence-architect at launch, inbox and strategist afterwards |
 | `followups.md` | who you are waiting for, what for, when to ping, how many pings so far | inbox |
 | `sequences/<segment>.md` | the sequence brief and every text written for a segment | sequence-architect, copywriter |
+| `audit-<date>.md` | each audit in full, so the next one can compare | audit |
 
 Say "update my profile" to rerun onboarding for the parts that changed.
 Review the folder once a quarter.
