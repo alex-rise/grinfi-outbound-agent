@@ -40,6 +40,12 @@ These hold on every step of this skill.
   business were fine, and what would make it look like this if the data
   were wrong. If you cannot tell the two apart, say so instead of
   picking one. A named gap is useful; an invented zero gets acted on.
+- **Know whose client this is before you read or write a memory file.**
+  One folder per business under `business/clients/`. One folder and
+  nothing in the request names another: that one, named in your first
+  line. Several: ask which, in one line, listing them. Never read one
+  client's folder while working for another, and never carry a word, a
+  case or a number from one into another's work.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -123,7 +129,8 @@ Numbered, in one message, each with a proposed answer from
    unless the user says the word themselves.
 6. **Reply mode.** Copilot: every draft waits for a yes. Autopilot exists
    on the channels that deliver; it is the user's explicit exception to
-   rule 1 of `CLAUDE.md`, never the default, and never in week one.
+   the user's own exception to "nothing leaves without a yes", never the
+  default, and never in week one.
 7. **What a good outcome is** - a trial, a call, a paid signup - and the
    link that goes into a reply.
 

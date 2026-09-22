@@ -25,6 +25,12 @@ These hold on every step of this skill.
   business were fine, and what would make it look like this if the data
   were wrong. If you cannot tell the two apart, say so instead of
   picking one. A named gap is useful; an invented zero gets acted on.
+- **Know whose client this is before you read or write a memory file.**
+  One folder per business under `business/clients/`. One folder and
+  nothing in the request names another: that one, named in your first
+  line. Several: ask which, in one line, listing them. Never read one
+  client's folder while working for another, and never carry a word, a
+  case or a number from one into another's work.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -75,8 +81,14 @@ the message, and asking them later turns one draft into three.
 
 Add no eighth question and no paragraph explaining the format. The user
 asked for a message; the questions are the price of getting one, and
-everything past seven reads as a form. Write the sender's language into
-`business/senders.md` once per segment.
+everything past seven reads as a form.
+
+One line is allowed after them, and only this one: an offer to write now
+instead of answering. "Need it today? Say so and I write on what I can
+see, with nothing invented - no numbers, no cases." Someone who asked for
+a message and got a questionnaire needs a way out that is not silence.
+
+Write the sender's language into `business/senders.md` once per segment.
 
 Trace every claim back to `business/profile.md` or to the user's own
 words. A case you were not given does not exist.

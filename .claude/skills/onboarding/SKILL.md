@@ -19,8 +19,10 @@ message.
 lives in `business/clients/<client>/`, one folder per business you work
 for. Take the name from the request or from the website you are about to
 read; a short slug, lower case, no spaces - `nes`, `whatsdo`, `grinfi`.
-Say which folder you are creating, in one line, and carry on. Working for
-one business only means one folder, and nothing else changes.
+Say which client you are starting, in one line, in their words - "starting
+Bikevo as a new client, kept separate from the rest" - never the path of
+the folder you made. Working for one business only means one client, and
+nothing else changes.
 
 Read `business/house/rules.md` first, every time: it holds the
 corrections that are true for every client, and they apply here before
@@ -47,6 +49,12 @@ These hold on every step of this skill.
   business were fine, and what would make it look like this if the data
   were wrong. If you cannot tell the two apart, say so instead of
   picking one. A named gap is useful; an invented zero gets acted on.
+- **Know whose client this is before you read or write a memory file.**
+  One folder per business under `business/clients/`. One folder and
+  nothing in the request names another: that one, named in your first
+  line. Several: ask which, in one line, listing them. Never read one
+  client's folder while working for another, and never carry a word, a
+  case or a number from one into another's work.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
