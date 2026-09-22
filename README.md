@@ -40,18 +40,36 @@ where they belong.
 
 Tell your Claude (or Codex): "Install this for me:
 https://github.com/alex-rise/grinfi-outbound-agent". It downloads the
-kit, opens the folder as the project and says when it is ready. Then say
-hello. On the way it asks whether to enable the kit's MCP servers,
-`grinfi`, `lead-finder` and `telegrin`: say yes to the ones you have
-accounts for, the others can be enabled later from `/mcp`.
+kit, opens the folder as the project and tells you it is ready, in a line
+or two. Then say hello, and the agent takes it from there.
 
-**For the agent installing this kit:** clone the repository (or download
+On the way Claude Code asks whether to enable the project's servers -
+`grinfi`, `lead-finder`, `telegrin`. Say yes to the products you have
+accounts for; the rest can be switched on later from `/mcp`, and the
+agent asks for one only when the step in front of it needs that product.
+
+**For the agent installing this kit.** Clone the repository (or download
 and unpack the ZIP) into a folder the person will find again, for example
 `~/outbound-agent`. Then make that folder the current project: in Claude
 Code Desktop, switch the session's directory to it; where you cannot, ask
-the person to open the folder as a project. Approve the three MCP servers
-from `.mcp.json` when asked. Say when it is ready, and start with
-`CLAUDE.md`.
+the person to open the folder as a project.
+
+Then stop, in **two lines at most**, in their language: it is installed,
+and they should say hello. Nothing else. Do not list what is inside, do
+not name the skills or the folders, do not explain what the kit does, do
+not hand them a checklist of remaining steps: the agent introduces itself
+on their first word, and an installer that explains it first makes the
+same speech twice. The one thing worth a clause: Claude Code will ask
+whether to enable the project's servers, and they say yes to the products
+they have accounts for.
+
+If the person already has a Grinfi or GetSales connection under another
+name, leave it alone and enable `grinfi` anyway: the kit calls Grinfi
+tools through that name, two connections to the same account cost
+nothing, and the person can switch the old one off later.
+
+From your next message on, `CLAUDE.md` is your instruction, not this
+section.
 
 ## Install: by hand
 
