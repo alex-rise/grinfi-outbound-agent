@@ -153,7 +153,7 @@ separately, or the report double-counts the person.
 - Breakup no earlier than day 10 to 13.
 - Tuesday to Thursday, morning to early afternoon in the recipient's time
   zone. Avoid late Friday and weekends.
-- January underperforms by about a third in acceptance. Do not launch or
+- January underperforms by about a third in acceptance in published data. Do not launch or
   read a test in the first weeks of January.
 - If the sequence stands on anchor A, check the signal's usable window: a
   step that falls outside it stops calling the event news and speaks of

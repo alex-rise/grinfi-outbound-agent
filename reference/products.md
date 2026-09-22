@@ -209,9 +209,10 @@ One credit per post the AI reads, on every channel. Collecting is free
 and a run that finds nothing costs nothing. The trial is about a thousand
 credits, no card and no end date; the first campaign checks up to twenty
 posts per channel for free. Plans from €27 a month (Starter: 2,500 to
-4,500 credits, two accounts, five campaigns), Growth €67 (6,500 to
-16,000 credits, five accounts, fifteen campaigns), Scale above that;
-one-off credit packs exist. A campaign opens on 200 credits a day and 200
+4,500 credits, two accounts, five campaigns), then two larger plans, and
+one-off credit packs. **Never quote a price from this file to a
+customer**: plans change and the site is the only current list. What does
+not change is the unit - one credit, one post read. A campaign opens on 200 credits a day and 200
 is the floor, one cap shared across its channels. It is a safety rail
 against a runaway campaign, not a budget dial: 200 is the most the AI
 reads in a day and most days it finds fewer, so lowering the cap saves
@@ -256,7 +257,8 @@ pages.
 - Several profiles in one workspace, each with its own limits and health;
   the volume of outreach comes from the number of profiles, not from
   pushing one.
-- Persistent cloud sessions, not a browser extension: the profile works
+- The sending runs on persistent cloud sessions rather than through the
+  browser, so the profile works
   when the laptop is closed.
 - Connection requests with or without a note, messages, InMail.
 - Audiences from a Sales Navigator search, a LinkedIn search, the user's

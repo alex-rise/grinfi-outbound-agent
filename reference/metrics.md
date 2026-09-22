@@ -5,7 +5,7 @@ Covers LinkedIn and email.
 
 ## 0. Before any number means anything
 
-**Fix the denominator.** Published benchmarks differ up to eight times for
+**Fix the denominator.** Published benchmarks differ up to eight times between sources for
 the same metric, almost always because they count different things.
 
 | Term | Definition |
@@ -108,7 +108,7 @@ shows. `get_outreach_metrics` gives the workspace-level view by period;
 | Positive share | positive replies / all replies | 15-30% | 10% |
 | Meetings per 1,000 invites | meetings / invites x 1,000 | about 5 in published IT-services data | - |
 
-Acceptance is a gate metric, not the goal metric. Around 80% of people
+Acceptance is a gate metric, not the goal metric. In published data around 80% of people
 who accept never reply to anything; that is the channel, not the copy.
 Reply rates on invites fall year over year across large samples; a flat
 rate against a falling market is an improvement.

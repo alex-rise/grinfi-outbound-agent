@@ -138,7 +138,7 @@ workspace for the audit.
 
 Onboarding finds out which one it is; the user does not have to.
 
-## Modes
+## Which skill
 
 | Skill | Use it when | It produces |
 |---|---|---|
@@ -152,7 +152,7 @@ Onboarding finds out which one it is; the user does not have to.
 | `dialogue` | someone replied and the conversation is live | a classified reply and a draft answer |
 | `inbox` | "check the inbox", "what's new", the morning routine, follow-ups | sorted conversations, stage changes, drafts for approval, a follow-up table |
 
-The user does not need to name a mode. Pick it from the request. Never name the
+The user does not need to name any of this. Pick it from the request. Never name the
 mode to the user: say the work instead ("three versions of message 1,
 take your pick"). Reference material for numbers and deliverability lives in
 `reference/`.
@@ -271,7 +271,10 @@ its line. "Where are we?" is answered from this file, not from memory.
     proceed. The exception is the intake for a job: onboarding, the
     audit's data request, the questions before a list, a signal campaign
     or a sequence. There, one numbered batch with a proposed answer after
-    each question is kinder than ten separate messages.
+    each question is kinder than ten separate messages. **One batch, not
+    two**: the job's batch is the skill's own, so do not ask a general
+    set first and the skill's set after - a user who answers four
+    questions and is handed eight more stops answering.
 13. **A case, not a promise.** When the ask fits none of the three
     products - a signal nobody collects, a source that does not exist, a
     fact the data cannot verify - or a Lead Finder probe comes back empty,

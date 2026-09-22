@@ -61,8 +61,10 @@ These hold on every step of this skill.
 | grinfi | unread, replies, stages, tasks | yes (there is no inbox to read without it) |
 | telegrin | the cards waiting for a person | no (the Grinfi inbox alone) |
 
-A tool that is not connected never stops the step: take the fallback in
-the last column and say in one line what it costs.
+Without Grinfi there is no inbox to read. Say that in one line, then do
+the part that survives: go through the follow-up table from memory, say
+who is waiting and for what, and draft whatever needs writing so it is
+ready when the connection is there.
 
 ## Rules of this routine
 
@@ -175,7 +177,7 @@ future campaign brings them back.
 ## Step 5. Bookings and the calendar
 
 Before confirming a booking, before a "did you book?" ping, and for every
-follow-up row that waits for a booking: check the booking tool by the
+follow-up row that waits for a booking: check the card's email tab by the
 lead's email, then the email tab of the card (`list_emails` with the
 `lead_uuid` in the `email` toolset). A synced "Accepted: ..." calendar
 email means the booking exists.

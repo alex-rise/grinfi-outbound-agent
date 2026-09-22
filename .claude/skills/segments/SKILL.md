@@ -306,7 +306,8 @@ points at can be read with `list_leads`.
 **When the user wants a filter LinkedIn does not have.**
 
 > Good: "Revenue is not something we can filter on - LinkedIn does not
-> carry it, and neither does any source underneath. Two options: we drop
+> carry it, and what other sources call revenue is usually worked out
+> from headcount, so we would be filtering on a guess. Two options: we drop
 > it and judge by headcount instead, or I send this to the Grinfi team to
 > check by hand. It also means the messages cannot mention revenue: we
 > would not have verified it."

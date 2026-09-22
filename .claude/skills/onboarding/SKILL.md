@@ -244,7 +244,9 @@ a Grinfi import). Core pain, desired outcome and "why now" are the
 strategist's: it asks for them when it writes the brief, if the profile
 does not say.
 
-**`business/senders.md`** - one line per sender: name, role as the lead
+**`business/senders.md`** - first a "Stages" line with the pipeline stage
+names exactly as the team spells them, so later sessions use theirs and
+not invented ones. Then one line per sender: name, role as the lead
 sees it (founder, account manager, SDR), which segments they write to,
 their booking link, and the rule for meetings ("if the founder writes, the
 demo is with the founder"). The language each sender writes in is added

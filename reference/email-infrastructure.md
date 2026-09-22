@@ -25,8 +25,8 @@ skills is worth scheduling until this checklist passes.
 | When | What changed |
 |---|---|
 | Feb 2024 | Google and Yahoo: senders of 5,000+ a day to personal addresses need SPF, DKIM, DMARC and one-click unsubscribe; complaints under 0.3%, recommended under 0.1% |
-| May 2025 | Microsoft extended the same requirements to outlook.com, hotmail.com, live.com; non-compliant mail is rejected with `550 5.7.15` rather than filed as spam |
-| Nov 2025 | Gmail moved to permanent `550` rejections for non-compliant traffic |
+| May 2025 | Microsoft extended the same requirements to outlook.com, hotmail.com, live.com; non-compliant mail is filed as spam, moving toward outright rejection (`550 5.7.15`) |
+| Late 2025 | Gmail tightened toward outright rejection of non-compliant traffic; treat the exact threshold as a moving target and check before quoting it to a client |
 | Jan 2026 | AI sorting inside Gmail: a second gate after delivery. Mail can arrive and still not be shown, because sorting favours correspondents the person actually exchanges mail with |
 
 Delivered no longer means seen. Volume stopped being a lever; precision of

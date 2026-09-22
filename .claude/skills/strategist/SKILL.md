@@ -202,11 +202,14 @@ States - kept apart so one does not hide the other in the average.
 
 ## Step 6. Scoring and what a good list holds
 
-Exact title match +3, company size in range +2, Tier 1 signal +3, Tier 2
-signal +1, warm path +1. 8 to 10 is Tier 1: maximum personalisation,
-first in the queue. 5 to 7 standard. 1 to 4 goes to the anchor C track
-and is measured separately. A healthy list is at least 30% Tier 1 and at
-most 20% Tier 3.
+Score each contact: exact title match +3, company size in range +2, a
+tier 1 signal +3, a tier 2 signal +1, a warm path +1. Call the result the
+**match**, not the tier, so it never collides with the signal tiers: match
+8 to 10 gets maximum personalisation and goes first in the queue, 5 to 7
+is standard, 1 to 4 goes to the anchor C track and is measured
+separately. A working convention, not a measurement: aim for at least 30%
+of the list at match 8 or above and no more than 20% at match 4 or
+below.
 
 Each contact carries: first and last name as separate fields, title,
 company name, company size, LinkedIn URL, email where the email track

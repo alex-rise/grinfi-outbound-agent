@@ -1,6 +1,6 @@
 ---
 name: audit
-description: Use when outbound is already running or has run and left numbers - "audit", "check our outbound", "what should we fix", "why are replies low", "why no meetings", "how do we scale to 3x" - or when onboarding finds campaigns in Grinfi. Works from the Grinfi workspace, or from the user's own numbers, texts and exports when the outbound runs somewhere else. Changes nothing.
+description: Use when outbound is already running or has run and left numbers - "audit", "check our outbound", "what should we fix", "why are replies low", "why no meetings", "how do we scale to 3x", "where are we", "how did that campaign do", "what do this week's numbers say" - or when onboarding finds campaigns in Grinfi. Works from the Grinfi workspace, or from the user's own numbers, texts and exports when the outbound runs somewhere else. Changes nothing.
 ---
 
 # Audit: what runs, what it returns, what to change first

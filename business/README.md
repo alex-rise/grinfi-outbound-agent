@@ -32,13 +32,13 @@ nothing else changes.
 | File | What it holds | Who writes it |
 |---|---|---|
 | `profile.md` | what they sell, to whom, pricing, proof you may quote, what they do not do, competitors, objections and answers | onboarding, then dialogue as new objections appear |
-| `icp.md` | segments, red flags, the signals actually available, where each list came from, the picker's candidates | onboarding, strategist, segments, signals |
-| `senders.md` | who writes from which profile, their role, languages, booking links, the meeting rule | onboarding |
+| `icp.md` | segments, red flags, the signals actually available, where each list came from, the picker's candidates | onboarding, strategist, segments |
+| `senders.md` | the pipeline stage names, then who writes from which profile, their role, languages, booking links, the meeting rule | onboarding, and the copywriter for the language of a segment |
 | `rules.md` | this client's corrections, one dated line each, in their words | every skill, the moment something is corrected |
-| `plan.md` | the pass from strategy to result, seven steps with their status | onboarding creates it, the strategist fills it |
-| `campaigns.md` | what ran and what it returned: date, campaign, source, anchor, invites, acceptance, replies, verdict | sequence-architect at launch, inbox and strategist after |
+| `plan.md` | the pass from strategy to result, seven steps with their status | onboarding creates it, the strategist fills it, every skill updates its own step |
+| `campaigns.md` | what ran and what it returned: date, campaign, audience source, anchor, invites, accepted, first messages, replies, meetings, verdict. A signal campaign adds its own block below: channels, cap, credits read, cards, leads | sequence-architect and signals at launch, inbox and audit after |
 | `followups.md` | who is being waited on, what for, when to ping, how many pings so far | inbox |
-| `sequences/<segment>.md` | the sequence brief and every text written for a segment | sequence-architect, copywriter |
+| `sequences/<segment>.md` | the sequence brief and every text written for a segment | the copywriter, under the brief it was handed |
 | `audit-<date>.md` | each audit in full, so the next one can compare | audit |
 
 ## The house folder
