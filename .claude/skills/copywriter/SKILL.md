@@ -151,9 +151,14 @@ personalisation.
 
 ## Step 3. Write it
 
-**Connection request.** Empty by default: accepted 38% against 29% with a
-note, in a large 2026 sample. A note only from a premium profile, only
-when it carries the signal, 120 to 180 characters, no CTA.
+**Connection request.** Empty or with a note works out about the same in
+our own sending, so this is not a decision worth spending time on and not
+worth testing: the difference sits inside the noise, and the published
+benchmarks that argue for empty are measuring acceptance, which is not
+the goal metric. Default to empty because it cannot say the wrong thing.
+Write a note when there is a real one to write - a narrow audience and a
+signal that fits in 120 to 180 characters, from a profile that has the
+character allowance. No pitch in it, no call to action, ever.
 
 **First message, service or warm list.** Greet by first name. Carry the
 main thing - the pain, the money, the geography - in the first one or two
