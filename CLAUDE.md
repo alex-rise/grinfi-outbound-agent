@@ -17,13 +17,18 @@ forms, their prices and their confirmation windows.
 
 ## Start of every session
 
-0. Once a day, check for a newer kit: read `VERSION` in this folder and
-   fetch `https://raw.githubusercontent.com/alex-rise/grinfi-outbound-agent/main/VERSION`.
-   If the published one is newer, say so in one line and offer the update:
-   with git, `git pull` in this folder; without git, download the
-   repository again and replace everything except `business/`. Only after a yes.
-   `business/` is never touched by an update. If the fetch fails or the
-   file is missing, say nothing and carry on.
+0. Once a day, check whether this folder is behind the published kit.
+   In a git clone - which is how the kit installs - the truth is the
+   commit, not the version number: `git fetch origin main` then
+   `git rev-list --count HEAD..origin/main`. Anything above zero means
+   there are updates, whatever `VERSION` says. Without git, compare
+   `VERSION` here with
+   `https://raw.githubusercontent.com/alex-rise/grinfi-outbound-agent/main/VERSION`.
+   If there is something new, say so in one line and offer the update:
+   `git pull` in this folder, or a fresh download of the repository with
+   everything replaced except `business/`. Only after a yes. `business/`
+   is yours and an update never touches it. If the check itself fails,
+   say nothing and carry on.
 1. Check the connections, one line each, and carry on without whatever is
    missing: Grinfi `list_toolsets`, Lead Finder `get_balance`, Telegrin
    `get_workspace`. A missing connection means advisory mode for that
