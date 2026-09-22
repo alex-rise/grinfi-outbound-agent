@@ -124,10 +124,11 @@ Numbered, in one message, each with a proposed answer from
    writes them. Reddit, LinkedIn, X, Bluesky and Hacker News need nothing
    but the description.
 5. **The daily cap** - one number for the whole campaign, shared across
-   its channels. The product opens a campaign on 200 credits a day when
-   the field is left out, and the field itself takes 10 to 100,000. Two
-   hundred is our safety rail, not the product's floor: do not propose
-   less without a reason, and be clear which of the two you mean. Raise it only once the feed is
+   its channels. **200 credits a day is the floor and a campaign opens
+   there.** Never propose less: below it a campaign reads too little to
+   tell a working search from a broken one, and a week of that costs more
+   than the credits it saves. Raise it only once the feed is read every
+   day and the leads per card are known. Raise it only once the feed is
    read every day and the leads per card are known. Unlimited never,
    unless the user says the word themselves.
 6. **Reply mode.** Copilot: every draft waits for a yes. Autopilot
