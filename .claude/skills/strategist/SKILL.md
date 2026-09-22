@@ -13,46 +13,33 @@ strategist does not write copy (copywriter), does not design steps
 Read `business/icp.md` and `business/campaigns.md` first. A segment that
 already ran has a number; a number beats an opinion.
 
-## The spine is the portrait, and the engine is cold volume
+## Rule: build the cold portrait first, everything else beside it
 
-Cold outreach to a portrait is the work. It is what a business without an
-audience, without content and without a name can run from Monday, and it
-is what scales: the portrait decides who, the senders decide how many a
-week, and that product of the two decides how many leads a month. Build
-that first, always. Everything else is a track beside it.
+Cold outreach to a portrait is the default plan. It needs no audience, no
+content and no reputation, and it is the only source that can supply a
+sender pool for months.
 
-The warm tracks exist and they answer better. On our own LinkedIn flows
-(3,812 invites, 1,095 first messages, one product, one team, the same
-copy skeleton):
+Source numbers from our own flows (3,812 invites, 1,095 first messages,
+one product, one team, one copy skeleton):
 
-| Audience source | Acceptance | Replies to message 1 | Volume available |
+| Source | Accepted | Replied to message 1 | People it can supply |
 |---|---|---|---|
-| People who reacted to our own posts | 60.7% | 16.0% | only as many as reacted |
-| People who had just posted about our topic | 44.1% | 29.3% | a trickle, and it runs dry |
-| Cold list matching the ICP on paper | 21.3% | 6.8% | as much as the portrait holds |
+| Reacted to our posts | 60.7% | 16.0% | as many as reacted, no more |
+| Just posted on the topic | 44.1% | 29.3% | a few a week, then it stops |
+| Cold list on the portrait | 21.3% | 6.8% | as many as the portrait holds |
 
-Read that table twice. The percentages say a warm list answers better per
-person. The last column says it cannot feed a sender pool. A warm track
-returns a better rate on a few hundred people; the cold portrait returns
-the leads, because it is the only one that can carry 20 to 30 invites a
-day per profile for months.
+Rules that follow from the table:
 
-So:
-
-- **Never propose a content-based source to a business that does not post
-  regularly.** "Write to the people who react to your posts" is advice
-  for someone who already has an audience. To everyone else it is a
-  detour into content marketing they did not ask for, and it delays the
-  outreach by months.
-- **Never rank sources by reply rate.** The client wants leads, not
-  conversations. Rank by leads a month: volume available times acceptance
-  times reply rate times the share that turns into a real conversation.
-- Where a warm source genuinely exists - they post, they have a network,
-  a signal is available - run it **beside** the cold track, not instead of
-  it, and keep its numbers apart so a warm slice never flatters the cold
-  campaign or the other way round.
-- Content and signals are worth proposing after the cold engine runs and
-  has numbers, as the next increment, and only then.
+1. Rank sources by leads a month, never by reply rate. Leads a month =
+   people the source can supply x accepted x replied x the share that
+   becomes a real conversation.
+2. Do not propose a content-based source to a business that does not
+   already post regularly. It is content marketing, not outbound, and it
+   delays the work by months.
+3. Where a warm source already exists, run it beside the cold track and
+   count it separately. Never instead of it.
+4. Propose content and signals after the cold track has run and has
+   numbers, as the next increment.
 
 ## Phase 0. The picker, when the user does not know who to reach first
 
@@ -71,12 +58,10 @@ audiences, one block each:
 - what a list like it returns, from the table above: warm or cold band;
 - whether the senders can carry it, from phase 5.
 
-Rank them by leads a month, not by reply rate: how many people the source
-can actually supply, times what they answer at. A source that answers
-twice as well but holds a tenth of the people is the smaller audience,
-and say so in that many words. Say which one you would start with and
-why, and let the user pick. Unless they already publish regularly, the
-one you start with is a cold portrait. The pick goes through
+Rank by leads a month, not by reply rate. State for each candidate how
+many people it can supply and what that works out to. Say which one you
+would start with; unless the user already posts regularly, that is the
+cold portrait. Let them pick. The pick goes through
 phase 1 like any other segment. Write the three blocks into
 `business/icp.md` as candidates, marked as such, so the next session does
 not propose them again.
@@ -203,10 +188,9 @@ contact per company you cannot tell "wrong person" from "wrong company".
 
 Grinfi does not search LinkedIn by itself. The audience is gathered from a
 source and then sorted inside (lists, tags, stages, stoplists). Call
-`get_guide` with `import_leads` before any import. The list below is
-ordered warmest first, which is not the order to choose in: start from
-the portrait sources that can carry the volume, and add a warm track only
-where it already exists.
+`get_guide` with `import_leads` before any import. The list is ordered
+warmest first, which is not the order to choose in: start with a source
+that can carry the volume, add a warm one only where it already exists.
 
 | Source | Tool | When |
 |---|---|---|
