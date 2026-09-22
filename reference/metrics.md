@@ -149,11 +149,26 @@ context: anchor A 4 to 8% replies, readable from 150 contacts; anchor B
 campaign from this table: LinkedIn numbers run four to seven times higher
 (section 1).
 
-## 4. Campaign size pulls conversion down
+## 4. Narrow campaigns convert better than wide ones
 
 Up to 50 contacts, about 5.8% replies; 500 or more, about 2.1%. Observed
-across several independent reports. Three tight campaigns beat one merged
-one, and campaigns are compared at similar size, not similar dates.
+across several independent reports, not by us.
+
+**Read the cause correctly, because it is easy to get backwards.** What
+carries that difference is how narrow the audience is, not how few people
+are in it. A campaign of 50 converts because one opening line fits all
+fifty; the same line across 2,000 people fits a tenth of them. Cutting
+one audience with one offer into five chunks of 480 changes nothing
+about the line and buys nothing: the targeting is identical and you have
+bought yourself five queues to run.
+
+So: split when the offer or the anchor differs, because then the line
+differs too. Otherwise narrow the portrait, or keep one campaign and read
+it in slices by tag. And never quote a contact count as the reason to
+split - no measurement of ours supports one, and this number is about
+narrowness wearing a size costume.
+
+Campaigns are compared at similar size, not similar dates.
 
 ## 5. Test math
 
