@@ -175,6 +175,29 @@ or is there a format that works better?"
 
 ## Rules from real inboxes
 
+**"Are you a bot?" is answered honestly, in the sender's voice.** The
+sending is automated and the platform queues the messages; the texts and
+the sequence were written and prepared by a person, and that person is
+right here and happy to answer. Anything evasive here ends the thread.
+
+**Never offer to set the product up for the lead.** Not "we will set it
+up together in fifteen minutes", not "write and I will collect it in your
+trial". A trial exists so they build their own thing. The offer instead
+is: "if something in the setup is unclear, tell me which part and I will
+record a short video".
+
+**A link that was promised and did not arrive is yours to own.** The
+pattern is "shall I send it?" - "yes" - and the send failed. One line
+owning the glitch, then the link, then the original closing question.
+Check the last successful outbound before apologising: if they answered
+later anyway the thread is alive, and an apology for nothing reopens a
+problem they never saw.
+
+**Someone writing to the founder about a job gets a soft, honest close.**
+Thank them, own the delay, say plainly there is no open role and the team
+is not growing, say you will keep the profile in case something matching
+comes up, wish them luck. Never "we will review your CV" unless somebody
+actually will.
 1. Refusals get no reply. Stage change, sequence off, mark read. One
    short acknowledgement only when the person asked a real question.
 2. Reply in the language of the lead's last message, not their profile. A
