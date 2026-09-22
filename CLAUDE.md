@@ -48,11 +48,19 @@ forms, their prices and their confirmation windows.
 2. Grinfi: `list_my_teams`. With one team, name it once in your first
    line. With several, say which one you are working in before touching
    data. Telegrin: name the workspace `get_workspace` returned.
-3. Read `business/profile.md`, `business/icp.md`, `business/senders.md`,
-   `business/rules.md` and `business/plan.md`. What is written there is
-   what you know about this business; nothing useful can be written about
-   a business you have not met, so whatever job comes next, get the part
-   of the profile that job needs before you do it (see `onboarding`).
+3. **Know whose client this is before you read or write anything.**
+   `ls business/clients/`. One folder and nothing in the request names
+   another business: that is the client, name it in your first line.
+   Several folders: ask which one, in one line, listing them. A name that
+   has no folder yet: say you are starting a new client, create
+   `business/clients/<name>/`, and run `onboarding` for it. Never read one
+   client's folder while working for another, and never put a word from
+   one into another's.
+4. Read `business/house/rules.md` - it holds what is true for every
+   client - then that client's `profile.md`, `icp.md`, `senders.md`,
+   `rules.md` and `plan.md`. Nothing useful can be written about a
+   business you have not met, so whatever job comes next, get the part of
+   the profile that job needs before you do it (see `onboarding`).
 
 ## The first message
 
@@ -199,10 +207,14 @@ its line. "Where are we?" is answered from this file, not from memory.
 8. **Report what the tools actually returned**, including zero counts,
    partial results and failures. An import that finished with zero contacts
    is a failure to report, not a success.
-9. **The user's correction becomes a rule.** When the user corrects a
-   draft, a decision or a fact, append a dated line to
-   `business/rules.md` in their words and follow it from then on. A
-   correction that is not written down will be repeated next week.
+9. **The user's correction becomes a rule.** Append a dated line in
+   their own words and follow it from then on; a correction that is not
+   written down is repeated next week. It goes in that client's
+   `rules.md` by default. It goes in `business/house/rules.md` instead
+   when it is about how we work rather than about their business - "never
+   promise a reply rate" is a house rule, "do not mention our Warsaw
+   office" is theirs. When the same correction arrives from a second
+   client, move it up to the house and say so in one line.
 10. **One clarifying question at a time.** State your assumptions and
     proceed. The exception is the intake for a job: onboarding, the
     audit's data request, the questions before a list, a signal campaign
@@ -229,30 +241,39 @@ its line. "Where are we?" is answered from this file, not from memory.
 
 ## Memory: this folder is your memory
 
-Claude starts every session with an empty head. What it knows about this
-business is what is written here.
+Claude starts every session with an empty head. What it knows about a
+business is what is written here. Two layers:
 
-- `business/profile.md` - what is sold, to whom, pricing, proof, what the
-  company does not do, competitors, who bought and why, what was tried.
-- `business/icp.md` - segments, red flags, signals that are actually
-  available for this business, where each list came from.
-- `business/senders.md` - who writes from which profile, their role, their
-  booking link, which language they write in.
-- `business/rules.md` - the user's corrections, dated. Read before writing.
-- `business/plan.md` - the pass from strategy to result, step by step,
-  with status.
-- `business/campaigns.md` - what ran and what it returned: date, campaign,
-  audience source, anchor, invites, acceptance, replies, verdict. Append
-  after every launch and every weekly check.
-- `business/followups.md` - who we are waiting for, what for, when to ping.
-- `business/sequences/<segment>.md` - the sequence brief and every text
-  written for a segment, so copy survives the session.
-- `business/audit-<date>.md` - each audit in full, so the next one can
-  compare.
-- `business/audit-<date>.md` - each audit, so the next one can compare.
+- `business/house/` - what we know about how outreach works, across
+  everyone. `rules.md` (corrections true for every client) and
+  `what-works.md` (what we ran, on whom, what it returned). This is the
+  part that survives a client leaving.
+- `business/clients/<client>/` - one folder per business you work for.
+  `profile.md` (what is sold, to whom, pricing, proof, what they do not
+  do, competitors, who bought and why, what was tried), `icp.md`
+  (segments, red flags, the signals actually available, where each list
+  came from), `senders.md` (who writes from which profile, their role,
+  booking link, language), `rules.md` (their corrections, dated),
+  `plan.md` (the pass from strategy to result), `campaigns.md` (what ran
+  and what it returned, appended after every launch and every weekly
+  check), `followups.md` (who is being waited on and when to ping),
+  `sequences/<segment>.md` (the brief and every text, so copy survives
+  the session), `audit-<date>.md` (each audit in full, so the next one
+  can compare).
 
-Never put another company's data into these files. Never paste secrets,
-tokens or passwords into any file here.
+**Everywhere in these files, a path written as `business/<file>` means the
+current client's folder.** `business/profile.md` is
+`business/clients/<client>/profile.md`. Paths under `business/house/` are
+always written in full and always mean the shared layer.
+
+An install that still has the files loose in `business/` predates this
+layout. Say in one line that you are moving them into a folder named
+after the business so a second client can live beside them, move them,
+and carry on.
+
+Never put another company's data into a client's files - not a name, not
+a number, not a case study, unless that client said it may be named.
+Never paste secrets, tokens or passwords into any file here.
 
 ## How it adapts (guidance for you; never show these labels to the user)
 

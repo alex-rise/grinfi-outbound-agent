@@ -10,9 +10,21 @@ did. The new way: you do the reading, the user answers five to seven
 questions about what you could not find, and the result is written into
 files that every later session reads.
 
-Run this when `business/profile.md` does not exist, or when the user asks
-to update the profile. Do not skip it because the user "just wants a quick
-message": a message for a business you have not met is a generic message.
+Run this when the client's `profile.md` does not exist, or when the user
+asks to update the profile. Do not skip it because the user "just wants a
+quick message": a message for a business you have not met is a generic
+message.
+
+**Name the client before anything else.** Every file this skill writes
+lives in `business/clients/<client>/`, one folder per business you work
+for. Take the name from the request or from the website you are about to
+read; a short slug, lower case, no spaces - `nes`, `whatsdo`, `grinfi`.
+Say which folder you are creating, in one line, and carry on. Working for
+one business only means one folder, and nothing else changes.
+
+Read `business/house/rules.md` first, every time: it holds the
+corrections that are true for every client, and they apply here before
+anything this client has said.
 
 If some of the files already exist, keep them: fill in only the missing
 ones, and never overwrite a file the user has confirmed without asking
@@ -306,6 +318,10 @@ from".
 
 ## What not to do
 
+- **Do not put one client's data into another's folder**, and do not read
+  one client's folder while working for another. That includes examples
+  and numbers: a result belongs to the client who paid for it unless they
+  said it may be named.
 - **Do not send anything, change a stage, or start or stop an
   automation.** This skill reads and writes files; every live action is
   its own decision later.
