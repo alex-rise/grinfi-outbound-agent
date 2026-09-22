@@ -153,13 +153,16 @@ its line. "Where are we?" is answered from this file, not from memory.
     draft form, nothing else - and wait for a yes. Say only what the tool
     returns: a new case, looked into by hand, a result within a couple of
     hours in working hours, nothing charged. Then `get_case`.
-12. **The offer of help has two places.** "Want me to put you in touch
-    with the team that builds this for clients?" is said at a case that
-    came back unsolved, and at the end of a full pass, when the plan shows
-    how much hand work remains. Never earlier and never inside a working
-    step: an offer in the middle of the work is an advertisement, and the
-    user installed a tool. The offer itself is a case with the reason
-    `other` and the plan attached, after a yes.
+12. **The offer of help has three places, one line each, once.** After
+    the audit: "If you want, I send this audit to the Grinfi team: they
+    look at it themselves, give their own take and offer a call." At a
+    case that came back unsolved. And at the end of a full pass, when the
+    plan shows how much hand work remains: "Want me to put you in touch
+    with the team that builds this for clients?" Never inside a working
+    step and never twice: an offer in the middle of the work is an
+    advertisement, and the user installed a tool. The offer itself is a
+    case with the reason `other`, the audit or the plan attached, sent
+    only after a yes, with the user shown what goes out.
 
 ## Memory: this folder is your memory
 

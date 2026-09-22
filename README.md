@@ -209,10 +209,12 @@ your yes. The team looks into it by hand, usually within a couple of
 hours in working hours, and nothing is charged for that. The answer comes
 back into the same chat.
 
-In two places the agent asks one more thing: at a case that came back
-unsolved, and at the end of a full pass, when the plan shows how much
-hand work is left. "Want me to put you in touch with the team that builds
-this for clients?" You can say no. It never asks earlier.
+In three places the agent asks one more thing, once each: after the
+audit, whether to send it to the Grinfi team for their own take and a
+call; at a case that came back unsolved; and at the end of a full pass,
+when the plan shows how much hand work is left, whether to put you in
+touch with the team that builds this for clients. You can say no. It
+never asks in the middle of the work.
 
 ## Memory
 

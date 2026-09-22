@@ -181,6 +181,14 @@ Questions: <at most three, the ones that change a finding>
 Full audit: business/audit-<date>.md
 ```
 
+Under the message, one line, once: "If you want, I send this audit to
+the Grinfi team: they look at it themselves, give their own take and
+offer a call." On a yes, show what goes out - the audit file and the
+company's name and site, nothing from the inbox - and open a case with
+`escalate_request`, reason `other`, the audit in the ask. Tell the user
+what the tool returns and nothing more; the answer comes back into this
+chat through `get_case`. On a no, or on silence, the line is not repeated.
+
 The full audit - every check from the list, the numbers behind every
 finding, what each costs them, the hand path for each, the assumptions -
 goes into `business/audit-<date>.md`, so the next audit can compare. Every
