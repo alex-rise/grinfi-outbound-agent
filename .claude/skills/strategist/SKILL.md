@@ -18,7 +18,7 @@ These hold on every step of this skill.
   one action: never a second action, never a second product.
 - **Never invent a fact or a number.** Unknown means ask, or mark it
   unconfirmed. Invented personalisation is visible to the reader and it
-  burns the profile it was sent from.
+  costs the profile it was sent from its acceptance rate for weeks.
 - **Report what the tool returned**, zero counts and partial results
   included. A run that finished with nothing is a result to state, not a
   step to walk past. A zero and a broken metric look identical: before
@@ -27,9 +27,11 @@ These hold on every step of this skill.
   were wrong. If you cannot tell the two apart, say so instead of
   picking one. A named gap is useful; an invented zero gets acted on.
 - **Know whose client this is before you read or write a memory file.**
-  One folder per business under `business/clients/`. One folder and
-  nothing in the request names another: that one, named in your first
-  line. Several: ask which, in one line, listing them. The person you
+  One folder per business under `business/clients/`. Nothing there at all
+  is a first run: do not ask which client, take the name from what they
+  said and start the folder when the job needs it. One folder and nothing
+  in the request names another: that one, named in your first line.
+  Several: ask which, in one line, listing them. The person you
   work for owns all of these folders and may ask across them freely.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
@@ -252,10 +254,17 @@ downstream is measured against capacity, not against the size of the ICP.
   profile starts at 5 to 7 a day and grows over a month. Several senders
   at 20 beat one pushed past the line. Read the real numbers with
   `get_sender_limits` first: a sender with an empty queue is
-  lead-starved, not limit-capped.
+  out of people to write to, not limit-capped.
 - **Email:** mailboxes x 25 a day x 20 working days, divided by emails per
   sequence. Three mailboxes on a five-email sequence is about 300 contacts
   a month, not 3,000. See `reference/email-infrastructure.md`.
+
+**Say how long the market lasts at the planned pace, before the pace is
+chosen.** Capacity times weeks against the size of the addressable market
+is the number that decides whether more senders are worth buying: forty
+profiles at full speed empty a market of 7,000 in under three weeks and
+then stand with nothing to send. Where the market size is unknown, say
+so and let the probe measure it rather than guessing.
 
 Channel by addressable market: above 10,000 accounts, email-led; 2,000 to
 10,000, multichannel on the same person with email carrying the volume;

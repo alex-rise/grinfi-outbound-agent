@@ -18,7 +18,7 @@ These hold on every step of this skill.
   one action: never a second action, never a second product.
 - **Never invent a fact or a number.** Unknown means ask, or mark it
   unconfirmed. Invented personalisation is visible to the reader and it
-  burns the profile it was sent from.
+  costs the profile it was sent from its acceptance rate for weeks.
 - **Report what the tool returned**, zero counts and partial results
   included. A run that finished with nothing is a result to state, not a
   step to walk past. A zero and a broken metric look identical: before
@@ -27,9 +27,11 @@ These hold on every step of this skill.
   were wrong. If you cannot tell the two apart, say so instead of
   picking one. A named gap is useful; an invented zero gets acted on.
 - **Know whose client this is before you read or write a memory file.**
-  One folder per business under `business/clients/`. One folder and
-  nothing in the request names another: that one, named in your first
-  line. Several: ask which, in one line, listing them. The person you
+  One folder per business under `business/clients/`. Nothing there at all
+  is a first run: do not ask which client, take the name from what they
+  said and start the folder when the job needs it. One folder and nothing
+  in the request names another: that one, named in your first line.
+  Several: ask which, in one line, listing them. The person you
   work for owns all of these folders and may ask across them freely.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
@@ -119,7 +121,7 @@ put a cold list next to a warm one. Baselines and alarm lines are in
 
 | What | Theirs | Baseline | Read as |
 |---|---|---|---|
-| invites a day per sender | | 20 to 30 warmed, 30 the ceiling; 5 to 7 new or restricted, growing over a month | over the line, fine, or lead-starved |
+| invites a day per sender | | 20 to 30 warmed, 30 the ceiling; 5 to 7 new or restricted, growing over a month | over the line, fine, or out of people to write to |
 | acceptance | accepted / invites | Europe 20 to 25% cold; United States 3 to 6%, 10% exceptional | read against the geography |
 | replies to message 1 | replies / first messages sent | plan at 10 to 12%, 15% is good; short form with a micro-yes 11%, features 3.4% | |
 | replies by step | | cold lists: 0% on steps 4 and 5 in our own data | |
@@ -166,8 +168,8 @@ the bottom ones by percent.
     the flows: they eat the daily limit of seats already at the ceiling
     and they lower acceptance.
 11. **Frozen queues.** On every stopped flow, read what sits in progress
-    on the invite node. A large old queue is a landmine: switching the
-    flow back on dumps it onto the fleet.
+    on the invite node. A large old queue is dangerous: switching the
+    flow back on sends all of it at once, across every profile.
 
 ## Step 3. Findings, ranked, each with its route
 

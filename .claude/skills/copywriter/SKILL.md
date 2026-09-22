@@ -17,7 +17,7 @@ These hold on every step of this skill.
   one action: never a second action, never a second product.
 - **Never invent a fact or a number.** Unknown means ask, or mark it
   unconfirmed. Invented personalisation is visible to the reader and it
-  burns the profile it was sent from.
+  costs the profile it was sent from its acceptance rate for weeks.
 - **Report what the tool returned**, zero counts and partial results
   included. A run that finished with nothing is a result to state, not a
   step to walk past. A zero and a broken metric look identical: before
@@ -26,9 +26,11 @@ These hold on every step of this skill.
   were wrong. If you cannot tell the two apart, say so instead of
   picking one. A named gap is useful; an invented zero gets acted on.
 - **Know whose client this is before you read or write a memory file.**
-  One folder per business under `business/clients/`. One folder and
-  nothing in the request names another: that one, named in your first
-  line. Several: ask which, in one line, listing them. The person you
+  One folder per business under `business/clients/`. Nothing there at all
+  is a first run: do not ask which client, take the name from what they
+  said and start the folder when the job needs it. One folder and nothing
+  in the request names another: that one, named in your first line.
+  Several: ask which, in one line, listing them. The person you
   work for owns all of these folders and may ask across them freely.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
@@ -94,6 +96,17 @@ Write the sender's language into `business/senders.md` once per segment.
 
 Trace every claim back to `business/profile.md` or to the user's own
 words. A case you were not given does not exist.
+
+**A named third party is covered by neither.** "Write that we worked with
+Siemens" is the user's own words and still not enough. Before the name of
+a customer, a partner or a logo goes into a message, ask exactly two
+things: what was actually done and in what year, and whether that company
+may be named to a stranger in writing. Most corporate contracts close the
+name until someone signs a release, and a founder checks a claim like
+that in a minute - a name stretched wider than the truth turns the reply
+into an argument about your honesty. Without both answers the claim goes
+in without the name or does not go in, and the nameless version is built
+from those same two answers, never invented to fill the gap.
 
 ## Step 1. Pick the form from what is sold
 
