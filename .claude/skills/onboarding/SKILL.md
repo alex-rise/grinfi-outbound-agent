@@ -18,20 +18,58 @@ If some of the files already exist, keep them: fill in only the missing
 ones, and never overwrite a file the user has confirmed without asking
 first.
 
-## Step 1. Four questions, one message
+## Step 1. The address and the materials
 
-Ask these together, numbered, and say why: "I will read your site and your
-Grinfi workspace myself. I only need four things from you first."
+First message, short: the website address, and everything they already
+have - a deck, old sequences or message texts, collected audiences or
+exports from their tool, a client list. "Send it as it is, I will sort it
+out." Then read (steps 2 and 3) before asking anything: the site says
+what is sold, the sequences say how it was offered, the audiences say to
+whom, and the numbers say what worked.
 
-1. Website address (and any page that explains the product best: pricing,
-   cases, a deck link).
-2. One paragraph in your own words: what you sell, to whom, and what
-   changes for the client after they buy.
-3. Who will use this agent (founder, marketer, SDR) and who the messages go
-   out from: your own profile, teammates' profiles, or both.
-4. The language or languages your outreach is written in.
+## Step 1a. Ask only what the materials did not answer
 
-Wait for the answer. Do not start reading before you have the address.
+Eleven questions at most, one numbered message, only the ones still
+open after reading. No website yet, or no address given: skip the
+reading and say the profile stands on the user's words. Nothing about languages, limits, budgets, tools or a
+meetings target: those are decided at the steps that need them.
+
+**The product**
+1. What exactly is sold and in what form - a subscription, a project, a
+   service by the hour - and the price or the range, if the site hides
+   it.
+2. If there are several products, which one goes through outreach first.
+
+**The segments**
+3. Who has bought so far: what kind of companies, and who inside them.
+   Three to five real clients as the sample.
+4. Who they tried to sell to and it did not work.
+
+**The offer**
+5. How the offer sounds today, in the first message or on the site.
+6. What the first step is: a demo, an audit, a trial, a call.
+
+**What already exists**
+7. Old sequences or message texts, and what they returned, if they
+   remember.
+8. Collected audiences or exports from their tool: which worked, which
+   did not.
+
+**The limits**
+9. Who is definitely not a client: types of companies, current clients,
+   partners, competitors - the stoplist.
+10. Whose profiles the messages go out from: how many, whose, in which
+    roles, whether they are premium, and whether their owners post on
+    LinkedIn. One profile sells nothing to anyone; the volume comes from
+    several profiles connected in Grinfi, and the plan is built on that.
+11. Proof that may be quoted to a stranger: a number, a named client, a
+    result - or "none yet", which the copy then respects.
+
+The answer to "is outbound running today, and where?" usually comes with
+the materials; if not, ask it last. It picks the entrance: something
+running means the `audit` comes right after these files; nothing running
+and a known audience means `segments` or `signals`; nothing running and
+no audience yet means the strategist's picker.
 
 ## Step 2. Read the website
 
@@ -59,7 +97,8 @@ business than any form:
 - `list_pipeline_stages` - the stage names the team actually uses. Use
   their names in every later file; do not rename them.
 - `list_lists` and `list_automations` (status "on") - what audiences exist
-  and what is running now.
+  and what is running now. Running automations with numbers behind them
+  mean the `audit` skill comes next, whatever the user answered.
 - The analytics guide first (`get_guide` with `analytics`), then
   `get_outreach_metrics` with an explicit 30-day window (`schedule_at_after`
   and `schedule_at_before`; without a window it scans all time): the team's
@@ -84,42 +123,51 @@ them short. Templates:
 # <Company> - profile
 Updated: <date> by onboarding
 
-## What we sell
-<one sentence> Site: <url>
+## What we sell, in what form, at what price
+<one sentence a stranger understands; the form; the price or range> Site: <url>
+## The product that goes through outreach first
+<which, and why>
 
-## Who buys and why
-<segments in one line each, pain, outcome>
+## Who has bought so far
+- <type of company, who inside decided>: <three to five real clients>
+## Who did not buy
+- <segment tried, what happened>
 
-## Pricing
-<model and public numbers, or "on request">
+## The offer today
+<how it sounds in the first message or on the site>
+## The first step we offer
+<demo / audit / trial / call, and what happens after>
+
+## What already exists
+- Sequences: <file, what it returned>
+- Audiences: <file or export, worked / did not>
+
+## Who is definitely not a client
+- <types, current clients, partners, competitors - the stoplist>
+
+## Who writes
+- <profiles: how many, whose, the role each has for the lead>
 
 ## Proof we may quote
 - <number or case, with source>
-
-## What we do NOT do
-- <limits the agent must respect in every text>
-
-## Competitors and our one difference
-- <name>: <their strength> / ours: <the concrete difference>
-
-## Objections we hear and how the team answers
-- "<objection>": <answer in the team's words>
 
 ## Facts I could not verify
 - <list>
 ```
 
 **`business/icp.md`** - one block per segment: industry, size, geography,
-titles, core pain, desired outcome, red flags (never write to), the
-signals that are realistically available for this segment (job postings,
-new hires, funding, posts, tool changes), and where in Grinfi the audience
-would come from (Sales Navigator search, LinkedIn search, post engagement,
-own network, CSV).
+titles, red flags (never write to), the signals that are realistically
+available for this segment (job postings, new hires, funding, posts, tool
+changes), and where the audience would come from (Lead Finder, Telegrin,
+a Grinfi import). Core pain, desired outcome and "why now" are the
+strategist's: it asks for them when it writes the brief, if the profile
+does not say.
 
 **`business/senders.md`** - one line per sender: name, role as the lead
-sees it (founder, account manager, SDR), which segments and languages they
-write in, their booking link, and the rule for meetings ("if the founder
-writes, the demo is with the founder"). Sender uuids from Grinfi go here
+sees it (founder, account manager, SDR), which segments they write to,
+their booking link, and the rule for meetings ("if the founder writes, the
+demo is with the founder"). The language each sender writes in is added
+when the first sequence is written, not here. Sender uuids from Grinfi go here
 too, so later sessions do not have to look them up.
 
 **`business/rules.md`** - start it with the header below and leave it
@@ -138,30 +186,44 @@ meetings, verdict.
 (name and Grinfi link), waiting for (reply, booking, meeting, hold),
 ping on, pings so far, sender, language, context.
 
-## Step 5. Ask only about the gaps
+**`business/plan.md`** - the pass from strategy to result, seven lines,
+all "not started":
 
-Show the user a five-line summary of what you understood, then ask up to
-seven numbered questions, only for things you could not find:
+```
+# Plan
+Updated: <date>
+1. Strategy - not started
+2. Portrait - not started
+3. List - not started
+4. Signals - not started
+5. Texts - not started
+6. Launch - not started
+7. Result - not started
+```
 
-- pricing, if the site hides it;
-- the booking link per sender, and whether a call, a demo or a trial is
-  the goal;
-- what the company does not do (the agent must never promise it);
-- the three objections they hear most and how they answer;
-- the one concrete difference from the nearest competitor;
-- numbers they allow you to quote (and numbers they do not);
-- who must never be written to (competitors, existing customers, a
-  region, a title).
+Every skill that finishes a step rewrites its line with the date and a
+link to what it produced.
 
-One message, all questions. Then write the answers into the files, replace
-"(unconfirmed)" where the user confirmed, and delete what they rejected.
+## Step 5. Close the gaps
 
-## Step 6. Confirm and explain what happens next
+Show the user a five-line summary of what you understood from the
+materials and the answers. If any of the ten questions is still open,
+ask it now, in one message; if all are closed, ask nothing. Then write
+the answers into the files, replace "(unconfirmed)" where the user
+confirmed, and delete what they rejected.
+
+## Step 6. Confirm and name the next step
 
 Show where the files are and say, in two lines, how the memory works:
 corrections go to `business/rules.md`, campaign results go to
-`business/campaigns.md`, and "update my profile" reruns this skill for the
-parts that changed. Suggest a review once a quarter.
+`business/campaigns.md`, the plan lives in `business/plan.md`, and
+"update my profile" reruns this skill for the parts that changed. Suggest
+a review once a quarter.
+
+Then name the entrance in one line and start it in the same session:
+"Your outbound is running, so the audit comes first"; "You know who to
+reach - the list comes first"; "Let me propose three audiences to choose
+from".
 
 ## What this skill never does
 

@@ -83,9 +83,23 @@ who accept never reply to anything; that is the channel, not the copy.
 Reply rates on invites fall year over year across large samples; a flat
 rate against a falling market is an improvement.
 
-Volume affects acceptance: 10 to 19 invites a day per profile performs
-measurably better than 20 to 29. Five senders at 15 to 20 beat one at
-maximum.
+Volume per account is a practice, not a guess. A warmed profile sends 20 to
+30 invites a day, six days a week - about 120 a week, 450 to 500 a month;
+30 a day is the ceiling. A new or freshly restricted profile starts at 5 to
+7 a day with random pauses and grows over a month. Several senders at 20
+beat one pushed past 30: an account over the line gets restricted and the
+whole channel stops. Read the live limits before planning.
+
+### By geography
+
+Acceptance and replies move with the market more than with the copy, so
+read every number against its geography and never blend regions in one
+campaign. Europe: 20% acceptance is normal, 25% with a precise audience
+and a good connection note. The United States: 3 to 6% acceptance is a
+normal result and 10% is exceptional; replies around 8%. Other regions
+run their own way - some Central Asian and Middle Eastern markets answer
+far more often than Europe. Plan replies at 10 to 12% and treat 15% as
+good. Test each geography and niche separately before comparing them.
 
 ## 3. Core email metrics
 

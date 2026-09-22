@@ -1,6 +1,6 @@
 ---
 name: strategist
-description: Who to write to and why. Use for ICP and segments, buying signals, message anchors (A/B/C), scoring, list quality, channel capacity, and choosing the audience source in Grinfi (Sales Navigator, LinkedIn search, post engagement, own network, CSV). Produces a segment brief the architect and copywriter work from. Does not write copy and does not build sequences.
+description: Who to write to and why. Use for ICP and segments, buying signals, message anchors (A/B/C), scoring, list quality, channel capacity, choosing the audience source (Lead Finder, Telegrin, or a Grinfi import - post engagement, own network, Sales Navigator, CSV), and the picker when the user does not know who to reach first. Produces a segment brief the architect and copywriter work from, and the plan. Does not write copy and does not build sequences.
 ---
 
 # Strategist: who, why, and how much the channel can carry
@@ -29,6 +29,29 @@ Where the list comes from outweighs everything the copywriter can do.
 Choose the source before the segment, and never compare a cold campaign
 with a warm one as if they were the same experiment.
 
+## Phase 0. The picker, when the user does not know who to reach first
+
+Some users arrive with a product and no segment. Do not ask them to
+choose; propose. From `business/profile.md` - what is sold, who bought in
+the last year and why, what was tried and what it returned - write three
+audiences, one block each:
+
+- who, in one line: title, company type, size, geography;
+- the signal or anchor that is realistically available for them: an
+  event with a date, a data point with a comparison, or a narrow pattern;
+- where the list comes from and what it costs to get: people who reacted
+  to the user's posts or their own network (Grinfi, free), a verified list
+  from a portrait (Lead Finder, priced by a probe), the people asking
+  right now (Telegrin, credits per post read);
+- what a list like it returns, from the table above: warm or cold band;
+- whether the senders can carry it, from phase 5.
+
+Rank them by expected replies per week of sending, say which one you
+would start with and why, and let the user pick. The pick goes through
+phase 1 like any other segment. Write the three blocks into
+`business/icp.md` as candidates, marked as such, so the next session does
+not propose them again.
+
 ## Phase 1. ICP
 
 Before any list exists, the segment must. Required fields:
@@ -43,7 +66,9 @@ Before any list exists, the segment must. Required fields:
 8. Why now: the timing reason.
 
 Write it as one block per segment into `business/icp.md`. One segment,
-one block, one name.
+one block, one name. Core pain, desired outcome and "why now" come from
+`business/profile.md` when the interview covered them; when they do not,
+ask the user for the three in one message before the brief.
 
 ## Phase 2. Signals and anchors
 
@@ -65,7 +90,9 @@ filler mixed into a signal campaign.
 A job posting is a signal only when they are hiring the buyer, not the
 function you sell. An agency hiring a PPC specialist is building in-house;
 a company hiring a Head of Marketing is about to rewrite its strategy. Ask
-"who is being hired?" before calling a vacancy a signal.
+"who is being hired?" before calling a vacancy a signal. A role open for
+ninety days or more is a different thing: a stuck hire, anchor B, a data
+point with a comparison, not a Tier 1 signal.
 
 **Every message stands on one anchor**, assigned here and inherited by the
 whole sequence:
@@ -120,11 +147,14 @@ by anchor later is a campaign you cannot learn from.
 Capacity is calculated before the segment is chosen. Every percentage
 downstream is measured against capacity, not against the size of the ICP.
 
-- LinkedIn: profiles in the pool x about 100 invites a week. 10 to 19
-  invites a day per profile is the observed sweet spot; 20 to 29 a day
-  measurably lowers acceptance. Five senders at 15 to 20 beat one account
-  at maximum. Read the real numbers with `get_sender_limits` before
-  planning; a sender with an empty queue is lead-starved, not limit-capped.
+- LinkedIn: profiles in the pool x about 120 invites a week. A warmed
+  profile sends 20 to 30 a day, six days a week; 30 is the ceiling; a new
+  profile starts at 5 to 7 a day and grows over a month. Several senders
+  at 20 beat one account pushed past the line. Read the real numbers with
+  `get_sender_limits` before planning; a sender with an empty queue is
+  lead-starved, not limit-capped. Without Grinfi, plan on the rule: a
+  profile that never sent in volume starts at 5 to 7 a day, a warmed one
+  runs at 20 to 30.
 - Email: mailboxes x 25 a day x 20 working days, divided by emails per
   sequence. Three mailboxes on a five-email sequence is about 300 contacts
   a month, not 3,000. See `reference/email-infrastructure.md`.
@@ -140,7 +170,7 @@ switching inside one sequence is never a step: a person contacted for the
 first time at step 4 receives a fourth touch as a first message. With one
 contact per company you cannot tell "wrong person" from "wrong company".
 
-## Phase 6. Audience sources in Grinfi
+## Phase 6. Audience sources
 
 Grinfi does not search LinkedIn by itself. The audience is gathered from a
 source and then sorted inside (lists, tags, stages, stoplists). Call
@@ -150,7 +180,9 @@ first:
 | Source | Tool | When |
 |---|---|---|
 | People who reacted to your posts or a competitor's post | `import_post_engagement` | warmest list you can get without a signal; 16% replies in our data |
+| People asking about the problem right now, companies hiring the buyer | Telegrin, the `signals` skill | anchor A: an event with a date; LinkedIn cards are handed to Grinfi for free, the rest are conversations on their own channel |
 | Your own first-degree network | `import_ln_my_network` | reactivation, referrals |
+| A list that does not exist yet, built from a portrait | Lead Finder, the `segments` skill | titles at companies of a size, country, industry, age; company verified before anyone is bought; expats; local businesses. Priced by a probe, paid only for people who matched |
 | Sales Navigator search, saved or ad hoc | `import_sn_saved_search`, `import_sn_dynamic_search` | ICP lists with title and size filters |
 | Regular LinkedIn people search | `import_ln_leads_search` | no Sales Navigator seat |
 | Sales Navigator accounts search | `import_sn_accounts_search` | company-first routes: verify the company, then find the people |
@@ -176,7 +208,7 @@ Anchor: <A / B / C> - <the observation the sequence stands on>
   B: data point + comparison baseline
   C: the narrow cut + the pattern
 Tier mix: <expected shares>
-Audience source in Grinfi: <tool and search> -> list "<name>"
+Audience source: <Lead Finder / Telegrin / Grinfi import - tool and search> -> list "<name>"
 Channel plan: <LinkedIn-led / email-led / multichannel>
 Capacity: <senders x invites/week> -> <contacts per month>
 Contacts per company: <1 / 2-3, offset>
@@ -186,4 +218,7 @@ Red flags: what never to reference or promise
 ```
 
 Hand it to the sequence-architect (structure) and the copywriter (words).
-Write the segment into `business/icp.md` if it is new.
+Write the segment into `business/icp.md` if it is new, and the pass into
+`business/plan.md`: strategy, portrait, list, signals, texts, launch,
+result - one line per step, with its status and what it produced. Every
+skill that finishes a step updates its line.

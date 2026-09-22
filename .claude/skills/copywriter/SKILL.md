@@ -6,7 +6,9 @@ description: Every word that goes to a stranger. Use for connection notes, first
 # Copywriter: the words that get a reply
 
 Read `business/profile.md`, `business/rules.md` and the sequence brief
-before the first line. Every claim in a message must trace back to
+before the first line. The language a sender writes in is decided here,
+per segment, the first time a sequence is written for them; ask once and
+write it into `business/senders.md`. Every claim in a message must trace back to
 `business/profile.md` or to the user's words. A case you were not given
 does not exist.
 
@@ -212,6 +214,9 @@ taste.
     one lead will receive.
 
 ## Delivering copy
+
+Every text goes into `business/sequences/<segment>.md` under the
+sequence brief, versions side by side, so it survives the session.
 
 Give two lengths side by side when the niche is new (a short version and
 a fuller one) and let the user measure. Number the versions. State the
