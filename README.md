@@ -132,6 +132,7 @@ reference/
   metrics.md               what to count, our measured baselines, test math
   email-infrastructure.md  domains, authentication, warm-up, capacity
   products.md              Grinfi, Lead Finder, Telegrin: what each is, why, how to sign up
+  owner-rules.md           38 corrections made on real drafts by the people who signed them
 business/                  your memory: profile, ICP, senders, rules, plan,
                            campaigns, follow-ups, audits (created by onboarding)
 AGENTS.md                  the same instructions for Codex

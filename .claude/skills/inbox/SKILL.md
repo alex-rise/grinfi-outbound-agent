@@ -1,6 +1,6 @@
 ---
 name: inbox
-description: The daily inbox routine through Grinfi MCP. Use on "check the inbox", "what's new", "any replies", "morning routine", "follow-ups", or any pass over unread conversations. Sorts every reply into a bucket, changes stages and automations that need no approval, drafts every text that does, checks bookings before pinging, and ends with a "nobody lost" checklist. The words in a single thread follow the dialogue skill; this skill is the order of operations.
+description: Use on check the inbox, what's new, any replies, the morning routine, follow-ups, or any pass over unread conversations. Stages and automations change in this skill. For the words inside a single thread, the dialogue skill.
 ---
 
 # Inbox: the morning routine
@@ -15,6 +15,34 @@ tool name). Toolsets: `linkedin` (messages, unread, mark read), `crm`
 (contacts, stages, mass actions, stoplist), `automations` (continue,
 cancel, tasks), `email` (mailbox threads on the card).
 
+## Rules
+
+These hold on every step of this skill.
+
+- **Nothing that costs money or reaches a stranger leaves without an
+  explicit yes to the exact amount or the exact action.** One yes covers
+  one action: never a second action, never a second product.
+- **Never invent a fact or a number.** Unknown means ask, or mark it
+  unconfirmed. Invented personalisation is visible to the reader and it
+  burns the profile it was sent from.
+- **Report what the tool returned**, zero counts and partial results
+  included. A run that finished with nothing is a result to state, not a
+  step to walk past.
+- **The words in these files are working terms, not words for the user.**
+  `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
+  what they mean instead. Someone who has never run outbound has no way
+  to decode a label you invented while you worked.
+- **Say it plainly, with no images.** Mannered writing swaps a direct
+  statement for a picture: "the engine" instead of "the plan we build
+  first", "a dial worth turning" instead of "a setting worth changing".
+  The picture shows off the writer instead of carrying the idea, the
+  reader feels it, and it is less exact, because a metaphor drags in
+  meanings nobody chose. It also travels: the register you read here
+  becomes the register you write in, and an image out of an English file
+  arrives in the user's language translated word for word, meaning
+  nothing. The images in these files are shorthand for you. To the user,
+  say the thing.
+
 ## Tools used
 
 | Tool | What it does here | Required? |
@@ -24,7 +52,8 @@ cancel, tasks), `email` (mailbox threads on the card).
 
 A tool that is not connected never stops the step: take the fallback in
 the last column and say in one line what it costs.
-## Iron rules
+
+## Rules of this routine
 
 1. **"Read" is set only after an action.** An action is one of: a sent
    reply, `continue_automation`, a stage change, a row in
@@ -211,6 +240,23 @@ later; if the dialogue moved on, do not apologise.
 - [ ] failed and stuck sends were looked at
 - [ ] signals and rules are written down
 - [ ] the report lists what needs the user's decision
+
+## How it sounds in the chat
+
+**Before a ping.**
+
+> Bad: sends "just following up" to five people who have been silent a
+> week.
+>
+> Good: "Two of the five already have a meeting in your calendar. They
+> booked without answering, so they are off the ping list. Here are the
+> other three."
+
+**On what "read" means.**
+
+> Good: "I left four conversations unread. Each one has a question in it
+> that needs a text from you, and marking them read is exactly how people
+> get lost."
 
 ## What not to do
 

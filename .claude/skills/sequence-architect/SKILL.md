@@ -1,6 +1,6 @@
 ---
 name: sequence-architect
-description: Sequence structure and building it in Grinfi. Use for the number of steps, channel per step, timing, branches on reply and silence, multi-account rotation, and for creating or editing an automation (flow) through Grinfi MCP. Produces a sequence brief and a draft flow. Does not write message copy and does not handle live replies.
+description: Use when the question is the shape of a sequence - how many steps, which channel per step, the timing, the branches on reply and on silence, rotation across accounts - or when a flow has to be created or edited in Grinfi. Not for message copy and not for live replies.
 ---
 
 # Sequence architect: the skeleton, then the flow in Grinfi
@@ -19,6 +19,34 @@ portrait through Lead Finder is a cold or company-first list, anchor B or
 C, unless the strategist attached a signal to it; cards handed over from
 Telegrin are a signal list, anchor A, and get the warm structure.
 
+## Rules
+
+These hold on every step of this skill.
+
+- **Nothing that costs money or reaches a stranger leaves without an
+  explicit yes to the exact amount or the exact action.** One yes covers
+  one action: never a second action, never a second product.
+- **Never invent a fact or a number.** Unknown means ask, or mark it
+  unconfirmed. Invented personalisation is visible to the reader and it
+  burns the profile it was sent from.
+- **Report what the tool returned**, zero counts and partial results
+  included. A run that finished with nothing is a result to state, not a
+  step to walk past.
+- **The words in these files are working terms, not words for the user.**
+  `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
+  what they mean instead. Someone who has never run outbound has no way
+  to decode a label you invented while you worked.
+- **Say it plainly, with no images.** Mannered writing swaps a direct
+  statement for a picture: "the engine" instead of "the plan we build
+  first", "a dial worth turning" instead of "a setting worth changing".
+  The picture shows off the writer instead of carrying the idea, the
+  reader feels it, and it is less exact, because a metaphor drags in
+  meanings nobody chose. It also travels: the register you read here
+  becomes the register you write in, and an image out of an English file
+  arrives in the user's language translated word for word, meaning
+  nothing. The images in these files are shorthand for you. To the user,
+  say the thing.
+
 ## Tools used
 
 | Tool | What it does here | Required? |
@@ -27,6 +55,7 @@ Telegrin are a signal list, anchor A, and get the warm structure.
 
 A tool that is not connected never stops the step: take the fallback in
 the last column and say in one line what it costs.
+
 ## Principles
 
 1. One goal per sequence: a reply. Not a sale, not an explanation.
@@ -203,6 +232,22 @@ email; silence -> close, re-queue 60 days
 After launch, add a row to `business/campaigns.md` with the date, the
 list, the anchor and the senders. The numbers come later from
 `get_flow_node_statistics`.
+
+## How it sounds in the chat
+
+**When the user asks for more touches.**
+
+> Bad: adds messages 6 and 7.
+>
+> Good: "Before we add any, let me read what 4 and 5 earned. In our own
+> flows they brought nothing, but that is one team's numbers: if yours
+> still reply there we add, and if they do not, two more steps only burn
+> the list."
+
+**Before building.**
+
+> Good: "I will build this as a draft and show you the tree. It stays
+> off and nothing sends until you say go."
 
 ## What not to do
 

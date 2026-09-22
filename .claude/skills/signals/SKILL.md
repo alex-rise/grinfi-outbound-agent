@@ -1,6 +1,6 @@
 ---
 name: signals
-description: People who are asking about the problem right now, through Telegrin. Use when the user wants intent instead of a list - "who is asking about X this week", "companies hiring a Head of Sales", posts on Telegram, Threads, Reddit, LinkedIn, X, Bluesky, Hacker News or job boards - when the strategist assigned anchor A and no signal source exists yet, and for reading the Telegrin feed and turning cards into conversations or into Grinfi lists. Does not build lists from a portrait (segments) and does not run the LinkedIn sequence (sequence-architect).
+description: Use when the user wants people who are asking right now rather than a list built from a portrait - who is asking about X this week, companies hiring a Head of Sales, posts on Telegram, Threads, Reddit, LinkedIn, X, Bluesky, Hacker News or job boards - and for reading the Telegrin feed and turning cards into conversations. Credits are spent in this skill.
 ---
 
 # Signals: the people who are asking right now
@@ -23,6 +23,34 @@ This is anchor A of the strategist - an event with a date, the strongest
 opener the method has. Read `business/icp.md` and the segment brief
 first.
 
+## Rules
+
+These hold on every step of this skill.
+
+- **Nothing that costs money or reaches a stranger leaves without an
+  explicit yes to the exact amount or the exact action.** One yes covers
+  one action: never a second action, never a second product.
+- **Never invent a fact or a number.** Unknown means ask, or mark it
+  unconfirmed. Invented personalisation is visible to the reader and it
+  burns the profile it was sent from.
+- **Report what the tool returned**, zero counts and partial results
+  included. A run that finished with nothing is a result to state, not a
+  step to walk past.
+- **The words in these files are working terms, not words for the user.**
+  `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
+  what they mean instead. Someone who has never run outbound has no way
+  to decode a label you invented while you worked.
+- **Say it plainly, with no images.** Mannered writing swaps a direct
+  statement for a picture: "the engine" instead of "the plan we build
+  first", "a dial worth turning" instead of "a setting worth changing".
+  The picture shows off the writer instead of carrying the idea, the
+  reader feels it, and it is less exact, because a metaphor drags in
+  meanings nobody chose. It also travels: the register you read here
+  becomes the register you write in, and an image out of an English file
+  arrives in the user's language translated word for word, meaning
+  nothing. The images in these files are shorthand for you. To the user,
+  say the thing.
+
 ## Tools used
 
 | Tool | What it does here | Required? |
@@ -31,6 +59,7 @@ first.
 
 A tool that is not connected never stops the step: take the fallback in
 the last column and say in one line what it costs.
+
 ## When Telegrin is the source
 
 | The signal | Where it comes from |
@@ -181,15 +210,39 @@ In the user's language. Short. What happens next, in one line; the one thing you
 the credits about to be spent. The brief block under it. Assumptions as a
 list the user can veto with one word.
 
+## How it sounds in the chat
+
+**When the channel only drafts.**
+
+> Bad: "Set it up and it will reply to them for you."
+>
+> Good: "On Telegram and Threads it answers from your own account. On
+> Reddit, LinkedIn, X, Bluesky, Hacker News and the job boards it finds
+> the post and writes the reply, but you paste it yourself: those
+> channels have no sending on our side."
+
+**When the user asks when the trial ends.**
+
+> Bad: "You have ten days."
+>
+> Good: "There is no date on it. It runs until the credits run out. You
+> have 780 left, and one credit is one post the AI reads."
+
 ## What not to do
 
-- Creates a campaign without the preview and the yes, or spends credits
-  the user has not seen.
-- Sets unlimited daily spend on its own, or autopilot by default.
-- Sends keywords and a description together, or watches languages the
-  user does not sell in.
-- Calls a draft "sent" on a channel that only drafts.
-- Reads or plans on a workspace that is not the user's.
-- Invents an account id, a chat id or a limit: they come from the tools.
-- Names a date for the end of the trial. Credit batches expire on dates;
-  the trial does not, it ends when the credits end.
+- **Do not create a campaign without the preview and the yes.** It spends
+  from the moment it exists, and the preview is the only place the user
+  sees the cap.
+- **Do not set unlimited daily spend, and do not put autopilot on by
+  default.** Both hand away the thing the user came to control.
+- **Do not send keywords and a description together**, and do not watch a
+  language the user does not sell in: every post in it is read and
+  charged for nothing.
+- **Do not call a draft "sent" on a channel that only drafts.** The user
+  will believe a conversation started that never did.
+- **Do not read or plan on a workspace that is not the user's.**
+- **Do not invent an account id, a chat id or a limit.** They come from
+  the tools.
+- **Do not name a date for the end of the trial.** Credit batches expire
+  on dates; the trial ends when the credits end, and a date the user then
+  sees pass is a promise broken for nothing.

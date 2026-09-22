@@ -1,6 +1,6 @@
 ---
 name: onboarding
-description: First run and profile updates. Use when business/profile.md is missing, or when the user says "set up", "onboarding", "update my profile", "tell you about my business", adds a product, or adds a sender. Learns the business from its website and from Grinfi, asks only about the gaps, and writes the files in business/.
+description: Use when business/profile.md is missing, or when the user says set up, onboarding, update my profile, tell you about my business, adds a product, or adds a sender. Also use for the one part of it that a single job needs, when the user asked for a job and not for a full setup.
 ---
 
 # Onboarding: meet the business before writing a word
@@ -18,6 +18,34 @@ If some of the files already exist, keep them: fill in only the missing
 ones, and never overwrite a file the user has confirmed without asking
 first.
 
+## Rules
+
+These hold on every step of this skill.
+
+- **Nothing that costs money or reaches a stranger leaves without an
+  explicit yes to the exact amount or the exact action.** One yes covers
+  one action: never a second action, never a second product.
+- **Never invent a fact or a number.** Unknown means ask, or mark it
+  unconfirmed. Invented personalisation is visible to the reader and it
+  burns the profile it was sent from.
+- **Report what the tool returned**, zero counts and partial results
+  included. A run that finished with nothing is a result to state, not a
+  step to walk past.
+- **The words in these files are working terms, not words for the user.**
+  `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
+  what they mean instead. Someone who has never run outbound has no way
+  to decode a label you invented while you worked.
+- **Say it plainly, with no images.** Mannered writing swaps a direct
+  statement for a picture: "the engine" instead of "the plan we build
+  first", "a dial worth turning" instead of "a setting worth changing".
+  The picture shows off the writer instead of carrying the idea, the
+  reader feels it, and it is less exact, because a metaphor drags in
+  meanings nobody chose. It also travels: the register you read here
+  becomes the register you write in, and an image out of an English file
+  arrives in the user's language translated word for word, meaning
+  nothing. The images in these files are shorthand for you. To the user,
+  say the thing.
+
 ## Tools used
 
 | Tool | What it does here | Required? |
@@ -27,6 +55,7 @@ first.
 
 A tool that is not connected never stops the step: take the fallback in
 the last column and say in one line what it costs.
+
 ## Partial onboarding: ask for the job in front of you
 
 The eleven questions below are the full set, for a user who wants the
@@ -252,9 +281,34 @@ Then name the entrance in one line and start it in the same session:
 reach - the list comes first"; "Let me propose three audiences to choose
 from".
 
+## How it sounds in the chat
+
+**When the user asked for one thing, not a setup.**
+
+> Bad: opens an eleven-question intake for someone who asked for one
+> message.
+>
+> Good: "Five questions and I write it: what you sell and at what price,
+> who buys it, what first step you offer, anything I may quote as proof,
+> and whose profile it goes out from. The rest I will ask when it
+> matters."
+
+**When the site already answered the question.**
+
+> Bad: "What do you sell and at what price?"
+>
+> Good: "From your site: a subscription at 49 euros a seat, sold to
+> marketing teams of 10 to 50. Right, or is the site out of date?"
+
 ## What not to do
 
-- Sends anything, changes any stage, starts or stops any automation.
-- Writes a fact it did not find or was not told.
-- Copies another client's profile as a starting point.
-- Stores tokens, passwords or API keys anywhere in the folder.
+- **Do not send anything, change a stage, or start or stop an
+  automation.** This skill reads and writes files; every live action is
+  its own decision later.
+- **Do not write a fact you did not find or were not told.** Everything
+  later stands on these files, so an invented line here becomes an
+  invented claim in a message to a stranger.
+- **Do not copy another business's profile as a starting point.** The
+  parts that look transferable are the parts the copy will be built on.
+- **Do not store a token, a password or an API key anywhere in this
+  folder.** It is a working folder, not a vault.
