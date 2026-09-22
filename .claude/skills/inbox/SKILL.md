@@ -107,7 +107,11 @@ before its reply was approved or the card was set aside on purpose.
 ## Step 1. One picture in two calls, not forty
 
 1. `get_unread_conversations` with `limit: 50`: the unread list with lead
-   uuids.
+   uuids. Read its `sender_profiles_checked` before you trust the count:
+   the number has to match every sending profile you have. When it comes
+   back lower - one of nineteen, in the case that taught us this - the
+   counter is degraded and "zero unread" means nothing. Work from the
+   inbound list in point 2 instead, and say so in the report.
 2. `list_linkedin_messages` with `type: "inbox"`, ordered by `sent_at`
    descending, `limit: 60`: all recent inbound across every sender,
    including the already-read ones. Build a one-line digest per message:
@@ -228,7 +232,11 @@ after a meeting are closed.
 Once per routine: `list_tasks` with `status: "failed"`, and tasks still
 `in_progress` older than two hours. Only recent ones (up to a month).
 Before retrying, `diagnose_failed_tasks`: rate limits and restrictions are
-not retried, a broken cookie is a sender problem, not a message problem.
+not retried, a broken cookie is a sender problem, not a message problem. A
+sender's readiness is `check_sender_status`, never the `status` field on
+the sender profile: that field says `disabled` on seats that dispatch
+perfectly well, and asking the user about a seat that works costs their
+trust.
 And before any apology to a person, check whether they received something
 later; if the dialogue moved on, do not apologise.
 
