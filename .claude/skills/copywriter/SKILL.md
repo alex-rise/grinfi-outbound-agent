@@ -264,7 +264,9 @@ the draft, so the next reviewer sees why.
 2. The anchor is real, inside its usable window, and stated honestly.
 3. Line one is about their business, money or geography; no vague opener,
    no name and title.
-4. Product on a cold list: 250 to 400 characters, micro-yes, no link.
+4. Product on a cold list: 250 to 340 characters, micro-yes, no link.
+   That is the band the 11.0% was measured in; 400 is the ceiling, not the
+   target.
    Service: introduction, results with numbers, free step, calendar, up to
    700.
 5. Every claim traces to `business/profile.md` or the user's words;
