@@ -61,7 +61,7 @@ for any other tool.
 - **Expats.** People who studied in one country and live in another -
   Ukrainian founders abroad, for example.
 - **Local businesses.** Restaurants, salons, studios, clinics, shops:
-  every venue with phone, website, address and rating from Google Maps,
+  every venue with phone, website, address and rating from public map listings,
   and the owner from LinkedIn where there is one.
 
 ### Honest about the data
@@ -232,7 +232,7 @@ pages.
 
 Several mailboxes per LinkedIn seat, email finder and validation, custom
 tracking domains, SMTP and IMAP, mailbox health monitoring with
-automatic recovery. The email track is how the seven in ten who never
+automatic recovery. The email track is how the eight in ten in Europe who never
 accept an invite are reached.
 
 ### AI

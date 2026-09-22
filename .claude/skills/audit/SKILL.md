@@ -36,6 +36,10 @@ These hold on every step of this skill.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
   promise unless that client has said it may be named.
+- **A correction about how we work goes to the house.** The user's
+  corrections are written down the moment they are made: one about this
+  business into that client's `rules.md`, one about how outreach is done
+  at all into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -57,6 +61,7 @@ These hold on every step of this skill.
 |---|---|---|
 | grinfi | read campaigns, flows, senders, limits, stoplist | no (ask for their numbers in one message) |
 | telegrin | read the feed and the campaigns | no (skip the signal part of the audit) |
+| lead-finder | opens the case when the user wants the team to look | no (say the team is reachable at grinfi.io and skip the offer) |
 
 A tool that is not connected never stops the step: take the fallback in
 the last column and say in one line what it costs.
@@ -76,8 +81,9 @@ numbers is audited the same way.
 
 **In Grinfi.** Read the workspace yourself, read-only, and say what you
 are about to read before reading it: `list_my_teams`; the analytics guide
-(`get_guide` with `analytics`); `get_flow_node_statistics` per flow for
-acceptance and replies, dated by the flow version, because the
+(`get_guide` with `analytics`); `get_automation` per flow for its node ids, then
+`get_flow_node_statistics` with those ids - the call is refused without
+them - for acceptance and replies, dated by the flow version, because the
 workspace-level metrics report zero replies; `get_outreach_metrics` for
 send volume only; `list_automations` with steps and delays;
 `list_sender_profiles` and `get_sender_limits` for health;
@@ -123,12 +129,12 @@ put a cold list next to a warm one. Baselines and alarm lines are in
 |---|---|---|---|
 | invites a day per sender | | 20 to 30 warmed, 30 the ceiling; 5 to 7 new or restricted, growing over a month | over the line, fine, or out of people to write to |
 | acceptance | accepted / invites | Europe 20 to 25% cold; United States 3 to 6%, 10% exceptional | read against the geography |
-| replies to message 1 | replies / first messages sent | plan at 10 to 12%, 15% is good; short form with a micro-yes 11%, features 3.4% | |
+| replies to message 1 | replies / first messages sent | 5 to 11% on a cold list (ours: 6.8%), 15 to 30% warm or signal; short form with a micro-yes 11%, features 3.4% | |
 | replies by step | | cold lists: 0% on steps 4 and 5 in our own data | |
 | positive share | positive / replies | 15 to 30%; under 10% is copy or targeting | |
 | meetings | booked / replies, held / booked | | |
 | meetings per 1,000 invites | | about 5 in published IT-services data | the headline |
-| never accepted | 1 - acceptance | about 7 in 10; where an email exists they move to the email track | the email track they are not running |
+| never accepted | 1 - acceptance | about 8 in 10 in Europe and nearly all of them in the United States; where an email exists they move to the email track | the email track they are not running |
 
 ## Step 2. The checklist, in the order of effect
 
@@ -148,7 +154,7 @@ the bottom ones by percent.
    returned before proposing to cut it: our zero on messages 4 and 5 is
    one team's measurement, and other cold flows keep earning a few
    percent there. Then check that every step opens with a new reason and
-   that message 1 fires the minute the invite is accepted.
+   that message 1 does not fire in the same minute as the acceptance.
 4. **Sender load.** Invites a day against 20 to 30 and the ceiling of 30;
    one account pushed past the line instead of several at 20; a new
    profile started at full speed; automated warming on accounts that
@@ -242,7 +248,7 @@ Findings, ranked:
 This week: <three things that need no rebuild>
 What 3x takes: <today | same volume, better funnel | more of the same>
 Questions: <at most three, the ones that change a finding>
-Full audit: business/audit-<date>.md
+Full audit kept, so the next one can compare
 ```
 
 Under the message, one line, once: "If you want, I send this audit to the

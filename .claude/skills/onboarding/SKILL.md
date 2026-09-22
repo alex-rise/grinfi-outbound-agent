@@ -59,6 +59,10 @@ These hold on every step of this skill.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
   promise unless that client has said it may be named.
+- **A correction about how we work goes to the house.** The user's
+  corrections are written down the moment they are made: one about this
+  business into that client's `rules.md`, one about how outreach is done
+  at all into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -92,7 +96,7 @@ the rest for later:
 
 | The job | What it needs |
 |---|---|
-| a sequence or a first message | what is sold, in what form, at what price; who buys; the first step offered; what may be quoted as proof; whose profiles send |
+| a sequence or a first message | what is sold, in what form, at what price; who buys; the first step offered; what may be quoted as proof; whose profiles send; LinkedIn or email and in which language; whether there is anything on the list to point to |
 | a list or a portrait | who buys and who is definitely not a client; the countries; the volumes |
 | signals | who the buyer is and who is not, in the user's words; the markets |
 | an audit | their numbers, and what is sold to whom |
@@ -258,8 +262,10 @@ too, so later sessions do not have to look them up.
 empty. It fills up from corrections.
 
 ```
-# House rules
-One line per correction, dated, in the user's words. Read before writing.
+# <Company> - corrections
+One line per correction, dated, in their words. Read before writing.
+A correction about how we work, not about this business, goes to the
+house file instead.
 ```
 
 **`business/campaigns.md`** - a header and an empty table: date, campaign,
@@ -291,18 +297,17 @@ link to what it produced.
 ## Step 5. Close the gaps
 
 Show the user a five-line summary of what you understood from the
-materials and the answers. If any of the ten questions is still open,
+materials and the answers. If any of the eleven questions is still open,
 ask it now, in one message; if all are closed, ask nothing. Then write
 the answers into the files, replace "(unconfirmed)" where the user
 confirmed, and delete what they rejected.
 
 ## Step 6. Confirm and name the next step
 
-Show where the files are and say, in two lines, how the memory works:
-corrections go to `business/rules.md`, campaign results go to
-`business/campaigns.md`, the plan lives in `business/plan.md`, and
-"update my profile" reruns this skill for the parts that changed. Suggest
-a review once a quarter.
+Say in two lines what you will remember, without naming a single file: I
+keep your corrections, what each campaign returned, and where the plan
+stands, and "update my profile" refreshes whatever changed. Suggest a
+review once a quarter.
 
 Then name the entrance in one line and start it in the same session:
 "Your outbound is running, so the audit comes first"; "You know who to

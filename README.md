@@ -17,7 +17,7 @@ works with its hands through three MCP servers built by the same team:
 
 Nothing is sent, bought or spent without your yes.
 
-This is version 3.0 of the kit from the article "The Claude-Powered
+This is version 3 of the kit from the article "The Claude-Powered
 Outbound Agent". Version 1 lived in a Claude.ai project and could only
 advise. Version 2 got memory and hands in Grinfi. Version 3 walks the
 whole way: audit what runs, or build from zero - strategy, portrait, list,
@@ -74,8 +74,8 @@ section.
 ## Install: by hand
 
 1. Open [the repository](https://github.com/alex-rise/grinfi-outbound-agent),
-   press the green "Code" button and choose "Download ZIP", or clone it with
-   git if you use git. Unpack it somewhere you will find it again, for example
+   clone it with git if you use git, or press the green "Code" button and
+   choose "Download ZIP" (a copy goes stale, a clone updates). Unpack it somewhere you will find it again, for example
    `Documents/outbound-agent`.
 2. Open Claude Code Desktop and open that folder as a project.
 3. Say yes when Claude Code asks about the project's MCP servers.
@@ -133,8 +133,10 @@ reference/
   email-infrastructure.md  domains, authentication, warm-up, capacity
   products.md              Grinfi, Lead Finder, Telegrin: what each is, why, how to sign up
   owner-rules.md           38 corrections made on real drafts by the people who signed them
-business/                  your memory: profile, ICP, senders, rules, plan,
-                           campaigns, follow-ups, audits (created by onboarding)
+business/                  your memory (never in git)
+  house/                   what we know across every client: rules, what worked
+  clients/<client>/        one folder per business: profile, ICP, senders,
+                           rules, plan, campaigns, follow-ups, sequences, audits
 AGENTS.md                  the same instructions for Codex
 ```
 
@@ -235,7 +237,7 @@ never asks in the middle of the work.
 ## Memory
 
 `business/` is the agent's memory. When you correct a draft or a
-decision, the agent writes the correction into `business/rules.md` with
+decision, the agent writes the correction down with
 the date and follows it from then on. The plan from strategy to result
 lives in `business/plan.md`; campaign results go into
 `business/campaigns.md`; people you are waiting for go into
@@ -285,6 +287,6 @@ client, ChatGPT included, live on [mcp.grinfi.io](https://mcp.grinfi.io).
 
 Built and used daily by the [Grinfi](https://grinfi.io) team on our own
 outreach. The numbers in `reference/metrics.md` are ours: 3,812 invites,
-1,095 first messages, measured in September 2026. Use the kit freely,
+1,095 first messages, measured in about six months, pulled 8 September 2026. Use the kit freely,
 adapt it, and tell us what you changed. MIT licensed: use it, change it,
 ship it with your own work, keep the notice.

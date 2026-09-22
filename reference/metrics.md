@@ -22,20 +22,20 @@ to anything, including your own previous campaign.
 **Your own baseline beats any published benchmark.** Outbound numbers vary
 by geography, industry, seniority and offer far more than by copy
 quality. In the same published dataset IT services see about 10% replies
-on LinkedIn, outsourcing about 4%, the US and UK around 6%. Who you write
-to matters roughly seven times more than who writes. Segment your reporting
+on LinkedIn, outsourcing about 4%, the US and UK around 6%. That is a
+2.5x spread caused by nothing but who is being written to. Segment your reporting
 by geography and industry from day one; a blended rate across four regions
 describes no campaign you are actually running.
 
 ## 1. Our measured LinkedIn baseline
 
-Our own flows, September 2026, one product, one team: 3,812 invites sent,
+Our own flows, about six months, pulled 8 September 2026, one product, one team: 3,812 invites sent,
 1,095 first messages. Acceptance denominator: invites with a closed task
 (actually sent). Reply denominator: first messages actually sent.
 
 | Audience source | Anchor in practice | Invites | Acceptance | First messages | Replies to message 1 |
 |---|---|---|---|---|---|
-| Reacted to our own content | warm intent | 1,244 | 60.7% | 561 | 16.0% |
+| Reacted to a post on our topic, ours or somebody else's | warm intent | 1,244 | 60.7% | 561 | 16.0% |
 | Wrote a post on our topic | A, signal | 623 | 44.1% | 225 | 29.3% |
 | Cold list matching the ICP | C, segment | 1,945 | 21.3% | 309 | 6.8% |
 
@@ -61,7 +61,9 @@ portrait is what carries a sender pool for months; a warm track is a
 supplement where an audience already exists. Judge a source by leads a
 month, never by reply rate alone.
 
-Form of message 1 on the same cold audience, same senders:
+Form of message 1, three other flows of the same team and the same
+senders (2,147 sends, not part of the 1,095 above). The rows differ by
+form; the last row differs by list as well:
 
 | Form | Sent | Replies |
 |---|---|---|
@@ -83,9 +85,11 @@ shows. `get_outreach_metrics` gives the workspace-level view by period;
   are the lifetime of the current flow version, so date the flow version
   and say which window it stands for.
 - **Send volume: `get_outreach_metrics` or `send_volume_report`.** Nothing
-  else. On a live workspace `get_outreach_metrics` reports zero replies
-  for every flow and acceptance above 100%, because accepts lag sends and
-  the reply counter needs a reply node wired in the flow.
+  else. `get_outreach_metrics` reports zero replies for any flow that has
+  no reply-trigger node wired into it, and acceptance above 100% on a
+  window shorter than the campaign, because accepts lag sends. Neither is
+  a reason to discard the tool on a workspace where the node exists and
+  the window covers the campaign.
 - **Seat health: `get_sender_limits`**, which returns live rows.
   `get_health_snapshots` may answer with nulls for every field; when it
   does, it is not wired on that instance.
@@ -99,7 +103,7 @@ shows. `get_outreach_metrics` gives the workspace-level view by period;
 
 | Metric | Formula | Reference (verify against your own data) | Investigate below |
 |---|---|---|---|
-| Acceptance | accepted / invites sent | 25-30% on cold, 40-60% on warm sources | 20% |
+| Acceptance | accepted / invites sent | 20-25% on a cold list in Europe, 3-6% in the United States, 40-60% on warm sources | the floor of its own market |
 | Reply rate | replies / first messages sent | 5-11% cold, 15-30% warm or signal | 3% |
 | Positive share | positive replies / all replies | 15-30% | 10% |
 | Meetings per 1,000 invites | meetings / invites x 1,000 | about 5 in published IT-services data | - |
@@ -132,7 +136,7 @@ good. Test each geography and niche separately before comparing them.
 | Metric | Formula | Reference | Investigate |
 |---|---|---|---|
 | Bounce rate | bounced / sent | under 2% | above 2%: stop and re-validate the list |
-| Reply rate | human replies / sent | 0.5-4% by anchor and market | see the stop rule |
+| Reply rate | human replies / sent | 0.5-8% by anchor and market | see the stop rule |
 | Positive share | positive / all replies | 15-30% | under 10% |
 | Meetings from sent | meetings / emails sent | 0.3-0.5% | double-digit promises are a sales pitch |
 | Spam complaints | complaints / delivered | under 0.1% | above 0.3% is an emergency |

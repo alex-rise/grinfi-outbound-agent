@@ -42,6 +42,10 @@ These hold on every step of this skill.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
   promise unless that client has said it may be named.
+- **A correction about how we work goes to the house.** The user's
+  corrections are written down the moment they are made: one about this
+  business into that client's `rules.md`, one about how outreach is done
+  at all into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -176,7 +180,7 @@ question about their process, not about your service.
 If they decline a call: "Understood. Easier to keep going here in writing,
 or is there a format that works better?"
 
-## House rules from real inboxes
+## Rules from real inboxes
 
 1. Refusals get no reply. Stage change, sequence off, mark read. One
    short acknowledgement only when the person asked a real question.

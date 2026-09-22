@@ -50,6 +50,10 @@ These hold on every step of this skill.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
   promise unless that client has said it may be named.
+- **A correction about how we work goes to the house.** The user's
+  corrections are written down the moment they are made: one about this
+  business into that client's `rules.md`, one about how outreach is done
+  at all into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -127,14 +131,16 @@ Numbered, in one message, each with a proposed answer from
    writes them. Reddit, LinkedIn, X, Bluesky and Hacker News need nothing
    but the description.
 5. **The daily cap** - one number for the whole campaign, shared across
-   its channels. The product opens a campaign on 200 credits a day, and
-   200 is the floor: do not propose less. Raise it only once the feed is
+   its channels. The product opens a campaign on 200 credits a day when
+   the field is left out, and the field itself takes 10 to 100,000. Two
+   hundred is our safety rail, not the product's floor: do not propose
+   less without a reason, and be clear which of the two you mean. Raise it only once the feed is
    read every day and the leads per card are known. Unlimited never,
    unless the user says the word themselves.
-6. **Reply mode.** Copilot: every draft waits for a yes. Autopilot exists
-   on the channels that deliver; it is the user's explicit exception to
-   the user's own exception to "nothing leaves without a yes", never the
-  default, and never in week one.
+6. **Reply mode.** Copilot: every draft waits for a yes. Autopilot
+   answers by itself on the channels that deliver, and it is one of the
+   two standing exceptions named in the rules: the user switches it on,
+   per channel, never in week one, and never because you proposed it.
 7. **What a good outcome is** - a trial, a call, a paid signup - and the
    link that goes into a reply.
 
@@ -143,7 +149,10 @@ Numbered, in one message, each with a proposed answer from
 - The search is written from the description of the buyer, `aiSearch`
   with the description, the exclusion and the markets - not from typed
   keywords. The description is measured to find more, and the product
-  maintains the search itself, retiring dead terms. Never both at once.
+  maintains the search itself, retiring dead terms. The customer's own
+  words may go in as keywords beside a description: they are listed first
+  and the product's terms fill what is left, and on a trial the two
+  together are capped at ten per campaign.
 - One campaign per market when the markets differ in language and the
   user wants to read them separately; the cap is per campaign. One
   campaign hunts one kind of person.
@@ -155,8 +164,8 @@ Numbered, in one message, each with a proposed answer from
   the guard against a word that matches everything; a campaign written
   from a description has no probe; its rails are the exclusion, the
   languages and the daily cap at the product's 200.
-- The reply prompt on each channel carries the text rules of `CLAUDE.md`
-  rule 5 and the facts of `business/profile.md`, nothing else, and is
+- The reply prompt on each channel carries the text rules of `CLAUDE.md` - no
+  long dashes, no emojis in cold outreach, one call to action - and the facts of `business/profile.md`, nothing else, and is
   shown with the preview.
 - `create_v2_campaign` without a token returns the preview: channels,
   languages, cap, what delivers and what drafts. Show it, wait for the
@@ -250,9 +259,8 @@ list the user can veto with one word.
   sees the cap.
 - **Do not set unlimited daily spend, and do not put autopilot on by
   default.** Both hand away the thing the user came to control.
-- **Do not send keywords and a description together**, and do not watch a
-  language the user does not sell in: every post in it is read and
-  charged for nothing.
+- **Do not watch a language the user does not sell in.** Every post in
+  it is read and charged for nothing.
 - **Do not call a draft "sent" on a channel that only drafts.** The user
   will believe a conversation started that never did.
 - **Do not read or plan on a workspace that is not the user's.**

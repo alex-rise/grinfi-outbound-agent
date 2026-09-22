@@ -43,6 +43,10 @@ These hold on every step of this skill.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
   promise unless that client has said it may be named.
+- **A correction about how we work goes to the house.** The user's
+  corrections are written down the moment they are made: one about this
+  business into that client's `rules.md`, one about how outreach is done
+  at all into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -91,7 +95,7 @@ for.
 | the company must be right before anyone is bought: headquarters, size, year, product or services, not a chain or a supplier | **Lead Finder**, companies-first route |
 | the fact is invisible on the person but visible on the company - a registration country, a founding date, a headcount | **Lead Finder**, companies-first route. Not a dead end, and not a reason to send the user to a public register by hand |
 | people who studied in country X and live elsewhere | **Lead Finder**, expats |
-| owners of local businesses: restaurants, salons, clinics, studios, shops | **Lead Finder**, places route - Google Maps for the venue, LinkedIn for the owner where there is one |
+| owners of local businesses: restaurants, salons, clinics, studios, shops | **Lead Finder**, places route - public map listings for the venue, LinkedIn for the owner where there is one |
 | a saved Sales Navigator search the user already trusts | Grinfi `import_sn_saved_search` - nobody has read those profiles; Lead Finder's judge has |
 
 **The companies-first route stands on the company having a LinkedIn page.**
@@ -101,7 +105,7 @@ route that starts from companies cannot see what is not there. It is the
 same failure that makes restaurants and clinics unfindable this way. When
 the segment is that young and that small, tell the user the probe is
 measuring whether the segment exists at all, not only what it costs - and
-that under a euro is a cheap answer to that question.
+that the draft names the exact cap before anything runs.
 
 ## Step 0. Get the rules from the server
 
@@ -211,8 +215,11 @@ probe; the price carries over.
 There is no price per lead before the probe. Never turn another run's
 price into an estimate for this one. The honest sentence is "it depends on
 how many of the bought profiles match, and the probe tells us". The probe
-itself usually costs under a euro and never more than the cap the draft
-shows - that much may be said before the draft exists. Before the draft,
+itself never costs more than the cap the draft shows, and the cap is the
+expectation times three, because a probe searches blind and can miss by
+that much. Do not name any amount before the draft exists: it carries
+`expectedProbeEur` and `capEur`, and those two are the only numbers to
+say. Before the draft,
 the money line is "money moving now: none".
 
 **Gate 1, the probe.** The draft carries `expectedProbeEur`, the likely
@@ -228,8 +235,8 @@ the user opens it, sees the portrait, the words and the amount, and
 clicks. The request stays a draft until then. When they say they clicked,
 `get_request`.
 
-The probe buys one page per country, has the judge read it, and names the
-price. It hands over no leads and does not say how many it found.
+The probe takes one sample of up to 25 people for the whole request - not
+one per country - has the judge read it, and names the price. It hands over no leads and does not say how many it found.
 `PRICED` means a range from `pricePerLeadEur`, the probe's own price, to
 `priceMaxEur`, thirty percent above it, plus `offer.nextLeads`: how many it
 can find for the balance at the maximum. `STOPPED` with `probe_thin` or
@@ -301,7 +308,8 @@ finished collection whose leads `list_leads` can show.
 >
 > Good: "I cannot price this yet. It depends on how many of the bought
 > profiles actually match, and that is what the probe measures. The probe
-> itself costs up to 1.20 euro, the unused part comes back, and it gives
+> itself never goes over the cap on the draft, which I show you first,
+> the unused part comes back, and it gives
 > us the real price per lead before we buy anyone."
 
 **When the user wants a filter LinkedIn does not have.**
@@ -315,8 +323,8 @@ finished collection whose leads `list_leads` can show.
 **In agent mode, where the yes spends directly.**
 
 > Good: "This workspace has no confirmation page, so my own call takes
-> the money and no link will come to you. The cap is 1.20 euro. Say yes
-> to 1.20 and I run the probe."
+> the money and no link will come to you. The cap is the number on the
+> draft. Say yes to that number and I run the probe."
 
 ## What not to do
 

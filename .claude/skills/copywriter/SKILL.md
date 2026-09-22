@@ -35,6 +35,10 @@ These hold on every step of this skill.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
   promise unless that client has said it may be named.
+- **A correction about how we work goes to the house.** The user's
+  corrections are written down the moment they are made: one about this
+  business into that client's `rules.md`, one about how outreach is done
+  at all into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -70,8 +74,8 @@ name went under the text.
 
 No profile yet: ask these seven in one message, and nothing else. Write
 the answers into `business/profile.md` as they come, and do not wait for
-a separate onboarding. Seven, not five: the last two decide the form of
-the message, and asking them later turns one draft into three.
+a separate onboarding. The last two decide the form of the message, so
+asking them later turns one draft into three.
 
 1. What is sold, in what form, at what price.
 2. Who buys it.
@@ -110,8 +114,11 @@ from those same two answers, never invented to fill the gap.
 
 ## Step 1. Pick the form from what is sold
 
-Our own flows, same product, same senders, same audience; the only
-difference is the form of message 1 (979 and 859 sends):
+Our own flows. The first three rows are the same senders writing to the
+same kind of cold list, and they differ only in the form of message 1
+(979, 309 and 859 sends). The fourth row is a different list as well as a
+different opening, and it is here to show what the list does, not the
+words:
 
 | Form of message 1 | Replies |
 |---|---|

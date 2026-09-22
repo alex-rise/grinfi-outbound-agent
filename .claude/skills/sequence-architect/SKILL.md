@@ -46,6 +46,10 @@ These hold on every step of this skill.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
   promise unless that client has said it may be named.
+- **A correction about how we work goes to the house.** The user's
+  corrections are written down the moment they are made: one about this
+  business into that client's `rules.md`, one about how outreach is done
+  at all into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -84,7 +88,7 @@ the last column and say in one line what it costs.
    Warm or signal list: up to five touches.
 5. Branches matter more than length. Four steps with smart branches beat
    eight steps that ignore behaviour.
-6. A non-acceptance is not a dead contact. About seven in ten invites are
+6. A non-acceptance is not a dead contact. About eight in ten in Europe invites are
    never accepted; where an email exists, that contact moves to the email
    track.
 7. Account safety shapes the architecture. Volume is the user's decision;
@@ -142,7 +146,7 @@ lines does not fix mail that is not delivered.
 
 Applies to 2,000 to 10,000 accounts. Inside a test round, do not mix
 channels: a verdict from a mixed round means nothing. In a live campaign
-email goes first (it is effectively unlimited, LinkedIn is not) and the
+email goes first (its ceiling is mailboxes, which you can add; LinkedIn's is accounts, which you cannot rush) and the
 LinkedIn slot goes to people who did not reply to the first one or two
 emails. Once a contact accepts on LinkedIn, one track owns them; two
 channels running full sequences at the same person reads as pursuit.

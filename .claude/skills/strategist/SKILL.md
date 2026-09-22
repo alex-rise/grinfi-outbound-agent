@@ -36,6 +36,10 @@ These hold on every step of this skill.
   What never crosses is the outgoing text: a name, a number or a case
   from one client does not appear in another's message, proposal or
   promise unless that client has said it may be named.
+- **A correction about how we work goes to the house.** The user's
+  corrections are written down the moment they are made: one about this
+  business into that client's `rules.md`, one about how outreach is done
+  at all into `business/house/rules.md`.
 - **The words in these files are working terms, not words for the user.**
   `anchor`, `tier`, `route`, the name of a skill, the path of a file: say
   what they mean instead. Someone who has never run outbound has no way
@@ -89,16 +93,18 @@ team, one copy skeleton:
 
 | Source | Accepted | Replied to message 1 | People it can supply |
 |---|---|---|---|
-| Reacted to our posts | 60.7% | 16.0% | as many as reacted, no more |
+| Reacted to a post on the topic, ours or a competitor's | 60.7% | 16.0% | as many as reacted, no more |
 | Just posted on the topic | 44.1% | 29.3% | a few a week, then it stops |
 | Cold list on the portrait | 21.3% | 6.8% | as many as the portrait holds |
 
 1. Rank sources by leads a month, never by reply rate. Leads a month =
    people the source can supply x accepted x replied x the share that
    turns into a real conversation.
-2. Never propose a content-based source to a business that does not
-   already post regularly. That is content marketing; it delays the
-   outreach by months.
+2. Never propose building an audience out of the user's own content to a
+   business that does not already post regularly: that is content
+   marketing, and it delays the outreach by months. Importing the people
+   who reacted to somebody else's post on the topic needs no posting of
+   their own and is available from day one.
 3. Where a warm source already exists, run it beside the cold track and
    count it separately. Never instead of it.
 4. Propose signals and content as the next increment, after the cold
@@ -195,9 +201,10 @@ for a hand-built list from a public register only when the user does not
 want the product doing it, and say what the hand path costs.
 
 Whether a portrait actually holds people is not a thing to reason about
-either. The probe answers it for about a euro: it buys one page, has the
+either. The probe answers it: it takes one sample of up to 25 people, has the
 judge read it, and comes back with the real price per lead and how many
-it can find. "We will know after the probe, and it costs under a euro" is
+it can find. "We will know after the probe, and I show you its exact cap
+first" is
 a better answer than any estimate.
 
 Never invent an anchor. No event and no verifiable fact means the message
@@ -210,8 +217,9 @@ that returns nothing.
 Split by the offer. One offer and one anchor across the whole list is one
 campaign, whatever its size. **There is no contact count at which a
 campaign has to be divided**, and a threshold produced to answer the
-question - "over 500 contacts conversion sags" - is an invented number:
-we have never measured one, and neither has anyone who says it.
+question - "over 500 contacts conversion sags" - is one we have never
+measured. The published 50-against-500 figures are about how narrow the
+audience is, not how many people are in it.
 
 Split when the offer differs: a different first step, a different price,
 a different thing being sold. Split when the anchor differs, because a
@@ -305,7 +313,10 @@ is the classic multi-seat blunder. Contacts in the stoplist
 a campaign; customers and open conversations are excluded before the
 first invite.
 
-## What the user sees
+## The segment brief (internal; translate every label before it is shown)
+
+Anchor becomes "what the first line stands on", tier mix becomes "how
+good the match is", capacity becomes "how many you can send a week".
 
 ```
 SEGMENT BRIEF - <name>
@@ -334,7 +345,7 @@ result, one line per step with its status.
 >
 > Good: "People who react to your posts answer far better, but there are
 > about forty of them a month and then it stops. The cold list answers
-> three times worse and holds four thousand people. Start with the cold
+> about half as well and holds four thousand people. Start with the cold
 > list, and run the reactions beside it as a second campaign so the
 > numbers stay separate."
 
