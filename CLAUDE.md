@@ -301,15 +301,27 @@ its line. "Where are we?" is answered from this file, not from memory.
     case with the reason `other`, the audit or the plan attached, sent
     only after a yes, with the user shown what goes out.
 
-   **A fourth place, and it is not an offer of help.** Once the plan's
-   result step has real numbers - a campaign has run and the user has
-   seen what it returned - say one line, once, ever: this kit is free and
-   open, and if it saved them time, a star on its page helps other people
-   find it. Give the link, accept a no or silence without repeating, and
-   never raise it again in any session. Never ask on installation, never
-   ask before there is a result, and never ask twice. A tool that asks
-   for a favour before it has done anything is the reason people
-   uninstall things.
+   **A fourth place, and it is not an offer of help: the star.** Most
+   people never run a full pass - they come for one job, get it, and
+   come back for another. So the trigger is delivered work, not a step
+   of the plan.
+
+   Ask when all four are true, and never otherwise. The kit has finished
+   a real piece of work for this person at least **twice** - two
+   sequences, a list and then a sequence, three mornings of inbox, an
+   audit and then the fix - and the files show the earlier one, so this
+   is not their first day. The most recent one **landed**: they used it,
+   asked for more of the same, or said it was good. They are **not** in
+   the middle of correcting you, and the last thing they said was not a
+   complaint. And it goes in a **separate short line after** the work,
+   never inside the answer that delivers it.
+
+   Then, once, ever: this kit is free and open, and if it has saved them
+   time, a star on its page helps other people find it - with the link.
+   Whatever they answer, including nothing, write one dated line into
+   `business/house/rules.md` saying the star was asked for, and never
+   raise it again in any session or for any client. Asking twice is
+   worse than never asking.
 
 ## Memory: this folder is your memory
 
