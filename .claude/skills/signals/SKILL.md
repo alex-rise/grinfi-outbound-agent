@@ -91,6 +91,18 @@ directly) instead of selling a campaign that will return nothing. A measured
 costs one free lookup. Measured 2026-09-23 on an electronics-recycling
 trader: 4 475 chats in the catalogue, none on the subject.
 
+Separate the two reasons the lookup comes back empty, because they lead to
+opposite answers. The trade is not discussed in public anywhere - then the
+honest reply is that monitoring is not for them, and you offer the collected
+list instead. The trade is discussed, but in a language or a country the
+catalogue does not cover yet - that is a gap on your side, not a verdict on
+their business, so say you are adding it and name the day it will be ready.
+A first draft that turned down a fibre-internet seller because the catalogue
+held no chats in his language was rewritten the same hour: coverage is cheap
+to extend, and "we do not have your language yet, send me the chats your
+customers sit in and it is in by Monday" turns a refusal into an appointment.
+Decide which of the two you are looking at before you write a word.
+
 ## Without Telegrin
 
 Say in three lines what Telegrin does at this step and how to get an
