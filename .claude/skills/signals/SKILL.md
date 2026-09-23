@@ -80,6 +80,17 @@ the last column and say in one line what it costs.
 | a decision maker posted about your topic on LinkedIn | the LinkedIn channel - a card, then a hand-off to Grinfi |
 | a portrait and no event | not here: the segments skill |
 
+Check that the channel carries this audience before you promise it. Some
+trades are not discussed in public at all: they run on specialised
+exchanges, on the phone, or between people who already know each other.
+Browsing the chat catalogue is free, and so is a web search for the phrases
+you were about to monitor - if neither turns anything up, say so and offer
+the route that does work (a collected list of companies, written to
+directly) instead of selling a campaign that will return nothing. A measured
+"this will not work for you" buys more trust than a hopeful yes, and it
+costs one free lookup. Measured 2026-09-23 on an electronics-recycling
+trader: 4 475 chats in the catalogue, none on the subject.
+
 ## Without Telegrin
 
 Say in three lines what Telegrin does at this step and how to get an
