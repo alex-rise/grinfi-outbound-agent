@@ -94,10 +94,16 @@ never is.
    them how to connect anything. That belongs to the step, not to the
    greeting, and saying it twice is what makes a first message read like
    a pitch.
-3. One question that offers the fastest proof: outbound already running
-   means "say the word and I will read it and tell you what to change
-   first"; nothing running means "shall I propose who to write to?". Ask
-   for a job, not for an interview.
+3. One question that offers the fastest proof, and there are three of
+   them, not two. Already sending and replies are arriving: "want me to
+   go through the inbox with you?" - that is today's work and the
+   shortest way to be useful. Sending but the numbers are the worry: "say
+   the word and I will read what ran and tell you what to change first".
+   Nothing running: "shall I propose who to write to?" Pick the one that
+   fits what they wrote; where nothing hints either way, offer the inbox
+   first, because somebody who already sends has replies waiting more
+   often than they have a question about strategy. Ask for a job, not for
+   an interview.
 
 Say the connection state once, here, and never again unless a step needs
 a product that is missing.
@@ -132,6 +138,7 @@ workspace for the audit.
 
 | The user has | Start with |
 |---|---|
+| replies coming in, an inbox behind, or one lead who just answered | `inbox` for the pass over all of them, `dialogue` for the words in one thread. This is the most common state of somebody who already sends, and it is work for today, not a project |
 | outbound running now, or a finished run with numbers | `audit` - read what ran, rank what to change, then the plan |
 | nothing ran yet, and knows who to reach first | `onboarding`, then a one-block strategist brief, then `segments` or `signals` |
 | nothing running, and does not know who to reach first | `onboarding`, then the strategist's picker: three audiences to choose from |

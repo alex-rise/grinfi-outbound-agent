@@ -15,6 +15,11 @@ works with its hands through three MCP servers built by the same team:
   right now, across Telegram, Threads, Reddit, LinkedIn, X, Bluesky,
   Hacker News and job boards.
 
+Already sending? It is not only for building from zero. The daily half is
+the point of it: go through the inbox with you, sort the replies, draft
+the answers, keep the follow-ups, move the stages - and handle one live
+thread when a lead has answered and the wording matters.
+
 Nothing is sent, bought or spent without your yes.
 
 This is version 3 of the kit from the article "The Claude-Powered
