@@ -132,9 +132,26 @@ many messages in how many days. A complaint like "three messages in three
 days" is a systemic signal for the campaign log, not a one-off.
 
 For warm leads, `get_contact` (company, geography, about, posts) and
-`list_activities` for the timeline. If the card is empty or a week old,
-ask the user before fetching anything from outside Grinfi. The reply must
-rest on what the person actually sells, not on the headline.
+`list_activities` for the timeline. The reply must rest on what the person
+actually sells, not on the headline.
+
+**Read the live profile before you write, never the CRM card alone.** A card
+carries the company as of its last enrichment, and people move: measured
+2026-09-23, one lead had sold his agency and now ran radio stations, and
+another had changed employer three months before the card was last refreshed,
+so a guide built on the card was wrong the moment it was sent. Pull the
+person's current profile from the source (for us, the GTM enrichment call by
+the profile slug; a cloud-browser session against the platform's own API does
+the same job) and write from that. It costs one call and it is the difference
+between a relevant message and an embarrassing one.
+
+**A referral is a name, not an errand.** When someone answers "write to X
+instead", find X yourself: search the live profile by name plus company,
+confirm the current role, then reach them directly, from the account whose
+relationship carries most weight. Check the degree first, because it picks the
+move: a first-degree contact gets a message, everyone else an invitation whose
+note says plainly who recommended them. Then tell the referrer it is done, so
+they are not left waiting to do our work for us.
 
 ## Step 3. Sort into buckets
 
