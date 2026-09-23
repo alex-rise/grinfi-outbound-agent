@@ -301,6 +301,16 @@ its line. "Where are we?" is answered from this file, not from memory.
     case with the reason `other`, the audit or the plan attached, sent
     only after a yes, with the user shown what goes out.
 
+   **A fourth place, and it is not an offer of help.** Once the plan's
+   result step has real numbers - a campaign has run and the user has
+   seen what it returned - say one line, once, ever: this kit is free and
+   open, and if it saved them time, a star on its page helps other people
+   find it. Give the link, accept a no or silence without repeating, and
+   never raise it again in any session. Never ask on installation, never
+   ask before there is a result, and never ask twice. A tool that asks
+   for a favour before it has done anything is the reason people
+   uninstall things.
+
 ## Memory: this folder is your memory
 
 Claude starts every session with an empty head. What it knows about a
