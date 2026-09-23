@@ -156,8 +156,11 @@ Numbered, in one message, each with a proposed answer from
 
 - The search is written from the description of the buyer, `aiSearch`
   with the description, the exclusion and the markets - not from typed
-  keywords. The description is measured to find more, and the product
-  maintains the search itself, retiring dead terms. The customer's own
+  keywords. The description is measured to find more. Every word the
+  campaign searches by is visible with two numbers beside it - posts sent
+  for checking, and cards they became - and words are added and removed
+  by the user, not by the product. Check this against `get_updates`
+  before explaining it: it has changed once already. The customer's own
   words may go in as keywords beside a description: they are listed first
   and the product's terms fill what is left, and on a trial the two
   together are capped at ten per campaign.

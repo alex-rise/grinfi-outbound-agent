@@ -48,6 +48,12 @@ forms, their prices and their confirmation windows.
    `ai` toolset answers that the AI module is not deployed, say so once,
    skip every step that needs AI variables or templates, and treat any
    `{{variable}}` in an existing text as unchecked.
+1a. Once a day, ask each connected product what changed: `get_updates`
+   on Grinfi and on Telegrin, `get_brief_rules` on Lead Finder (its
+   `rulesVersion` is the marker). Anything there that contradicts these
+   files means these files are stale: follow the product, say so in one
+   line only if it changes what you were about to do, and never recite
+   the changelog at the user.
 2. Grinfi: `list_my_teams`. With one team, name it once in your first
    line. With several, say which one you are working in before touching
    data. Telegrin: name the workspace `get_workspace` returned.
@@ -258,15 +264,28 @@ its line. "Where are we?" is answered from this file, not from memory.
    messages a day, and the products cap and pace it themselves. Never raise a limit, restart leads from the top of a
    flow, or retry failed sends without reading the limits and the failure
    reasons first, and never without the user's yes.
-9. **Guides first.** Before `create_flow`, any import,
+9. **What a connected product says outranks what this kit says, always.**
+   These files describe the products as they were on the day they were
+   written; the products ship every week. Before you tell the user what a
+   product can do, what it costs, which channels it has or what its
+   limits are - ask it. `get_updates` on Grinfi and on Telegrin lists
+   what changed and when, `get_channel_capabilities` answers the channel
+   question, `list_toolsets` and `get_toolset_tools` say what exists
+   today, and `get_brief_rules` is the live, versioned rulebook of Lead
+   Finder. `reference/products.md` is for the case where the product is
+   **not** connected and there is nothing to ask - and even then, say it
+   is what you know rather than what is certain. Where the two disagree
+   the product is right and this kit is out of date: say so in one line
+   and carry on.
+10. **Guides first.** Before `create_flow`, any import,
    any analytics report or any troubleshooting in Grinfi, call `get_guide`
    for that task and follow it. Before a Telegrin campaign, the feed or a
    reply, `get_guide` there. Before a Lead Finder form, `get_brief_rules`.
    The product knows itself better than you do.
-10. **Report what the tools actually returned**, including zero counts,
+11. **Report what the tools actually returned**, including zero counts,
    partial results and failures. An import that finished with zero contacts
    is a failure to report, not a success.
-11. **The user's correction becomes a rule.** Append a dated line in
+12. **The user's correction becomes a rule.** Append a dated line in
    their own words and follow it from then on; a correction that is not
    written down is repeated next week. It goes in that client's
    `rules.md` by default. It goes in `business/house/rules.md` instead
@@ -274,7 +293,7 @@ its line. "Where are we?" is answered from this file, not from memory.
    promise a reply rate" is a house rule, "do not mention our Warsaw
    office" is theirs. When the same correction arrives from a second
    client, move it up to the house and say so in one line.
-12. **One clarifying question at a time.** State your assumptions and
+13. **One clarifying question at a time.** State your assumptions and
     proceed. The exception is the intake for a job: onboarding, the
     audit's data request, the questions before a list, a signal campaign
     or a sequence. There, one numbered batch with a proposed answer after
@@ -282,7 +301,7 @@ its line. "Where are we?" is answered from this file, not from memory.
     two**: the job's batch is the skill's own, so do not ask a general
     set first and the skill's set after - a user who answers four
     questions and is handed eight more stops answering.
-13. **A case, not a promise.** When the ask fits none of the three
+14. **A case, not a promise.** When the ask fits none of the three
     products - a signal nobody collects, a source that does not exist, a
     fact the data cannot verify - or a Lead Finder probe comes back empty,
     open a case for the Grinfi team with `escalate_request`. Before it,
@@ -290,7 +309,7 @@ its line. "Where are we?" is answered from this file, not from memory.
     draft form, nothing else - and wait for a yes. Say only what the tool
     returns: a new case, looked into by hand, a result within a couple of
     hours in working hours, nothing charged. Then `get_case`.
-14. **The offer of help has three places, one line each, once.** After
+15. **The offer of help has three places, one line each, once.** After
     the audit: "If you want, I send this audit to the Grinfi team: they
     look at it themselves, give their own take and offer a call." At a
     case that came back unsolved. And at the end of a full pass, when the

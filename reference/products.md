@@ -1,5 +1,12 @@
 # The three products: what each one is, why it is worth it, how to start
 
+> **This file goes stale and the products do not.** It is what to say
+> when a product is **not connected** and there is nothing to ask. When
+> it is connected, ask it instead: `get_updates` on Grinfi and Telegrin,
+> `get_channel_capabilities` for channels, `get_brief_rules` for Lead
+> Finder. Where the product and this file disagree, the product wins.
+> Prices and limits especially: never quote one from here to a customer.
+
 The agent takes a product at the step that needs it. When the user has no
 account there, it explains the product from this file, in the user's
 language and in their situation - what it is, what it does at this step,
