@@ -143,6 +143,10 @@ meetings target: those are decided at the steps that need them.
     roles, whether they are premium, and whether their owners post on
     LinkedIn. One profile sells nothing to anyone; the volume comes from
     several profiles connected in Grinfi, and the plan is built on that.
+    When the profiles themselves need rewriting before the first invite
+    goes out, `reference/sender-profiles.md` is the checklist: the
+    headline formula, the About, one Experience text shared by every
+    profile, and the fixes beyond the text.
 11. Proof that may be quoted to a stranger: a number, a named client, a
     result - or "none yet", which the copy then respects.
 

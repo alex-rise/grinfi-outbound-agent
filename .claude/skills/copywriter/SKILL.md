@@ -240,6 +240,12 @@ it needs a better wording:
 - **Three balanced bullets in a row.** Nobody writes in threes. A person
   writes one thing, or a messy list.
 - **Every paragraph the same length.** Real writing is lumpy.
+- **A colon and then five parallel items in one sentence.** "We cover the
+  whole cycle: discovery, design, build, launch, and support." Detectors
+  flag it and readers skim it. Break it into short sentences of uneven
+  length, one plain phrase in each. The same holds in a profile's About,
+  where owners see it flagged most often; `reference/sender-profiles.md`
+  has the before and after.
 - **A sentence that restates the one before it.** Generated copy pads;
   owners do not.
 
