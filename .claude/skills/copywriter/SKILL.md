@@ -152,6 +152,15 @@ how 12 teams split this, want it?").
 Never invent the observation. An unsent message beats a message with fake
 personalisation.
 
+**Greet them first, always.** The anchor is the first sentence, not the
+first line: above it goes a plain greeting with the person's name. This
+holds for the opening message, and it holds again for any message that
+reopens a thread after a long silence, which reads as a first message to
+the person receiving it. Dropping straight into the observation feels
+brisk while writing and abrupt while reading, and at scale it is the
+cheapest tell that a sequence wrote it. The only messages that skip a
+greeting are replies inside a conversation already going today.
+
 ## Step 3. Write it
 
 **Connection request.** With a note or without comes out about the same
@@ -204,6 +213,16 @@ to your LinkedIn, or a session you run - never their pets, children or
 holidays, which from a stranger reads as surveillance. US recipients get
 a physical address and an opt-out; opt-outs execute immediately on one
 suppression list shared across every domain.
+
+**Naming a product is not describing it.** A line that lists channels,
+integrations or features tells the reader what the thing contains and
+leaves them to work out what it removes from their week; our own sending
+puts that at roughly a third of the reply rate of the same message
+written as outcomes. Describe each product by the manual work it takes
+off the reader's own team, in their order of doing it - find, write,
+catch the moment - so the list is shaped like their day rather than like
+a catalogue. Where several products go in one message, one clause each
+is enough; the channel list belongs on the call, not in the message.
 
 ## Step 4. The gate
 
