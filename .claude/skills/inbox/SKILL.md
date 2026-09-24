@@ -322,6 +322,23 @@ later; if the dialogue moved on, do not apologise.
 
 ## What not to do
 
+- **Never decide "they did not book" from an email lookup.** People book
+  with whatever address suits them, not the one the CRM holds, so a
+  filter on the stored email produces confident false negatives - and a
+  message telling someone you see no booking when they already sat
+  through the call is the worst note a follow-up can hit. List the
+  events for the window and match the invitee by name; the stored email
+  confirms a hit, it never refutes one. The agreed time is the other
+  handle: a call set for 15:00 in their city is an event at that hour in
+  UTC on that day.
+
+- **After a meeting, follow up gently.** Where nobody recorded how the
+  call went, the follow-up must not advertise that gap - no "I am not
+  sure how it ended", no asking them to confirm a booking they honoured.
+  Ask about the next step as though the thread never dropped, and record
+  the outcome in the row the moment the call is over, so the next
+  follow-up is not written blind.
+
 - **Never probe a send API with a live lead.** A queue that dispatches in
   seconds gives you no window to take it back, and deleting the record
   afterwards removes it from the CRM while the recipient keeps the
