@@ -245,6 +245,16 @@ waiting for (reply, booking, meeting, hold), ping on, pings so far,
 sender, language, context. Grinfi tasks are not follow-ups: a task is a
 delayed send and fires even after the lead has booked.
 
+A row is part of the mechanics, not a nicety you add when there is time.
+Every lead who is still alive after today's pass gets one in the same
+breath as the stage change and the mark-read: they answered a question of
+yours, they asked one of theirs, they were invited to a call, they took a
+file. The rule is easier to keep as its opposite - only a refusal, a
+blacklist and a lead who never engaged leave without a row. A promising
+conversation with no row is a lead you will rediscover in a month by
+accident, and by then the thread has gone cold, which is the whole reason
+the table exists.
+
 Before you create a row, search the table by the lead's id, not by their
 name. More than one session can work the same inbox on the same day, and a
 search by name misses a row a sister session wrote minutes ago; two live
