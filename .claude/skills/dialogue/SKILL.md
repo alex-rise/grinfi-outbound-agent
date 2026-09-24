@@ -274,6 +274,17 @@ along with every thread in their account. Stop the other channel when one
 replies. Record the channel of the first touch and of the reply
 separately.
 
+**"We do it in-house" refuses the service, never the tool.** When the offer
+is a done-for-you service, an in-house team is a real objection and the
+thread turns on what their team cannot cover. When the offer is a product
+the team would operate themselves, the same sentence is the strongest
+qualification a reply can carry: they already do this work, they already
+own the problem, and they have someone to hand the tool to. Filing those
+people as out-of-ICP quietly deletes the best part of the list - and it
+happens because one bucket gets used for both offers. Before the stage
+changes, ask which of the two they turned down; if the house sells both,
+the answer decides the next message, not the exit.
+
 Pseudo-refusals are ICP facts arriving for free: "we only hire in-house",
 "we already have a vendor" belong in `business/icp.md`, not just in one
 thread. New objections and how the user answered them belong in
