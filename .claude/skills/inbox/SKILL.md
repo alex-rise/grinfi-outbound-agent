@@ -322,6 +322,15 @@ later; if the dialogue moved on, do not apologise.
 
 ## What not to do
 
+- **Never probe a send API with a live lead.** A queue that dispatches in
+  seconds gives you no window to take it back, and deleting the record
+  afterwards removes it from the CRM while the recipient keeps the
+  message. Learn an unfamiliar send method by reading a message already
+  sent, or use the tool built for it. If one does escape, the repair is
+  one short line of apology at the top of the real message, then
+  straight to the point - not silence, and not a second stray message
+  explaining the first.
+
 - **Do not mark anything read before it has been answered or filed on
   purpose.** That is how people get lost.
 - **Do not send a follow-up without checking the calendar first.** A silent
