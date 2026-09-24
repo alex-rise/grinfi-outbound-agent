@@ -212,8 +212,22 @@ email means the booking exists.
 
 Booked: one confirming line (for approval), stage [Negotiation], a
 follow-up row "booked: meeting" dated the day after. Nothing more until the
-meeting. After the meeting, close the row. Meeting outcomes are the user's
-to bring; do not chase them per lead.
+meeting.
+
+**The day a meeting happens, its row gets one line saying how it ended.**
+Not later, not from memory: a week afterwards nobody can reconstruct it,
+and the row then either goes silent or invites a follow-up written on a
+guess, which reads to the person who attended as though we were not
+there. Each pass, list the calendar events that have already started
+since the previous pass, and for each one write the facts you can read -
+the date, who hosted, the address the invitee booked from, and what they
+ticked as interesting - into the row, leaving the outcome as the single
+question for whoever ran the call. A row with the facts in it gets an
+answer in seconds; a bare "how did it go?" a week late gets none.
+
+Where the outcome was never recorded and the call is more than a few
+days old, it is gone: close the row and write nothing to the lead.
+Asking someone to recap a meeting we held is worse than silence.
 
 ## Step 6. Drafts, one report
 
