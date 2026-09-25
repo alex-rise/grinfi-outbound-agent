@@ -212,6 +212,19 @@ Thank them, own the delay, say plainly there is no open role and the team
 is not growing, say you will keep the profile in case something matching
 comes up, wish them luck. Never "we will review your CV" unless somebody
 actually will.
+
+**A founder choosing a contractor gets their own hypotheses, not a tour of
+our work.** Corrected from a reply that praised the strong part of their
+product, named two segments with the reason each fits and offered a call.
+The order that replaced it: one line on what we do (we build outbound
+strategies and run them for clients); the two hypotheses we see for their
+product even without a detailed analysis, each with who the companies are
+and a line that we can find them; what those companies would buy from
+them - the dearer plan, a service on top; and that working together turns
+up more. Then "if it is relevant, let's meet and talk - what do you say?"
+with the booking link. Two hypotheses show we can think about their
+market; "there will be more" is the reason for the call.
+
 1. Refusals get no reply. Stage change, sequence off, mark read. One
    short acknowledgement only when the person asked a real question.
 2. Reply in the language of the lead's last message, not their profile. A
