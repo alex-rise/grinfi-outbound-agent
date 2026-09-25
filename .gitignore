@@ -2,7 +2,4 @@
 # want to keep the files in your own git history.
 business/**
 !business/README.md
-!business/house/
-!business/house/rules.md
-!business/house/what-works.md
 .DS_Store

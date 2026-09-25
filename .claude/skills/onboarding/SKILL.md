@@ -18,7 +18,7 @@ message.
 **Name the client before anything else.** Every file this skill writes
 lives in `business/clients/<client>/`, one folder per business you work
 for. Take the name from the request or from the website you are about to
-read; a short slug, lower case, no spaces - `nes`, `whatsdo`, `grinfi`.
+read; a short slug, lower case, no spaces - `acme`, `northwind`, `bikevo`.
 Say which client you are starting, in one line, in their words - "starting
 Bikevo as a new client, kept separate from the rest" - never the path of
 the folder you made. Working for one business only means one client, and

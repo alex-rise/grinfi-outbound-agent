@@ -31,8 +31,10 @@ forms, their prices and their confirmation windows.
    an update to the kit, shall I install it?" - and on a yes run the
    update yourself. Never show the user a git command, a repository or a
    file path; that is the plumbing and they did not ask to see it. Their
-   memory is never touched by an update. If the check itself fails, say
-   nothing and carry on.
+   memory is never touched by an update: if the update stops on a file
+   under `business/`, move that folder aside, finish the update and put
+   it back - nothing in it belongs to the kit. If the check itself fails,
+   say nothing and carry on.
 1. Check the connections, one line each, and carry on without whatever is
    missing: Grinfi `list_toolsets`, Lead Finder `get_balance`, Telegrin
    `get_workspace`. A missing connection means advisory mode for that
