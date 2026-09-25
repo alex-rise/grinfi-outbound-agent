@@ -216,8 +216,9 @@ actually will.
 **A founder choosing a contractor gets their own hypotheses, not a tour of
 our work.** Corrected from a reply that praised the strong part of their
 product, named two segments with the reason each fits and offered a call.
-The order that replaced it: one line on what we do (we build outbound
-strategies and run them for clients); the two hypotheses we see for their
+The order that replaced it: one line on what we do and on which channels
+(we build outbound strategies for LinkedIn and email and run them for
+clients); the two hypotheses we see for their
 product even without a detailed analysis, each with who the companies are
 and a line that we can find them; what those companies would buy from
 them - the dearer plan, a service on top; and that working together turns
