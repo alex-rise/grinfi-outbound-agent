@@ -219,6 +219,20 @@ to verify, a company outside the ICP, or any red flag. In Grinfi keep
 anchor and tier as tags or custom fields: a campaign you cannot slice by
 anchor later is a campaign you cannot learn from.
 
+**A title that reads as senior is not a buyer.** Sorting a base by
+industry and by seniority answers two questions and skips the one that
+decides: can this person buy what is sold. Was, on our own base: the
+role tag set from title words, so any "owner", "co-founder" or "partner"
+counted as a leader, and a cheap model judging only the titles the words
+missed. The chains filled with an in-house recruiter, a director of
+engineering, a self-employed "owner" with no niche and a local taxi firm,
+and the first replies carried no interest at all. Now: the buyer is the
+owner or the head of the function that owns the pipeline - sales,
+marketing, business development; engineering, HR and recruiting leads are
+out; the judge also answers whether the company sells to other
+businesses or abroad and can use outreach at all; and 50 of its
+decisions are read by eye before a wave goes out.
+
 ## Step 7. Capacity and channel
 
 Calculate capacity before choosing the segment. Every percentage
