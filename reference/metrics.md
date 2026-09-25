@@ -84,6 +84,16 @@ shows. `get_outreach_metrics` gives the workspace-level view by period;
   It counts what each node actually did. It takes no period: the numbers
   are the lifetime of the current flow version, so date the flow version
   and say which window it stands for.
+- **A paused "replied" task is not a reply to this campaign.** When a
+  flow reaches someone whose last message in an existing thread is
+  theirs, it stops before sending and leaves a manual task marked
+  "replied", although this campaign never wrote to them. On one of our
+  own campaigns, three days old, 10 of its 16 such tasks sat on the first
+  message, which had never gone out: old threads, not replies. Was: the
+  paused tasks counted as the campaign's replies. Now: replies come from
+  `replied` on the message nodes, or from inbound messages dated after
+  this campaign's first message to that person; the paused tasks are a
+  list of old threads somebody still owes an answer.
 - **Send volume: `get_outreach_metrics` or `send_volume_report`.** Nothing
   else. `get_outreach_metrics` reports zero replies for any flow that has
   no reply-trigger node wired into it, and acceptance above 100% on a
