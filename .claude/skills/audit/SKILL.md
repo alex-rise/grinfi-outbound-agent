@@ -100,7 +100,7 @@ numbers, a CSV, a screenshot of a dashboard:
 4. How lists are built and filtered, and how big the whole market is.
 5. Tags or segments, if any.
 6. Who answers replies, how fast, what happens after a meeting.
-7. Email: domains, mailboxes, warm-up, bounce rate - or "we do not send
+7. Email: domains, mailboxes, ramp-up, bounce rate - or "we do not send
    email".
 
 Send a number back as a question when it arrives without its denominator.
@@ -158,7 +158,7 @@ the bottom ones by percent.
    day), what happens after "not now", whether silent bookings are found,
    what the meetings ended in.
 7. **The email track.** Non-acceptances going nowhere; the main domain
-   used for cold email; no warm-up, no suppression list.
+   used for cold email; no ramp-up, no suppression list.
 8. **Hygiene.** Customers, open threads and refusals missing from the
    stoplist; two senders writing to the same person.
 9. **Health.** Failed sends and their error text, expired cookies,
@@ -202,8 +202,8 @@ cheaper way to grow is the funnel", is enough.
 warmed profile, never more invites per account: an account pushed past 30
 gets restricted and the whole channel stops. Several senders at 20 beat
 one at the maximum. Email adds mailboxes x 25 a day x 20 working days,
-divided by touches in the sequence, and needs two to four weeks of
-warm-up before it counts. A finite market runs out faster at 3x: say how
+divided by touches in the sequence, and needs three to four weeks of
+ramp-up with real sends before it counts. A finite market runs out faster at 3x: say how
 many months of list they have at the new pace.
 
 **The same volume, a better funnel.** Acceptance from under 20% toward
