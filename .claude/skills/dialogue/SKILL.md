@@ -173,6 +173,32 @@ question about their process, not about your service.
 If they decline a call: "Understood. Easier to keep going here in writing,
 or is there a format that works better?"
 
+## When the call is recorded
+
+Read the transcript the same day for five things. The first three decide
+whether the call moved anything; each comes from one of our own demos.
+
+1. **Their situation before the demo.** What they use now, what went
+   wrong with it, how many profiles, who will answer the replies, what a
+   result means to them. Was: a thirteen-minute tour of features, and the
+   prospect's real fear - every account banned by another tool years ago -
+   came out at minute fifteen, after the demo had been shown without it.
+   Now: two or three questions, then show what answers them.
+2. **A need they name gets an answer, not a shrug.** Was: they asked for
+   activity that looks organic and heard "that part is the same as
+   everywhere". Now: say what actually makes activity look human, and
+   where the tool does it.
+3. **A next step with a date before hanging up**: who starts the trial,
+   who helps set it up, when you speak next. Was: "is there a free
+   trial?" - "yes, a week", and the call ended with nothing booked.
+4. **Numbers only from the product page.** A limit said aloud on a call
+   becomes a promise.
+5. **The same day**: a short written recap with the links promised and
+   one question, and the outcome in the follow-up row.
+
+Product requests, competitor prices and what the prospect already tried
+go to the person you work for, not into the recap.
+
 ## Rules from real inboxes
 
 **A price objection is answered with the alternative they are already
