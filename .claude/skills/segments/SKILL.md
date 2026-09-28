@@ -42,6 +42,19 @@ These hold on every step of this skill.
   them freely. What never crosses is the outgoing text: another client's
   name, number or case does not appear in this client's message,
   proposal or promise unless that client said it may be named.
+- **Think before you spend: check the form and the first raw candidates
+  before anything grows.** Words in the language of every country, the
+  company's country set, the wrong kinds (games, apps for children, global
+  brands, companies abroad) cut by filters before the first paid step -
+  not left for the judge to throw out after the money is gone. Before a
+  bigger run, read twenty raw candidates as the source returns them: the
+  right people, at the right company, in the right place? Junk there is a
+  filter to fix, not a judge to soften. Was: one list searched every
+  country with the same English words, with no company country and no
+  category cut; most bought candidates were games, namesake companies in
+  other continents and staff of single venues, the judge rejected them
+  rightly, and half a day went into speeding up a search that brought the
+  wrong people.
 - **Write the user's correction down the moment it is made.** About this
   business, into that client's `rules.md`; about how outreach is done at
   all, into `business/house/rules.md`.
