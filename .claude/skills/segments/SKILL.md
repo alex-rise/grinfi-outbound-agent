@@ -72,6 +72,16 @@ checked on each company page by the user, freelancers dropped by headline
 nobody has read the profiles against the portrait, and the company checks
 happen after the invite instead of before.
 
+By hand, a company goes into the filter as the company, not as a word:
+pick it from LinkedIn's own suggestions, which point at its page. A typed
+name is a text match. Before: five companies with common-word names typed
+in found 44,493 people, and 1 row in 25 worked at one of them; picked as
+companies, 899, and every row that showed its company was right. A country
+on a company search means an office there, not the head office: of 100
+software companies found "in Germany", 6 were headquartered there. Check
+the head office on each page, or add the country's legal form (GmbH, Ltd)
+to the search words.
+
 ## What you need before the first step
 
 Read `business/icp.md` and the strategist's segment brief. The strategist
@@ -127,6 +137,12 @@ can say "yes to all" or fix one line. Take the proposals from
    product or services or any. Take industry names from `find_industries`
    and show them to the user before they go into the form: LinkedIn
    filters by its own list, and a home-made wording finds nothing.
+
+   Keep these facts out of the words of step 1. They are checked on the
+   company; the person's verdict is read from a profile, and a profile
+   does not show headcount. Before: with "a company of 20-300 people" in
+   the portrait of the person, the same judge agreed with itself on only
+   two thirds of 189 profiles and rejected most for "size unknown".
 
    **The founding year has one boundary and it is a year.** The form takes
    "founded no later than <year>" and nothing else: no lower bound, no
