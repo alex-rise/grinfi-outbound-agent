@@ -55,6 +55,24 @@ These hold on every step of this skill.
   other continents and staff of single venues, the judge rejected them
   rightly, and half a day went into speeding up a search that brought the
   wrong people.
+- **Read the titles before delivery, against the roles that were asked
+  for.** LinkedIn's title search is loose: "CMO" also brings chief medical
+  officers, "Head of IT" brings heads of IT loans and IT security,
+  "Owner" brings product owners, and a seniority filter brings
+  supervisory and non-executive board members who run nothing. A board
+  member who also holds an executive role stays; the rest go before the
+  list is handed over. Was: a list asked for founders, CEOs, CTOs and
+  marketing heads; over a third of one batch was medical officers, heads
+  of loans and security, finance chiefs and product owners.
+- **One person, one list; one company, one list.** When several lists go
+  into the same workspace, whoever is already in one list stays out of
+  the next. A second import updates the same lead and rewrites the
+  message fields of the first list, so its sequence then quotes the wrong
+  app, rating or date. Keep the list of everyone delivered and check
+  against it before each import. Was: one founder landed in two lists;
+  the second import replaced his app and rating with the other store's,
+  and the first list's message would have cited an app he was not asked
+  about.
 - **Write the user's correction down the moment it is made.** About this
   business, into that client's `rules.md`; about how outreach is done at
   all, into `business/house/rules.md`.
