@@ -55,3 +55,33 @@ growth, revenue, and what people post are not verifiable at collection
 time. A condition like that does not go into a list's filters, and it
 does not go into the copy either: a message standing on "I see you are
 growing" that nobody checked is an invented fact, and the reader can tell.
+
+## App stores as a source
+
+A company's app is a public, dated record: its rating, how many people
+rated it, when it was last updated. That makes a bad rating or an
+abandoned app an anchor B you can check for every lead. What was learned
+building such lists:
+
+- **The App Store publishes no download counts.** Not in Apple's search
+  API, not on the app page; only the app's owner sees them. Measure size
+  by the number of ratings in that country instead. Google Play shows
+  both, and on business apps there the ratio holds roughly: 10,000+
+  installs sit around 200 ratings, 50,000+ around 700, 100,000+ around
+  1,900. So 200 / 700 / 1,500 ratings on the App Store stand for about
+  the same audience as 10k / 50k / 100k installs. A floor of 1,500 ratings
+  looks modest and cuts the list to its biggest apps.
+- **Without a size floor, "not updated for months" is mostly apps nobody
+  uses.** On the App Store nine in ten such apps had fewer than 200
+  ratings, the level of about 10,000 downloads.
+- **A rating belongs to one country.** Google Play shows a different score
+  in each country, so the rating, the country and the comparison in the
+  message come from the same storefront.
+- **About a third of what passes a store filter is a buyer.** The rest are
+  big brands, publishers from other regions, apps with no business behind
+  them and public bodies. Plan the list size from the judged share, not
+  from the raw count.
+- **A white-label vendor rarely has a badly rated fleet.** Its client apps
+  each have too few ratings for the score to mean anything. What a vendor
+  fleet does show is its build dates: many of its client apps fall behind
+  a platform deadline together.
