@@ -165,12 +165,20 @@ use the team's own names. Defaults in brackets.
 | "will reach out if there is a need" (a polite no) | [Not ICP] | pause | no | no |
 | "not now", "in a month", "busy season" | [On hold] | pause | wait: hold, +4 weeks | no, or one line if they did something for you |
 | neutral: "thanks", "ok", "will look", a thumbs up, "happy to connect" | unchanged | `continue_automation` | no | no |
+| any reply to a networking or connect note, however warm it sounds - "very interesting", an introduction of their own business | unchanged | `continue_automation` | no | no: the sequence carries the pitch, and a manual text here jumps ahead of the step that was written for exactly this moment |
 | they promised to write back themselves | unchanged | pause (not continue) | wait: reply, +7 days | no |
 | a question, warm interest, "what do you sell", "which queries" | [Replied] | pause | wait: reply, or booking after the link is sent | yes, for approval |
 | booked (wrote it, or found in the calendar) | [Negotiation] | pause | booked: meeting, date = the day after | one confirming line |
 | existing customer | [Customer] | `cancel_contact_from_all_automations` | no | no; a product question goes to the user |
 | empty message, a reaction, a sticker | unchanged | nothing | no | no |
 | wrong language ("I don't speak X") | [Replied] | pause | by the answer | yes, in their language, short |
+
+**A sequence pauses itself the moment a lead replies, and it never
+resumes on its own.** So every reply sorted into a `continue_automation`
+row has to be continued in the same pass, or the person silently drops
+out of the sequence for good. Stages and follow-up rows are the same
+kind of work: they happen in the pass, alongside the mark-read, not when
+someone remembers to ask for them.
 
 Doubt between "neutral" and "promised to write" resolves toward pause: an
 extra sequence step after "I'll get back to you" irritates, a missing one
