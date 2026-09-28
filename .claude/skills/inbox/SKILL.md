@@ -246,6 +246,12 @@ Where the outcome was never recorded and the call is more than a few
 days old, it is gone: close the row and write nothing to the lead.
 Asking someone to recap a meeting we held is worse than silence.
 
+**The host on the calendar is not proof of who ran the call, nor of a
+no-show.** Colleagues cover for each other. Before writing that a
+meeting did not happen, ask the team or look for the recording. Was: a
+note went out saying the demo had not taken place, forty minutes after a
+colleague had run it.
+
 ## Step 6. Drafts, one report
 
 The user does not see the inbox. Every draft has three parts:
