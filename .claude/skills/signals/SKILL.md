@@ -135,7 +135,13 @@ Numbered, in one message, each with a proposed answer from
    most of a campaign's volume and produced no leads.
 2. **Markets** - the languages posts may be written in. Everything in
    another language is thrown away before the AI reads it, so a wrong
-   list quietly costs leads, and a missing one costs money.
+   list quietly costs leads, and a missing one costs money. The market
+   is where the user's **customers** are, not where the user is: a
+   studio based in one country that sells abroad needs its phrases in
+   its buyers' language and its channels where those buyers talk. The
+   default that goes wrong is writing the queries in the language the
+   user wrote to you in, and picking the local chats they know - which
+   hands the campaign to the one audience that will never buy.
 3. **Seekers or sellers** - the people who need what the user sells, or
    the people who offer it, when they are the ones to approach (they
    resell, or they shop for a contractor). Ask; never infer it from the
