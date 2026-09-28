@@ -200,11 +200,12 @@ whether the call moved anything; each comes from one of our own demos.
    people by their profile, not by what they answered.
 5. **The same day**: a short written recap with the links promised and
    one question, and the outcome in the follow-up row.
-6. **What they ticked when booking is the agenda.** Was: a founder ticked
-   the done-for-you option, spent the call on the fear of losing her own
-   profile, and was never offered the service that removes that fear.
-   Now: the form answers go on the call plan, and a fear the service
-   solves is where the service is named.
+6. **What they ticked when booking is a hint, not the agenda.** People
+   tick those boxes at random. The agenda is what they say they want; if
+   they narrowed the call to one product, the recap stays on that
+   product. Was: our review of a demo called it a miss that the service
+   she had ticked was never offered; the person we work for: they tick
+   at random, the call was about the product, so is the follow-up.
 7. **A technical question gets an exact answer or a written one the
    same day, never a guess.** Was: a technical director asked how the
    tool connects to LinkedIn and heard "through the API, not quite sure
