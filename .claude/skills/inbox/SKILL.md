@@ -210,6 +210,15 @@ that were answered stay unread, and the user finds it before you do.
 Refusals also go to the stoplist (`add_to_leads_blacklist`) so that no
 future campaign brings them back.
 
+**On Grinfi the stoplist deletes the contact card.** Measured 2026-09-28:
+the card of a lead added a minute earlier answered 404, and none of the
+earlier stoplisted people could be found in the CRM any more - the stage,
+the notes and the thread history went with them. So the stoplist is for
+the explicit "do not contact me" only, after anything worth keeping is
+written down. Someone who is merely not a fit, or annoyed, or someone the
+user says not to answer keeps the card: a "not ICP" stage and no flow,
+never the stoplist.
+
 ## Step 5. Bookings and the calendar
 
 Before confirming a booking, before a "did you book?" ping, and for every
