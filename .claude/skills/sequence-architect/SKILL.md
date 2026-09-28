@@ -194,6 +194,43 @@ lower. Rotation is not the first fallback. Email is.
 - **Silent after the last step:** close, re-queue after 60 to 90 days when
   a new signal appears (new job, new post, new round).
 
+## Before building: every variable, filled on a sample
+
+A template promises that every lead has the facts it names. Check the
+promise before the flow exists. Take 50 to 100 records per segment from
+the real list, only the ones that would actually be written to, and fill
+every variable of every message for each of them. Write down, per
+variable, how many records it filled and what the message says for the
+rest. Most sources for this are free: a store's own search, a company's
+site, a public feed.
+
+- **Below 100%, a variable gets a filter or a fallback sentence.** Either
+  the list keeps only the records that have it, or the sentence is
+  rewritten to stand without it. There is no third option: an empty
+  variable reaches the lead as a gap or as its raw name.
+- **Count on the records you will send to.** Big brands, foreign
+  publishers and public bodies leave at the judge; their fill rate says
+  nothing about the list that goes out. On one measured list two records
+  in three left at this step.
+- **A claim tied to a date holds only on one side of that date.** "Since
+  April every update needs the new toolchain" is false for an app last
+  shipped in May. On one measured list that sentence was wrong for three
+  records in four. Check every dated claim against each record's own
+  date, and turn the check into a filter.
+- **Read reviews and posts in the language they were written in.** A
+  local brand's complaints are in the local language; an English-only
+  read of the same apps found almost none of them.
+- **An empty answer from a free source is not proof of silence.** A public
+  review feed returned fifty reviews for an app on one request and none on
+  the next. Retry slowly before a record is counted as having nothing to
+  say.
+- **A store or company name is not the name to write.** Store titles carry
+  keywords ("Brand: Food Delivery & Deals"). Cut to the name a person
+  would say, and check the cut by eye on the sample.
+
+The counts go into the sequence brief, one line per variable: filled on
+the sample, and the filter or fallback.
+
 ## Building it in Grinfi
 
 1. `get_guide` with `create_flow`. Always. It has the node types, the edge
@@ -230,6 +267,7 @@ Channel plan and day map: <as above>
 Goal: get a reply
 Asset for this sequence: <the one thing every "want it?" promises>
 Senders in the pool: <names>, rotation: <leave-and-route / withdraw>
+Variables: <each: filled N of M on the sample; filter or fallback line>
 
 Step 1  Invite: empty / note angle (only with a signal)
 Step 2  Message 1, day 1: angle, CTA

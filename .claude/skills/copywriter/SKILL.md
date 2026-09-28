@@ -240,6 +240,7 @@ Run it on every draft before anyone sees it. All rows must pass.
 | Reads aloud in the sender's voice in under 20 seconds | yes |
 | Follow-up only: new angle, and one line restating who is writing | yes |
 | Grinfi only: variables checked against `list_ai_variables`, one sample rendered with `render_ai_template` | yes |
+| Every variable has its count from a sample of the real list and a fallback line where it is under 100%; every claim tied to a date is true for each lead, not on average (sequence-architect, "Before building") | yes |
 
 A row fails: fix it and run the gate again. Over the character ceiling,
 cut - the opener, the credentials line, the closing summary go first.
