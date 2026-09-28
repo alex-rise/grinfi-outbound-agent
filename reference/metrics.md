@@ -228,6 +228,24 @@ and following of prospects is measured as counter-productive. In Grinfi:
 `get_health_snapshots` for the fleet, `diagnose_linkedin_browser` for one
 seat, `get_sender_limits` for the live limits (the snapshot lags a day).
 
+Two things the rotation does not do for you, both measured on our own
+fleet in one week:
+
+- **A throttled seat keeps receiving people.** Smart limits pulled one
+  seat down to 3 invites a day and another to 9, and the campaigns kept
+  routing new people to both: 217 and 107 invites queued, weeks of
+  waiting. Was: nobody read the live limit rows. Now: read
+  `get_sender_limits` for every seat once a week, and take a throttled
+  seat off the list of senders for new people. Do not restart its queue:
+  a restart sends step one again to everyone that seat is already midway
+  through a conversation with.
+- **Rotation by load starves a seat whose message queue is full.** The
+  founder's seat, messaging its own large network, got 24 invites in a
+  week against 150 to 190 for each of the others, and its 30 invites a
+  day sat unused. Now: such a seat gets its own entrance into the
+  campaign, with only itself as the sender and only people outside its
+  network.
+
 ## 8. Multichannel attribution
 
 Record two fields on every contact: channel of the first touch, channel of

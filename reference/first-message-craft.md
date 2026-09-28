@@ -77,6 +77,7 @@ check a draft against, not a template to fill.
 | Ease of entry | "two minutes to connect", "no software changes", "no staff training" |
 | A free first step | a diagnostic with what you get from it, an audit of one specific thing, a link to try it, a guide |
 | Calendar | a booking link in the first or second message, on a service |
+| A link to an article | only if it opens the article. Behind an email form the reader sees a form, not what was promised, and writes back "where is the article?" - one of the first replies to our own campaign was exactly that. Ungate the page, or say in the message that a short form comes first |
 | Message two | the process in steps with a timeframe, a case with numbers, a demo link or a one-minute video |
 | Message three | a new angle: an observation and a question, a blog and an open door, a wider audience, safety, a direct contact |
 | Closing question | open, about their plans |
