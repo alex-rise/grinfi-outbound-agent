@@ -191,8 +191,13 @@ whether the call moved anything; each comes from one of our own demos.
 3. **A next step with a date before hanging up**: who starts the trial,
    who helps set it up, when you speak next. Was: "is there a free
    trial?" - "yes, a week", and the call ended with nothing booked.
-4. **Numbers only from the product page.** A limit said aloud on a call
-   becomes a promise.
+4. **Numbers and features only from the product itself.** A limit said
+   aloud on a call becomes a promise. In the recap, name only what the
+   product does, checked in the product: the prospect's description of
+   a competitor's feature is not ours. Was: a recap draft offered a branch
+   that reads the reply and routes "not interested" elsewhere - the
+   prospect had described it about a competitor, our condition step sorts
+   people by their profile, not by what they answered.
 5. **The same day**: a short written recap with the links promised and
    one question, and the outcome in the follow-up row.
 
