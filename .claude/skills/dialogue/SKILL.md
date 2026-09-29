@@ -231,11 +231,13 @@ whether the call moved anything; each comes from one of our own demos.
 9. **A proposal promised on the call is written for that one client.** It
    opens on what we heard - their situation, their goal and their fear, in
    their words - then a page of what we build for them by name, including
-   anything promised on the call, and the options side by side when the
-   call raised a second project, with tools priced apart from our fee.
-   Was: the plan for a proposal listed the standard package and a price
-   table; the person we work for sent it back to spell out what we build
-   for this client.
+   anything promised on the call, and the options side by side only when
+   the call raised them, with tools priced apart from our fee. Was: the
+   plan for a proposal listed the standard package and a price table;
+   the person we work for sent it back to spell out what we build for
+   this client. And: a second column adding an email channel nobody had
+   discussed came back with one line - one format, the one priced on the
+   call; that niche does not need email.
 
 Product requests, competitor prices and what the prospect already tried
 go to the person you work for, not into the recap.
