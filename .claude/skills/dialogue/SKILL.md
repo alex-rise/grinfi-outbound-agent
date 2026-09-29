@@ -145,6 +145,13 @@ is behind it, reframe from a different angle, propose one small step.
 - "Will this work for us, our sales are complex B2B": complex B2B is the
   argument for outreach by ICP, not against it: hypotheses, offers,
   audiences, tests, scaling what works. Offer an audit, not a promise.
+- "We only pay per lead" (or per meeting): never answer that nobody works
+  that way; someone always has, and the buyer will name them. Say what the
+  fixed part buys - the list, the texts, the setup, the meetings you
+  expect at their own close rate - and turn it into a cost per meeting
+  with their numbers. Was: on a call we said pay-per-lead exists nowhere;
+  the buyer named an agency that had offered it, and the next question was
+  "so what do we buy for the money?"
 - "Are you a bot?": honest, in the sender's voice: the sending is
   automated and queued by the platform, the texts and the sequence were
   written by a person, here I am, happy to answer.
@@ -200,7 +207,12 @@ whether the call moved anything; each comes from one of our own demos.
    prospect had described it about a competitor, our condition step sorts
    people by their profile, not by what they answered.
 5. **The same day**: a short written recap with the links promised and
-   one question, and the outcome in the follow-up row.
+   one question, and the outcome in the follow-up row. When they promised
+   to send something, the recap carries the exact address written out - an
+   email or a handle, not a number dictated on the call. Was: a buyer
+   agreed to send their brief to a phone number dictated on the call,
+   found no messenger on it and asked in the LinkedIn thread where to send
+   it.
 6. **What they ticked when booking is a hint, not the agenda.** People
    tick those boxes at random. The agenda is what they say they want; if
    they narrowed the call to one product, the recap stays on that
@@ -211,6 +223,11 @@ whether the call moved anything; each comes from one of our own demos.
    same day, never a guess.** Was: a technical director asked how the
    tool connects to LinkedIn and heard "through the API, not quite sure
    how it works on their end".
+8. **A feature not built yet is a plan, said without a date you would not
+   put in writing.** Each date said aloud becomes a follow-up you owe. Was:
+   one call promised a first version within weeks, native CRM integrations
+   "within half a year" and a redesign of a live product that had been
+   ruled out the day before.
 
 Product requests, competitor prices and what the prospect already tried
 go to the person you work for, not into the recap.
