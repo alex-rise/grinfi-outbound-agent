@@ -327,11 +327,16 @@ market; "there will be more" is the reason for the call.
 12. No long dashes anywhere, including one-line confirmations. Hyphen,
     comma, colon, full stop.
 13. Our planning labels never reach the reader. A segment name from our
-    notes reads as something else in their inbox: "where would you rather
-    start - SaaS directly or agencies?" was read, even by the person we
-    work for, as us selling them software. Name their own clients in full:
-    "whom would you rather reach first - SaaS companies as your direct
-    clients, or agencies that hire a subcontractor for video?"
+    notes reads as something else in their inbox: "SaaS directly or
+    agencies?" was read, even by the person we work for, as us selling
+    them software. Say it in the reader's words: their clients, their offer.
+14. Where to start is ours to decide. A recap or a proposal never asks the
+    client which segment or hypothesis to begin with - that question hands
+    back the strategy they pay us for. Was: a closing line offered the
+    client the choice between direct buyers and the partner track; the
+    person we work for: we consult on strategy, we decide where to start.
+    The last line asks for the next thing we need from them - the brief,
+    the materials - or invites questions about the proposal.
 
 ## Inbound offers to you
 
