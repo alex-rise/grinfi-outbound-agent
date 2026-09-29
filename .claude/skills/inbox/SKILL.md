@@ -241,6 +241,13 @@ there comes out of the running sequences and gets a stage that keeps the
 next waves off them. Was: a company booked a call while 18 of its people
 were still in running sequences, and they raised it on the call.
 
+Before the stop, confirm the person who booked still works there. The card
+holds the company as of its last enrichment; the domain of the email they
+booked with, or their live profile, says where they are now. Was: a card
+showed a lead-gen manager at a company she had left eight months earlier,
+and sixteen of that company's people were one call away from being pulled
+out of their sequences for a meeting that had nothing to do with them.
+
 **The day a meeting happens, its row gets one line saying how it ended.**
 Not later, not from memory: a week afterwards nobody can reconstruct it,
 and the row then either goes silent or invites a follow-up written on a
