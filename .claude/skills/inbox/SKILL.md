@@ -206,6 +206,9 @@ half that did. Read the result per contact - `unread_counts` at zero, the
 stage uuid you asked for - or call `get_unread_conversations` again
 afterwards. Reporting a batch as finished without that check is how leads
 that were answered stay unread, and the user finds it before you do.
+On Grinfi the unread flag can come back a minute after a reply goes out,
+while the sent message syncs from LinkedIn; mark those read again and
+check once more before the report.
 
 Refusals also go to the stoplist (`add_to_leads_blacklist`) so that no
 future campaign brings them back.

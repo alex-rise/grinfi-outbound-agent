@@ -101,6 +101,7 @@ they operate.
 | "We only do this in-house" | you learned their model, and that model breaks on hiring timelines | "Makes sense. What carries the work while the roles are being filled?" |
 | "We already have a tool for this" | validated problem; this is a question, not a refusal | "Which one? We have plenty the others do not; I can show the difference on your tool's example. A demo is more reliable than a message: [link]" |
 | "We don't work with new vendors" | risk objection, not capability | "Fair. Would a single small piece make more sense than the whole thing, as a first pass?" |
+| "Our buyers are C-level, we have to come to them ourselves" | true of almost any B2B, and a refusal of the done-for-you service only | "Right, the conversation with a C-level is always yours. The tools are there to make that C-level interested first, so you have someone to come to." Then the demo |
 | "Not right now, maybe later" | timing, not fit | "Understood. What has to happen on your side first: a budget cycle, a hire, a release?" Then hold, ping in two to four weeks |
 | "Send me some materials" | often a polite brush-off | "Happy to. So I send something relevant: is [specific pain] live for you now?" |
 | "How did you get my details?" | a boundary check | "LinkedIn, your profile is public." No over-explaining; if annoyed: "Understood, I won't reach out again." |
