@@ -326,6 +326,12 @@ market; "there will be more" is the reason for the call.
     assert.
 12. No long dashes anywhere, including one-line confirmations. Hyphen,
     comma, colon, full stop.
+13. Our planning labels never reach the reader. A segment name from our
+    notes reads as something else in their inbox: "where would you rather
+    start - SaaS directly or agencies?" was read, even by the person we
+    work for, as us selling them software. Name their own clients in full:
+    "whom would you rather reach first - SaaS companies as your direct
+    clients, or agencies that hire a subcontractor for video?"
 
 ## Inbound offers to you
 
