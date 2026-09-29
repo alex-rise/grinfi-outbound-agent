@@ -100,9 +100,11 @@ inside the product; then `/mcp`, `grinfi`, "Authenticate", log in.
 
 **Lead Finder** (`lead-finder`) - a verified list from a portrait, steps
 2 and 3. `/mcp`, `lead-finder`, "Authenticate": the window asks for your
-email and sends a sign-in link; no account yet means the link creates
-one, with a trial balance for the first probe. Open the link, and the
-connection is done.
+email and sends a sign-in link to an existing account. Open the link, and
+the connection is done. Lead Finder is in early access: new accounts are
+not created yet. Without one, the skill takes your request instead - who
+you need and which email to reply to - and the Grinfi team prices it and
+replies within one business day.
 
 **Telegrin** (`telegrin`) - the people asking right now, step 4. No
 account yet: sign up at [tg.grinfi.io](https://tg.grinfi.io); the trial

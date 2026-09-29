@@ -92,9 +92,17 @@ These hold on every step of this skill.
 |---|---|---|
 | lead-finder | the rules, the form check, the probe, the collection | no (hand the portrait and the filters over to search by hand) |
 
+**Early access.** Lead Finder is in early access. When any call answers
+with the `early_access` error, do not retry and do not work around it: ask
+the user who they need to find and which email to reply to, call
+`request_early_access` with that, and tell them the Grinfi team prices the
+request and replies within one business day. Then continue by hand as
+below, if they want the list now.
+
 Without Lead Finder, say in three lines what it does at this step and how
 to connect it: `/mcp`, `lead-finder`, "Authenticate", their email, the
-link from the mail; no account yet means the link creates one. Then
+link from the mail - it works for an existing account; without one, use
+the early-access request above. Then
 continue by hand: the same portrait as filters - titles, countries,
 headcount bands, industry names as LinkedIn spells them, the founding year
 checked on each company page by the user, freelancers dropped by headline

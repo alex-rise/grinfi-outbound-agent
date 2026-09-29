@@ -83,8 +83,10 @@ does not filter anything.
 
 Two steps, each approved by you. First a short paid check that names the
 price per lead. Then the collection at that price, only for the people
-who matched. A new account comes with a trial balance for the first
-check; the balance is topped up by card.
+who matched. The balance is topped up by card. While Lead Finder is in
+early access, new accounts are not created: you send a request - who you
+need and an email to reply to - and the Grinfi team prices it and replies
+within one business day.
 
 ### If your ask is unusual
 
@@ -96,9 +98,11 @@ comes back into the same chat.
 ### Start
 
 In the chat: `/mcp`, `lead-finder`, "Authenticate". The window asks for
-your email and sends a sign-in link; no account yet means the link
-creates one, with a trial balance for the first probe. Open the link and
-you are connected. The cabinet itself is at finder.grinfi.io.
+your email and sends a sign-in link to an existing account. Open the link
+and you are connected. The cabinet itself is at finder.grinfi.io. No
+account yet: Lead Finder is in early access, so the request form on
+finder.grinfi.io, or the `request_early_access` tool in the chat, takes who
+you need and where to reply.
 
 ---
 
