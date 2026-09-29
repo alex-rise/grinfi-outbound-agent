@@ -191,6 +191,15 @@ slice standing on an event and a slice standing on a segment pattern
 cannot be read against each other - the event slice pulls the average up
 and hides a segment track that returns nothing.
 
+**A partner or white-label track is its own campaign on one sender, not a
+share of the list.** The ask was to split the outreach between direct
+buyers and agencies that could resell or subcontract; the person we work
+for gave the partner track one sender of five and the direct buyers four.
+Partners say yes readily and forget by next week, so the track is proved
+on five or six partners kept warm by hand before it is scaled, and at
+scale it needs someone whose job is the partners. It is never the main
+source in the first plan, even when partners already bring work in.
+
 Everything else is read, not split. Country, company age, title, source,
 sender: put them on the contact as tags and slice the report by them.
 Splitting the sending to get a readable report is work the tags already
