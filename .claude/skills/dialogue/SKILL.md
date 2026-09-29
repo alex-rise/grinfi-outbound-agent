@@ -295,6 +295,14 @@ up more. Then "if it is relevant, let's meet and talk - what do you say?"
 with the booking link. Two hypotheses show we can think about their
 market; "there will be more" is the reason for the call.
 
+Each of the two is a lookalike of work they have already published: a case
+on their site, a package they sell, a series of similar projects. Their
+portfolio says who has bought from them and why; a hypothesis built there
+comes with its own proof. Was: two drafts in a row stood on signals in
+general - companies hiring a CTO, then apps with bad reviews - and came back
+as banal; the version worth sending stood on a series of three cases the
+prospect had published about the same kind of rescue project.
+
 1. Refusals get no reply. Stage change, sequence off, mark read. One
    short acknowledgement only when the person asked a real question.
 2. Reply in the language of the lead's last message, not their profile. A
@@ -337,6 +345,13 @@ market; "there will be more" is the reason for the call.
     person we work for: we consult on strategy, we decide where to start.
     The last line asks for the next thing we need from them - the brief,
     the materials - or invites questions about the proposal.
+15. A list in a proposal or a guide is described by what it holds and who
+    builds it, never by the searches behind it: what the list builder
+    finds, what it drops, who ends up on it. Search strings and operators
+    hand the reader the method without us and bury the product under
+    technique. Was: a guide for a prospect printed the search queries for
+    finding apps; the person we work for: why describe how to search when
+    we can say our list builder does it.
 
 ## Inbound offers to you
 
