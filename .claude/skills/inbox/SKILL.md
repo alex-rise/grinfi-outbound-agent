@@ -234,6 +234,13 @@ Booked: one confirming line (for approval), stage [Negotiation], a
 follow-up row "booked: meeting" dated the day after. Nothing more until the
 meeting.
 
+**A booking or a customer stops the whole company the same day.** Writing
+to several people at one company is fine while nobody there has answered.
+Once one of them books, or the company already pays you, everyone else
+there comes out of the running sequences and gets a stage that keeps the
+next waves off them. Was: a company booked a call while 18 of its people
+were still in running sequences, and they raised it on the call.
+
 **The day a meeting happens, its row gets one line saying how it ended.**
 Not later, not from memory: a week afterwards nobody can reconstruct it,
 and the row then either goes silent or invites a follow-up written on a
