@@ -185,6 +185,14 @@ extra sequence step after "I'll get back to you" irritates, a missing one
 does not. Neutral is not always "send more": a "nice to connect" followed
 by the next automated step has produced "not relevant" replies.
 
+Sort first, remove second. `cancel_contact_from_all_automations` is
+final: `continue_automation` afterwards returns success and restores
+nothing. The only way back is the cancelled step as a scheduled manual
+task (`create_task`) with the same sender, text and time; it still stops
+if the person replies. Was: a pass removed a whole batch of same-day
+repliers before sorting them, two were neutral, and the resume call left
+their next step cancelled.
+
 ## Step 4. Mechanics, without asking
 
 The user approved these in advance; do them, then report them:
