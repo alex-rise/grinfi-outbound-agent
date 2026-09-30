@@ -143,6 +143,17 @@ the bottom ones by percent.
    an event, a data point with a comparison, a narrow-segment pattern, or
    the sender's years, headcount and client count? The last is no anchor
    at all. Run the copywriter's two swaps on their text.
+   **The offer and the free step go in message 1.** A message that
+   sends an article, or offers to send "more information", carries no
+   offer at all. A free first step, or a first order credited back in
+   full, is the strongest lead magnet a service has: where the audit
+   finds it in a late step, beside a discount or a second service, the
+   fix is to move it into message 1 and lead the call with it. Was: an
+   audit read a pilot credited back in full as a discount that cheapens
+   the service and proposed cutting it; the person we work for answered
+   that whatever can be had free, or with the money credited back, is
+   a strong lead magnet and not a discount. Now: it moves forward, and
+   it is never cut.
 3. **Sequence length against its source.** Read what each step actually
    returned before proposing to cut it: our zero on messages 4 and 5 is
    one team's measurement, and other cold flows keep earning a few
