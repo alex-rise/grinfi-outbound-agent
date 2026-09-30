@@ -276,6 +276,16 @@ Check the last successful outbound before apologising: if they answered
 later anyway the thread is alive, and an apology for nothing reopens a
 problem they never saw.
 
+**A lead with a later date gets a useful touch every month until then,
+and the real ask arrives early.** Was: "not now, after the holidays" was
+held and pinged once near the date. The person we work for: by then
+someone else has written first and sold to them. Now: every month a touch
+that carries something useful - a change in the rules of their field,
+something new in the product, an occasion their profile announces - and
+the ask itself a week before a named date, a month before a named month.
+It goes into the follow-up table the moment it is said, not at the end of
+the pass.
+
 **Someone writing to the founder about a job gets a soft, honest close.**
 Thank them, own the delay, say plainly there is no open role and the team
 is not growing, say you will keep the profile in case something matching
