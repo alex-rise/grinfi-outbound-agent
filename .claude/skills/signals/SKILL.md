@@ -103,6 +103,39 @@ to extend, and "we do not have your language yet, send me the chats your
 customers sit in and it is in by Monday" turns a refusal into an appointment.
 Decide which of the two you are looking at before you write a word.
 
+### Words for a Telegrin campaign
+
+- **Take the words from real leads, not from the product.** Read the posts
+  the feed already marked as leads and copy how people wrote: inflected
+  forms, a tool name spelled in Cyrillic, "Linked In" with a space. Enter
+  stems with partial matching on, so one stem catches every case ending.
+- **A bare verb phrase belongs to every market.** "Collect a base" was meant
+  for B2B lists and on its first hour caught a hair stylist and a nail
+  artist "collecting a client base". Anchor the phrase to the B2B noun
+  (base of decision makers, of companies) and put the B2C words among the
+  stop words.
+- **A stop word matches inside other words.** A three-letter stop word vetoes
+  every post that contains it anywhere: a Ukrainian three-letter word for
+  "lashes" also sits inside "own" and "war", a four-letter "tattoo" inside
+  "status". Stop words of five letters or more, or
+  two-word phrases; leave the short ones to the judge.
+- **Market and size go into the judge in so many words.** "Only serious B2B
+  companies that sell to other businesses; not the self-employed, not B2C,
+  not <market you do not sell to> (its currency, its capital, its
+  marketplaces); when in doubt - not a lead." The currency and the capital
+  also work as stop words.
+- **Generated search terms get reviewed the hour they appear.** On a
+  campaign that writes its own terms from a description, half of them were
+  generic ("finding clients", "scaling sales") or in a language the
+  campaign discards anyway. Remove those at launch; when you want full
+  control of the list, run the campaign on your own words and your own
+  judge instead of the generated search.
+- **Own chats by meaning, the rest by words.** A campaign that reads the
+  account's own chats plus the whole public catalogue judges every message
+  of the own chats and passes the public ones through the word filter. One
+  offer per campaign keeps each judge sharp; it costs one extra reading of
+  the own chats per campaign.
+
 ## Without Telegrin
 
 Say in three lines what Telegrin does at this step and how to get an
