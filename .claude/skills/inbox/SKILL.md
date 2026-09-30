@@ -187,11 +187,13 @@ by the next automated step has produced "not relevant" replies.
 
 Sort first, remove second. `cancel_contact_from_all_automations` is
 final: `continue_automation` afterwards returns success and restores
-nothing. The only way back is the cancelled step as a scheduled manual
-task (`create_task`) with the same sender, text and time; it still stops
-if the person replies. Was: a pass removed a whole batch of same-day
-repliers before sorting them, two were neutral, and the resume call left
-their next step cancelled.
+nothing, and a task made with `create_task` is a manual to-do that waits
+for a person to press send - it never goes out by itself. Once someone is
+removed, the rest of their sequence goes out only by hand on the dates it
+was due, or through a new sequence that starts at the next step. Was: a
+pass removed a whole batch of same-day repliers before sorting them, two
+were neutral, and neither the resume call nor manual tasks brought their
+sequence back.
 
 ## Step 4. Mechanics, without asking
 
