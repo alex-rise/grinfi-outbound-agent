@@ -352,6 +352,15 @@ prospect had published about the same kind of rescue project.
     technique. Was: a guide for a prospect printed the search queries for
     finding apps; the person we work for: why describe how to search when
     we can say our list builder does it.
+16. Funders are not a cold LinkedIn audience. When a prospect wants
+    foundations, donors or grant programmes found and written to, say so in
+    one plain sentence - in the runs this kit was built on it did not work -
+    and put the offer on the part outreach does reach: the buyers and
+    partners they named. Investors are a separate conversation, offered only
+    if they are ready for one. Was: a prospect named international funders
+    first and distributors second; the person we work for: say funders
+    through LinkedIn did not work for us, offer investors if they are ready,
+    build the guide on the distributors.
 
 ## Inbound offers to you
 
