@@ -53,6 +53,15 @@ with numbers the client approved. Then one call to action: "message me
 with a link to your app and what bothers you about it" beats "let's
 connect". Up to 2,600 characters, and shorter is better.
 
+A rented profile is a real person whose past the business does not know,
+so the line on why they are worth listening to rests on the role they
+hold (the person who looks after partners, the first person a client
+talks to), never on years in the field or former employers nobody can
+back up. Their recommendation drafts carry no dates and no achievements;
+the colleague who posts one adds only what has already happened. Before:
+this section showed only founder examples, and copied onto a rented
+account they invite an invented past.
+
 ## Experience
 
 The one shared company text: what the business is, who it works with,
