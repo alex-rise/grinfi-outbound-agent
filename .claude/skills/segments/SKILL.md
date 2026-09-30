@@ -121,6 +121,14 @@ software companies found "in Germany", 6 were headquartered there. Check
 the head office on each page, or add the country's legal form (GmbH, Ltd)
 to the search words.
 
+A recipe sent to someone else as a link carries the whole filter set in
+the address. Before: a recap planned three searches as links, and one of
+them alone ran 13,654 characters (107 schools), against Telegram's 4,096
+per message. Drop `sessionId` and `recentSearchParam`, which belong to
+your account, shorten the rest, and check the short link leads back to the
+full address. Send one worked example and let them adapt it for the other
+segments.
+
 ## What you need before the first step
 
 Read `business/icp.md` and the strategist's segment brief. The strategist
