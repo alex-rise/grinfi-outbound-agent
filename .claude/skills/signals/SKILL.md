@@ -107,8 +107,18 @@ Decide which of the two you are looking at before you write a word.
 
 - **Take the words from real leads, not from the product.** Read the posts
   the feed already marked as leads and copy how people wrote: inflected
-  forms, a tool name spelled in Cyrillic, "Linked In" with a space. Enter
-  stems with partial matching on, so one stem catches every case ending.
+  forms, a tool name spelled in Cyrillic. Type every word in full: partial
+  matching already tolerates case endings by trimming the word, so a stem
+  you cut by hand gets trimmed again and starts matching unrelated words -
+  a hand-cut "cold mail-" phrase caught "fridge" plus "distance", a
+  three-letter role abbreviation caught the inside of a price. A phrase
+  with a two-letter word ("Linked in") matches every post that has that
+  word anywhere: 45 checks, 1 lead.
+- **A keyword hit puts a request on screen even when the judge says the
+  topic is not yours.** The product treats "your word plus somebody wanting
+  something" as "not sure, decide yourself". One loose phrase therefore
+  fills the feed with flat hunters and movers, all marked as doubtful.
+  Judge the words by what they catch in the first hours, not by the judge.
 - **A bare verb phrase belongs to every market.** "Collect a base" was meant
   for B2B lists and on its first hour caught a hair stylist and a nail
   artist "collecting a client base". Anchor the phrase to the B2B noun
