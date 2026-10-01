@@ -327,10 +327,18 @@ duplicate, keep the newer, richer row and close the other one with a
 pointer to it.
 
 Every row whose date has come: inbox (did they reply?), calendar and email
-(did they book?), only then a ping draft for approval. After a ping: pings
-+1 and a new date (booking +5, reply +7), or hold +4 weeks. After the
-second unanswered ping: hold. A hold without an answer: [Not ICP]. Rows
-after a meeting are closed.
+(did they book?), only then a ping draft for approval. The rhythm after
+silence: the first ping goes on the row's date; no answer to it, the
+second a week later, the third two weeks after that, then once a month
+until they answer or say no. Pings are counted from the lead's last reply,
+so any answer starts the rhythm over. Every ping brings something new -
+news from their company or their posts, a new offer or product of ours, a
+case, a signal found for them - never "just checking in" and never the
+last text again. A "not now" with a date waits for that date; a refusal
+is [Not ICP] with no reply. Rows after a meeting are closed. Was: after
+the second unanswered ping the lead went on hold for a month and a silent
+hold ended in [Not ICP], so leads who had missed two messages in a busy
+week were dropped for good.
 
 ## Step 8. Failed and stuck sends
 
