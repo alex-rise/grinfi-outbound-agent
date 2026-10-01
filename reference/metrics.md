@@ -236,9 +236,15 @@ fleet in one week:
   routing new people to both: 217 and 107 invites queued, weeks of
   waiting. Was: nobody read the live limit rows. Now: read
   `get_sender_limits` for every seat once a week, and take a throttled
-  seat off the list of senders for new people. Do not restart its queue:
-  a restart sends step one again to everyone that seat is already midway
-  through a conversation with.
+  seat off the list of senders for new people. To move its queue, take
+  only the people who have received nothing yet, cancel them, and
+  restart them from the same step on another sender. Never restart the
+  whole seat: that sends step one again to everyone it is already midway
+  through a conversation with. Two traps from doing it: wait until the
+  cancel has landed before the restart, and never send the restart with
+  an empty list of people - the platform drops the empty condition and
+  restarts every cancelled task that matches the rest, which brought back
+  three people we had removed on purpose.
 - **Rotation by load starves a seat whose message queue is full.** The
   founder's seat, messaging its own large network, got 24 invites in a
   week against 150 to 190 for each of the others, and its 30 invites a
