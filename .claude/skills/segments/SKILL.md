@@ -149,6 +149,16 @@ A saved Sales Navigator search the user already trusts can be imported
 directly, but nobody has read those profiles against a portrait; here
 every one of them is read.
 
+A file the user already holds - a company-registry extract, a CRM export -
+is worth matching to LinkedIn before anyone new is bought, and its emails
+are weaker than they look. Before: in one state's registry extract of 2,770
+companies, 28% of the emails were shared mailboxes (info@, office@), and
+where LinkedIn found the person behind a named email, 44% were not company
+officers at all - lawyers, paralegals, filing agents, staff. Match the
+officers by name: with the company, or with the country they live in when
+the company is a holding LLC that nobody lists on LinkedIn. Then mark whose
+mailbox each row really holds before anyone writes to it.
+
 **The companies-first route stands on the company having a page on
 LinkedIn.** Say this before the probe, not after it comes back thin: a
 freshly registered company of one or two people often has no page at all,
