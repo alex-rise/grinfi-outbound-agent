@@ -238,18 +238,19 @@ whether the call moved anything; each comes from one of our own demos.
    this client. And: a second column adding an email channel nobody had
    discussed came back with one line - one format, the one priced on the
    call; that niche does not need email.
-10. **What the invitation promised opens the demo.** Before the call, read
-    the thread: whatever was promised in writing ("I'll show it on your
-    company's example") is prepared beforehand - a sample list, a live
-    search on their case - and shown in the first ten minutes. A need that
-    another product of yours answers gets that product named, even if the
-    call was booked for a different one. Was: the invitation promised to
-    show, on the prospect's own company, how to collect the businesses that
-    need its service; the demo was a general tour with "I can't show your
-    niche live", the prospect asked for the promised example three times,
-    and the call ended with no next step. Her main pain, contact data that
-    bounces, got "finding the audience is not our profile", though a
-    sibling product builds checked lists.
+10. **The invitation promises only what the call does.** A demo shows the
+    product on your own workspace and tells them how to approach their case
+    properly; it does not build their list live. So an invitation never says
+    "I'll show it on your company's example". A need that another product
+    of yours answers gets that product named, even if the call was booked
+    for a different one. Was: an invitation promised to show, on the
+    prospect's own company, how to collect the businesses that need its
+    service; the person we work for: a demo cannot show that, it can only
+    explain how to do it right - the promise was ours and wrong. The
+    prospect asked for the promised example three times and the call ended
+    with no next step. Her main pain, contact data that bounces, got
+    "finding the audience is not our profile", though a sibling product
+    builds checked lists.
 
 Product requests, competitor prices and what the prospect already tried
 go to the person you work for, not into the recap.
