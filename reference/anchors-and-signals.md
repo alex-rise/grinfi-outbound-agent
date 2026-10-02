@@ -48,6 +48,16 @@ about to rewrite its strategy.
 A role open ninety days or more is a different thing: a stuck hire. That
 is anchor B, a data point with a comparison, not a tier 1 signal.
 
+Write to the person who decided to hire, not to the person who posted the
+vacancy. Job posts in chats and boards are usually published by a recruiter,
+often a contractor, who neither buys nor knows who owns the budget. Was:
+reply to the recruiter under the post. Now: name the company (an application
+form or a careers link often gives it away when the post does not), find the
+founder or head of sales, and write to them with the vacancy as the reason.
+If you sell the work that role does, offer both paths in one message: do it
+with you, or help them hire well. Someone already hiring will not drop the
+plan because a vendor asked.
+
 ## What cannot be verified
 
 Funding rounds outside the companies a public database covers, headcount
