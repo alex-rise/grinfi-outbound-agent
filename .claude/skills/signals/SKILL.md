@@ -154,6 +154,18 @@ with credits and no end date, connect the Telegram and Threads accounts
 inside the product), and give the user the description of the buyer and
 the exclusion as text they can paste into the product themselves.
 
+**A pain the buyer's own customers write down.** Where the product fixes
+something customers complain about, their reviews are the signal, and the
+store reviews are free to read. Measured for a payments product: among
+~1,150 subscription apps with 200+ ratings, 158 had ten or more complaints
+about money ("charged", "can't cancel", "refund") in their 50 latest
+reviews, while resume builders, VPNs and horoscopes mostly had none - the
+signal separates niches by itself. A second free one: who reviewed a
+competitor's app in the Shopify App Store - the store's name, country and
+date are public, and the angry reviews are the hottest. Posts on LinkedIn
+about the same pain were not: of 219 in a month, none came from a seller
+talking about their own problem - vendors and consultants write there.
+
 ## Step 0. The guides, the workspace, the plan
 
 - `get_workspace` - name it in the first line. Everything below happens
