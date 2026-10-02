@@ -238,6 +238,7 @@ Run it on every draft before anyone sees it. All rows must pass.
 | Every claim traces to `business/profile.md` or the user's words | yes |
 | No long dash anywhere, no emoji, no exclamation mark | yes |
 | Reads aloud in the sender's voice in under 20 seconds | yes |
+| One template, several senders: no word in the first person that carries the sender's gender. In Ukrainian and Russian that is the past tense and the short adjectives - "I was glad", "I wrote" change with the writer's gender. Write "we" instead. Was: a line in the masculine went out from a woman's profile | yes |
 | Follow-up only: new angle, and one line restating who is writing | yes |
 | Grinfi only: variables checked against `list_ai_variables`, one sample rendered with `render_ai_template` | yes |
 | Every variable has its count from a sample of the real list and a fallback line where it is under 100%; every claim tied to a date is true for each lead, not on average (sequence-architect, "Before building") | yes |
