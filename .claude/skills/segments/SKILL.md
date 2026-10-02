@@ -159,6 +159,17 @@ officers by name: with the company, or with the country they live in when
 the company is a holding LLC that nobody lists on LinkedIn. Then mark whose
 mailbox each row really holds before anyone writes to it.
 
+Confirm the person through the company they work at now, not through the
+words around them. Before: taking a profile because a small brand's name
+appeared in the search result got half of a sample of twelve shops wrong -
+a counselling practice sharing the shop's name, a bigger company with the
+same word, a namesake of a brand named after a person. After: read the
+profile, open the company of the current position, and take the person only
+when that company's site is the brand's site - the whole domain with its
+ending, because brand.com and brand.co are two companies. A name alone is
+trusted only for a small shop in the same country with no site saying
+otherwise.
+
 **The companies-first route stands on the company having a page on
 LinkedIn.** Say this before the probe, not after it comes back thin: a
 freshly registered company of one or two people often has no page at all,
