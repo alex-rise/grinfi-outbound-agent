@@ -242,6 +242,23 @@ out; the judge also answers whether the company sells to other
 businesses or abroad and can use outreach at all; and 50 of its
 decisions are read by eye before a wave goes out.
 
+**A buyer's title at a company that sells to consumers is still not a
+buyer.** Was: after those title rules, a top-up wave was checked by
+reading 50 people at random, and about one in eight looked wrong. Reading
+every one of 1,253 people found one in five (237), and the largest group
+was not a title problem at all: owners and marketing heads of businesses
+that sell to consumers - cafes, retail chains, consumer apps, betting (76).
+Then titles with no budget (74: account and client roles, operations, PR,
+boards, experts, teachers, editors, "Product Owner", "Owner
+Representative"), the self-employed whose company field says so (25),
+associations and state companies (22), and, in a list built on agency
+words, in-house marketers, affiliate traffic teams and a competitor's
+staff. Now: title words catch the second group only; whom the company
+sells to decides the first. A wave that has no judge's answer to "does
+this company sell to businesses" is read in full before it goes out, and
+the people turned away are moved where the next wave cannot pick them
+again, so nobody reads them twice.
+
 ## Step 7. Capacity and channel
 
 Calculate capacity before choosing the segment. Every percentage
