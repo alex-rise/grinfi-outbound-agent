@@ -251,6 +251,13 @@ whether the call moved anything; each comes from one of our own demos.
     with no next step. Her main pain, contact data that bounces, got
     "finding the audience is not our profile", though a sibling product
     builds checked lists.
+11. **A shared screen shows only your own data, never what you hold on
+    them.** Live demos of a CRM or an AI assistant tempt you to search the
+    prospect's own company to make it personal. Was: to show the assistant
+    reading conversations, the demo searched the prospect's company in our
+    CRM and opened our old thread with her chief executive on screen. Now:
+    demo on your own team's conversations or a prepared sample; what you
+    know about their colleagues stays off the screen and out of the recap.
 
 Product requests, competitor prices and what the prospect already tried
 go to the person you work for, not into the recap.
