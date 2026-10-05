@@ -276,6 +276,18 @@ sending is automated and the platform queues the messages; the texts and
 the sequence were written and prepared by a person, and that person is
 right here and happy to answer. Anything evasive here ends the thread.
 
+**"Do you have case studies?" is answered by first asking yourself what
+the case would be about.** Was: a case was promised for a software tool
+the way it would be for a service, and the draft had nothing true to put
+in the gap. Now: for a tool that the customer runs themselves, the vendor
+does not hold results by customer - the customer decides how to use it -
+so the honest answer is public reviews plus a line on why: the tool does
+what you already do by hand, at a larger scale, so the result is yours.
+Case studies with numbers exist where the seller did the work - a
+done-for-you or consulting service - and that is where to point, with the
+one case closest to the lead's own niche. Never invent a case to fill the
+slot.
+
 **Never offer to set the product up for the lead.** Not "we will set it
 up together in fifteen minutes", not "write and I will collect it in your
 trial". A trial exists so they build their own thing. The offer instead
