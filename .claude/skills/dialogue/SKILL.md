@@ -77,6 +77,14 @@ nobody reads the same day should not have been launched.
 
 ## Classify first, every time
 
+Before classifying, read in full the message of yours they are answering
+and name its subject: which product, which service, which offer. A short
+reply - "do you have a deck?", "how much?", "interesting" - means something
+only against that message. Was: a reply asking for a presentation was
+answered first with the tool from the opening line, then with a list of
+every product, while the message had invited them to an audit - a service;
+the answer belonged to the service, with the products in one line after.
+
 | Type | Signals | Next action |
 |---|---|---|
 | Hot | asks for details, pricing, a demo, "tell me more" | qualify and move toward a call |
