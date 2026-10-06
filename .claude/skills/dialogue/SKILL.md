@@ -353,6 +353,17 @@ general - companies hiring a CTO, then apps with bad reviews - and came back
 as banal; the version worth sending stood on a series of three cases the
 prospect had published about the same kind of rescue project.
 
+**A free call is for a business that already sells something.** Before the
+booking link goes to a founder who asks whether they are a fit, read what
+they have: a product people pay for, a page that says what it is, a buyer
+they can name. With none of the three, the answer is the free guide and
+the kit, not the call, and no follow-up. Was: a founder wrote that there
+was no website, only a free AI agent, and asked whether that was
+relevant; the reply said a website was not needed and sent the booking
+link, and the call found nothing to sell - no paid tier, no named buyer,
+a raise of millions in mind. The person we work for advised them to
+build the product first and closed it as not our audience.
+
 1. Refusals get no reply. Stage change, sequence off, mark read. One
    short acknowledgement only when the person asked a real question.
 2. Reply in the language of the lead's last message, not their profile. A
