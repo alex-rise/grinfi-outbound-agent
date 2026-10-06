@@ -309,6 +309,17 @@ trial". A trial exists so they build their own thing. The offer instead
 is: "if something in the setup is unclear, tell me which part and I will
 record a short video".
 
+**A trial user who asks to be shown gets the demo, even where the product
+is never demoed cold.** A cheap self-serve product does not earn a call in
+cold outreach, and the short video stays the answer to a question about one
+step. But a user who writes that they are lost in the setup and asks to see
+how it works has qualified themselves by asking: send the demo booking link,
+and promise only what the demo does - the product shown on your own
+workspace, not their setup built for them. Was: a stuck trial user asked to
+be shown how it works, and the draft promised a video because the product
+is not demoed; the person we work for: invite them to the demo, we do not do
+it cold, but here it is fine.
+
 **A link that was promised and did not arrive is yours to own.** The
 pattern is "shall I send it?" - "yes" - and the send failed. One line
 owning the glitch, then the link, then the original closing question.
