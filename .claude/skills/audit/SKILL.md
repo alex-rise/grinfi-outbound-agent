@@ -154,6 +154,13 @@ the bottom ones by percent.
    that whatever can be had free, or with the money credited back, is
    a strong lead magnet and not a discount. Now: it moves forward, and
    it is never cut.
+   **The meeting people book is the one message 1 asks for.** Measured
+   on our own chains over two weeks: one chain put a free audit link in
+   message 1 and the product demo in message 2, another led with an
+   article and asked for the demo only in message 3. Out of 1,264 first
+   messages and 126 replies they booked three audits and no demo. Read
+   which call each step asks for before reading the reply rate, and when
+   the user says "plenty of audits, few product calls", look there first.
 3. **Sequence length against its source.** Read what each step actually
    returned before proposing to cut it: our zero on messages 4 and 5 is
    one team's measurement, and other cold flows keep earning a few

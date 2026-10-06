@@ -270,6 +270,12 @@ downstream is measured against capacity, not against the size of the ICP.
   at 20 beat one pushed past the line. Read the real numbers with
   `get_sender_limits` first: a sender with an empty queue is
   out of people to write to, not limit-capped.
+- **People already connected to a sender skip the invite and land on its
+  message limit.** Was: waves were routed by invites alone, and a large
+  network on one seat put its first circle straight onto message 1 - 605
+  people waited there behind a limit of 45 messages a day, more than three
+  weeks before the follow-ups add to it. Read the message queue of each
+  seat, not only the invite queue, before a wave goes to it.
 - **Email:** mailboxes x 25 a day x 20 working days, divided by emails per
   sequence. Three mailboxes on a five-email sequence is about 300 contacts
   a month, not 3,000. See `reference/email-infrastructure.md`.
