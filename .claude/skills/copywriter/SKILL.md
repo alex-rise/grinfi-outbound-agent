@@ -195,6 +195,18 @@ audit, a product to a demo or a trial. A booking link beats "when suits
 you?" and takes "if relevant" in front of it. An article link goes last
 in the sequence, never first.
 
+**When what is sold is a check, the check writes line one.** An audit,
+a scan, a test of something public about the reader: run a slice of it
+on each company before the first message and open with the one finding,
+reproduced where the reader can see it for themselves and kept as a
+screenshot. The free step is that slice made fuller - a day or two of
+work, from public sources only - and the pilot stays paid, or credited
+back in full against the first order. Was: a vendor of such checks had
+given a whole pilot away to win a first client and got polite interest
+and nothing to act on, and planned a few hand-picked messages with
+nothing in the first line. Now: the finding opens, the fuller slice is
+the free step, and only a paid pilot is read as feedback.
+
 **Follow-ups.** Every next message is a new angle: a number, a case in
 one picture, a process in steps, the second product, an observation. The
 same thought in other words does not land the second time either. Keep
