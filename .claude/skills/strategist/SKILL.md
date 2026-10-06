@@ -286,6 +286,18 @@ Channel by addressable market: above 10,000 accounts, email-led; 2,000 to
 under 2,000, account-based, LinkedIn from the founder or a senior sender,
 email in support, and no tests on a list that small.
 
+**Before LinkedIn is planned for buyers who are small local firms, measure
+how many of them are on LinkedIn at all.** Take the client's own list of
+known buyers and look each one up; the share with a person or a page there
+is the share the channel can reach. Was: LinkedIn outreach was discussed
+with a freight forwarder whose buyers are small importers and traders; of
+a hundred companies that ship with them every month, about ten had any
+trace on LinkedIn and two had a company page, while a client already cost
+them more than an average order. Now: the lookup comes first, it costs
+cents, and a share that low ends the LinkedIn plan before any proposal -
+those buyers are reached where they ask for the service, by phone or in
+the chats of their trade.
+
 Two or three contacts per company, in parallel, offset by about five
 days, from different senders, each with an anchor for their own role.
 Persona switching inside one sequence is never a step: a person first
