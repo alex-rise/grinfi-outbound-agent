@@ -206,6 +206,14 @@ given a whole pilot away to win a first client and got polite interest
 and nothing to act on, and planned a few hand-picked messages with
 nothing in the first line. Now: the finding opens, the fuller slice is
 the free step, and only a paid pilot is read as feedback.
+The first run of such a slice, done by us on twenty companies before the
+proposal went out: a clear mistake turned up in fewer than a third of
+them, most only when the assistant answered from memory, and the
+automatic comparison raised three false mistakes out of eight. So a
+finding is read against the live page by a person before it opens a
+message, the message says how the answer was got so the reader can
+repeat it, and a finding that survives the assistant's own search goes
+first.
 
 **Follow-ups.** Every next message is a new angle: a number, a case in
 one picture, a process in steps, the second product, an observation. The
