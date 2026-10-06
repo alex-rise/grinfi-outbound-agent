@@ -411,6 +411,18 @@ prospect had published about the same kind of rescue project.
     first and distributors second; the person we work for: say funders
     through LinkedIn did not work for us, offer investors if they are ready,
     build the guide on the distributors.
+17. A prospect in a hard market who asks for cases gets the market, not a
+    borrowed case. When the target market converts poorly (the US for cold
+    outreach is the usual one), say that plainly: conversions there are low
+    and only very pinpoint approaches work; the likely numbers come on the
+    call, after you have learned their market. Was: a reply offered a case
+    from an unrelated niche and a price range; the person we work for: the
+    US is much worse than that, tell them so and talk results on the call.
+18. A job posting is one trigger, not the pitch. In a ping, do not hang the
+    whole offer on the vacancy signal; say the call is where their own
+    triggers get picked, and that the first list gets built from one of
+    them. Was: a ping sold «companies hiring X» as the way in; the person we
+    work for: vacancies are a general trigger, one of many.
 
 ## Inbound offers to you
 
