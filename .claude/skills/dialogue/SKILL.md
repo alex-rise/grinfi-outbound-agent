@@ -440,11 +440,30 @@ build the product first and closed it as not our audience.
     call, after you have learned their market. Was: a reply offered a case
     from an unrelated niche and a price range; the person we work for: the
     US is much worse than that, tell them so and talk results on the call.
+    If they ask a second time and make the call depend on it, give the
+    nearest real case with its own market named, and your estimate of how
+    much lower their market runs (we use roughly half for the US against
+    Europe). Name your fee; the tools and seats scale with volume, so say
+    they get priced on the call rather than guessing a total. Was: a draft
+    named the wrong market for the case and gave no estimate for the hard
+    one; the person we work for corrected the market, asked for the US to
+    be put at about half, and for the tool and seat budget to be called
+    volume-dependent and left for the call.
 18. A job posting is one trigger, not the pitch. In a ping, do not hang the
     whole offer on the vacancy signal; say the call is where their own
     triggers get picked, and that the first list gets built from one of
     them. Was: a ping sold «companies hiring X» as the way in; the person we
     work for: vacancies are a general trigger, one of many.
+19. A check-in that offers a choice offers the two nearest steps: now or
+    next week. A far option hands the prospect the delay before they asked
+    for it. Was: a check-in to someone who had promised to come back this
+    week offered "now or towards the end of the month"; the person we work
+    for: why push it to the end of the month, offer next week.
+20. A draft of their own audience, written for them from their website,
+    says only what the site says. A second country or a service the site
+    never mentions reads as not having looked. Was: a ping drafting a
+    prospect's buyers added a market and a service the site does not list;
+    the fact check against the site caught it before sending.
 
 ## Inbound offers to you
 
