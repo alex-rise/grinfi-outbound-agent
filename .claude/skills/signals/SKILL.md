@@ -287,6 +287,13 @@ Numbered, in one message, each with a proposed answer from
 
 - `list_feed` with `ai-selected` and unread only. Read the post, not the
   score: a provider pitching the same pain reads almost like a buyer.
+- **Open the thread before you write.** A short line in a chat - a list of
+  tools, a name, a number - is usually an answer to somebody else's
+  question. Open the post link and read the question it answers before
+  deciding what the person meant. Was: a list of tools in a chat was read
+  as the author's own stack, and the first message asked what he disliked
+  about one of them; he had been answering where else to find contact
+  databases, said so, and added that the message read as written by AI.
 - The set-aside bucket (`ai-filtered`) is paid for and visible. When the
   user says the AI is too strict, walk that bucket with them;
   `set_feed_verdict` overrules a card and sends nothing.
