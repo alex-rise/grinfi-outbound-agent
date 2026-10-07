@@ -182,6 +182,13 @@ offer to "put the meeting in yourself". A booked lead gets one confirming
 line and nothing else until the meeting: no "send us a few lines before
 the call".
 
+**A lead who asks to be phoned instead gets the reason and the same link.**
+Name who runs the call and why it is on video: the audit or demo is worked
+through on screen. Do not move it to the phone at a time you pick. Was: a
+lead answered the booking link with his phone number, and the draft offered
+to ring him on Friday at two; the person we work for: these calls are not
+held by phone, the founder runs the audit on a proper video call.
+
 Deliver a promised asset immediately, no form, no registration, no "quick
 call first to understand the context". Close the delivery message with one
 question about their process, not about your service. When the lead's reply
