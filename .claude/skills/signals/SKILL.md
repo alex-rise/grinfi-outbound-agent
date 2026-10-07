@@ -140,6 +140,20 @@ Decide which of the two you are looking at before you write a word.
   campaign discards anyway. Remove those at launch; when you want full
   control of the list, run the campaign on your own words and your own
   judge instead of the generated search.
+- **On LinkedIn, search for the ask, not the pain.** Was: words for the
+  buyer's problem in the first person ("losing money to chargebacks",
+  "organic traffic dropped", "manual reconciliation"). Now: words for the
+  buyer asking for whoever solves it ("recommend an SEO agency", "looking
+  for a payment provider", "need a development agency", "<the tool they use
+  today> alternative") and for hiring that role. Measured on live LinkedIn
+  search, 24 hours, authors read one by one: the pain words were written by
+  vendors, consultants and commentators - no buyers at all in the samples of
+  two businesses, 6% in a third - because on LinkedIn the problem is
+  described by whoever sells the fix. The same businesses' ask words were
+  written by buyers in 27-40% of posts, at a tenth of the volume, so far
+  fewer cards are paid for. Name the provider so it cannot catch another
+  trade: "videographer" brought wedding filming. Chats and Reddit are
+  different - there the buyer does describe the problem himself.
 - **Own chats by meaning, the rest by words.** A campaign that reads the
   account's own chats plus the whole public catalogue judges every message
   of the own chats and passes the public ones through the word filter. One
