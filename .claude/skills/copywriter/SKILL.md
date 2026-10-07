@@ -234,6 +234,17 @@ holidays, which from a stranger reads as surveillance. US recipients get
 a physical address and an opt-out; opt-outs execute immediately on one
 suppression list shared across every domain.
 
+**A service case proves the service, not the tool.** A result a client
+got from your team's work cannot sit in front of a product demo: the reader
+is shown what the team achieved and then offered a tool that cannot
+promise it, because a tool's result depends on how it is set up. Before: a
+draft closed a consulting client's case with an invitation to a product
+demo, and the owner pointed out that whoever buys only the tool gets the
+result of their own setup. Now the case is followed by the service -
+building it together with their team - and the product keeps its own
+message with its own proof. In the text the cause is how the system is
+built, never the reader's current lead generation.
+
 **Naming a product is not describing it.** A line that lists channels,
 integrations or features tells the reader what the thing contains and
 leaves them to work out what it removes from their week; our own sending

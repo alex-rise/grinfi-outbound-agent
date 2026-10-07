@@ -86,6 +86,14 @@ the last column and say in one line what it costs.
    track.
 7. Account safety shapes the architecture. Volume is the user's decision;
    the structure must stay safe at any volume they choose.
+8. The steps read as one story. Each message answers the question the one
+   before it leaves open: who are you and why me, what is it made of, does
+   it actually work, and not now. Before: a draft gave step 3 a bare demo
+   invitation right after the step that described the products, and the
+   person whose name went under it asked for the messages to read as one
+   story with something to say in each. Step 3 became the proof - the
+   result a real client got - with the call as the way to see it. Write
+   the reader's question for each step into the brief before the steps.
 
 ## LinkedIn structures
 
