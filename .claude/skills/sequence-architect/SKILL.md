@@ -217,6 +217,15 @@ site, a public feed.
   shipped in May. On one measured list that sentence was wrong for three
   records in four. Check every dated claim against each record's own
   date, and turn the check into a filter.
+- **A date in the text also expires while the flow is still sending.**
+  "X shuts down on the 22nd" is true for two weeks and wrong after. A
+  flow keeps sending for weeks, and each queued message holds its own
+  copy of the text, so editing the flow does not reach what is already
+  queued. Before: a wording fix made in a live flow missed every message
+  already in the queue, and those had to be rewritten one by one. When a
+  message names a date, write the rewrite day into the brief when the
+  flow is built, and on that day change the template and every queued
+  message.
 - **Read reviews and posts in the language they were written in.** A
   local brand's complaints are in the local language; an English-only
   read of the same apps found almost none of them.
@@ -227,6 +236,19 @@ site, a public feed.
 - **A store or company name is not the name to write.** Store titles carry
   keywords ("Brand: Food Delivery & Deals"). Cut to the name a person
   would say, and check the cut by eye on the sample.
+- **A first name is a display name, not a name.** People put emoji,
+  credentials and titles into the LinkedIn first-name field ("Ing.",
+  "Dr.", a laptop emoji), and some type one letter from another alphabet
+  that looks exactly like the Latin one. The template pastes the field as
+  it is. Before: a list already read person by person for buyers still
+  held first names like "<name> <emoji>", because reading for the buyer
+  looks at the title and the company, not at the name field. Check the
+  field for the whole list, not the sample: on one list of about a
+  thousand decision makers, one first name in forty needed a fix. Flag by
+  machine (emoji, digits, brackets and other punctuation, all capitals, a
+  title before the name, more than two words, two alphabets in one name),
+  fix by eye in the CRM, then render the first message on three real
+  leads, one of them a fixed name.
 
 The counts go into the sequence brief, one line per variable: filled on
 the sample, and the filter or fallback.
