@@ -184,7 +184,12 @@ the call".
 
 Deliver a promised asset immediately, no form, no registration, no "quick
 call first to understand the context". Close the delivery message with one
-question about their process, not about your service.
+question about their process, not about your service. When the lead's reply
+is the last thing the asset waited for, build it in the same pass and send
+it as the answer; no interim "got it, will send tomorrow". Was: a lead named
+the niche a promised guide was waiting on, and the draft acknowledged it and
+promised the guide for the next day; the person we work for: why wait and
+write an in-between message, look now.
 
 If they decline a call: "Understood. Easier to keep going here in writing,
 or is there a format that works better?"
@@ -464,6 +469,14 @@ build the product first and closed it as not our audience.
     never mentions reads as not having looked. Was: a ping drafting a
     prospect's buyers added a market and a service the site does not list;
     the fact check against the site caught it before sending.
+21. A prospect who narrows their outreach to one niche gets that niche, and
+    a plain line that one narrow segment will not carry the volume: steady
+    outbound needs thousands of contacts, so recommend running several
+    segments in parallel, named from their own portfolio. Was: a guide built
+    on the single niche the prospect asked for, and a note that "dozens" of
+    such companies were found; the person we work for: dozens is nothing, we
+    will need thousands - give the niche, but say not to stop there and to hit
+    different segments.
 
 ## Inbound offers to you
 
