@@ -187,6 +187,18 @@ the bottom ones by percent.
 11. **Frozen queues.** On every stopped flow, read what sits in progress
     on the invite node. A large old queue is dangerous: switching the
     flow back on sends all of it at once, across every profile.
+12. **Retiring old flows, in this order.** Archiving a Grinfi flow cancels
+    everyone still inside it, and a stopped flow keeps its people out of
+    every new flow until it is archived. Before: one workspace kept two
+    stopped flows that held 27,000 invites never sent and 795 people who
+    had accepted and never got a single message, all of them locked out
+    of the new flows. So: read the people still waiting for their invite
+    and move the ones who fit into the current flows first; close entry
+    on old flows that are still sending messages and let them finish;
+    archive the rest. Do not keep a flow alive for its withdrawals alone:
+    on the same workspace the withdrawal queue of old flows sat overdue
+    for months and barely moved. After a large archive the search index
+    lags, so new entry filters see moved people some minutes late.
 
 ## Step 3. Findings, ranked, each with its route
 
