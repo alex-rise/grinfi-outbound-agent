@@ -299,7 +299,9 @@ is the share the channel can reach. Was: LinkedIn outreach was discussed
 with a freight forwarder whose buyers are small importers and traders; of
 a hundred companies that ship with them every month, about ten had any
 trace on LinkedIn and two had a company page, while a client already cost
-them more than an average order. Now: the lookup comes first, it costs
+them more than an average order. Going through the people did not change
+it: the register gave the head of 73 of them by company code, and
+LinkedIn confirmed two of those 73 at their company. Now: the lookup comes first, it costs
 cents, and a share that low ends the LinkedIn plan before any proposal -
 those buyers are reached where they ask for the service, by phone or in
 the chats of their trade.
