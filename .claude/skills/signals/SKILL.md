@@ -85,11 +85,11 @@ not end the step. Large brands and enterprises do not post "looking for an
 agency", but they announce the thing that creates the need ahead of time:
 an opening, a launch, a move into a new market. They also hire the person
 who will buy from you. Watch the announcement and the vacancy instead of
-the request. A guide for an events agency serving luxury fashion brands
-first listed request phrases ("looking for an event agency"). The lead
-answered that such clients never search like that. The guide that went out
-instead tracked boutique-opening and collection-launch posts, plus vacancies
-for event and brand-experience managers.
+the request. An events agency serving luxury fashion brands was offered
+the usual pitch, catching people who discuss a need in public. The lead
+answered that such clients never search for an agency like that. The guide
+that went out instead tracked boutique-opening and collection-launch posts,
+plus vacancies for event and brand-experience managers.
 
 Check that the channel carries this audience before you promise it. Some
 trades are not discussed in public at all: they run on specialised
