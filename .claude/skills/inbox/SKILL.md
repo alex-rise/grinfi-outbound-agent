@@ -340,6 +340,16 @@ the second unanswered ping the lead went on hold for a month and a silent
 hold ended in [Not ICP], so leads who had missed two messages in a busy
 week were dropped for good.
 
+**A ping draft comes with the thread's story, not just the new reason.**
+The user has not read the thread for weeks and cannot judge a ping without
+it. Above every ping draft, three short lines: who they are and what their
+company sells now; what we offered first and how they answered, in their
+words; what we sent last and when. Then the new reason, then the draft.
+Was: a batch of fifteen pings each opened on the fresh fact found for the
+lead - a new job, a post, a trip - and came back fifteen times as "not
+enough context", because the user could not see what had been offered
+before or why the person was in the table at all.
+
 ## Step 8. Failed and stuck sends
 
 Once per routine: `list_tasks` with `status: "failed"`, and tasks still
