@@ -301,7 +301,13 @@ a hundred companies that ship with them every month, about ten had any
 trace on LinkedIn and two had a company page, while a client already cost
 them more than an average order. Going through the people did not change
 it: the register gave the head of 73 of them by company code, and
-LinkedIn confirmed two of those 73 at their company. Now: the lookup comes first, it costs
+LinkedIn confirmed two of those 73 at their company. The same held for
+mid-size property developers around a capital city, taken from a public
+new-build catalogue: the register gave the head for 9 of 20 (a developer
+often builds through a separate company per project, so the brand's own
+entry is the wrong one about half the time), LinkedIn showed none of those
+nine and a decision role at 2 of the 20, and an email finder returned
+nothing for ten names. Now: the lookup comes first, it costs
 cents, and a share that low ends the LinkedIn plan before any proposal -
 those buyers are reached where they ask for the service, by phone or in
 the chats of their trade.
