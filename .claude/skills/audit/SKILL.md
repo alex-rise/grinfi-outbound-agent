@@ -169,7 +169,16 @@ the bottom ones by percent.
 4. **Sender load.** Invites a day against 20 to 30 and the ceiling of 30;
    one account pushed past the line instead of several at 20; a new
    profile started at full speed; automated warming on accounts that
-   already send.
+   already send. Also the network size against LinkedIn's cap of 30,000
+   connections, read from the profile itself: at the cap invitations
+   stop going out and incoming ones cannot be accepted. Before: a sender
+   sat 126 short of the cap with invites still going out daily and
+   nobody had looked. Above about 28,000, free room by removing
+   connections whose job title is clearly outside the profile (students,
+   engineers, in-house HR), about 30 a day, never anyone who ever replied
+   or sits in a live flow, and with the current title read live right
+   before each removal: titles in a CRM go stale, and a trainee from
+   years ago may own a company now.
 5. **Segmentation.** One sequence for every country, title and size band;
    no tags; no numbers per segment.
 6. **Replies.** Who answers, how fast (hot within the hour, warm the same
