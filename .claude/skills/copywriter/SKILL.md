@@ -255,6 +255,27 @@ catch the moment - so the list is shaped like their day rather than like
 a catalogue. Where several products go in one message, one clause each
 is enough; the channel list belongs on the call, not in the message.
 
+**A product follow-up is built from the recorded demos, not from the
+profile.** When calls are recorded, read them before the message that
+invites to a demo: what the prospects already use and complain about,
+what they ask, what they fear, and which feature made them react. The
+message names the few things that came up most, each with what it changes,
+and the demo becomes the place to compare them with the reader's current
+tool. Was: a second message listed three products side by side, then
+became a bare price and safety comparison, and the owner rejected both -
+neither said why someone who already runs lead generation should come.
+Now: built on thirty recorded calls - account safety, a second try for
+people who did not accept, warm lists from post reactions, running it from
+an AI assistant. A feature asked for on the calls but not built yet stays
+out of the copy.
+
+**A scoped service carries no price in cold copy.** When what the client
+gets depends on their market and their task, the price waits until the
+need has been discussed; the message says what is done and what they get,
+and links to the page with the formats. Was: a one-off setup was quoted
+in the third message of a sequence; the owner took the number out before
+launch: there is no point naming a price before the need is discussed.
+
 ## Step 4. The gate
 
 Run it on every draft before anyone sees it. All rows must pass.
