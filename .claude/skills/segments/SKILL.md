@@ -115,7 +115,17 @@ By hand, a company goes into the filter as the company, not as a word:
 pick it from LinkedIn's own suggestions, which point at its page. A typed
 name is a text match. Before: five companies with common-word names typed
 in found 44,493 people, and 1 row in 25 worked at one of them; picked as
-companies, 899, and every row that showed its company was right. A country
+companies, 899, and every row that showed its company was right. Schools in a people search are text matches too, and one common-word
+name spoils the whole batch. Before: a batch of 50 universities of one
+country, 19 of them with no city or country in the name ("University of
+Management Education", "International University of Economics and
+Humanities"), returned 5 people in 25 from that country; one such name
+alone returned 0 in 25, half of them from one American university. The
+same 50 places with only the specific names returned 25 in 25 at every
+batch size from 5 to 50 - the size was never the problem. Keep a school
+only when the people it returns show that school in their education, and
+keep the country link in the portrait the profiles are read against, so a
+broken filter cannot pass strangers through. A country
 on a company search means an office there, not the head office: of 100
 software companies found "in Germany", 6 were headquartered there. Check
 the head office on each page, or add the country's legal form (GmbH, Ltd)
