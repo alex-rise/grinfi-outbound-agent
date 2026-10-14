@@ -281,6 +281,25 @@ it: readers would expect a thousand leads and get five. Now: "a typical
 campaign looks through about forty posts a week and the AI keeps about ten
 real requests".
 
+**A competitor's followers are not its customers.** Many follow a page
+out of interest and never used the product, so a first line written as
+if they did misfires, and news about the competitor's buyer or partner
+reads as if the message were about that company. Name the news in one
+plain clause, say how you found them, and ask the micro-yes. Was: a first
+message to a competitor's page followers opened on its shutdown and on
+where its accounts were not moving; replies included "didn't know that
+about it" and "sorry, we don't use" the acquirer, and one in nineteen
+answered against about one in nine for a short product opener. Now: the
+acquirer is out, the opener is about 300 characters and ends on an offer
+to pull real posts from their market.
+
+**Offer the first setup, not a bare trial.** A tool whose result depends
+on how it is set up loses people who start alone: a lead who took the
+trial from a follow-up quit after a day, "overly complex to set up and
+not clear". The follow-up carries the honest volume one campaign gets and
+offers to set the first one up together on a short call; the trial link
+goes to whoever asks for it.
+
 **A scoped service carries no price in cold copy.** When what the client
 gets depends on their market and their task, the price waits until the
 need has been discussed; the message says what is done and what they get,
