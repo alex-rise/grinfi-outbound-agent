@@ -73,6 +73,18 @@ These hold on every step of this skill.
   the second import replaced his app and rating with the other store's,
   and the first list's message would have cited an app he was not asked
   about.
+- **Count the base before buying a list.** When the business already runs
+  outreach, the people of the portrait may already sit in its CRM. Count
+  how many of them, under the same portrait and the same entry rules of
+  the sequence, are ready to receive it, and collect only where that
+  count is thin. A probe of several niches is one page per niche, not a
+  small order that keeps buying pages until it is filled. Was: a ten-niche
+  probe of decision makers in one country found 270 people, 213 of them
+  already in the CRM (24 of 25 in the largest niche), and a new person
+  came out at almost five times the price of a found one; the same
+  portrait inside the CRM held over ten thousand people ready for the
+  sequence, free. Now: the wave is taken from the CRM, and paid
+  collection is kept for the slices the CRM does not hold.
 - **Write the user's correction down the moment it is made.** About this
   business, into that client's `rules.md`; about how outreach is done at
   all, into `business/house/rules.md`.
