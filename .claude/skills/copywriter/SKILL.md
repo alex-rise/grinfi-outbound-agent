@@ -269,6 +269,18 @@ people who did not accept, warm lists from post reactions, running it from
 an AI assistant. A feature asked for on the calls but not built yet stays
 out of the copy.
 
+**A volume in the copy is what one reader will get, after the filter.**
+When the message cites how many requests, leads or matches a tool finds,
+the number is the typical result of one campaign after the tool's own
+filter - the median, with the range if it is wide - not the posts it
+scanned and not the sum across every customer. Was: a draft said "almost a
+thousand requests a week" for one niche; that was the count of matched
+posts across several customers' campaigns, and the AI filter kept a tenth
+of them, so one campaign's median was about ten a week. The owner caught
+it: readers would expect a thousand leads and get five. Now: "a typical
+campaign looks through about forty posts a week and the AI keeps about ten
+real requests".
+
 **A scoped service carries no price in cold copy.** When what the client
 gets depends on their market and their task, the price waits until the
 need has been discussed; the message says what is done and what they get,
