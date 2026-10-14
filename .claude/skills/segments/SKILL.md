@@ -98,6 +98,30 @@ These hold on every step of this skill.
   word in the title, company or headline, three in four were heads of
   in-house departments; reading by eye left a little over a hundred
   agency owners.
+- **A directory is a company list, not a people list - and it is thinner
+  than a hand sample says.** Plan for it before quoting a number:
+  - The company's LinkedIn link sits on far fewer cards at scale than in a
+    small sample. Was: 20 of 24 hand-checked cards linked LinkedIn; across
+    500+ cards of the same directory it was about 1 in 4. The rest go
+    through a lookup by website domain, and that lookup often returns a
+    different company: take only an exact website match, keep the others
+    in a "not found yet" file with everything known, never guess.
+  - Being listed in a section does not prove the service. Was: one in two
+    cards in a directory's SEO section listed no SEO service at all. Filter
+    by the services on the card.
+  - A directory may serve automated readers only the pages it already
+    holds in its own cache and refuse the rest. Narrower pages (by city, by
+    sub-service) are often served and cover the same companies. Read
+    slowly, under your own honest name, and never disguise the reader.
+  - A search for people by company id can still return people from
+    look-alike companies with the same name in other countries. Was: 15%
+    of rows. Re-check each person's current company after the search.
+  - Check found people against the CRM by their LinkedIn member id before
+    paying for anything more about them. Was: of 343 decision makers found,
+    242 were already in the CRM.
+  - Send company ids to the source in batches as large as it really takes -
+    measure the limit, do not assume it: one source took 40 per search and
+    failed at 50, while the code assumed 20.
 - **Write the user's correction down the moment it is made.** About this
   business, into that client's `rules.md`; about how outreach is done at
   all, into `business/house/rules.md`.
