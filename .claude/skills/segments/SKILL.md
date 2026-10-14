@@ -85,6 +85,19 @@ These hold on every step of this skill.
   portrait inside the CRM held over ten thousand people ready for the
   sequence, free. Now: the wave is taken from the CRM, and paid
   collection is kept for the slices the CRM does not hold.
+- **When the buyer is a service company, the title does not say who
+  sells.** "Head of SEO", "Head of Recruitment", "Head of CRM" mostly sit
+  inside companies that buy the service, not sell it, and a message about
+  winning clients reaches people with no clients to win. Take the first
+  person or the head of sales, and only where the company name, the
+  headline or a directory shows the company sells that service. A
+  directory of agencies by service (a national rating, a review site)
+  gives the company list cleaner than any title filter and often links the
+  company's LinkedIn page, which then filters people by company id
+  instead of by a loose name. Was: of about 4,500 CRM cards with the niche
+  word in the title, company or headline, three in four were heads of
+  in-house departments; reading by eye left a little over a hundred
+  agency owners.
 - **Write the user's correction down the moment it is made.** About this
   business, into that client's `rules.md`; about how outreach is done at
   all, into `business/house/rules.md`.
