@@ -144,6 +144,10 @@ These hold on every step of this skill.
     whole staff. Judge the role after the search, not only the company.
     Was: in a batch of local venues, over half of the returned people no
     longer worked there or held front-line jobs; only the judge caught it.
+  - Dedupe against the CRM by name plus company too, not only by profile
+    id: the CRM may fold a new lead into an existing one with the same name
+    at the same company. Was: 6 of about 1,600 new people were silently
+    merged into other leads, one pair with different first names.
   - For local businesses, a person whose own location is in another
     country is a name collision, not the venue's owner abroad - drop them
     even when the judge says yes. Was: 11 of about 1,600 "owners" of
