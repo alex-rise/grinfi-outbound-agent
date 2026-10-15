@@ -117,7 +117,16 @@ These hold on every step of this skill.
     in a "not found yet" file with everything known, never guess.
   - Being listed in a section does not prove the service. Was: one in two
     cards in a directory's SEO section listed no SEO service at all. Filter
-    by the services on the card.
+    by the services on the card. What fails the filter is often a web or
+    software studio: route it to the offer that fits a studio rather than
+    drop it. Was: 15 of 86 in one SEO list were outsourcing and web
+    studios; they went to the outreach-tool sequence instead of the
+    signals one.
+  - Inside an agency, the reader of a tool that wins clients is the owner,
+    a director, or whoever sells: sales, business development,
+    partnerships. Developers, CTOs, project and product owners, trainees
+    and client service are not. Was: about a fifth of one directory's
+    found people held those roles.
   - A directory may serve automated readers only the pages it already
     holds in its own cache and refuse the rest. Narrower pages (by city, by
     sub-service) are often served and cover the same companies. Read
