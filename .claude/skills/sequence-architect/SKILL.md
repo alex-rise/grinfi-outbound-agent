@@ -243,7 +243,19 @@ site, a public feed.
   say.
 - **A store or company name is not the name to write.** Store titles carry
   keywords ("Brand: Food Delivery & Deals"). Cut to the name a person
-  would say, and check the cut by eye on the sample.
+  would say, and check the cut by eye on the sample. For local businesses
+  read the whole list, not a sample: in a list of about 1,500 venues a
+  script fixed the legal forms and capitals, but one name in seven still
+  needed a hand cut - the service list after the name ("X Tattoo & Body
+  Piercing", "X | Veterinary Hospital", "X Tattoo and 24hr charger
+  rental"), a second business after a slash, "a Professional Corp." in the
+  middle. Write the result to a new field (`company_name_clean`) and point
+  the template at it; the original company field stays as it came. A name
+  that cannot go into a message - a slur, a profanity, a placeholder like
+  "Self-employed" or "Therapy Services" - gets a phrase that reads in every
+  sentence of the sequence ("your business"), never an empty value. Before:
+  three templates pasted the raw company field and the October batch was
+  one click from going out with "MARC MANI, M.D., INC." in the body.
 - **A first name is a display name, not a name.** People put emoji,
   credentials and titles into the LinkedIn first-name field ("Ing.",
   "Dr.", a laptop emoji), and some type one letter from another alphabet
