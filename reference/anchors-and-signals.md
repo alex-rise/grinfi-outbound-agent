@@ -122,6 +122,12 @@ checked before anyone is written to. Measured on one market's online shops:
   summary appeared even on brand queries.
 - **Finding the owner is the weak step.** Mid-size online shops were rarely
   on LinkedIn: a name search found a real head for about 2 of 15, and the
-  site named its legal entity for about 2 of 10. Plan the business
-  register or the site's own contacts as the route, and measure it before
-  promising a list.
+  site named its legal entity for about 2 of 10. The register then gave
+  the head for 8 of 15, but only 1 of those 8 had a LinkedIn profile. When
+  the channel is LinkedIn, start from companies that have a LinkedIn page
+  and staff on it, then check their sites - not the other way round.
+- **The strongest pair is "pays for ads, the page is slow".** Among 33
+  service and retail companies taken from LinkedIn, 11 had ads shown in the
+  last month, and 5 of those loaded in 8 to 57 seconds on mobile: their ad
+  money lands on a page people leave. It is a reason to write for a site
+  rebuild and for a paid-search fix alike.
