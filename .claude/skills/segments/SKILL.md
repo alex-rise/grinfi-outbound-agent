@@ -73,6 +73,15 @@ These hold on every step of this skill.
   the second import replaced his app and rating with the other store's,
   and the first list's message would have cited an app he was not asked
   about.
+  The same holds for a lead already inside a running sequence: a later
+  collection may refresh facts (title, company), never the fields that
+  sequence's messages read. Before writing, look the lead up in live
+  sequences; if it is in one, skip its message fields, and change them
+  only if the first message has not gone and the new value is truly
+  better. Was: a refresh of existing leads from a new collection twice
+  rewrote the niche line of leads already in a niche sequence, with no
+  copy of the old value; each had to be restored by hand from the wave's
+  snapshot.
 - **Count the base before buying a list.** When the business already runs
   outreach, the people of the portrait may already sit in its CRM. Count
   how many of them, under the same portrait and the same entry rules of
