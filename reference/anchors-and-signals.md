@@ -95,3 +95,33 @@ building such lists:
   each have too few ratings for the score to mean anything. What a vendor
   fleet does show is its build dates: many of its client apps fall behind
   a platform deadline together.
+
+## Websites as a source
+
+For an offer that fixes a site - a rebuild, speed, search, ads, presence in
+AI answers - the prospect's own site is the anchor B, and most of it can be
+checked before anyone is written to. Measured on one market's online shops:
+
+- **Detect the platform on the live site, not from a technology database.**
+  A database lists domains by platform cheaply, but two thirds of its rows
+  were last crawled years ago. Open CMSes show in the page code; a hosted
+  platform that blocks bots shows in DNS instead - its shops share a few
+  hosting addresses. The database missed that hosted platform entirely.
+- **"Old platform" without a size floor is mostly tiny shops.** Of 100
+  shops on one open platform, 30 had an estimated 1,000+ search visits a
+  month. Put a traffic estimate on every domain before judging it.
+- **Speed is a lab test per page, and about one site in four blocks it.**
+  Among the rest most were slow on mobile, so slowness alone selects
+  almost everyone; it becomes a reason to write only next to real traffic.
+- **Who runs ads now is public.** The ads transparency record shows the
+  advertiser's ads with the date last shown - a dated anchor for anyone
+  selling paid search.
+- **AI answers: compare who is cited with who ranks.** For a niche buying
+  query, take the top 10 organic results and the domains the search
+  engine's AI summary cites. Ranked but not cited is a checkable gap; the
+  summary appeared even on brand queries.
+- **Finding the owner is the weak step.** Mid-size online shops were rarely
+  on LinkedIn: a name search found a real head for about 2 of 15, and the
+  site named its legal entity for about 2 of 10. Plan the business
+  register or the site's own contacts as the route, and measure it before
+  promising a list.
