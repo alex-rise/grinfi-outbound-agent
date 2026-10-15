@@ -140,6 +140,15 @@ These hold on every step of this skill.
   - Send company ids to the source in batches as large as it really takes -
     measure the limit, do not assume it: one source took 40 per search and
     failed at 50, while the code assumed 20.
+  - A search by company id may ignore the title filter and return the
+    whole staff. Judge the role after the search, not only the company.
+    Was: in a batch of local venues, over half of the returned people no
+    longer worked there or held front-line jobs; only the judge caught it.
+  - For local businesses, a person whose own location is in another
+    country is a name collision, not the venue's owner abroad - drop them
+    even when the judge says yes. Was: 11 of about 1,600 "owners" of
+    Californian venues lived in Canada, the UK and Asia at same-name
+    businesses.
 - **Write the user's correction down the moment it is made.** About this
   business, into that client's `rules.md`; about how outreach is done at
   all, into `business/house/rules.md`.
