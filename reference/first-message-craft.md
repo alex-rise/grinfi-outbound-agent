@@ -101,6 +101,15 @@ well. The message is in the language of the list, and that is the end of
 it. Where the language really is part of the offer, talk about the
 terminology as a separate skill, never about how well they speak.
 
+**In a two-language market, the language of the list is chosen, not read
+off the profile.** A title in Russian does not mean the reply comes in
+Russian. Was: a campaign in Uzbekistan written in Russian drew many
+"sorry, I don't speak Russian, only English"; the same chain rewritten
+in English worked. In Kazakhstan, where Russian is still the common
+business language, English works too. Now: for Central Asia start in
+English unless the business itself works in Russian with this audience,
+and keep the senders' profiles in the same language as the messages.
+
 **Verify a number taken from the client's own document.** One client's
 material said a tax deduction was 23%; the law said 20%. It goes out
 under their name, and the reader checks.
