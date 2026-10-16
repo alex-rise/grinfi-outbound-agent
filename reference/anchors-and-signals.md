@@ -193,3 +193,12 @@ checked before anyone is written to. Measured on one market's online shops:
   last month, and 5 of those loaded in 8 to 57 seconds on mobile: their ad
   money lands on a page people leave. It is a reason to write for a site
   rebuild and for a paid-search fix alike.
+- **"Every site running ad network X" needs no paid tech database.** Was:
+  "this needs a technology-lookup subscription". Now: ad networks publish
+  a `sellers.json` file listing the publishers they pay, and each publisher
+  site lists its networks in its own `/ads.txt`. For two native-ad networks
+  the files named about 3,100 and 1,000 owning publishers, free. Owners
+  come from `sellers.json` (often a group that runs many sites), single
+  sites from scanning `ads.txt` over a domain list, and the page code
+  confirms the widget is live. This finds who shows the network's ads, not
+  who buys them.
