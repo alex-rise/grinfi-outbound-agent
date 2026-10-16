@@ -48,6 +48,45 @@ about to rewrite its strategy.
 A role open ninety days or more is a different thing: a stuck hire. That
 is anchor B, a data point with a comparison, not a tier 1 signal.
 
+### Reading a job board
+
+Measured on the two largest boards of one country: a month of postings for
+non-technical roles, about 10,000 vacancies from 5,700 employers.
+
+- **The age of a posting, without history.** Most boards number postings in
+  order and show the date of the last refresh, not of the first posting. An
+  old number under a fresh date is a role kept open or reposted. Was: wait
+  for a month of daily snapshots before calling a hire stuck. Now: read the
+  age from the number on day one; the snapshots (board, posting number,
+  company, normalised title, text fingerprint, first and last seen) confirm
+  it later.
+- **Open for long is not stuck.** About six in ten active postings were older
+  than a month: field sales reps, accountants of retail chains and other
+  evergreen roles stay up for years. Count as stuck only a senior or rare
+  role with an old number and, once the snapshots exist, the same title at
+  the same company still up after thirty days.
+- **The size a company gives on a board is self-reported and often wrong**:
+  an agricultural group listed as "under 20 people" had 16 openings. Check
+  headcount on LinkedIn, and for "no HR department" the number of HR people
+  there, before a small-company signal goes into a list.
+- **Drop the employers that are not buyers before spending anything.**
+  Recruiting agencies: the board's own agency mark misses some, so add words
+  in the company name, "for our client" in the text, an AI check and a
+  stop-list that grows. Government bodies, job centres and military units
+  were about one employer in twelve; a job centre holding hundreds of
+  postings looks exactly like "a company with many openings".
+- **Tech companies hiring is not tech hiring.** A service that fills sales,
+  marketing, finance or HR roles keeps tech companies as buyers and drops
+  only the technical postings (engineering, QA, DevOps, design).
+- **From a local-language board the decision-maker is on LinkedIn for about
+  four companies in ten** (20 employers across niches: a company page for
+  12, a senior person in the country for 8). Small distributors and
+  manufacturers with a native-script name fail most - no page, or a page
+  with one to five people - and the name in Latin script found three pages
+  the native spelling did not. A website was listed for six employers in
+  ten. Plan email by the website domain as the second channel from the
+  start, and put it in the proposal as two channels, not as a gap.
+
 Write to the person who decided to hire, not to the person who posted the
 vacancy. Job posts in chats and boards are usually published by a recruiter,
 often a contractor, who neither buys nor knows who owns the budget. Was:
