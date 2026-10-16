@@ -55,6 +55,26 @@ These hold on every step of this skill.
   other continents and staff of single venues, the judge rejected them
   rightly, and half a day went into speeding up a search that brought the
   wrong people.
+- **Count a market before promising it - free, per segment, in every
+  language its titles are written in.** When the question is "is my
+  audience even there", answer with a minimum per role and country before
+  any paid step. The regular people search does not say how many it
+  found: jump to pages 5, 15, 40 and 100, and the last page that still
+  has people bounds the count (it never shows more than 1,000). Read the
+  headlines on the deep pages too, not only page one - the title drifts
+  off the role there - and quote the bound times the share that still
+  fits. Search each role in every language its profiles use and add the
+  counts: they are different people. A word that names a workplace rather
+  than a role ("pharmacy", "procurement") brings students, practitioners
+  and industrial buyers; people from a kind of company are found by that
+  company, not by a title word. Was: a probe of five partner roles in two
+  Central Asian countries searched English titles first; the Russian
+  title alone then gave as many logistics people in one country as the
+  English one, "conference" brought mostly interpreters, "events"
+  students, and the word for a pharmacy found almost nobody from pharmacy
+  chains. Now: each role in both languages, deep pages read, the clean
+  word kept ("exhibition" for organisers), chain staff left to a search by
+  company.
 - **Read the titles before delivery, against the roles that were asked
   for.** LinkedIn's title search is loose: "CMO" also brings chief medical
   officers, "Head of IT" brings heads of IT loans and IT security,
