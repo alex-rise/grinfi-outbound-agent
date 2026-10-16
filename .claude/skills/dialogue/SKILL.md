@@ -376,6 +376,21 @@ general - companies hiring a CTO, then apps with bad reviews - and came back
 as banal; the version worth sending stood on a series of three cases the
 prospect had published about the same kind of rescue project.
 
+**A lead who asked "show me the requests" gets the true count, even zero,
+and a sample, never the whole list.** Some niches never ask in public:
+brands do not post "looking for an agency", only freelancers and agencies
+advertising themselves do. Then say the count was zero and where the
+buyers really show: a company that opened an in-house role for exactly
+that work this week has a budget and is choosing. Show four or five such
+companies as the proof, offer to collect them every week with the person
+who decides, and close on a small yes that costs nothing to give: "shall
+I send a couple of examples?" of posts where people complain about the
+pain they solve. The full weekly list is the product and is not handed
+out for free. Was: a draft promised a stream of public "looking for a
+specialist" requests that a week's search across four networks did not
+contain, and a second one offered the full list; the person we work for
+cut both.
+
 **A free call is for a business that already sells something.** Before the
 booking link goes to a founder who asks whether they are a fit, read what
 they have: a product people pay for, a page that says what it is, a buyer
