@@ -58,6 +58,29 @@ If you sell the work that role does, offer both paths in one message: do it
 with you, or help them hire well. Someone already hiring will not drop the
 plan because a vendor asked.
 
+## Public requests as a source
+
+"Show me who asked for this last week" is a fair ask, but for a specialist
+service sold to companies, public posts rarely answer it. Measured over one
+week for a marketplace-advertising agency, using exact phrases and no AI
+filter, on X (268 posts), Threads (195), the seller communities on Reddit
+(about 2,400 posts and comments) and LinkedIn post search: zero companies
+in the target countries wrote "we are looking for an agency or specialist".
+What matched instead were freelancers advertising themselves, agencies
+advertising, and agencies hiring staff.
+
+The buyers were on the job boards. One page of last week's job postings for
+the same skill in one country listed about nine brands hiring that role in
+house, against five agencies. A brand opening that role has the budget and
+the gap right now, and the hiring question above applies: drop the agencies
+and recruiters, then write to the person who owns the hire.
+
+Was: search social posts first and report what turned up. Now: for a
+company-to-company service, start from brands posting the role on job
+boards and use social posts as colour. Social search earns its place where
+people do ask in public: freelance work in local-language communities, where
+a week of posts in one niche gave dozens of requests.
+
 ## What cannot be verified
 
 Funding rounds outside the companies a public database covers, headcount
