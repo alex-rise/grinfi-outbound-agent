@@ -113,16 +113,6 @@ chains, and the list routes each person into one of them by a field set
 at collection. The senders' profiles may stay in English: the profile
 is read once, the message is what gets answered.
 
-**Someone who lives abroad is written to in the language of their
-profile, not of their name.** A name, a home-country university or an
-old job back home says where the person came from; the headline, the
-about section and the posts say which language they work in. Was: a
-chain in the home language went to a founder living in North America
-with a home-country name; she answered that she works in English and
-the first impression suffered. Now: for every person whose country is
-not the list's home country, the language comes from what they write
-on the profile, and an English profile goes into the English chain.
-
 **Verify a number taken from the client's own document.** One client's
 material said a tax deduction was 23%; the law said 20%. It goes out
 under their name, and the reader checks.
