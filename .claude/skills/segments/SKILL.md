@@ -75,6 +75,23 @@ These hold on every step of this skill.
   chains. Now: each role in both languages, deep pages read, the clean
   word kept ("exhibition" for organisers), chain staff left to a search by
   company.
+- **Count businesses through the one role each of them has.** Hotels with
+  a spa are counted by current spa managers and spa directors: about one
+  per hotel spa. A Sales Navigator people search reports LinkedIn's own
+  total, so one search per country answers it; then read a page of rows.
+  In Poland and Germany about nine in ten such people worked in hotels; in
+  the US and Canada only one in three or four - the rest run day spas and
+  med spas - so quote the hotel share, not the total. Small shops are
+  barely on LinkedIn (one country's independent perfumeries: seven company
+  pages), and an industry filter brought brand and manufacturer
+  executives instead of shop owners. Count shops on the map instead: a
+  shop tag without a chain brand gives the independents. Open maps cover
+  Europe well and North America poorly (one country gave ten independent
+  perfumeries) - there, count by the cities the client picks. Was: the
+  first US count added a "wellness manager" title and got 7,930, mostly
+  corporate wellness staff, and the shop count by industry found no shop
+  owners. Now: the one-per-business role, the share that is the right
+  kind of business, shops from the map.
 - **Read the titles before delivery, against the roles that were asked
   for.** LinkedIn's title search is loose: "CMO" also brings chief medical
   officers, "Head of IT" brings heads of IT loans and IT security,
