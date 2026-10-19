@@ -294,6 +294,22 @@ Message text inside nodes is a template. Never leave raw `{{variables}}`
 you have not checked against `list_ai_variables`, and render a sample
 with `render_ai_template` so the user sees what a lead will see.
 
+Several actions inside one wait (wait, like the latest post, wait) are a
+chain: each one points at the next with `after`/`before`. Unchained, the
+platform runs only the first one and then gives up waiting; the step
+validator says nothing and the builder still shows the full wait period.
+In the first week, look at when the first invites go to "not accepted":
+it must be the day the wait ends, not earlier. Before: a live campaign
+withdrew every unanswered invite on day 5 of a 22-day wait for three
+weeks, and the late accepts were lost.
+
+A task keeps the settings its step had when the task was created, so a
+new version of the flow does not reach people already waiting on that
+step. To give them the new settings, cancel those tasks and restart them
+on the same step (the builder's "Restart on this node"): the wait starts
+over and nothing is sent again. Restarting from the top sends the invite
+again.
+
 Removing a sender from a flow does not stop its queued tasks; the tool
 asks what to do with them (keep, cancel, restart). Ask the user, never
 guess: "restart" sends the first step again to those people.
