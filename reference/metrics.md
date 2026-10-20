@@ -280,3 +280,41 @@ reply %, positive, meetings. Append the verdict to `business/campaigns.md`.
 | Good positives, few meetings | the call asked too early, or the asset never delivered | dialogue |
 | Zero positives on 1,000+ sends | who you are writing to, not the subject line | strategist |
 | Email replies near zero while LinkedIn is healthy | deliverability, not copy | `email-infrastructure.md` |
+
+## 11. The two leaks that look like a lead shortage
+
+When a client says the campaign is not producing, the cause is usually not
+the list. Measure these two before touching targeting or copy.
+
+**Leak one: accepted, never written to.** Count the people who accepted the
+invite and have no first message yet, and how many days each has waited.
+Acceptance is the moment of interest; a first message that arrives a week or
+two later lands on a stranger again. Measured on a live campaign: of 525
+acceptances, 133 had been written to and 392 were waiting, half of them
+longer than a week. The senders' daily capacity was going into new invites
+while the people who had already said yes queued behind them.
+
+Fix the order, not the volume: the first message to someone who just
+accepted outranks a new invite. Target one to two days from acceptance.
+
+**Leak two: leads delivered, nobody works them.** Count how many of the
+replies the client's own sales actually answered. On the same campaign, 25
+leads in a month and 3 worked - including people who sent their own booking
+link and were left without an answer. No amount of new audience fixes this,
+and collecting more while it is true is wasted money.
+
+A related habit worth naming to the client: when a lead has already offered
+a calendar link, asking "what would you like to discuss?" before booking is
+a step that loses part of them. Link given, meeting booked.
+
+**Compare audiences by leads per 100 first messages, not by reply rate.**
+Reply rate flatters a small warm list and hides a list nobody has written
+to. On that campaign a fresh, correctly built list sat at 4.5 leads per 100
+messages against 0.9 for the client's largest older collection, and four
+older lists produced 1,382 messages and zero leads - they were spending the
+invite limit the new list needed.
+
+| Symptom | Most likely cause | Who |
+|---|---|---|
+| Healthy acceptance, few leads, and the list is barely touched | first messages queued behind new invites; see leak one | strategist |
+| Leads arrive and nothing closes | nobody is working them; see leak two | the client's sales |
