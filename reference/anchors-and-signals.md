@@ -120,6 +120,15 @@ boards and use social posts as colour. Social search earns its place where
 people do ask in public: freelance work in local-language communities, where
 a week of posts in one niche gave dozens of requests.
 
+The same held for a platform sold to crypto and AI projects (community
+scoring, quests, adoption). A week across seven networks, exact phrases:
+in Telegram, X, LinkedIn, Threads, Bluesky and Hacker News the matches
+were sellers, reward farmers replying to campaigns, and consultants
+posting advice - no project owner asking. Only chosen subreddits held
+real owners, one or two posts a week per pain. Was: plan a signal feed
+for such an offer. Now: build the list from dated public events
+(a protocol listed, a round, a launch) and keep subreddits as colour.
+
 ## What cannot be verified
 
 Funding rounds outside the companies a public database covers, headcount
@@ -202,3 +211,10 @@ checked before anyone is written to. Measured on one market's online shops:
   sites from scanning `ads.txt` over a domain list, and the page code
   confirms the widget is live. This finds who shows the network's ads, not
   who buys them.
+- **"Sells on a marketplace" is not on the homepage.** Was: read the
+  brand's front page for an Amazon link. Of 23 consumer brands checked,
+  2 linked to Amazon, while a marketplace search for the brand name
+  (storefront, or a listing whose title starts with the brand) found 35
+  of 49 selling there. Search the marketplace for the brand, drop hits
+  that only share a word (music tracks, other brands), and keep the top
+  listing's title: it is the real product the first message names.
