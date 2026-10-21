@@ -129,6 +129,20 @@ real owners, one or two posts a week per pain. Was: plan a signal feed
 for such an offer. Now: build the list from dated public events
 (a protocol listed, a round, a launch) and keep subreddits as colour.
 
+Where people do ask in public, a raw keyword count still overstates
+demand by two orders. A week of a marketing service in one market's
+Telegram chats and Threads, two languages: about 1,600 matches on the
+service words, 72 posts that asked for something, about 10 businesses
+actually looking for a contractor. The rest was ad-account resale for
+traffic arbitrage, vacancies for a neighbouring market's ad platform,
+and competitors' own posts. Was: quote the match count as demand. Now:
+read a sample by hand, quote the buyers per week, and build the stop
+list from what the noise turned out to be (platform names of the other
+market, its currency, "accounts", "vacancy", "salary"). A newer
+service the buyers cannot name yet (being recommended by AI assistants)
+had zero requests: sell it with a check in the first message, not by
+listening.
+
 ## What cannot be verified
 
 Funding rounds outside the companies a public database covers, headcount
