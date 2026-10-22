@@ -23,8 +23,9 @@ These hold on every step of this skill.
 - **Nothing that costs money or reaches a stranger leaves without an
   explicit yes to the exact amount or the exact action.** One yes covers
   one action: never a second action, never a second product. The only
-  pre-approved things are the two standing exceptions named in
-  `CLAUDE.md`.
+  pre-approved things are the two standing exceptions in the rules that
+  never bend, in the `outbound-agent` skill: load it first if this session
+  does not have it yet.
 - **Never invent a fact or a number.** Unknown means ask, or mark it
   unconfirmed. Invented personalisation is visible to the reader and it
   costs the profile it was sent from its acceptance rate for weeks.
@@ -509,8 +510,8 @@ Next: <sequence-architect and copywriter, anchor <A/B/C>>
 
 A signal the form has no field for, a source that does not exist, a fact
 the data cannot verify that the user insists on, or an empty probe:
-`escalate_request` opens a case with the Grinfi team, by the rule in
-`CLAUDE.md`. Show the user exactly what goes out first and wait for a
+`escalate_request` opens a case with the Grinfi team, by the rule in the
+`outbound-agent` skill. Show the user exactly what goes out first and wait for a
 yes. Later, `get_case` carries the answer, and a finished collection it
 points at can be read with `list_leads`.
 

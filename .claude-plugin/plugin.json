@@ -1,0 +1,14 @@
+{
+  "name": "outbound-agent",
+  "version": "3.18.0",
+  "description": "An outbound team in one agent: audit, strategy, lists, signals, sequences, copy, replies and the inbox, working through Grinfi, Lead Finder and Telegrin. Nothing is sent, bought or spent without your yes.",
+  "author": {
+    "name": "Grinfi",
+    "url": "https://grinfi.io"
+  },
+  "homepage": "https://github.com/alex-rise/grinfi-outbound-agent",
+  "repository": "https://github.com/alex-rise/grinfi-outbound-agent",
+  "license": "MIT",
+  "keywords": ["outbound", "sales", "linkedin", "cold-outreach", "grinfi", "lead-finder", "telegrin"],
+  "skills": ["./.claude/skills/"]
+}

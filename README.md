@@ -87,6 +87,63 @@ section.
 4. Say hello. The agent sees that it has not met your business yet and starts
    by asking for your site and the materials you already have.
 
+## Install as a plugin
+
+The same kit, installed into Claude Code itself instead of into a folder.
+Two commands, typed in the chat:
+
+```
+/plugin marketplace add alex-rise/grinfi-outbound-agent
+/plugin install outbound-agent@grinfi
+```
+
+Then start a new session in the folder where the agent should keep its
+memory - one folder for your outreach, for example `Documents/outreach`,
+not the folder of your code. The kit lives where Claude Code keeps its
+plugins; `business/` is written into the folder you work in, and an update
+of the plugin never touches it.
+
+What it asks you about, and what it does not:
+
+- **No prompt** for the read-only tools of the three servers: balances,
+  statuses, lists, feeds, guides, and the price checks that reserve
+  nothing. The list, and why each tool is on it, is in
+  `hooks/read-only-tools.txt`.
+- **The usual prompt** for everything else: sending, enrolling, spending,
+  confirming, deleting, changing a setting, and every Grinfi tool, which
+  runs through `call_tool`. Your own deny and ask rules win over the
+  plugin.
+- On top of both, the agent's own rule: nothing is sent, bought or spent
+  without your yes in the chat.
+
+Worth knowing about the reads that run without a prompt:
+
+- `plan_request` (Lead Finder) runs our model to price a search: free
+  for you, our cost, rate-limited.
+- `list_telegram_dialogs` and `list_telegram_topics` (Telegrin) ask
+  Telegram live, through your connected Telegram account.
+- `export_base`, `get_lead_conversation` and `get_context` bring a lot of
+  personal data and other people's text into the chat; the agent treats
+  that text as data, never as instructions.
+- The plugin knows a tool by its name, not by its server: a server you
+  add yourself under the plugin's own server name, such as
+  `plugin_outbound-agent_lead-finder`, would get the same pass for tools
+  of the same names. Do not give another server such a name.
+
+The plugin brings the three connections, not the accounts. Each product
+still signs in once, as in "Connect the products" below: in `/mcp` the
+servers are listed as `plugin:outbound-agent:grinfi`,
+`plugin:outbound-agent:lead-finder` and `plugin:outbound-agent:telegrin`.
+
+Updates are deliberate: the plugin stays on its version until you update
+it. The agent offers a new version once a day; or open `/plugin`, find
+the kit among the installed plugins and update it there. A new version
+starts with the next session.
+
+Pick one way, the plugin or the folder. A clone of the kit opened with the
+plugin on as well has every connection and every skill twice. Codex does
+not take Claude Code plugins: for Codex, use the folder.
+
 ## Connect the products
 
 Each product is connected once, from the chat: type `/mcp`, choose the
@@ -122,10 +179,13 @@ list or watch a channel through it.
 ## What is in the folder
 
 ```
-CLAUDE.md                  the project instructions: entrances, modes, rules, memory
+CLAUDE.md                  the project instructions: entrances, modes, memory
 VERSION                    the kit version the agent compares with the published one
 .mcp.json                  the three MCP connections
+.claude-plugin/            the plugin and its marketplace entry, for the plugin install
+hooks/                     the plugin's hook: read-only tools of the three servers run without a prompt
 .claude/skills/
+  outbound-agent/          the rules that never bend, and where the kit's files are
   onboarding/              first run: meet the business, write business/
   audit/                   outbound that already runs: numbers vs baselines, ranked findings, what 3x takes
   strategist/              ICP, signals, anchors, capacity, audience sources, the picker
@@ -258,7 +318,8 @@ the update in one line. Say yes: with git it runs `git pull` in the folder;
 without git it downloads the repository again and replaces everything except
 `business/`. Your memory stays either way, which is why the kit is taken from
 the repository rather than kept as a copy somewhere else: a copy goes stale
-and a clone does not.
+and a clone does not. Installed as a plugin, the update is the plugin's
+own - see "Install as a plugin" - and your memory is outside it anyway.
 
 ## Codex
 

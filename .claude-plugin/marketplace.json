@@ -1,0 +1,16 @@
+{
+  "name": "grinfi",
+  "owner": {
+    "name": "alex-rise"
+  },
+  "metadata": {
+    "description": "Claude Code plugins from the Grinfi team."
+  },
+  "plugins": [
+    {
+      "name": "outbound-agent",
+      "source": "./",
+      "description": "An outbound team in one agent, working through Grinfi, Lead Finder and Telegrin."
+    }
+  ]
+}
