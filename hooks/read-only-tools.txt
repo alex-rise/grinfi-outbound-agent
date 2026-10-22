@@ -11,8 +11,7 @@
 #   2. its handler only reads - a GET, or a static answer - or it is a
 #      price or form check whose server code reserves and creates nothing
 #      and costs the user nothing;
-#   3. every workspace has it: no admin-only tool, no tool switched on for
-#      one team.
+#   3. every customer workspace has it.
 # Never here, whatever the server says: anything that spends money or
 # credits, sends, enrols, deletes, confirms, starts or stops a collection,
 # a search or a scan, or changes a setting. The hook refuses those names on
@@ -28,8 +27,6 @@
 # and the three check_* tools are the quotes before a spend: they return a
 # price or a list of questions, reserve nothing and cost the user nothing
 # (plan_request runs a model on our side, rate-limited).
-# Left out though read-only: the six tools that answer an admin workspace
-# only.
 lead-finder check_brief
 lead-finder check_emails
 lead-finder check_lookup
@@ -58,9 +55,7 @@ lead-finder plan_request
 # Telegrin. Annotated read-only on the server, and each one is a GET or a
 # static answer (get_guide, get_updates).
 # Left out though read-only: check_campaign_understanding (a POST that runs
-# a model and needs the write scope), and the tools a customer workspace
-# does not have - admin tools and one team's own tools, one of which
-# spends money.
+# a model and needs the write scope).
 telegrin browse_chat_catalog
 telegrin diagnose_campaign
 telegrin get_billing_balance

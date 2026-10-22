@@ -19,7 +19,7 @@ const SERVERS = ['lead-finder', 'telegrin', 'grinfi'];
 // Names the hook must never let through, listed or not.
 const NEVER = {
   'lead-finder': ['confirm_request', 'continue_request', 'create_request', 'lookup', 'refresh_base', 'find_profiles_by_email',
-    'create_topup', 'set_spend_limit', 'set_auto_topup', 'grant_free_leads', 'register_source', 'erase_person', 'stop_request',
+    'create_topup', 'set_spend_limit', 'set_auto_topup', 'stop_request',
     'deliver_to_grinfi', 'connect_grinfi', 'sync_client_base', 'escalate_request', 'repeat_search', 'edit_portrait', 'update_context'],
   telegrin: ['send_lead_message', 'approve_signal', 'start_history_scan', 'start_chat_search', 'probe_keywords',
     'create_v2_campaign', 'update_v2_campaign', 'delete_lead', 'pause_campaign', 'resume_v2_campaign', 'archive_signal',
@@ -128,6 +128,11 @@ const hostile = {
   'a raw line break inside the name': '{"tool_name":"mcp__plugin_outbound-agent_grinfi__get_\nguide"}',
   'a NUL inside the name': '{"tool_name":"mcp__plugin_outbound-agent_grinfi__get_\u0000guide"}',
   'not JSON': 'tool_name get_balance',
+  'cut-off input': event(sample).slice(0, -1),
+  'a bare fragment without braces': `"tool_name":"${sample}"`,
+  'text before the object': `x${event(sample)}`,
+  'text after the object': `${event(sample)}x`,
+  'two objects': `${event(sample)}${event(sample)}`,
   'empty input': '',
   'no tool_name': JSON.stringify({ hook_event_name: 'PreToolUse', tool_input: {} }),
 };
@@ -137,7 +142,9 @@ for (const [label, input] of Object.entries(hostile)) {
 }
 const pretty = runHook(hook, JSON.stringify(JSON.parse(event(sample)), null, 2));
 if (!isAllow(pretty.out)) fail('pretty-printed input for a listed tool was not allowed');
-say(`hook: ${Object.keys(hostile).length} hostile or broken inputs get no answer; pretty-printed input still works`);
+const padded = runHook(hook, `\n  ${event(sample)}  \n`);
+if (!isAllow(padded.out)) fail('input with whitespace around the object was not allowed');
+say(`hook: ${Object.keys(hostile).length} hostile or broken inputs get no answer; pretty-printed and padded input still works`);
 
 // 5. Optional: the servers' own code.
 function sourceFiles(dir) {

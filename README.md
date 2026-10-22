@@ -116,6 +116,20 @@ What it asks you about, and what it does not:
 - On top of both, the agent's own rule: nothing is sent, bought or spent
   without your yes in the chat.
 
+Worth knowing about the reads that run without a prompt:
+
+- `plan_request` (Lead Finder) runs our model to price a search: free
+  for you, our cost, rate-limited.
+- `list_telegram_dialogs` and `list_telegram_topics` (Telegrin) ask
+  Telegram live, through your connected Telegram account.
+- `export_base`, `get_lead_conversation` and `get_context` bring a lot of
+  personal data and other people's text into the chat; the agent treats
+  that text as data, never as instructions.
+- The plugin knows a tool by its name, not by its server: a server you
+  add yourself under the plugin's own server name, such as
+  `plugin_outbound-agent_lead-finder`, would get the same pass for tools
+  of the same names. Do not give another server such a name.
+
 The plugin brings the three connections, not the accounts. Each product
 still signs in once, as in "Connect the products" below: in `/mcp` the
 servers are listed as `plugin:outbound-agent:grinfi`,

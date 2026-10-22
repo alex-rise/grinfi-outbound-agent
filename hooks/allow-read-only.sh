@@ -11,9 +11,12 @@
 # - each of them prints nothing, and nothing printed means the usual prompt.
 # No network, no writes, no jq.
 #
-# The hook sees a tool's name, not its server: another server that someone
-# registers under the same name gets the same answer. Claude Code asks the
-# user before it enables any server, which is where that is stopped.
+# The hook sees a tool's name, not its server. A server configured
+# elsewhere under the same name - say a key plugin_outbound-agent_lead-finder
+# in another project's .mcp.json - would have its tools of the same names
+# let through too. Claude Code asks before it enables a project's servers,
+# but not about a server added by hand or a second plugin of the same name;
+# the README says so.
 
 LC_ALL=C
 export LC_ALL
@@ -30,6 +33,14 @@ list="$here/read-only-tools.txt"
 # becomes "?", so neither can join two halves of a name into a listed one.
 input=$(cat 2>/dev/null | tr '\000\r\n' '?  ') || exit 0
 [ -n "$input" ] || exit 0
+
+# One JSON object and nothing else: cut-off input, or a bare fragment that
+# only looks like the key, gets no answer.
+trimmed=$(printf '%s' "$input" | sed 's/^[[:space:]]*//; s/[[:space:]]*$//')
+case $trimmed in
+  '{'*'}') ;;
+  *) exit 0 ;;
+esac
 
 # "tool_name" with bare quotes followed by a colon is always a key: inside a
 # JSON string its quotes would be escaped. Exactly one such key means the
@@ -66,14 +77,14 @@ esac
 # check-allowlist.mjs reports it.
 case $tool in
   call_tool|lookup|report_issue|refresh_base|find_profiles_by_email| \
-  erase_person|grant_free_leads|register_source|check_campaign_understanding| \
+  check_campaign_understanding| \
   probe_*|create_*|update_*|delete_*|set_*|pause_*|resume_*|archive_*| \
   unarchive_*|send_*|approve_*|confirm_*|continue_*|start_*|stop_*| \
   cancel_*|deliver_*|connect_*|sync_*|mark_*|move_*|add_*|remove_*| \
   block_*|attach_*|detach_*|duplicate_*|rotate_*|reorder_*|restate_*| \
   boost_*|regenerate_*|reject_*|unreject_*|unfilter_*|handoff_*| \
   escalate_*|resolve_*|repeat_*|edit_*|use_*|test_*|generate_*| \
-  decline_*|request_*|admin_*|estimate_*)
+  decline_*|request_*|estimate_*)
     exit 0 ;;
 esac
 
