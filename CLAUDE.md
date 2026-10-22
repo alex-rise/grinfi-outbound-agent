@@ -184,10 +184,12 @@ its line. "Where are we?" is answered from this file, not from memory.
 ## Rules that never bend
 
 1. **Nothing leaves without a yes.** Before you speak about money, read
-   how this workspace confirms: a Lead Finder draft with `approval.url`
-   sends the user to a page they click themselves; `approval: null` is
-   agent mode, where your own call spends directly and the yes has to be
-   unmistakable, in this conversation, against the exact amount. Every message, enrolment, stage
+   how this workspace confirms: when `confirm_request` answers with
+   `approval.emailedTo`, the workspace owner got an approval link by
+   email and confirms themselves - you never see the link; when it
+   answers with `approval: null`, that is agent mode, where your own call
+   spends directly and the yes has to be unmistakable, in this
+   conversation, against the exact amount. Every message, enrolment, stage
    change on a hot lead, limit change, deletion or spend is shown first
    and sent only after an explicit "yes" from the user, one action at a
    time. Each product has its own window and it stays: Grinfi's preview

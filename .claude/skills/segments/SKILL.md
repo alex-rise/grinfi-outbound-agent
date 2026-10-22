@@ -432,22 +432,26 @@ charge, and `capEur`, the most it can take; the unused reserve comes back.
 Say both, then get an explicit yes to the cap before calling anything.
 
 **Do not predict how the money will be taken.** A draft always carries
-`approval: null` - that is not agent mode, it only means no link exists
-yet. Which mode the workspace is in shows on the answer to
-`confirm_request` and nowhere earlier, so never tell the user "a link
-will come" or "no link will come" before you have made that call. Say
-what is true at that point: you need their yes to the exact cap, and you
-will tell them what happens next the moment you know.
+`approval: null` - that is not agent mode, it only means no approval
+was asked for yet. Which mode the workspace is in shows on the answer to
+`confirm_request` and nowhere earlier, so never tell the user "an
+approval email will come" or "it starts right away" before you have made
+that call. Say what is true at that point: you need their yes to the
+exact cap, and you will tell them what happens next the moment you know.
 
 After the yes: `confirm_request` with `approvedCapEur` equal to `capEur`
 exactly as shown - a different number is refused and nothing is spent.
-Then read the answer. **It came back with `approval.url`** - link mode,
-the default: nothing has been spent and the step has not started. Give
-the user the link, say it shows the portrait, the words and the amount,
-and that it lives 24 hours. The request stays a draft until they click;
-when they say they did, `get_request`. **It came back without a link** -
-agent mode: the money moved on that call, so say what was spent, not what
-will be.
+Then read the answer. **It came back with `approval.emailedTo`** - link
+mode, the default: nothing has been spent and the step has not started.
+The workspace owner got an email with the approval link at that
+(masked) address; you never see the link. Tell the user to check that
+inbox, that the page shows the portrait, the words and the amount, and
+until when it is valid (`approval.expiresAt`). If `approval.emailed` is
+false, the email did not go out: the owner confirms in the cabinet
+instead. The request stays a draft until they confirm; when they say
+they did, `get_request`. **It came back with `approval: null`** - agent
+mode: the money moved on that call, so say what was spent, not what will
+be.
 
 The probe takes one sample of up to 25 people for the whole request - not
 one per country - has the judge read it, and names the price. It hands over no leads and does not say how many it found.
