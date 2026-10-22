@@ -15,8 +15,9 @@ These hold on every step of this skill.
 - **Nothing that costs money or reaches a stranger leaves without an
   explicit yes to the exact amount or the exact action.** One yes covers
   one action: never a second action, never a second product. The only
-  pre-approved things are the two standing exceptions named in
-  `CLAUDE.md`.
+  pre-approved things are the two standing exceptions in the rules that
+  never bend, in the `outbound-agent` skill: load it first if this session
+  does not have it yet.
 - **Never invent a fact or a number.** Unknown means ask, or mark it
   unconfirmed. Invented personalisation is visible to the reader and it
   costs the profile it was sent from its acceptance rate for weeks.

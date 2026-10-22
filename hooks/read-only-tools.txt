@@ -1,0 +1,128 @@
+# Tools of the plugin's own MCP servers that run without a permission prompt.
+#
+# One line per tool: "<server> <tool>", the exact name, nothing else on the
+# line. allow-read-only.sh lets a call through only on an exact match;
+# every other tool keeps the normal prompt. A user's own deny or ask rule
+# still wins over this list.
+#
+# A tool goes in only after its code was read, never because of its name.
+# All three must hold:
+#   1. the server marks it read-only (readOnlyHint: true);
+#   2. its handler only reads - a GET, or a static answer - or it is a
+#      price or form check whose server code reserves and creates nothing
+#      and costs the user nothing;
+#   3. every workspace has it: no admin-only tool, no tool switched on for
+#      one team.
+# Never here, whatever the server says: anything that spends money or
+# credits, sends, enrols, deletes, confirms, starts or stops a collection,
+# a search or a scan, or changes a setting. The hook refuses those names on
+# its own as well, so a mistake here does not open them.
+# When unsure whether a tool spends, it stays out: the cost of leaving a
+# read out is one extra prompt, the cost of letting a spend in is money.
+#
+# Last checked against the servers' code on 2026-10-22. After any change:
+#   node hooks/check-allowlist.mjs
+# and, with the servers' source at hand, add --source <server>=<dir>.
+
+# Lead Finder. Annotated read-only on the server. check_brief, plan_request
+# and the three check_* tools are the quotes before a spend: they return a
+# price or a list of questions, reserve nothing and cost the user nothing
+# (plan_request runs a model on our side, rate-limited).
+# Left out though read-only: the six tools that answer an admin workspace
+# only.
+lead-finder check_brief
+lead-finder check_emails
+lead-finder check_lookup
+lead-finder check_refresh
+lead-finder export_base
+lead-finder find_industries
+lead-finder get_balance
+lead-finder get_brief_rules
+lead-finder get_case
+lead-finder get_context
+lead-finder get_portrait
+lead-finder get_request
+lead-finder get_search
+lead-finder get_spending
+lead-finder grinfi_status
+lead-finder list_base
+lead-finder list_clients
+lead-finder list_grinfi_lists
+lead-finder list_leads
+lead-finder list_members
+lead-finder list_places
+lead-finder list_requests
+lead-finder list_searches
+lead-finder plan_request
+
+# Telegrin. Annotated read-only on the server, and each one is a GET or a
+# static answer (get_guide, get_updates).
+# Left out though read-only: check_campaign_understanding (a POST that runs
+# a model and needs the write scope), and the tools a customer workspace
+# does not have - admin tools and one team's own tools, one of which
+# spends money.
+telegrin browse_chat_catalog
+telegrin diagnose_campaign
+telegrin get_billing_balance
+telegrin get_billing_breakdown
+telegrin get_billing_limits
+telegrin get_billing_plan
+telegrin get_brain
+telegrin get_brain_limits
+telegrin get_campaign
+telegrin get_channel_capabilities
+telegrin get_chat_catalog_facets
+telegrin get_chat_search
+telegrin get_counters
+telegrin get_crm_board
+telegrin get_feed_card
+telegrin get_feed_card_by_lead
+telegrin get_feed_counts
+telegrin get_grinfi_integration
+telegrin get_guide
+telegrin get_history_scan_progress
+telegrin get_lead_conversation
+telegrin get_metrics
+telegrin get_monitoring_stats
+telegrin get_notification_settings
+telegrin get_signal
+telegrin get_spend_statement
+telegrin get_timeline
+telegrin get_tracked_post_slots
+telegrin get_updates
+telegrin get_v2_campaign
+telegrin get_workspace
+telegrin list_agent_templates
+telegrin list_agents
+telegrin list_api_connectors
+telegrin list_billing_plans
+telegrin list_blocklist
+telegrin list_brains
+telegrin list_campaign_deliverers
+telegrin list_campaigns
+telegrin list_chat_searches
+telegrin list_feed
+telegrin list_follow_ups
+telegrin list_grinfi_lists
+telegrin list_history_scans
+telegrin list_lead_filters
+telegrin list_leads
+telegrin list_reddit_accounts
+telegrin list_signals
+telegrin list_telegram_accounts
+telegrin list_telegram_dialogs
+telegrin list_telegram_topics
+telegrin list_threads_accounts
+telegrin list_tracked_posts
+telegrin list_v2_campaigns
+telegrin list_webhook_endpoints
+telegrin list_workspace_users
+
+# Grinfi. Only the four tools that describe the server itself: they answer
+# from the server's own catalog and call nothing behind it. call_tool runs
+# any Grinfi tool, sending and deleting included, so it is never here; each
+# call through it keeps its prompt.
+grinfi get_guide
+grinfi get_toolset_tools
+grinfi get_updates
+grinfi list_toolsets
