@@ -499,6 +499,24 @@ Into Grinfi: the `import_leads` guide first, one list per segment, then
 request id in a custom field, so a campaign can be traced back to its
 list. Check stoplists and open conversations before enrolling anyone.
 
+**When a collection keeps finding people already in the base, that is not
+the end of it.**
+1. Collect everyone who matches, and turn off the check that skips people
+   already in the base.
+2. Deliver them all into the collection's own list, moving the ones you
+   already had in, with fresh fields.
+3. Sort that list by conversation history:
+   - nobody wrote to them, or the last message is months old: they go into
+     the sequence;
+   - they are in a running sequence, or a conversation is under way: leave
+     them where they are.
+
+Was: a probe found 74 people, 64 of them already in the base. The search
+stopped on "almost all known" and the next step was planned as a new source.
+The person we work for answered that repeats are not a stop: they move to the
+new list and their threads are read. Now: the base sorted by its threads is
+part of the result, not a reason to stop.
+
 **A competitor found in a list goes into the company stoplist, not just out
 of the flow.** Competitors are companies that sell what the user sells.
 Agencies that use the same tools to run outreach for clients are buyers,
