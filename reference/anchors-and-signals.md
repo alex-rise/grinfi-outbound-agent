@@ -169,9 +169,19 @@ building such lists:
 - **Without a size floor, "not updated for months" is mostly apps nobody
   uses.** On the App Store nine in ten such apps had fewer than 200
   ratings, the level of about 10,000 downloads.
-- **A rating belongs to one country.** Google Play shows a different score
-  in each country, so the rating, the country and the comparison in the
-  message come from the same storefront.
+- **A rating belongs to one country - the recipient's.** Both stores show
+  a different score in each country. The rating, the country and the
+  comparison in the message come from the storefront of the company's own
+  country, never from the storefront where the search happened to find the
+  app. Was: the score came from wherever the app turned up, often the US
+  store, so a local app with a 4.6 at home was told it sat at 2-3 stars,
+  and about a quarter of a "bad rating" list turned out to be rated 3.5+
+  at home. Now: re-read the score in the home storefront before the list
+  is built and again on the day of sending. That read is free: the App
+  Store lookup takes a country, and the Google Play page takes one too.
+  With fewer than 30 ratings in that country, leave the number out.
+- **Keep the app's store id and storefront with the lead.** Without them
+  a later re-check means finding every app in the store again by name.
 - **About a third of what passes a store filter is a buyer.** The rest are
   big brands, publishers from other regions, apps with no business behind
   them and public bodies. Plan the list size from the judged share, not
