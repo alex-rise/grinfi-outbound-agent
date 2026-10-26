@@ -273,6 +273,16 @@ Numbered, in one message, each with a proposed answer from
   the guard against a word that matches everything; a campaign written
   from a description has no probe; its rails are the exclusion, the
   languages and the daily cap at the product's 200.
+- Words handed to the user - in a file, a guide or a message - go through
+  `probe_demand` on the channels they will run on first, and the user gets
+  the result with them. Was: a guide of invented phrases went out
+  untested; on a later probe two posts in about a hundred were buyers -
+  "low RPM" matched centrifuges and car engines, "how to monetize my
+  website" matched casinos and hardware sales. Became: in a niche where
+  buyers name the vendor they are on and unhappy with (ad networks, CRMs,
+  payment providers), the vendors' names are the keywords - the same niche
+  rose to more than half of Reddit posts being buyers - and a generic word
+  that also lives in another field is dropped, not stop-worded.
 - The reply prompt on each channel carries the text rules of `CLAUDE.md` - no
   long dashes, no emojis in cold outreach, one call to action - and the facts of `business/profile.md`, nothing else, and is
   shown with the preview.
