@@ -498,6 +498,18 @@ Into Grinfi: the `import_leads` guide first, one list per segment, then
 `upload_csv` and `import_leads_from_file`. Anchor and tier as tags, the
 request id in a custom field, so a campaign can be traced back to its
 list. Check stoplists and open conversations before enrolling anyone.
+
+**A competitor found in a list goes into the company stoplist, not just out
+of the flow.** Competitors are companies that sell what the user sells.
+Agencies that use the same tools to run outreach for clients are buyers,
+not competitors. Put the competitor on the company stoplist with the
+company's LinkedIn id and its domain where you have them. A generic name
+like "Unify" goes in by domain only, or the name blocks unrelated companies
+too. Was: four competitors were taken off a running flow one by one and
+stayed in the base, so the next wave from the same list would have brought
+them back. Now: a company in the stoplist drops out of every flow and every
+future wave at once.
+
 Without Grinfi, the request's CSV export has the same columns: hand it to
 the user.
 
