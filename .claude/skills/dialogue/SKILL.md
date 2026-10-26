@@ -191,7 +191,11 @@ held by phone, the founder runs the audit on a proper video call.
 
 Deliver a promised asset immediately, no form, no registration, no "quick
 call first to understand the context". Close the delivery message with one
-question about their process, not about your service. When the lead's reply
+ask that moves to the product: the call, or the trial set up on what you
+just showed. Do not close it with another question. Was: the delivery
+closed on a question about their process. In 6 of 14 such answers that cost
+one more exchange before anyone booked. The person we work for: once we
+send the result, the message ends on the call or the trial. When the lead's reply
 is the last thing the asset waited for, build it in the same pass and send
 it as the answer; no interim "got it, will send tomorrow". Was: a lead named
 the niche a promised guide was waiting on, and the draft acknowledged it and
