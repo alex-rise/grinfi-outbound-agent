@@ -71,6 +71,19 @@ form; the last row differs by list as well:
 | Article with link sent straight away, no question | 309 | 6.8% |
 | Product as a list of features, 700-890 characters | 859 | 3.4% |
 
+**Measured again in October 2026** on the same team: eight flows, the same
+senders, two to three weeks. Each reply was read; "interested" means asked
+to see something, asked a price or a call, or said yes. "Per 100" counts
+per 100 first messages.
+
+| Finding | Was | Now | Numbers |
+|---|---|---|---|
+| Followers of a competitor's or a tool's company page | not a separate source | a warm source: it accepts and replies like post engagement, and the lists run to thousands | acceptance 37-39% on 1,249 invites; the same message 1 got 17.3% replies from tool followers against 6.3% from a cold list by industry |
+| People already in the sender's network who never answered | treated as warmer than a cold invite | they reply at about half the rate of freshly invited people | 7% vs 15%, 10% vs 19%, 6% vs 13% across three flows (286, 391 and 83 people from the network) |
+| A yes/no offer of a concrete free result against a pitch with a calendar link | judged by reply rate | judged by meetings as well: the yes/no form gets three times the interest but books later | 6.6 interested per 100 (408 sent) vs 2.0 per 100 (755 sent); meetings at two weeks 1 vs 4, two of the four booked straight from the link without a reply |
+| The answer to a "yes" | the result plus one more qualifying question | the result plus one ask, the call or the trial | 6 of 14 answers to a "yes" ended on another question, and each such question added another exchange before any booking |
+| The goodbye step on a cold list | expected to return a few late yeses | returns closures: useful to clean the list, not a source of meetings | 32 replies on the fourth message of two flows, none interested |
+
 **How to pull these numbers in Grinfi:** `get_automation` for the node
 ids, then `get_flow_node_statistics` for the flow: acceptance = accepted
 divided by closed on the connection-request node; replies per message
