@@ -232,3 +232,34 @@ checked before anyone is written to. Measured on one market's online shops:
   of 49 selling there. Search the marketplace for the brand, drop hits
   that only share a word (music tracks, other brands), and keep the top
   listing's title: it is the real product the first message names.
+
+## Ad networks' public files as a source
+
+Every ad network publishes `sellers.json` (who it pays) and every site that
+sells ads publishes `ads.txt` (who may sell its inventory). Together they
+answer "which content sites work with network X and not with network Y".
+
+- **Exclude by ads.txt, not by sellers.json alone.** A site missing from a
+  network's own sellers.json can still sell through that network via a
+  reseller. Was: a list of competitors' publishers minus the network's
+  sellers.json, about 4,200 domains. In a sample of 600, a third of the
+  live ads.txt files already carried the network through a reseller. Now:
+  check the site's ads.txt for the network's line; a site that has it
+  through a reseller gets a different message (direct terms), not "join us".
+- **The owner is usually in the `name` field.** sellers.json often names
+  the person or the company that is paid; one search on that name finds
+  the owner's LinkedIn faster than the site's about page. German sites
+  name the owner in the Impressum.
+- **Group domains by owner before writing.** Several owners in one sample
+  ran from two to dozens of similar sites; one conversation covers the
+  whole network, and two letters to the same owner from two domains look
+  careless.
+- **Language is not geography.** Many English-language content sites serve
+  India, Nigeria or Ghana; an English page alone does not mean US or UK
+  traffic. This was the largest single drop in the funnel (from 292 sites
+  without the network to 131 in English or German, 28 strict fits).
+- **Facebook pages, not fan groups.** Publishers who buy audience on
+  Facebook post links from their own pages and groups. Fan groups found by
+  topic were people talking, with almost no outbound links (5 links in 60
+  posts). A page's public card names its site and often an email; a large
+  page with no site is an audience owner without a site of their own.
