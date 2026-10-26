@@ -92,6 +92,19 @@ These hold on every step of this skill.
   corporate wellness staff, and the shop count by industry found no shop
   owners. Now: the one-per-business role, the share that is the right
   kind of business, shops from the map.
+- **An industry filter alone is not a segment: add the role word and the
+  function.** In a people search the industry is read loosely, so a
+  wholesale-and-pharma search of directors and owners in one Central
+  Asian country returned 8,200 people, and on its first page only about
+  one in seven ran a distribution business - the rest were banks, IT,
+  oil and car dealers. The same search with the role words in both
+  languages ("distribution", "distributor" and their local forms) and the
+  function filter (sales, business development, entrepreneurship,
+  purchasing) gave 12-14 fits out of 25 on the first page and 7-9 on the
+  second. Chain staff come from a search by company name with the
+  function filter on; without it the same chain names bring IT and HR.
+  Was: the market quoted from the raw industry total. Now: the total of
+  the narrowed search, and the fit share read from its first two pages.
 - **Read the titles before delivery, against the roles that were asked
   for.** LinkedIn's title search is loose: "CMO" also brings chief medical
   officers, "Head of IT" brings heads of IT loans and IT security,
