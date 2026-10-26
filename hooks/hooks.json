@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "^mcp__plugin_outbound-agent_(lead-finder|telegrin|grinfi)__.*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/allow-read-only.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

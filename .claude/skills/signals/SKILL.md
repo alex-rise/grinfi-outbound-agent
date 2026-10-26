@@ -30,8 +30,9 @@ These hold on every step of this skill.
 - **Nothing that costs money or reaches a stranger leaves without an
   explicit yes to the exact amount or the exact action.** One yes covers
   one action: never a second action, never a second product. The only
-  pre-approved things are the two standing exceptions named in
-  `CLAUDE.md`.
+  pre-approved things are the two standing exceptions in the rules that
+  never bend, in the `outbound-agent` skill: load it first if this session
+  does not have it yet.
 - **Never invent a fact or a number.** Unknown means ask, or mark it
   unconfirmed. Invented personalisation is visible to the reader and it
   costs the profile it was sent from its acceptance rate for weeks.
@@ -273,7 +274,7 @@ Numbered, in one message, each with a proposed answer from
   the guard against a word that matches everything; a campaign written
   from a description has no probe; its rails are the exclusion, the
   languages and the daily cap at the product's 200.
-- The reply prompt on each channel carries the text rules of `CLAUDE.md` - no
+- The reply prompt on each channel carries the text rules of the `outbound-agent` skill - no
   long dashes, no emojis in cold outreach, one call to action - and the facts of `business/profile.md`, nothing else, and is
   shown with the preview.
 - `create_v2_campaign` without a token returns the preview: channels,
