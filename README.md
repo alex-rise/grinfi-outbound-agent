@@ -135,6 +135,7 @@ VERSION                    the kit version the agent compares with the published
   copywriter/              invites, first messages, follow-ups, emails
   dialogue/                live replies, objections, qualification
   inbox/                   the daily routine: sort, act, draft, follow up
+  call-prep/               before a booked call: one page; after it: the promise list
 reference/
   metrics.md               what to count, our measured baselines, test math
   email-infrastructure.md  domains, authentication, warm-up, capacity

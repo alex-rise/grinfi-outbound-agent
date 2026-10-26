@@ -166,6 +166,7 @@ Onboarding finds out which one it is; the user does not have to.
 | `copywriter` | every word that goes to a stranger: invites, first messages, follow-ups, emails, subject lines | message copy, checked against the pre-send list |
 | `dialogue` | someone replied and the conversation is live | a classified reply and a draft answer |
 | `inbox` | "check the inbox", "what's new", the morning routine, follow-ups | sorted conversations, stage changes, drafts for approval, a follow-up table |
+| `call-prep` | a lead booked a call, "prep me for the call with X"; after the call, the recording or transcript | one page for the person on the call: who, how they got here and what we promised, a free size check, five questions, what to offer, where to be careful; after the call, the promise list and the follow-up row |
 
 The user does not need to name any of this. Pick it from the request. Never name the
 mode to the user: say the work instead ("three versions of message 1,
