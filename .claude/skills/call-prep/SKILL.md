@@ -57,6 +57,14 @@ were in) and read the whole thread, not the last message.
   ping after the call goes from the same one.
 - **What they already told us.** Answers in the thread (segment, country,
   volume, tools) go on the page, so the call does not ask them again.
+- **Which message made them book.** Put the booking's creation time next to
+  the thread: a step sent after the booking did not bring them. Was: a prep
+  read the last step (a demo invite listing features) as the hook; the lead
+  had booked from the step before it, which promised a plan and a first
+  list. Now: "they expect" quotes the step sent before the booking.
+- **Who on our side already knows them.** Check every sender profile's
+  history with the lead, not only the one that led the thread: an old
+  connection with the person on the call is worth a line.
 
 ## Step 3. The person
 
@@ -78,14 +86,30 @@ which segments they are pushing right now. If a product line sells to
 private people or to a channel LinkedIn does not reach, the page says so
 before the lead asks.
 
+- **Read the site in a browser when a plain fetch comes back empty.** Many
+  sites render in the browser; a fetch returns only the title. Was: a
+  prep nearly went out with "the site says nothing"; the page opened in a
+  browser described the whole product. Now: an empty fetch is a reason to
+  open the page, not a finding.
+- **Compare the site with the company page.** When the LinkedIn "about"
+  describes a different product than the site, the company is changing what
+  it sells - that is the strongest reason they need an offer and a strategy,
+  and the page says it in one line.
+- **Partner and launch posts on the company page** name their real cases
+  and the conferences they rely on; quote them with dates.
+
 ## Step 5. A free size check
 
 Count their buyers, without collecting anyone:
 
-- Lead Finder's planning step or the market count is free and names the
-  volume for a portrait (country, company type, size, the decision
-  maker's titles). Read the first rows, not only the total: an industry
-  filter on people is loose, so quote "total x the share that fits".
+- A people search total for the portrait (country, industry, size, the
+  decision maker's titles or seniority) costs nothing: the search count of
+  Sales Navigator, or the free count or plan step of the lead tool you
+  have. Read the first rows, not only the total: an industry filter on
+  people is loose, and a keyword matches the "about" text too. Was: a
+  keyword count gave about twenty-two thousand people at operators; one or
+  two of the first eight held that job. Now: the page quotes "total x the
+  share that fits" and names the company count behind it.
 - Telegrin's demand probe on the free channels (public Telegram, named
   subreddits) shows whether the buyers ask in public at all. Most B2B
   buyers do not; a channel full of sellers is a finding too.
