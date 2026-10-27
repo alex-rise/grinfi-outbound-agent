@@ -15,6 +15,16 @@ Read `business/rules.md`, `business/senders.md` and the thread before
 drafting. Every draft goes to the user for a yes; the dialogue skill sends
 nothing by itself.
 
+**The reply continues the thread, not your own analysis.** Before drafting,
+write down in one line what our last message promised and what the lead
+asked for in their own words; the draft delivers exactly that. Terms that
+lived only in your research ("signals don't work here", "the portrait") do
+not appear unless the lead has heard them. Was: we promised a lead "projects
+for web development in your markets", the lead named services and countries,
+and the draft opened with "signals won't work for you" - a verdict on
+something the lead never asked about. Now: "As promised, here is what we
+find for web development in your markets: ..."
+
 ## Rules
 
 These hold on every step of this skill.
