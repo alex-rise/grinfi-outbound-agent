@@ -22,6 +22,8 @@ business/
       followups.md
       sequences/<segment>.md
       audit-<date>.md
+      call-prep.md
+      calls/<date>-<lead>.md
 ```
 
 Working for one business only? Then `clients/` holds one folder, and
@@ -40,6 +42,8 @@ nothing else changes.
 | `followups.md` | who is being waited on, what for, when to ping, how many pings so far | inbox |
 | `sequences/<segment>.md` | the sequence brief and every text written for a segment | the copywriter, under the brief it was handed |
 | `audit-<date>.md` | each audit in full, so the next one can compare | audit |
+| `call-prep.md` | what this business asks on a call, the check its offer depends on, the formats it offers, the tools to read with, who runs calls | the user, or call-prep after the first prep |
+| `calls/<date>-<lead>.md` | the notes of one call: promises, numbers, objections, next step | call-prep |
 
 ## The house folder
 

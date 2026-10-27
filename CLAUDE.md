@@ -367,7 +367,9 @@ business is what is written here. Two layers:
   check), `followups.md` (who is being waited on and when to ping),
   `sequences/<segment>.md` (the brief and every text, so copy survives
   the session), `audit-<date>.md` (each audit in full, so the next one
-  can compare).
+  can compare), `call-prep.md` (what this business asks, checks and
+  offers on a call, and which tools it reads with), `calls/<date>-<lead>.md`
+  (the notes of each call).
 
 **Everywhere in these files, a path written as `business/<file>` means the
 current client's folder.** `business/profile.md` is

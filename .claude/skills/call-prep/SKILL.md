@@ -7,9 +7,27 @@ description: Use when a lead booked a call or a meeting is coming up - "prep me 
 
 The person who runs the call reads one page in five minutes and knows who
 is on the other side, how they got here, what we already promised them,
-whether their market exists, what to ask and what to offer. After the
-call the same skill turns the recording into a list of promises with
-dates. Everything here reads; nothing is sent, booked or bought.
+what to ask and what to offer. After the call the same skill turns the
+recording into a list of promises with dates. Everything here reads;
+nothing is sent, booked or bought.
+
+This file is the order of work and holds for any business. What to ask,
+what to measure and what to offer belong to the business: they come from
+its own files (below), not from this skill.
+
+## What the business decides
+
+- **`business/call-prep.md`, when it exists, wins.** It names the
+  questions this business always asks, the check that matters for its
+  offer, the formats it sells on a call, the tools to read with and who on
+  the team runs calls. This skill gives the order; that file gives the
+  content. No file yet: build the page from `business/profile.md` and
+  `business/icp.md`, and after the first prep offer to save the choices
+  that worked into `business/call-prep.md`.
+- **Money is the price sheet, not a new number.** Formats and prices come
+  from `business/profile.md` (or what the user names). A discount or a
+  custom package is the user's decision, written on the page as a question
+  to them, not as an offer.
 
 ## Rules
 
@@ -24,47 +42,44 @@ dates. Everything here reads; nothing is sent, booked or bought.
   on a CRM card named the lead's previous employer and an email at that
   company; the booking had the new one. Now: the job comes from the live
   profile, the email from the booking.
-- **Measure before you promise.** A size the page quotes comes from a
-  free count made for this prep, with its date. Was: a lead asked "is my
-  audience even on LinkedIn in that country", and the answer on the call
-  was a feeling. Now: a fifteen-minute count before the call, and the page
-  says "hundreds, go" or "tens, think twice" with the number.
-- **Money is our price sheet, not a new number.** Formats and prices come
-  from the business's own price list in `business/` (or what the user
-  names). A discount or a custom package is the user's decision, written
-  on the page as a question to them, not as an offer.
+- **Measure before you promise.** A number the page quotes comes from a
+  free check made for this prep, with its date. Was: a lead asked a
+  question the offer depended on, and the answer on the call was a
+  feeling. Now: a fifteen-minute check before the call, and the page gives
+  the number and what it means for the offer.
 
 ## Step 1. The booking
 
 From the calendar event or the booking email: date and time in the
 user's time zone and the lead's, the meeting link, the email the lead
-booked with, and anything they typed into the booking form. The booking
-email is the freshest address the lead has given - use it for anything
-sent after the call, and say so when it differs from the CRM.
+booked with, anything they typed into the booking form, and when the
+booking was made. The booking email is the freshest address the lead has
+given - use it for anything sent after the call, and say so when it
+differs from the CRM.
 
 ## Step 2. How they got here
 
-Find the lead in Grinfi (card, all conversations, all automations they
-were in) and read the whole thread, not the last message.
+Find the lead where the outreach runs (Grinfi when it is connected,
+otherwise the CRM or inbox the user names): the card, all conversations,
+all campaigns they were in. Read the whole thread, not the last message.
 
-- **Which campaign brought them and what that campaign promised.** Was:
-  a sequence step offered "the first 100 contacts for your profile"; the
-  lead booked straight after, and the prep did not mention it, so the
-  person on the call did not know what the lead was waiting for. Now: the
-  page quotes the promise in one line under "they expect".
-- **Who led the thread.** A conversation can run on a teammate's profile
-  while the call is with the owner. The page names the profile, so the
-  ping after the call goes from the same one.
+- **Which campaign brought them and what it promised.** Was: a sequence
+  step offered a free deliverable; the lead booked straight after, and the
+  prep did not mention it, so the person on the call did not know what
+  the lead was waiting for. Now: the page quotes the promise in one line
+  under "they expect".
+- **Which message made them book.** Put the booking time next to the
+  thread: a step sent after the booking did not bring them. Was: a prep
+  read the last step as the hook; the lead had booked from the step before
+  it, which promised something else. Now: "they expect" quotes the step
+  sent before the booking.
+- **Who led the thread, and who else knows them.** A conversation can run
+  on a teammate's profile while the call is with someone else; the page
+  names the profile, so the ping after the call goes from the same one.
+  Check every sender profile's history with the lead: an old connection
+  with the person on the call is worth a line.
 - **What they already told us.** Answers in the thread (segment, country,
   volume, tools) go on the page, so the call does not ask them again.
-- **Which message made them book.** Put the booking's creation time next to
-  the thread: a step sent after the booking did not bring them. Was: a prep
-  read the last step (a demo invite listing features) as the hook; the lead
-  had booked from the step before it, which promised a plan and a first
-  list. Now: "they expect" quotes the step sent before the booking.
-- **Who on our side already knows them.** Check every sender profile's
-  history with the lead, not only the one that led the thread: an old
-  connection with the person on the call is worth a line.
 
 ## Step 3. The person
 
@@ -74,50 +89,43 @@ languages they write in. Then their posts from the last two months:
 topics, the call to action, and who reacts. Read the reactors' titles: if
 the people reacting are colleagues, recruiters and vendors rather than
 buyers, their content does not reach their market - that is a finding for
-the call, not a detail. Was: a prospect posted weekly with "write to me
-for a payback estimate"; 73 people reacted in two months and 3 of them
-looked like buyers. Now: the page says it in one line with the numbers.
+the call, not a detail. Was: a prospect posted weekly with a call to
+action; 73 people reacted in two months and 3 of them looked like buyers.
+Now: the page says it in one line with the numbers. No posts at all is a
+line too.
 
 ## Step 4. The company
 
 From the site and the company page: what they sell, to whom, the typical
 deal size, the cases they name, the countries. From their recent posts:
-which segments they are pushing right now. If a product line sells to
-private people or to a channel LinkedIn does not reach, the page says so
-before the lead asks.
+which segments they are pushing right now, their partners, the events
+they go to - quote them with dates.
 
 - **Read the site in a browser when a plain fetch comes back empty.** Many
   sites render in the browser; a fetch returns only the title. Was: a
-  prep nearly went out with "the site says nothing"; the page opened in a
-  browser described the whole product. Now: an empty fetch is a reason to
-  open the page, not a finding.
+  prep nearly said "the site says nothing"; the page opened in a browser
+  described the whole product. Now: an empty fetch is a reason to open the
+  page, not a finding.
 - **Compare the site with the company page.** When the LinkedIn "about"
-  describes a different product than the site, the company is changing what
-  it sells - that is the strongest reason they need an offer and a strategy,
-  and the page says it in one line.
-- **Partner and launch posts on the company page** name their real cases
-  and the conferences they rely on; quote them with dates.
+  describes a different product than the site, the company is changing
+  what it sells. That changes the call, and the page says it in one line.
 
-## Step 5. A free size check
+## Step 5. A free check
 
-Count their buyers, without collecting anyone:
+Measure what the offer depends on, without buying anything. Which check
+that is belongs to the business (`business/call-prep.md`): the size of
+the lead's market, their team, their stack, their volume, their
+competitors. The rules for any count:
 
-- A people search total for the portrait (country, industry, size, the
-  decision maker's titles or seniority) costs nothing: the search count of
-  Sales Navigator, or the free count or plan step of the lead tool you
-  have. Read the first rows, not only the total: an industry filter on
-  people is loose, and a keyword matches the "about" text too. Was: a
-  keyword count gave about twenty-two thousand people at operators; one or
-  two of the first eight held that job. Now: the page quotes "total x the
-  share that fits" and names the company count behind it.
-- Telegrin's demand probe on the free channels (public Telegram, named
-  subreddits) shows whether the buyers ask in public at all. Most B2B
-  buyers do not; a channel full of sellers is a finding too.
-- If the market is small and finite (hundreds of companies), the page
-  says so: precision and repeated touches matter more than volume.
-
-Do not buy anything here. A probe that costs money is offered to the user
-as a next step with its price.
+- **Read the first rows, not only the total.** A LinkedIn industry filter
+  on people is loose, and a keyword matches the "about" text too. Was: a
+  keyword count gave about twenty-two thousand people; one or two of the
+  first eight held the job in question. Now: the page quotes "total x the
+  share that fits" and the number of companies behind it.
+- **A small, finite number is a finding.** Hundreds of companies means
+  precision and repeated touches, not volume; the page says so.
+- **A check that costs money** is offered to the user as a next step with
+  its price, not run.
 
 ## Step 6. Write the page
 
@@ -128,22 +136,18 @@ One page, in the user's language, in this order:
 3. **How they got here** - campaign, what it promised ("they expect"),
    what they already told us, which profile led the thread.
 4. **What they sell now and to whom** - from the site and their posts.
-5. **What we measured** - the counts with dates, and what they mean.
-6. **What to ask** - five questions at most: the main segment and the
-   deal size; who decides at their client; where clients come from today
-   and how many they need; cases with numbers we may name; who on their
-   side will run the conversations.
-7. **What to offer** - the channels that fit their market, the reasons to
-   write that can be seen from outside (new hires, new projects, funding,
-   seasons), the format and the price from the price sheet.
-8. **Where to be careful** - what not to promise (manual sources as a
-   steady stream, results we cannot measure, a channel that does not hold
-   their buyers), and the objection they are likely to raise with a
-   one-line answer. Was: a prospect asked to pay per warm lead on a deal
-   of seventy thousand euros; the answer came on the spot and sounded like
-   a refusal. Now: the page carries the answer in advance - a long deal
-   is warmed over several conversations, so we build the process and hand
-   it over, and why that ends up cheaper for them.
+5. **What we measured** - the checks with dates, and what they mean.
+6. **What to ask** - five questions at most, from `business/call-prep.md`
+   when it has them. Without it: why they booked now; how they solve it
+   today and what it costs them; who decides and by when; the numbers the
+   offer depends on; what a good result looks like to them.
+7. **What to offer** - the format and price from the price sheet that fit
+   what the page found, and the reason in one line.
+8. **Where to be careful** - what not to promise, and the objection they
+   are likely to raise with a one-line answer from the objections in
+   `business/profile.md`. Was: a prospect asked for a pricing model the
+   business does not sell; the answer came on the spot and sounded like a
+   refusal. Now: the page carries the answer in advance.
 
 Close the page with "after the call: send me the recording".
 
@@ -155,16 +159,18 @@ From the recording or the transcript:
    Monday" from both sides, with the date and who owns it. Quote the
    words; a recap that adds what nobody said is worse than none.
 2. **What they actually need.** What they asked for and what they need
-   can differ. Was: a lead had been promised a hundred contacts, and on
-   the call it became clear that a list did not help them decide - a
-   market analysis did. Now: the page names what to deliver, and the list
-   becomes a part of it, not the deliverable.
-3. **The follow-up row.** One row in the follow-up table with the stage,
-   the next date (the day after the promised delivery) and the promise
-   list, so nobody waits for the person who ran the call to remember.
-4. **The client file.** What was learned goes into
-   `business/clients/<client>/profile.md`: the call, the numbers, the
-   objections, the decision maker, the next step.
+   can differ. Was: a lead had been promised one deliverable, and on the
+   call it became clear that a different one would help them decide. Now:
+   the page names what to deliver, and the promised one becomes a part of
+   it.
+3. **The follow-up row.** One row in `business/followups.md` with the
+   stage, the next date (the day after the promised delivery) and the
+   promise list, so nobody waits for the person who ran the call to
+   remember.
+4. **The notes.** The call, the numbers, the objections, the decision
+   maker and the next step go where `business/call-prep.md` says; without
+   it, into `business/calls/<date>-<lead>.md`. A new objection with a good
+   answer goes into `business/profile.md` too.
 
 The follow-up text itself goes through `copywriter` or `dialogue`, and is
 sent only on a yes.
@@ -176,6 +182,6 @@ sent only on a yes.
 - **Do not skip the thread because the lead booked through a form.** The
   form says what they want; the thread says what we promised.
 - **Do not quote a raw total.** A LinkedIn total without the share that
-  fits overstates the market two to five times.
+  fits overstates a market several times over.
 - **Do not pad the questions.** Five questions, each one the call cannot
   go on without. The rest belongs in the follow-up.
