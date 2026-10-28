@@ -273,6 +273,16 @@ site, a public feed.
 The counts go into the sequence brief, one line per variable: filled on
 the sample, and the filter or fallback.
 
+**A variable earns its place by changing the answer.** Segments of one
+sequence differ by list first: each segment its own list, read and cut on
+its own numbers. A segment variable goes into the text only where a reader
+in that segment would answer something different, and it goes in as a
+separate version after the first numbers, not at launch. Was: a plan for
+an investor campaign varied the opening for angels, funds, family offices
+and syndicates; the owner: no variables for their own sake, only where
+they lift the result. One text went out to all of them, and only the
+segment with a pain of its own was kept as a candidate version.
+
 ## Building it in Grinfi
 
 1. `get_guide` with `create_flow`. Always. It has the node types, the edge

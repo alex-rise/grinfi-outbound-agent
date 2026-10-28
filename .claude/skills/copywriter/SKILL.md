@@ -307,6 +307,16 @@ and links to the page with the formats. Was: a one-off setup was quoted
 in the third message of a sequence; the owner took the number out before
 launch: there is no point naming a price before the need is discussed.
 
+**An investor is offered something on the scale of their money.** When
+the sequence raises a round, the second reason to talk is better odds for
+the companies the investor already backed, or the round itself. A
+commission or a referral fee on the product is not one: on a subscription
+of a few hundred a month it is noise to someone writing five-figure
+checks. Was: a draft offered investors a referral program on the product
+and framed the portfolio angle as "see the real picture for free"; the
+owner cut the referral and rewrote the angle as raising the odds of the
+companies already in their portfolio.
+
 ## Step 4. The gate
 
 Run it on every draft before anyone sees it. All rows must pass.
