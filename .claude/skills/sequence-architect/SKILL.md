@@ -255,7 +255,25 @@ site, a public feed.
   "Self-employed" or "Therapy Services" - gets a phrase that reads in every
   sentence of the sequence ("your business"), never an empty value. Before:
   three templates pasted the raw company field and the October batch was
-  one click from going out with "MARC MANI, M.D., INC." in the body.
+  one click from going out with "MARC MANI, M.D., INC." in the body. A
+  name in another alphabet goes into an English message transliterated
+  (the brand's own Latin spelling, else a plain transliteration). Before:
+  a Greek newspaper's app went into an English opener in Greek capitals.
+- **A fact about a company is true for a person only if the person works
+  there.** When people are matched to a company fact (its app, its
+  rating, its vacancy) by company name, a shared word makes false
+  matches. Examples:
+  - a candy maker with the same surname as a drug-database brand;
+  - an agency that built the app, matched in place of the client who owns
+    it;
+  - the group's subsidiary on another continent.
+
+  Confirm each match by website domain: the person's company page and the
+  fact's owner must name the same site. Where the domains differ or one
+  is missing, read the company and title by eye before the lead goes in.
+  Before: on a list of 243 people matched to apps by company name, five
+  matches were wrong, and all five differed by domain. They were already
+  in a live flow; they came out before any invite went.
 - **A first name is a display name, not a name.** People put emoji,
   credentials and titles into the LinkedIn first-name field ("Ing.",
   "Dr.", a laptop emoji), and some type one letter from another alphabet
@@ -268,7 +286,15 @@ site, a public feed.
   machine (emoji, digits, brackets and other punctuation, all capitals, a
   title before the name, more than two words, two alphabets in one name),
   fix by eye in the CRM, then render the first message on three real
-  leads, one of them a fixed name.
+  leads, one of them a fixed name. The machine flags miss two kinds of
+  bad name, so also compare the first name with the profile address:
+  - **surname first.** The surname sits in the first-name field while the
+    address reads first-name-then-surname;
+  - **not a person.** A word or a place as the name, a repeated
+    nonsense name, a franchise branch page with "Owner".
+
+  Before: on a list of 243 that had passed the machine flags, five such
+  names were found by eye.
 
 The counts go into the sequence brief, one line per variable: filled on
 the sample, and the filter or fallback.
