@@ -91,6 +91,16 @@ answered that such clients never search for an agency like that. The guide
 that went out instead tracked boutique-opening and collection-launch posts,
 plus vacancies for event and brand-experience managers.
 
+A role title catches every company hiring it, not only the client's niche.
+Read the company names and quote the share that fits, never the total. Was:
+"142 email, CRM and retention openings in a month" offered as the market of
+an email agency for fashion and supplement brands. Now: the same month in two
+countries read company by company - about 12 of the 142 were brands from the
+agency's niches, the rest SaaS, finance, universities and recruiters. The
+12 is the number the plan stands on. In the same check a month of public
+requests for an agency of that kind returned one post across four channels,
+so the plan was to write first, with the hiring as the reason.
+
 Check that the channel carries this audience before you promise it. Some
 trades are not discussed in public at all: they run on specialised
 exchanges, on the phone, or between people who already know each other.
