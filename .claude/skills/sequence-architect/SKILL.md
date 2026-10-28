@@ -280,8 +280,10 @@ in that segment would answer something different, and it goes in as a
 separate version after the first numbers, not at launch. Was: a plan for
 an investor campaign varied the opening for angels, funds, family offices
 and syndicates; the owner: no variables for their own sake, only where
-they lift the result. One text went out to all of them, and only the
-segment with a pain of its own was kept as a candidate version.
+they lift the result. Two versions stayed, funds and private investors,
+because "your fund" does not hold for an angel; the other types became
+separate lists, and the one segment with a pain of its own waits as a
+candidate version until the first numbers.
 
 ## Building it in Grinfi
 

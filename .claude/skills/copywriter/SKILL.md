@@ -68,6 +68,17 @@ things that cost four drafts to learn, and a before-and-after standard of
 editing) and `reference/owner-rules.md` (38 corrections made by the
 people whose name went under the text).
 
+Then read the sequences you already ran that produced meetings, the one
+written to the closest buyer first, and the latest numbers on your own
+flows. The rules say what to avoid; a working sequence shows the form,
+the length and the amount of detail that buyer answered. Was: a
+fundraising sequence written from the rules alone came out short and
+abstract, a category and a revenue figure, and the owner asked whether
+our own examples had been used at all. The closest one, written to
+funds and private investors, had a version per type of investor, a
+second message carrying the numbers and a third that opened on an
+observation instead of a reminder. The rewrite took that shape.
+
 No profile yet: ask these seven in one message, and nothing else. Write
 the answers into `business/profile.md` as they come, and do not wait for
 a separate onboarding. The last two decide the form of the message, so
