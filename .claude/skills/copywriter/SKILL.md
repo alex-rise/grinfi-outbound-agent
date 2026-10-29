@@ -234,15 +234,20 @@ message 2 sends the link unconditionally. Each follow-up is shorter than
 the last. The breakup gives permission to leave and offers one action
 with no price attached.
 
-**One message, one goal, and each one reads on its own.** A follow-up
+**One message, one goal, and each one continues the last.** A follow-up
 carries one argument and one ask; a description of the product, a case
 and a benefit stacked into one touch leave each of them without its
-reasoning. Read every follow-up as if the earlier ones were never opened:
-it names who is writing, and no word in it points back ("besides that",
-"as I said", "the portfolio side"). Was: a second message to investors
-mixed the product, a case and "better odds for your portfolio", and the
-next one opened with "besides the portfolio side"; the reviewer: one
-message, one goal, and alone that opener means nothing.
+reasoning. It continues the thought of the message before it and says
+in one line what that message was about, so it reads as the next step to
+someone who read it and still makes sense to someone who did not. A bare
+pointer fails the second reader, and a message that starts from nothing
+fails the first. Was: a second message to investors mixed the product, a
+case and "better odds for your portfolio", and the next one opened with
+"besides the portfolio side"; the reviewer: one goal, and alone that
+opener means nothing. The rewrite made it stand alone and dropped the
+link, and the reviewer: now it is cut off, it must follow from the
+previous one. Now: "Last time I wrote about how we could help the
+companies you backed. Besides a partnership there, we're also raising."
 
 **Email.** The recipient sees the subject plus about 40 characters, on a
 phone. No images, no attachments, no link in email 1, a two-line
@@ -358,7 +363,7 @@ Run it on every draft before anyone sees it. All rows must pass.
 | No long dash anywhere, no emoji, no exclamation mark | yes |
 | Reads aloud in the sender's voice in under 20 seconds | yes |
 | One template, several senders: no word in the first person that carries the sender's gender. In Ukrainian and Russian that is the past tense and the short adjectives - "I was glad", "I wrote" change with the writer's gender. Write "we" instead. Was: a line in the masculine went out from a woman's profile | yes |
-| Follow-up only: new angle, one line restating who is writing, and no word pointing back at an earlier message | yes |
+| Follow-up only: new angle, one line restating who is writing, and one line saying what the previous message was about before it continues | yes |
 | Grinfi only: variables checked against `list_ai_variables`, one sample rendered with `render_ai_template` | yes |
 | Every variable has its count from a sample of the real list and a fallback line where it is under 100%; every claim tied to a date is true for each lead, not on average (sequence-architect, "Before building") | yes |
 
