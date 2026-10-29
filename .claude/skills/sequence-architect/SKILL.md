@@ -274,6 +274,14 @@ site, a public feed.
   Before: on a list of 243 people matched to apps by company name, five
   matches were wrong, and all five differed by domain. They were already
   in a live flow; they came out before any invite went.
+- **A store rating belongs to one country.** Google Play shows a different
+  rating in each country's store, and the gap can be a full star. A "your
+  app is at 3.2" opener holds only if 3.2 is the rating in the company's
+  own country. Take the rating, the category average and the country of
+  the sentence from that one store. If that store was not read, the
+  company has no rating signal; it does not fall back to whichever store
+  found the app. Before: a batch picked the store the app was found in
+  first, and 14 of about 100 "low-rated" apps were rated 4.4-4.7 at home.
 - **A first name is a display name, not a name.** People put emoji,
   credentials and titles into the LinkedIn first-name field ("Ing.",
   "Dr.", a laptop emoji), and some type one letter from another alphabet
