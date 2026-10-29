@@ -234,6 +234,16 @@ message 2 sends the link unconditionally. Each follow-up is shorter than
 the last. The breakup gives permission to leave and offers one action
 with no price attached.
 
+**One message, one goal, and each one reads on its own.** A follow-up
+carries one argument and one ask; a description of the product, a case
+and a benefit stacked into one touch leave each of them without its
+reasoning. Read every follow-up as if the earlier ones were never opened:
+it names who is writing, and no word in it points back ("besides that",
+"as I said", "the portfolio side"). Was: a second message to investors
+mixed the product, a case and "better odds for your portfolio", and the
+next one opened with "besides the portfolio side"; the reviewer: one
+message, one goal, and alone that opener means nothing.
+
 **Email.** The recipient sees the subject plus about 40 characters, on a
 phone. No images, no attachments, no link in email 1, a two-line
 signature. Subject lines lower case, three words or fewer, their problem
@@ -327,6 +337,11 @@ checks. Was: a draft offered investors a referral program on the product
 and framed the portfolio angle as "see the real picture for free"; the
 owner cut the referral and rewrote the angle as raising the odds of the
 companies already in their portfolio.
+How the product works inside is for the meeting: the message to an
+investor carries the problem their companies have, what it costs them and
+what changes, in plain words. Was: a first message listed the training,
+quests and rating; the reviewer cut them - the investor needs the concept,
+the details come on the call.
 
 ## Step 4. The gate
 
@@ -343,7 +358,7 @@ Run it on every draft before anyone sees it. All rows must pass.
 | No long dash anywhere, no emoji, no exclamation mark | yes |
 | Reads aloud in the sender's voice in under 20 seconds | yes |
 | One template, several senders: no word in the first person that carries the sender's gender. In Ukrainian and Russian that is the past tense and the short adjectives - "I was glad", "I wrote" change with the writer's gender. Write "we" instead. Was: a line in the masculine went out from a woman's profile | yes |
-| Follow-up only: new angle, and one line restating who is writing | yes |
+| Follow-up only: new angle, one line restating who is writing, and no word pointing back at an earlier message | yes |
 | Grinfi only: variables checked against `list_ai_variables`, one sample rendered with `render_ai_template` | yes |
 | Every variable has its count from a sample of the real list and a fallback line where it is under 100%; every claim tied to a date is true for each lead, not on average (sequence-architect, "Before building") | yes |
 
@@ -423,6 +438,11 @@ Every text goes into `business/sequences/<segment>.md` under the sequence
 brief, versions side by side, numbered, with the anchor and the CTA under
 each. On a new niche, give a short version and a fuller one and let the
 user measure.
+
+Write every version out in full as its own message, never as a note
+saying which words to swap. Was: the private-investor versions were given
+as "replace X with Y" under the fund text, and the reviewer asked for them
+as separate messages so they are not lost when the flow is built.
 
 ## What not to do
 
