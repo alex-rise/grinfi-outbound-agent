@@ -14,7 +14,10 @@ several businesses and having the owners correct the drafts.
    read by every segment, including the ones next month's sequence will
    target. Corrected from: headlines built around the current sequence's
    angle ("we fix and update live apps"). The angle may appear as one
-   bullet in the About; it never leads the headline.
+   bullet in the About; it never leads the headline. This holds even when
+   every sequence for now goes to one audience, investors say: a profile
+   tuned to them reads oddly to everyone else, and the same profiles take
+   part in other outreach at the same time.
 2. **One Experience text for every profile.** The company description in
    the Experience section is identical on every sender profile, real or
    rented, however many there are; only the job title changes. Corrected
@@ -32,7 +35,14 @@ several businesses and having the owners correct the drafts.
    of uneven length with one plain phrase in each: "We do the whole thing,
    not just the coding. Discovery first, so the first release has a point.
    Then design, then the build itself." A contraction or two helps.
-5. **Grammar pass after every owner edit.** Owners edit in the document;
+5. **A category name borrowed from another market files the business
+   there.** Readers sort a headline by the label they already know.
+   Corrected from: a headline calling the business a "go-to-market
+   platform", which readers took for one more outreach sequencer, because
+   that is what tools sold under that label are. Rewritten into what
+   changes for the customer and, after the role, how it gets there in one
+   line.
+6. **Grammar pass after every owner edit.** Owners edit in the document;
    the next version re-reads every line they touched. Corrected from: a
    typo and a double space that went out in a headline after an edit.
 
@@ -41,7 +51,9 @@ several businesses and having the owners correct the drafts.
 `Role at Company | what the business does for whom | the difference or the
 proof`. Two or three parts, 220 characters at most. The role comes first:
 a senior title in the headline raised acceptance on one profile the same
-week it changed. No adjectives without proof next to them.
+week it changed. If the client's team already uses a set order (company
+first, role last), keep their order; what matters is that every part says
+something concrete. No adjectives without proof next to them.
 
 ## About
 
@@ -74,6 +86,7 @@ Up to 2,000 characters. The same text on every profile.
 |---|---|
 | Profile language matches the market | A profile whose primary language is not the lead's reads as foreign before a word is read |
 | No long dashes, no exclamation marks anywhere | The long dash is the loudest sign a machine wrote it |
+| A current role at the company, linked to its page | The shared Experience text has nowhere to go without it, and a sender whose only current role is freelance reads as an outsider. One sender had no role at the company at all |
 | No open parallel roles | A CEO still listed as a team lead elsewhere reads as an employee with a side business |
 | One location across the profile and the current role | Two countries on one page raise a question the lead will not ask, just close the tab |
 | Skills: the five that match what is sold, endorsed | The senders endorse each other's top five; three to five colleagues endorse the same |
