@@ -73,7 +73,9 @@ proof`. Two or three parts, 220 characters at most. The role comes first:
 a senior title in the headline raised acceptance on one profile the same
 week it changed. If the client's team already uses a set order (company
 first, role last), keep their order; what matters is that every part says
-something concrete. No adjectives without proof next to them.
+something concrete. Every sender's headline keeps the same structure; one cut short to look
+lighter reads as a fragment nobody understands. No adjectives without
+proof next to them.
 
 ## About
 
@@ -121,3 +123,9 @@ One document per client: the texts per profile, the shared Experience
 text, the fix list beyond the text, and the recommendation drafts. The
 owner edits in the document; the next version starts from their edits,
 not from the previous draft.
+
+The version that goes to the client for approval is a separate, clean
+document in the client's folder: headings and the texts, nothing else. No
+character counts, notes, questions, change lists or text set in boxes.
+Corrected from: a final version that still carried our explanations and
+boxed text, which the owner had to strip before the client could see it.
