@@ -179,6 +179,18 @@ the bottom ones by percent.
    or sits in a live flow, and with the current title read live right
    before each removal: titles in a CRM go stale, and a trainee from
    years ago may own a company now.
+   Read invites a day per sender over the last week, never only the
+   totals. A sender whose invites drop to zero while its queue is full,
+   with no failed task anywhere, has hit LinkedIn's weekly invitation
+   limit: nothing errors, the queue just stops. In Grinfi the LinkedIn
+   account record carries the last time it happened
+   (`last_connection_weekly_limit_at`). Before: two rented profiles, one
+   and two months old, were set to 20 a day like the warmed ones; in
+   their fourth week both went silent with hundreds of people queued,
+   and the workspace totals looked healthy because the other senders
+   kept sending. The fix is the new-profile pace, 5 to 7 a day growing
+   over a month, and the stuck queue moved to the warmed senders, each
+   change with its own yes.
 5. **Segmentation.** One sequence for every country, title and size band;
    no tags; no numbers per segment.
 6. **Replies.** Who answers, how fast (hot within the hour, warm the same
