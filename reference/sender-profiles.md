@@ -39,10 +39,30 @@ several businesses and having the owners correct the drafts.
    there.** Readers sort a headline by the label they already know.
    Corrected from: a headline calling the business a "go-to-market
    platform", which readers took for one more outreach sequencer, because
-   that is what tools sold under that label are. Rewritten into what
-   changes for the customer and, after the role, how it gets there in one
-   line.
-6. **Grammar pass after every owner edit.** Owners edit in the document;
+   that is what tools sold under that label are. The first rewrite, a
+   growth promise ("turn followers into active users"), read like ad copy.
+   What held: what the customer's raw material becomes (an audience, a
+   data set, a process turned into something they can manage) and what
+   that makes predictable, then after the role one line on how.
+6. **The product the outreach is about leads; a side line stays a
+   paragraph.** A line of business the client mentions once, even one that
+   brings most of today's revenue, never enters the shared company text
+   and never leads a list. It appears only on the profile of the person
+   who runs it, after the main product. Corrected from: a side service put
+   first in the company text, so a reader who came for the core technology
+   found nothing about it.
+7. **List what the product does by value to the reader, not in the order
+   of the user's path.** The core feature comes first and gets the most
+   detail, taken from how the founder explains it on the call (the tiers,
+   what puts a person in each, what the business does with each tier).
+   Corrected from: the core feature last in the list, because it is the
+   last step of the user's path, and described in one line.
+8. **Say what a person gets, not what the feature is called.** "Member
+   profiles: one profile per person" reads like documentation. Also out of
+   the company text: a list of client types (it states the obvious and
+   tells every other segment this is not for them), and early counts that
+   are small and change every week (beta users); describe the idea instead.
+9. **Grammar pass after every owner edit.** Owners edit in the document;
    the next version re-reads every line they touched. Corrected from: a
    typo and a double space that went out in a headline after an edit.
 
