@@ -143,6 +143,21 @@ service the buyers cannot name yet (being recommended by AI assistants)
 had zero requests: sell it with a check in the first message, not by
 listening.
 
+A post that names what you sell can still come from the wrong buyer.
+Measured for an outsourced-sales offer to IT service companies: "looking
+for a sales partner" returned 13 posts in 30 days on Reddit and X, nearly
+all tiny agencies and freelancers wanting a commission-only closer - people
+who will not pay a monthly fee. A first sales job ad was weaker still:
+every competitor sees it. The pain sat elsewhere: outsourcing companies
+post their bench, the developers sitting between projects, listed by
+stack, in outstaff chats - 137 such posts in two weeks in three Telegram
+chats. A company with an idle bench pays salaries without revenue and
+needs clients this month. Was: a ping named "founders looking for a sales
+partner" as the reason to talk. Now: probe the signal before it goes into
+a message, read who posts it, and for anyone selling clients or sales to
+IT outsourcers start from the bench posts, dropping the markets you do not
+serve.
+
 ## What cannot be verified
 
 Funding rounds outside the companies a public database covers, headcount
