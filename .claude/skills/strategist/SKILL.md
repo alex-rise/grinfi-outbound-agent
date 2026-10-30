@@ -318,6 +318,18 @@ Persona switching inside one sequence is never a step: a person first
 contacted at step 4 receives a fourth touch as a first message. With one
 contact per company you cannot tell "wrong person" from "wrong company".
 
+**At a large company the top person and the owner of the function both
+go in, never one instead of the other.** Was: a month of cold outreach on
+a fact about each company's customer app went to founders and chief
+executives everywhere; the only positive replies were two heads of large
+companies forwarding the message to their head of digital, and two more
+people answered that the app was not theirs. The audit proposed writing
+to the head of digital instead of the chief executive; the person we work
+for answered: write to both, whoever does not answer the other one will,
+up to three or four people per company. Now: above about a hundred
+people, the head of the function the offer touches sits beside the top
+person on the list.
+
 ## Step 8. Where the list comes from
 
 Grinfi does not search LinkedIn by itself: the audience is gathered from
