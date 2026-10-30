@@ -197,6 +197,21 @@ building such lists:
   With fewer than 30 ratings in that country, leave the number out.
 - **Keep the app's store id and storefront with the lead.** Without them
   a later re-check means finding every app in the store again by name.
+- **Keep the domain the person was matched by, and check it before the
+  letter.** A list of companies is matched to people through company pages,
+  and a company in someone's profile can share the name and not be the
+  listed one. Was: a listed cinema chain matched three founders of a
+  same-named video platform; their letter would have been about the
+  cinema's app. Now: the lead carries the listed domain, the app's seller
+  site must be that domain (or the seller name that company's), and a
+  mismatch leaves the person out.
+- **The app name in a letter is the brand people say, not the store title.**
+  Store titles carry taglines and keywords. Cut after " - ", " | ", ": "
+  or ", ", drop words like "Official", "App" or a local "New", and write the
+  brand the way the company writes it on its site. Was: listing titles such
+  as "<brand> Isle of Wight Ferry" or "<brand> Billetes tren y AVE" were one
+  step from going into "I noticed {{app}} is at 2.8"; now every app name is
+  read in the rendered first message before the list goes in.
 - **About a third of what passes a store filter is a buyer.** The rest are
   big brands, publishers from other regions, apps with no business behind
   them and public bodies. Plan the list size from the judged share, not
