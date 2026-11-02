@@ -214,6 +214,14 @@ audit, a product to a demo or a trial. A booking link beats "when suits
 you?" and takes "if relevant" in front of it. An article link goes last
 in the sequence, never first.
 
+**Content is the reason, not the ask.** A message that delivers something
+- a recording of your webinar, a report, an article - to people who
+showed interest still ends with the one business ask, behind "if
+relevant". Was: a recording sent to everyone who signed up for a
+LinkedIn event carried only the video link, and the owner sent it back:
+the people warmest to the topic got nothing to act on. Now: the link is
+the reason to write, the booking link for the audit or call closes it.
+
 **When what is sold is a check, the check writes line one.** An audit,
 a scan, a test of something public about the reader: run a slice of it
 on each company before the first message and open with the one finding,
