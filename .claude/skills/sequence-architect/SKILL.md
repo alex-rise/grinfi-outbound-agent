@@ -209,10 +209,16 @@ has several: an old cancelled one and a new paying one under another
 address, or a colleague whose company pays now. Matching only by email
 misses both. Before the first letter, drop everyone whose full name
 matches a current payer, and everyone whose work domain belongs to a
-company that pays now (free mail domains excluded). Was: a "what stopped
-you from continuing?" letter reached a customer paying on a second
-address, who answered that he still uses the product; the check by name
-and domain then found 29 more such people in a list of about 600.
+company that pays now (free mail domains excluded). A letter that says
+"you never chose a plan" needs more: the company must never have paid on
+any account, now or before. Was: a "what stopped you from continuing?"
+letter reached a customer paying on a second address, who answered that
+he still uses the product; the check by name and domain then found 29
+more such people in a list of about 600. The same day a "you never chose
+a plan" letter reached a member of a trial team whose colleague had paid
+on another account months earlier; she answered that they had chosen a
+plan, and checking against every company that ever paid dropped 26 more.
+Partners are checked by domain too: they get none of it.
 
 ## Before building: every variable, filled on a sample
 
