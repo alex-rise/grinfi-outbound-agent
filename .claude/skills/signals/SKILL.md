@@ -124,6 +124,24 @@ to extend, and "we do not have your language yet, send me the chats your
 customers sit in and it is in by Monday" turns a refusal into an appointment.
 Decide which of the two you are looking at before you write a word.
 
+**A "show me last week's posts" for a consultant needs three searches, not
+one.** Was: the probe ran a handful of exact ask-phrases ("looking for a
+fractional CMO") over seven days on a few subreddits, found nobody, and the
+zero became the message - read by the person we work for as "no pain, no
+signal, this will not sell". Measured on four consultants' niches (fractional
+marketing and sales leadership, AI governance, network connectivity) over
+thirty days: asks in several wordings and two languages, plus the buyer's
+pain in the buyer's own words on Reddit and the niche forums, found one to
+three real buyers per niche a month - a manufacturer asking for someone to
+run B2B marketing, a company that had just opened a site abroad asking how to
+connect it - while LinkedIn hits on the same words were almost all sellers.
+Now: run the asks, run the pain, and check one structural signal on data - an
+account search for companies with at most one person in the function the
+consultant replaces (zero is not accepted by the filter; one is). The reply
+quotes a real buyer post where one exists, names the structural signal as the
+list, and the person we work for sees the queries and the counts before the
+draft goes.
+
 ### Words for a Telegrin campaign
 
 - **Take the words from real leads, not from the product.** Read the posts
