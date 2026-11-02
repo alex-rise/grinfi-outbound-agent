@@ -107,6 +107,14 @@ team, one copy skeleton:
    is a fork the user can walk into, and it ends in content marketing.
    Say you start from the portrait; bring the comparison when they ask
    for it, or when the answers show they already post.
+6. When the business already has paying customers, the portrait starts
+   from them, read by account, not by mailbox. Two traps found on a real
+   base of 136 paying accounts: the payer address is often `billing@` or
+   `accounting@`, so the buyer is the account owner, not the payer; and
+   one company can hold several accounts, one per sales unit. Several
+   accounts of one company means the product spreads inside it - the
+   other units of companies that already pay are a warm segment of their
+   own, before any cold one.
 
 ## Step 2. The picker, when the user does not know who to reach first
 
