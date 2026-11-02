@@ -172,6 +172,14 @@ brisk while writing and abrupt while reading, and at scale it is the
 cheapest tell that a sequence wrote it. The only messages that skip a
 greeting are replies inside a conversation already going today.
 
+**A win-back to someone gone for months says who you are first.** After
+the greeting, one line: the company and what it does for them, then what
+happened between you, then the new reason to come back. Was: a letter to
+people whose payment had failed a year earlier opened straight on "your
+payment did not go through", and the owner asked whether they even
+remembered who we were. A customer who left last week does not need the
+line; one who left last spring does.
+
 ## Step 3. Write it
 
 **Connection request.** With a note or without comes out about the same
