@@ -202,6 +202,18 @@ lower. Rotation is not the first fallback. Email is.
 - **Silent after the last step:** close, re-queue after 60 to 90 days when
   a new signal appears (new job, new post, new round).
 
+## Before a win-back: match against current customers by person, not by email
+
+A list of people who "left" is built from accounts, and one human often
+has several: an old cancelled one and a new paying one under another
+address, or a colleague whose company pays now. Matching only by email
+misses both. Before the first letter, drop everyone whose full name
+matches a current payer, and everyone whose work domain belongs to a
+company that pays now (free mail domains excluded). Was: a "what stopped
+you from continuing?" letter reached a customer paying on a second
+address, who answered that he still uses the product; the check by name
+and domain then found 29 more such people in a list of about 600.
+
 ## Before building: every variable, filled on a sample
 
 A template promises that every lead has the facts it names. Check the
