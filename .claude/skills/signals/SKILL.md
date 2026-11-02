@@ -142,6 +142,18 @@ quotes a real buyer post where one exists, names the structural signal as the
 list, and the person we work for sees the queries and the counts before the
 draft goes.
 
+**A recruiting or staffing business is a vacancies campaign, not a posts
+campaign.** Was: a guide for an IT recruiting agency put its weight on posts
+where founders ask for a recruiter or complain they cannot hire. Re-checked a
+month later on thirty days of LinkedIn, X and Reddit: every LinkedIn hit was a
+recruiter advertising or a candidate looking for work. The vacancies on the
+same market gave more than 150 new IT roles in one week for three titles in
+three countries. Now: for anyone who sells hiring (agencies, outstaffing,
+screening software), the signal is the open role itself - many roles at once,
+or one open for months - and the person to reach is whoever owns hiring at
+that company. A guide already sent that leaned on posts is corrected in the
+next message, plainly.
+
 ### Words for a Telegrin campaign
 
 - **Take the words from real leads, not from the product.** Read the posts
