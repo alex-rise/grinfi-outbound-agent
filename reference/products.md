@@ -177,23 +177,21 @@ only on Telegram and Threads.
 
 **On every channel but Telegram the keyword IS the search query** - the
 platform's own search runs it, and only then does Telegrin's match apply.
-Two consequences for keyword lists in inflected languages (Ukrainian,
-Russian, Polish...):
+What that means for keyword lists in inflected languages (Ukrainian,
+Russian, Polish...), as measured on Threads:
 
-- A word form finds only itself, and a truncated stem finds nothing. A
-  person asking for a specialist puts the noun in the object case
-  ("looking for" + accusative), so the dictionary form misses exactly
-  the people who ask. Write the form they type when they ask. On Telegram
-  a stem works, because there Telegrin reads every message itself;
-  carrying that habit to Threads silently empties the keyword.
-- A multi-word keyword is searched as a phrase, words side by side: "need
-  a specialist" misses "need an experienced specialist". Cover the asking
-  form with a single word where that form alone is specific enough (the
-  object-case noun usually is - sellers write about themselves in the
-  dictionary form).
-
-Was: a campaign's best Threads keywords were cut to the dictionary form,
-and cards from them went from several a day to none for two weeks.
+- A truncated stem finds nothing. On Telegram a stem works, because there
+  Telegrin reads every message itself; carried over to Threads it silently
+  empties the keyword.
+- Other forms of a word are found unreliably - sometimes yes, sometimes
+  no. A person asking for a specialist puts the noun in the object case
+  ("looking for" + accusative), so list that form next to the dictionary
+  one instead of replacing it.
+- The platform's search returns a small sample per query (tens of posts),
+  not every post that contains the words. Some matching posts are never
+  returned by any wording, so a missed post is not proof that the keyword
+  list is wrong - check what the search returns for that post before
+  rewriting the list.
 
 ### How it works
 
