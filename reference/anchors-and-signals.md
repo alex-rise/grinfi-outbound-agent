@@ -158,6 +158,18 @@ a message, read who posts it, and for anyone selling clients or sales to
 IT outsourcers start from the bench posts, dropping the markets you do not
 serve.
 
+## A new head of the buying function as a source
+
+When a company gets a new head of the function that buys what the seller sells (a new CTO for a development studio, a new head of marketing for an agency, a new head of procurement for a manufacturer), that person usually reviews vendors in their first months. The start date is on the profile, so it is a dated event (anchor A), and unlike public requests it exists in volume in almost every niche.
+
+- Count and pull it with Sales Navigator by current title plus "years in current position: under 1", not by the "changed jobs in the past 90 days" facet. That facet matches a change in ANY position the person holds, so a sample from it showed people 20-75 months into their current role. Was: the 90-day facet used for a count; is: title + tenure under a year, checked by reading `months_in_position` on a 25-row sample.
+- Read the sample before quoting a number: a loose industry filter can leave half the rows in the wrong field.
+- Under a year is not "just now". In the text say "recently", and open on the role ("Congrats on the role. The first months usually go into reviewing vendors..."), not on a date you cannot back.
+
+### Do not put a market-wide count in a follow-up
+
+Was: message 2 said "this month there are N of them in Europe and the US". Is: no number in the cold sequence. A count for a whole region says nothing about the reader's own market, and a niche you cannot count makes the line read "zero". Name the signals instead, one event that exists in volume and one request, and offer to count their market when they answer.
+
 ## What cannot be verified
 
 Funding rounds outside the companies a public database covers, headcount
