@@ -165,6 +165,23 @@ next message, plainly.
   three-letter role abbreviation caught the inside of a price. A phrase
   with a two-letter word ("Linked in") matches every post that has that
   word anywhere: 45 checks, 1 lead.
+- **A product or brand name as a keyword catches its namesakes.** Was: the
+  tools the business integrates went in as bare words. Measured on one
+  probe: a CRM brand caught 47 of 47 LinkedIn posts about a phone hacking
+  kit with a similar name, and an office-suite name caught 1,171 of 1,209
+  Telegram posts from one account-reselling spam chat. Now: before a brand
+  goes in, read ten of its hits; keep it only paired with a word of the
+  niche ("<brand> crm", "<brand> or"), or drop it.
+- **When the business sells the setup of a tool, the setup words are the
+  sellers' words.** Was: "setup CRM", "implement CRM", "need a CRM" for an
+  integrator. Measured on 18 days of a national Telegram catalogue: 2,056
+  hits, almost all vacancies and freelancers advertising the same service;
+  five real asks in the end. The asks were questions between peers: "which
+  CRM to choose", "what CRM do you use, looking for a backup", "recommend a
+  CRM, not Monday or Notion". Now: words of choosing and comparing, typed as
+  people type them (the tool spelled in Cyrillic too), in the chats where
+  owners of small shops and agencies talk, and say the expected volume
+  plainly - a few a week, not a stream.
 - **A keyword hit puts a request on screen even when the judge says the
   topic is not yours.** The product treats "your word plus somebody wanting
   something" as "not sure, decide yourself". One loose phrase therefore
