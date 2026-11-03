@@ -340,6 +340,18 @@ can say "yes to all" or fix one line. Take the proposals from
 3. **The grey zone** - one rule for half-matches. "A creative agency whose
    page also offers marketing services: take. A page with no services for
    clients: leave out."
+
+   **Read the approved messages before the grey zone, never after.** Any
+   claim a message makes about the reader ("I see your fund invests in
+   X", "you back startups in Y") becomes a hard condition of the list,
+   and the grey zone cannot take anyone that claim would be untrue about.
+   A segment the sequence has no variant for stays out of the order until
+   it gets one. Was: a list plan for investors let in generalist funds
+   and angels with no stated sector "if early-stage", and added
+   ecosystem and grant leads with no portfolio, while the approved first
+   message told every fund it invests in the sector and asked about its
+   portfolio. Now: the sector must be stated on the fund or the profile,
+   and roles without a portfolio wait for their own version.
 4. **Company facts** - size as numbers from-to, founded no later than
    (only if the user named a year; propose none), countries, industries,
    product or services or any. Take industry names from `find_industries`
