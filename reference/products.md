@@ -175,6 +175,26 @@ Only Telegram needs the user's own account for the search; every other
 channel is searched on Telegrin's side. Replies leave without a person
 only on Telegram and Threads.
 
+**On every channel but Telegram the keyword IS the search query** - the
+platform's own search runs it, and only then does Telegrin's match apply.
+Two consequences for keyword lists in inflected languages (Ukrainian,
+Russian, Polish...):
+
+- A word form finds only itself, and a truncated stem finds nothing. A
+  person asking for a specialist puts the noun in the object case
+  ("looking for" + accusative), so the dictionary form misses exactly
+  the people who ask. Write the form they type when they ask. On Telegram
+  a stem works, because there Telegrin reads every message itself;
+  carrying that habit to Threads silently empties the keyword.
+- A multi-word keyword is searched as a phrase, words side by side: "need
+  a specialist" misses "need an experienced specialist". Cover the asking
+  form with a single word where that form alone is specific enough (the
+  object-case noun usually is - sellers write about themselves in the
+  dictionary form).
+
+Was: a campaign's best Threads keywords were cut to the dictionary form,
+and cards from them went from several a day to none for two weeks.
+
 ### How it works
 
 1. **Sign up, trial.** About a thousand credits, no card, no end date.
