@@ -267,6 +267,20 @@ this company sell to businesses" is read in full before it goes out, and
 the people turned away are moved where the next wave cannot pick them
 again, so nobody reads them twice.
 
+**A filter of title words also turns buyers away, and a headline is not
+the title at this company.** Was: a role check matched the words of its
+title list literally and rejected a head of group IT, a head of commercial
+and CRM at a restaurant chain, senior vice presidents and a directeur
+général - about one rejection in three on one wave was a buyer. A live
+people search then classed people by their headline, and about one pick in
+three was someone whose headline named their own consultancy or another
+employer while the network still listed them at the company. Now: class
+titles by meaning in the company's own language (the head of a function,
+the local words for managing director, IT and marketing), read the
+rejected titles by eye before a wave goes, and take the title from the
+person's position at this company in the live profile, never from the
+headline.
+
 ## Step 7. Capacity and channel
 
 Calculate capacity before choosing the segment. Every percentage
