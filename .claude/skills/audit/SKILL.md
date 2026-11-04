@@ -161,6 +161,14 @@ the bottom ones by percent.
    messages and 126 replies they booked three audits and no demo. Read
    which call each step asks for before reading the reply rate, and when
    the user says "plenty of audits, few product calls", look there first.
+   **The sender's profile says what the messages say.** Read the
+   profile itself, not only the texts they sent, and put every proof
+   line side by side: delivery time, case count, team size, offices.
+   Was: an audit took the texts at their word, and the messages
+   promised a first app in about three weeks while the profile the
+   reader opens after accepting said about five, with a different list
+   of offices too. A reader who meets two numbers believes neither.
+   Now: one true figure everywhere, fixed before any copy changes.
 3. **Sequence length against its source.** Read what each step actually
    returned before proposing to cut it: our zero on messages 4 and 5 is
    one team's measurement, and other cold flows keep earning a few
