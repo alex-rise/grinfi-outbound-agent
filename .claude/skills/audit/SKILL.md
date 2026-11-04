@@ -310,6 +310,15 @@ and site, nothing from the inbox - then `escalate_request`, reason
 `other`, the audit in the ask. Say only what the tool returns; the answer
 comes back through `get_case`. On a no, or on silence, never repeat it.
 
+**A written audit the client reads is a to-do list, not a report.**
+Page one is the ranked list of changes: what to do, why, when. Then one
+change per page: their own text as it is now, the rewritten text beside
+it, and three or four short lines on what changed. What already works
+goes into one short "keep as is" block. Was: an audit laid out by topic,
+each section a grid of advice cards; the person we work for opened it
+and could not tell what to do first. A finding without a before and an
+after is commentary.
+
 The full audit - every check, the numbers behind every finding, what each
 costs them, the hand path, the assumptions - goes into
 `business/audit-<date>.md` so the next audit can compare. Every past
