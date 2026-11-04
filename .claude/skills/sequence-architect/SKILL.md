@@ -251,7 +251,13 @@ site, a public feed.
   already in the queue, and those had to be rewritten one by one. When a
   message names a date, write the rewrite day into the brief when the
   flow is built, and on that day change the template and every queued
-  message.
+  message. **A queued message holds its text twice: the template and the
+  copy already filled in for that lead, and the filled-in copy is the
+  one that goes out.** Before: a dated sentence was changed in the
+  template of every queued message, the check read the template back and
+  passed, and the expired date still went out to a dozen people over the
+  next three days. Now: change both copies and check the one that is
+  sent.
 - **Read reviews and posts in the language they were written in.** A
   local brand's complaints are in the local language; an English-only
   read of the same apps found almost none of them.
