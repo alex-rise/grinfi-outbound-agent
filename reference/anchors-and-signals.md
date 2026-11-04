@@ -214,6 +214,13 @@ building such lists:
   tied to a product that was withdrawn, stale on purpose. Gate such a list
   on a live site and a company page with ten or more people before buying
   anyone, and leave the deliberately parked apps out.
+- **Re-read the update date in the store before buying people.** A store
+  database is a snapshot, and between the snapshot and the list an app gets
+  updated: "not updated for two years" is then false, and the people were
+  paid for. Was: of 205 companies that had passed every other check, 29 had
+  shipped an update since the snapshot. Now: re-read each app in the
+  company's home storefront right before the people are bought (the read is
+  free), and again on the day of sending.
 - **A rating belongs to one country - the recipient's.** Both stores show
   a different score in each country. The rating, the country and the
   comparison in the message come from the storefront of the company's own
