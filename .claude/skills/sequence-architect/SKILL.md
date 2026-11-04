@@ -258,6 +258,13 @@ site, a public feed.
   passed, and the expired date still went out to a dozen people over the
   next three days. Now: change both copies and check the one that is
   sent.
+- **A person also expires while the queue waits.** Weeks pass between
+  building a list and the invite, and people change jobs in between.
+  Before: half of one week's replies were "I don't work there anymore",
+  from people invited weeks earlier. Now: re-read the profile of everyone
+  still waiting for an invite and take off those who left. A company that
+  renamed itself looks like a departure, so read the flagged ones by eye
+  first: on one queue a quarter of the flagged were still there.
 - **Read reviews and posts in the language they were written in.** A
   local brand's complaints are in the local language; an English-only
   read of the same apps found almost none of them.

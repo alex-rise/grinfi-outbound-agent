@@ -196,6 +196,24 @@ building such lists:
 - **Without a size floor, "not updated for months" is mostly apps nobody
   uses.** On the App Store nine in ten such apps had fewer than 200
   ratings, the level of about 10,000 downloads.
+- **"Only in one store" is almost never a company.** A business with its
+  own customer app ships it on both stores. Was: a missing second platform
+  was planned as a segment, the two stores were matched by the developer's
+  website and gave thousands of candidates, and a live check of a random
+  sample found both apps at every one of seventeen real companies with ten
+  or more staff. The one-store apps were solo developers, hobby utilities
+  and foreign publishers, and a list built from top charts misses most of
+  a store, so absence from it proves nothing. Now: before a campaign stands
+  on a missing platform, check a sample in the store itself. What holds is
+  "much worse in one store than the other", and that is a line for the
+  message, not a new audience.
+- **An app nobody updates is a signal only where the business still runs.**
+  Of forty apps unchanged for one to three years, six belonged to live
+  companies of ten or more people; the rest were games, solo developers,
+  foreign publishers and public bodies, and some were legacy, seasonal or
+  tied to a product that was withdrawn, stale on purpose. Gate such a list
+  on a live site and a company page with ten or more people before buying
+  anyone, and leave the deliberately parked apps out.
 - **A rating belongs to one country - the recipient's.** Both stores show
   a different score in each country. The rating, the country and the
   comparison in the message come from the storefront of the company's own
