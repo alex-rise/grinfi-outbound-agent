@@ -290,6 +290,14 @@ site, a public feed.
   name in another alphabet goes into an English message transliterated
   (the brand's own Latin spelling, else a plain transliteration). Before:
   a Greek newspaper's app went into an English opener in Greek capitals.
+- **A possessive is a field of its own, never `{{company_name}}'s`.**
+  Before: an approved text said "projects in {{company_name}}'s
+  portfolio", and in a list of investment firms almost half the names
+  ended in "s" - "Ventures", "Partners", "Labs" - so the message would
+  have read "Upfront Ventures's portfolio". Now: compute the possessive
+  per record into its own field (`company_possessive`: "Onigiri Capital's",
+  "Upfront Ventures'") and point the template at it. Count the names
+  ending in "s" on the list before deciding it does not matter.
 - **A fact about a company is true for a person only if the person works
   there.** When people are matched to a company fact (its app, its
   rating, its vacancy) by company name, a shared word makes false
