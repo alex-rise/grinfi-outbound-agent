@@ -290,6 +290,15 @@ site, a public feed.
   name in another alphabet goes into an English message transliterated
   (the brand's own Latin spelling, else a plain transliteration). Before:
   a Greek newspaper's app went into an English opener in Greek capitals.
+- **The CRM's own company field is not the name you uploaded.** Grinfi
+  links each lead to a company page and rewrites `company_name` from it.
+  Before: a list of 2,496 investors went in with checked fund names, and
+  read back an hour later 270 of them (one in nine) had another name,
+  some only in case or a legal suffix, others a different company
+  altogether - the person's other job. Now: the checked name goes into
+  a custom field (`company_name_clean`) in the same upload, every
+  template points at it, and the list is read back once before the
+  flow starts.
 - **A possessive is a field of its own, never `{{company_name}}'s`.**
   Before: an approved text said "projects in {{company_name}}'s
   portfolio", and in a list of investment firms almost half the names
