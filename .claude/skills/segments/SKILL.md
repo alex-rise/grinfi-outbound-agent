@@ -203,6 +203,18 @@ These hold on every step of this skill.
     even when the judge says yes. Was: 11 of about 1,600 "owners" of
     Californian venues lived in Canada, the UK and Asia at same-name
     businesses.
+- **A popularity floor is not a check that the business is real.** When
+  the list is built on a signal about a product - an app, a site, a store
+  page - and a separate check of the business follows (its site answers,
+  its company page, its headcount, its country), a minimum of ratings or
+  installs only cuts the list, and it cuts the smaller real businesses
+  first, whose product has few users in any one country. Keep a floor only
+  where nothing else checks the business, and measure what it removes
+  before keeping it. Was: a store sweep kept only apps with 200+ ratings in
+  a country as the sign of real users, while the business check behind it
+  already removed solo developers and foreign sellers. With the floor
+  dropped, one country alone gave three times what all twenty-eight had
+  given with it, and the business check still cleared the noise.
 - **Write the user's correction down the moment it is made.** About this
   business, into that client's `rules.md`; about how outreach is done at
   all, into `business/house/rules.md`.
