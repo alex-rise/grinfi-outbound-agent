@@ -215,6 +215,17 @@ These hold on every step of this skill.
   already removed solo developers and foreign sellers. With the floor
   dropped, one country alone gave three times what all twenty-eight had
   given with it, and the business check still cleared the noise.
+- **Who owns the company is its own question.** When the portrait leaves
+  out subsidiaries of foreign groups, listed companies or state-owned ones,
+  a judge reading the whole portrait at once lets them through: it weighs
+  what the company does and how big it is, and the owner is one line among
+  many. Was: after the judge, 50 random companies were read by eye and 5
+  belonged to a foreign group, a listed parent or a state body. Now: ask
+  the model one question per company - independent, part of a group,
+  listed, state, or unknown, and whether it actually knows - and read every
+  answer other than "independent" by eye before the list goes out. A
+  company owned by an investment fund with no corporate parent above it
+  stays: it still buys for itself.
 - **Write the user's correction down the moment it is made.** About this
   business, into that client's `rules.md`; about how outreach is done at
   all, into `business/house/rules.md`.

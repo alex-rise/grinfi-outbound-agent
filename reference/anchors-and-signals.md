@@ -214,6 +214,27 @@ building such lists:
   tied to a product that was withdrawn, stale on purpose. Gate such a list
   on a live site and a company page with ten or more people before buying
   anyone, and leave the deliberately parked apps out.
+- **An abandoned app is a signal only where the publisher stopped
+  shipping altogether.** A company whose app has not changed in a year may
+  still ship other apps in the same store: a newer app under the same brand
+  that replaced it, the main app beside a parked side one, or other
+  products it keeps alive. To that company an opening about "your app has
+  not been updated" reads as if nobody looked, and an offer to bring the
+  app back is work its own team or vendor already does. Was: a list was
+  gated on a live business, a company page and a re-read update date, and
+  only then were the publisher's other apps read; 252 of 547 companies had
+  another app on the same account updated within the year, some of them a
+  direct successor ("X" replaced by "X NEXT", a banking token beside a
+  main app with a million installs). Whose those apps were split them: at
+  182 the company's own, at 70 the account was an agency or a white-label
+  platform publishing for many unrelated clients. Now: list every app of
+  the same publisher in that store before buying people - Apple's lookup
+  by developer id and the Google Play developer page, both free - and ask
+  whose the live ones are. The company's own live app sends it to a
+  separate list with its own opening, about a side app parked while the
+  main one lives. An app on a white-label platform goes there too: the
+  company has no code to migrate. An agency's account with other clients'
+  live apps stays in the list: the agency built this one and left it.
 - **Re-read the update date in the store before buying people.** A store
   database is a snapshot, and between the snapshot and the list an app gets
   updated: "not updated for two years" is then false, and the people were
