@@ -201,6 +201,21 @@ lower. Rotation is not the first fallback. Email is.
 - **Not accepted by day 14:** email track, else rotation.
 - **Silent after the last step:** close, re-queue after 60 to 90 days when
   a new signal appears (new job, new post, new round).
+- **Already talked to, on any account:** the first node of the flow is a
+  condition on the lead's history - "LinkedIn message sent" or "LinkedIn
+  message replied", with no sender in the condition - and a match goes
+  straight to the end. Without a sender line the condition reads the
+  history of every connected profile; add a sender only when you mean that
+  one profile. Was: a client asked that nobody they had ever written to
+  get a cold first message, from whichever profile. Checked before
+  building: in one workspace the condition with no sender matched more
+  leads than any single profile did, and a no-send test flow pinned to
+  one profile sent a lead who had only ever talked to another profile
+  down the "already talked to" branch. On a list just uploaded, one lead
+  in fifty already had such a conversation. The history exists only for
+  profiles that are connected and synced: do not add leads to the flow
+  until every profile in the pool is connected, or a conversation on the
+  missing one stays invisible.
 
 ## Before a win-back: match against current customers by person, not by email
 
