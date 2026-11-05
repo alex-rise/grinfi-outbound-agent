@@ -290,12 +290,21 @@ site, a public feed.
   from a people search is not a read of the profile, and neither is the
   CRM's enrichment. Read each live profile when the list is built. Read
   it again before every wave for everyone who has not had the first
-  message, including people invited but not yet accepted. Judge by the
-  newest position at that company, not by any position left open: one
-  profile kept two entries from years ago that were never closed, under
-  a headline that said open for a new position. A headline that says
-  open to work, fractional or advisor goes to a person's eyes before the
-  wave.
+  message, including people invited but not yet accepted. A person has
+  left when no position at that company is still open, when the newest
+  one there closed on the date a job elsewhere began, or when the
+  headline says open to work: one profile kept two entries from years
+  ago that were never closed, under a headline that said open for a new
+  position. Before (the next pass): "the newest position there is
+  closed" alone flagged people who were still there, about one flagged
+  in three. One role had ended while another at the same company stayed
+  open, a promotion had closed the old roles on one date, a move had
+  gone to the parent that owns the product. Now: a closed newest role
+  beside an open one at the same company, with no new employer, goes to
+  a person's eyes, and so does a company missing from the profile
+  altogether, which is also how a renamed company looks. A headline that
+  says fractional or advisor goes to the same eyes. Taking someone off a
+  running flow often cannot be undone, so the eyes come first.
 - **Read reviews and posts in the language they were written in.** A
   local brand's complaints are in the local language; an English-only
   read of the same apps found almost none of them.
