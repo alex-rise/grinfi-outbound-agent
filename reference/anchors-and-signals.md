@@ -303,6 +303,23 @@ checked before anyone is written to. Measured on one market's online shops:
   query, take the top 10 organic results and the domains the search
   engine's AI summary cites. Ranked but not cited is a checkable gap; the
   summary appeared even on brand queries.
+  Was: read the AI summary's sources only. Now: also ask a chat assistant
+  with web search the buyer's own question, set to the buyer's city ("I'm
+  looking for X in <city>, which clinics would you recommend?"). On 40
+  local-service and shop queries in three English-speaking markets the
+  summary's source list came back unreadable for 13 of 18, while the
+  assistant named only 23 of the 89 clinics that held the organic top 3.
+  Match a name both as a domain and with the spaces removed, or a clinic
+  named in words counts as missing.
+- **"Pays for the query, absent from its organic results" comes from the
+  live results page.** Was: confirm ads with a traffic-estimate database.
+  Now: one live search request returns the ads, the organic results and
+  the map pack together. On the same 40 queries, ads ran on 21; of 48
+  advertisers, 45 were not in the organic top 10 for the very query they
+  paid for, and the database showed paid traffic for 2 of the 48. The
+  first message names the query; ads differ between two runs, so date it.
+  For shops, text ads were mostly big brands; small shops sit in the
+  shopping units, so take sellers from there.
 - **Finding the owner is the weak step.** Mid-size online shops were rarely
   on LinkedIn: a name search found a real head for about 2 of 15, and the
   site named its legal entity for about 2 of 10. The register then gave
