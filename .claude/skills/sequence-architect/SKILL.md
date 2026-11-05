@@ -265,6 +265,22 @@ site, a public feed.
   still waiting for an invite and take off those who left. A company that
   renamed itself looks like a departure, so read the flagged ones by eye
   first: on one queue a quarter of the flagged were still there.
+- **A list can be out of date on the day it is built.** Before: the
+  re-read covered only the people waiting for an invite, and a month
+  later "I don't work there" was still among the commonest replies. Most
+  of those people had left months before the list was built. The people
+  search had returned them as current that same day. The CRM's
+  enrichment had reused a profile copy months old instead of reading the
+  profile again, and that copy already showed the end date. Now: a row
+  from a people search is not a read of the profile, and neither is the
+  CRM's enrichment. Read each live profile when the list is built. Read
+  it again before every wave for everyone who has not had the first
+  message, including people invited but not yet accepted. Judge by the
+  newest position at that company, not by any position left open: one
+  profile kept two entries from years ago that were never closed, under
+  a headline that said open for a new position. A headline that says
+  open to work, fractional or advisor goes to a person's eyes before the
+  wave.
 - **Read reviews and posts in the language they were written in.** A
   local brand's complaints are in the local language; an English-only
   read of the same apps found almost none of them.
