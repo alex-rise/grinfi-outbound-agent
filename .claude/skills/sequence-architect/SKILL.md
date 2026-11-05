@@ -404,6 +404,26 @@ on the same step (the builder's "Restart on this node"): the wait starts
 over and nothing is sent again. Restarting from the top sends the invite
 again.
 
+**Colleagues at one company: build the different senders and the offset
+into the flow, not into a calendar.** The strategist asks for two or three
+people per company from different senders, about five days apart. Give
+the flow one entry (contact source) per sender per wave: the first wave
+enters at the first step, later waves through a wait step (the "accepted"
+trigger with a 5, 10 or 15-day timer, ending there if they connect
+meanwhile) that leads into the same first step. Enroll each person through
+the entry of their sender and wave, and the whole list goes in on one day.
+Was: later waves were planned as uploads by hand on later days; a hand step
+planned for a later morning is the one that gets skipped, and a fix planned
+that way went out a day late with the old text already sent. Now: the flow
+holds the waves.
+
+**Collapse the same name at the same company before assigning senders.**
+People keep two or three LinkedIn accounts. On upload Grinfi merges them
+into one card and keeps the sender and wave of the first one, so part of
+the plan is lost without an error. Dedupe by name plus company first, keep
+the profile that shows the current position, and check enrollment on the
+flow's own record of each person (which entry, which status).
+
 Removing a sender from a flow does not stop its queued tasks; the tool
 asks what to do with them (keep, cancel, restart). Ask the user, never
 guess: "restart" sends the first step again to those people.

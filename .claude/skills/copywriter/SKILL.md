@@ -20,6 +20,15 @@ These hold on every step of this skill.
 - **Never invent a fact or a number.** Unknown means ask, or mark it
   unconfirmed. Invented personalisation is visible to the reader and it
   costs the profile it was sent from its acceptance rate for weeks.
+- **A platform's date goes into a message only after it is read on the
+  platform's own page, that day.** Store and network deadlines move, and
+  articles keep repeating the first announcement. Was: a deadline from the
+  business's own materials was taken out of a draft as doubtful on the
+  strength of three secondary pages; the platform had moved that deadline
+  twice, and its own page, updated the day before, carried exactly the
+  business's date. Now: open the platform's page first, note its "last
+  updated" line next to the claim, and change a business's own fact only
+  with that page in hand.
 - **Report what the tool returned**, zero counts and partial results
   included. A zero and a broken metric look identical: before reporting a
   figure, ask what would make it look like this if the business were fine
