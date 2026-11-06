@@ -444,18 +444,42 @@ on the same step (the builder's "Restart on this node"): the wait starts
 over and nothing is sent again. Restarting from the top sends the invite
 again.
 
-**Colleagues at one company: build the different senders and the offset
-into the flow, not into a calendar.** The strategist asks for two or three
-people per company from different senders, about five days apart. Give
-the flow one entry (contact source) per sender per wave: the first wave
-enters at the first step, later waves through a wait step (the "accepted"
-trigger with a 5, 10 or 15-day timer, ending there if they connect
-meanwhile) that leads into the same first step. Enroll each person through
-the entry of their sender and wave, and the whole list goes in on one day.
-Was: later waves were planned as uploads by hand on later days; a hand step
-planned for a later morning is the one that gets skipped, and a fix planned
-that way went out a day late with the old text already sent. Now: the flow
-holds the waves.
+**A flow the builder cannot draw is a flow nobody can check.** Build
+every flow through the API in the shape of a flow that already renders in
+the builder: one entry (contact source) and the steps in one chain. Before
+the yes, compare the saved version with such a flow - the number of
+entries, which step each entry points at, no step that exists only to
+wait - or have the user open it in the builder. Was: three campaigns were
+built with twenty entries each (five senders by four waves) and the later
+waves sent through the "accepted" trigger used as a 5, 10 or 15-day timer.
+The server ran them and invites went out, but the builder drew only the
+entries and no steps; the person we work for opened a running campaign,
+saw no steps at all, and could not tell what it was sending. Now: one
+shape, checked before the start.
+
+**Colleagues at one company: one entry and the coworkers limit, not
+entries per wave.** The strategist asks for two or three people per
+company, not all at once. Put every sender on the one entry (rotation
+spreads the people across them) and set the entry's coworkers limit to 1:
+the platform runs one person per company and holds the colleagues in
+"Waiting (Coworkers Limit)" until the one before them finishes - accepted
+and had the sequence, or withdrawn - and then starts the next by itself.
+Enroll in the order they should go, the first person of every company
+first. The spacing is the length of the sequence, not five days, and
+nothing is added by hand later. Was: waves planned as uploads by hand on
+later days, a hand step that gets skipped; then waves built as extra
+entries and wait steps, which the builder could not draw. Now: the
+platform's own setting holds the colleagues.
+
+**A person removed from a flow cannot come back into the same flow.** To
+restructure a running flow, build a new one and move people into it: stop
+the old one first so nothing goes out mid-move, move only the people who
+have not been invited yet (cancel from the old, check the cancel landed,
+then add to the new in the order they should go), and leave everyone
+already invited or further along to finish in the old one, renamed so
+nobody adds to it. Moving an invited person sends the invite again, and
+moving one who accepted can drop them at a check that ends
+already-connected people without a message.
 
 **Collapse the same name at the same company before assigning senders.**
 People keep two or three LinkedIn accounts. On upload Grinfi merges them
