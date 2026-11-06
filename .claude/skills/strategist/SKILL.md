@@ -334,8 +334,11 @@ cents, and a share that low ends the LinkedIn plan before any proposal -
 those buyers are reached where they ask for the service, by phone or in
 the chats of their trade.
 
-Two or three contacts per company, in parallel, offset by about five
-days, from different senders, each with an anchor for their own role.
+Two or three contacts per company, in parallel and at the same time (the
+senders' rotation spreads them), each with an anchor for their own role.
+Holding colleagues back to space them out costs weeks and bought nothing
+the person we work for could see; it is done only when asked for, and
+the sequence architect sets it before anyone goes in.
 Persona switching inside one sequence is never a step: a person first
 contacted at step 4 receives a fourth touch as a first message. With one
 contact per company you cannot tell "wrong person" from "wrong company".

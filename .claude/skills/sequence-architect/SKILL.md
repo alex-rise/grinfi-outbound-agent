@@ -457,19 +457,22 @@ entries and no steps; the person we work for opened a running campaign,
 saw no steps at all, and could not tell what it was sending. Now: one
 shape, checked before the start.
 
-**Colleagues at one company: one entry and the coworkers limit, not
-entries per wave.** The strategist asks for two or three people per
-company, not all at once. Put every sender on the one entry (rotation
-spreads the people across them) and set the entry's coworkers limit to 1:
-the platform runs one person per company and holds the colleagues in
-"Waiting (Coworkers Limit)" until the one before them finishes - accepted
-and had the sequence, or withdrawn - and then starts the next by itself.
-Enroll in the order they should go, the first person of every company
-first. The spacing is the length of the sequence, not five days, and
-nothing is added by hand later. Was: waves planned as uploads by hand on
-later days, a hand step that gets skipped; then waves built as extra
-entries and wait steps, which the builder could not draw. Now: the
-platform's own setting holds the colleagues.
+The builder's rule underneath: every step except the end has exactly one
+way in. Two entries, or an entry and a step, pointing at the same step
+make a graph the builder will not open.
+
+**Colleagues at one company go on the same one entry, all at once unless
+the user asks otherwise.** Rotation spreads them across the senders. If
+they must go one at a time, the entry's coworkers limit does it (1 = one
+person per company runs, the others wait in "Waiting (Coworkers Limit)"
+until that one finishes) - but decide it before anyone goes in. Removing
+or raising the limit later does not release the people already waiting;
+neither does stopping and starting the flow or continuing the lead, and
+only a new flow moves them. Was: colleagues held back, first by entries
+per wave, then by a coworkers limit of 1; the person we work for saw no
+reason to hold them ("let it go to several people at once"), and the 308
+already waiting had to be moved to a new flow. Now: all at once by
+default, a limit only when asked for, set at the start.
 
 **A person removed from a flow cannot come back into the same flow.** To
 restructure a running flow, build a new one and move people into it: stop
