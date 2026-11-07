@@ -158,6 +158,23 @@ a message, read who posts it, and for anyone selling clients or sales to
 IT outsourcers start from the bench posts, dropping the markets you do not
 serve.
 
+A freelance marketplace job looks like the cleanest public request there
+is, but the platform hides the client. Measured twice for development
+services: 300 mobile-development jobs in 30 days, read by AI for any name
+in the text. 45% held a clue, almost always the name of an app not yet
+built by a private person. 7 jobs led to a company that really was the
+client, and 5 to a decision maker on the job today, about 2%. The
+heavy-spending clients misled most: one large software company posted 18
+of the 55 "big" jobs as bounties from its open-source code. Matching an
+app name to a store listing, or a store package to a website, found
+namesakes in most cases, and the AI judge took the builder tool the app
+was made on for the client. Was: treat marketplace jobs as a list of
+buyers to reach outside the platform. Now: use them to pick which jobs
+to bid on inside the platform (spend, hire rate, number of applicants), and
+take the same need from sources where the author is visible: company job
+posts and public posts. Never name the marketplace in a message to someone
+found through it.
+
 ## A new head of the buying function as a source
 
 When a company gets a new head of the function that buys what the seller sells (a new CTO for a development studio, a new head of marketing for an agency, a new head of procurement for a manufacturer), that person usually reviews vendors in their first months. The start date is on the profile, so it is a dated event (anchor A), and unlike public requests it exists in volume in almost every niche.
