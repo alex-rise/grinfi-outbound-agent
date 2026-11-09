@@ -495,6 +495,20 @@ Removing a sender from a flow does not stop its queued tasks; the tool
 asks what to do with them (keep, cancel, restart). Ask the user, never
 guess: "restart" sends the first step again to those people.
 
+**When a sender is banned or slowed, move people by what already reached
+them, and size the queues by speed.** Was: a banned account was replaced
+by a new one under the same sender profile, and everything queued on the
+profile stayed there - the new account inherited the old daily limit, two
+hundred people not yet invited, and seventy-six invites that had vanished
+with the banned account and would only ever time out. Now: restart from
+the top on a named healthy sender only the people nothing has reached yet
+and the ones whose invite was sent by the lost account; leave everyone
+already connected where they are (a new account cannot message the old
+one's connections - say how many and let the user decide). Give each
+sender a share in proportion to its daily limit, counting a new or just
+limited account at five to seven a day, so every queue ends about the same
+day, and put colleagues on different senders where there is a choice.
+
 ## The sequence brief (handed to the copywriter)
 
 ```
