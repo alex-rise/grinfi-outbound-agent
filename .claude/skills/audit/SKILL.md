@@ -213,10 +213,18 @@ the bottom ones by percent.
 10. **Automated warming.** Auto-likes, profile views and follows inside
     the flows: they eat the daily limit of seats already at the ceiling
     and they lower acceptance.
-11. **Frozen queues.** On every stopped flow, read what sits in progress
+11. **Flows that end at the invite.** Read the steps of every live flow
+    before reading "left the campaign" as a drop-off. A flow with no
+    message after the invite shows its people as finished a few days
+    after the invite goes out, and whoever accepts hears nothing. Before:
+    an audit counted half of two new campaigns as "left within three
+    days, none failed"; both campaigns simply had no step after the
+    invite. Now: the fix is the missing messages, added before the
+    queued invites go out.
+12. **Frozen queues.** On every stopped flow, read what sits in progress
     on the invite node. A large old queue is dangerous: switching the
     flow back on sends all of it at once, across every profile.
-12. **Retiring old flows, in this order.** Archiving a Grinfi flow cancels
+13. **Retiring old flows, in this order.** Archiving a Grinfi flow cancels
     everyone still inside it, and a stopped flow keeps its people out of
     every new flow until it is archived. Before: one workspace kept two
     stopped flows that held 27,000 invites never sent and 795 people who
