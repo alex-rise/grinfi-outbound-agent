@@ -124,7 +124,13 @@ they operate.
 | "Send me some materials" | often a polite brush-off | "Happy to. So I send something relevant: is [specific pain] live for you now?" |
 | "How did you get my details?" | a boundary check | "LinkedIn, your profile is public." No over-explaining; if annoyed: "Understood, I won't reach out again." |
 | "Passed it on to marketing, they'll contact you if interested" | a polite no | not ICP, no reply |
+| "The role is filled, we found someone" (after you answered their job post) | the need is covered. Read what the thread offered first: if it was the very service they were hiring for, this is a no, not a misunderstanding | a small shop that one hire covers: no reply. A larger team: one line offering the tools to the new hire |
 | "Passed your contact to our manager, she'll reach out next month" | a hold with a date | reply with the booking link so the manager books herself; hold until then |
+
+Was: a "we found a specialist" reply to our done-for-you offer was read as
+a misunderstanding and a clarifying pitch was drafted; the thread showed we
+had offered exactly what she hired for, and the business was a small
+social-media shop. Now: read the offer before re-explaining it.
 
 The only real refusal is "don't contact me". It is executed immediately,
 across every account and campaign, on one shared stoplist.
