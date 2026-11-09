@@ -189,6 +189,21 @@ lists. One active request per person at a time; a different note on the
 retry; at most three attempts or the number of accounts, whichever is
 lower. Rotation is not the first fallback. Email is.
 
+**Which seat takes a new person is a setting of the flow's entry, not a
+script.** Grinfi offers three: an even spread across seats (`fair`), a
+seat with no prior contact with this person (`new_sender`), and a seat
+that already talked to them (`prior_engagement`). For a list where some
+people already know a seat, `new_sender` is the one to pick. Before: the
+plan was to pin each company to one seat by hand, with one entry per
+seat; the person we work for said the spread did not matter, only that a
+new seat came first, and the entry setting did that in one field.
+
+**People who already had a conversation with any seat leave the list
+before the flow, whether they answered or not.** Count them across every
+seat: Grinfi keeps one marker per seat on a contact, and reading only the
+first marker misses the seats behind it. Cross-check with a search on the
+message history, move them to their own list, and only then add the rest.
+
 ## Branches
 
 - **Any reply, any channel:** stop the sequence everywhere, hand to
