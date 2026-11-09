@@ -577,6 +577,18 @@ stayed in the base, so the next wave from the same list would have brought
 them back. Now: a company in the stoplist drops out of every flow and every
 future wave at once.
 
+**Say how many people per company the list holds; at one, recommend about
+three.** A company-level list built with one decision maker per company is
+handed over with that said in the delivery message, a recommendation of
+about three per company on average for outreach, and an offer to add them
+at the same companies or to collect new companies instead, whichever the
+user picks. Was: a competitor-users list went out with one person per
+company and nothing said about it; the person we work for asked for the
+count and the recommendation in the message itself, because one contact
+per company leaves the outreach exposed when that one person is silent or
+has left. Now: the people-per-company count and the offer to add more are
+part of every delivery of a company-level list.
+
 Without Grinfi, the request's CSV export has the same columns: hand it to
 the user.
 
