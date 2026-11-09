@@ -114,6 +114,20 @@ These hold on every step of this skill.
   list is handed over. Was: a list asked for founders, CEOs, CTOs and
   marketing heads; over a third of one batch was medical officers, heads
   of loans and security, finance chiefs and product owners.
+- **A sector in the day job is not proof of what the person does with
+  their money.** When the message says what the reader backs, buys or
+  invests in, the list needs evidence of that activity: a named deal, a
+  portfolio, a position at a company in the sector, their own words about
+  what they invest in. Working in the sector proves nothing, and a bare
+  "Angel Investor" line with no company proves only the word. Where the
+  profile is silent, search the open web by name (deal databases, angel
+  directories, press) before dropping the person; check the career
+  matches, because namesakes are common. Was: a list of angels for a
+  message that named their sector had one in five whose only link to the
+  sector was their employer - an engineering manager at a cloud company,
+  an advisor at an audit firm - and the reviewer saw it at once from the
+  company column. A web search confirmed about one in seven of those;
+  the rest were moved to a separate list before any sequence started.
 - **One person, one list; one company, one list.** When several lists go
   into the same workspace, whoever is already in one list stays out of
   the next. A second import updates the same lead and rewrites the
