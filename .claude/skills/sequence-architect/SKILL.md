@@ -428,6 +428,13 @@ candidate version until the first numbers.
    model and a working example; the flow endpoint alone ignores nodes.
 2. `create_flow` with the name, the schedule (time zone and time blocks)
    and the node tree. The flow is created as a draft: nothing sends.
+   Run the flow on the senders' own working hours (`use_sender_schedule`),
+   not on a window in the lead's time zone. Before: a flow sent only
+   9 to 17 in each lead's zone, its senders worked European hours and
+   most leads sat in America, so the two windows overlapped for one to
+   three hours a day and five senders sent fifteen invites in a day.
+   Switched to the senders' hours, the queued invites went out within
+   minutes. A flow already running takes the switch without a restart.
 3. Attach the audience (contact sources: the list from the strategist) and
    the senders (`manage_flow_senders`). Check each sender with
    `check_sender_status`; a sender with an expired cookie sends nothing.
