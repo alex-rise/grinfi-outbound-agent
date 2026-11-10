@@ -459,6 +459,16 @@ on the same step (the builder's "Restart on this node"): the wait starts
 over and nothing is sent again. Restarting from the top sends the invite
 again.
 
+A queued message also keeps its text already filled in: the variables were
+read from the contact when the task was made, so rewriting a contact's
+field reaches only messages created after it. Before: a rewrite of a
+message and of the field it quotes was about to go live, while some 400
+follow-ups already in the queue still carried the old text and the old
+field values. Now: after changing a step's text or a field it uses, count
+the tasks waiting on that step and rewrite their text in place, filling
+the variables the same way; that keeps their wait, where a restart would
+start it again.
+
 **A flow the builder cannot draw is a flow nobody can check.** Build
 every flow through the API in the shape of a flow that already renders in
 the builder: one entry (contact source) and the steps in one chain. Before
