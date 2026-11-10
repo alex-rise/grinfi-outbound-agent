@@ -191,6 +191,15 @@ These hold on every step of this skill.
     partnerships. Developers, CTOs, project and product owners, trainees
     and client service are not. Was: about a fifth of one directory's
     found people held those roles.
+  - When what is sold is a tool for outreach or sales, the people who run
+    outreach are buyers too, not only the owner: business development
+    managers, partnership managers, sales managers and team leads, heads
+    of marketing and growth, at any company size, three or four per
+    company. Was: a role judge that kept founders and heads only dropped
+    the business development managers of software service firms (the
+    people who buy and use the tool there, one seat per sales unit) and
+    a head of sales at any firm under fifty people; the owner read the
+    drops and sent the whole list back to be judged again.
   - A directory may serve automated readers only the pages it already
     holds in its own cache and refuse the rest. Narrower pages (by city, by
     sub-service) are often served and cover the same companies. Read
