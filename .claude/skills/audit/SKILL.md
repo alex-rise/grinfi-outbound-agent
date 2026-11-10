@@ -207,7 +207,17 @@ the bottom ones by percent.
 7. **The email track.** Non-acceptances going nowhere; the main domain
    used for cold email; no ramp-up, no suppression list.
 8. **Hygiene.** Customers, open threads and refusals missing from the
-   stoplist; two senders writing to the same person.
+   stoplist; two senders writing to the same person. Count people with
+   an invite from two seats, not only messages: a new flow that takes
+   people from the queue of an older one sends a second invite while the
+   first is still pending. Before: a new chain read 5 to 11% acceptance
+   and was about to be judged on its copy; most of its list had ignored
+   an invite from another seat a week earlier, about one in three of its
+   invites. Now: anyone with an open invite is kept out of a new flow's
+   entry, and the acceptance of a new chain is read only after that.
+   And when an older flow stops getting invites because a new one took
+   the capacity, read what the older one was returning first: the source
+   that stopped may be the one that sold.
 9. **Health.** Failed sends and their error text, expired cookies,
    restricted accounts. Grinfi only.
 10. **Automated warming.** Auto-likes, profile views and follows inside
