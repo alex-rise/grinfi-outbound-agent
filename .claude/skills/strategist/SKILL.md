@@ -115,6 +115,22 @@ team, one copy skeleton:
    accounts of one company means the product spreads inside it - the
    other units of companies that already pay are a warm segment of their
    own, before any cold one.
+7. "The topic" in the table is the buyer's topic, not the seller's craft.
+   The post engagers in it were buyers because our posts were about their
+   own job. Was: for a seller of app development, the plan was to take the
+   people who engage with posts about mobile development and to look for
+   requests in the comments. Measured on a month of posts: of 1,800
+   people who engaged with posts about frameworks, hiring developers and
+   "looking for an app developer", 62-68% were developers, 7-13% job
+   seekers and about 13% agencies; fewer than 2% could buy. Of 150 posts
+   "looking for an app developer", none came from a business that needed
+   an app: they were vacancies, freelancers and agencies. Of 1,346
+   comments, none asked for a team. Posts on the buyer's side of the same
+   subject (growing an app, store rules, a founder launching their app)
+   had about a quarter decision makers among engagers. Now: before a post
+   source goes into the plan, name whose job the posts are about and read
+   the titles of one post's engagers. Count only the decision makers.
+   Their need is still checked on the company, not taken from the like.
 
 ## Step 2. The picker, when the user does not know who to reach first
 
