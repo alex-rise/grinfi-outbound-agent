@@ -176,6 +176,21 @@ is behind it, reframe from a different angle, propose one small step.
   with their numbers. Was: on a call we said pay-per-lead exists nowhere;
   the buyer named an agency that had offered it, and the next question was
   "so what do we buy for the money?"
+- "Only on results, or a refund if the KPIs are missed", when what you
+  sell is software: say plainly what it is - the tools plus help getting
+  started - that the selling stays on their side, and that the price is
+  modest but it is a price, like any other software they pay for. Was: a
+  draft answered with nothing but "we do not work for results"; the person
+  we work for: we are software, we give the tools and help them start,
+  the sales are theirs.
+- "I got banned after connecting AI tools": agree that it happens, then
+  name the usual cause - those tools write poor messages, people report
+  them, and the platform reacts to the reports, not to automation as such.
+  Advise never handing the conversations over fully: keep reading and
+  fixing what goes out. Only then your own safety facts, and an option that
+  needs no account connected at all, if you have one. Was: a draft answered
+  with safety figures alone; the person we work for: the problem is not the
+  automation but how those services write.
 - "Are you a bot?": honest, in the sender's voice: the sending is
   automated and queued by the platform, the texts and the sequence were
   written by a person, here I am, happy to answer.
