@@ -248,6 +248,16 @@ date are public, and the angry reviews are the hottest. Posts on LinkedIn
 about the same pain were not: of 219 in a month, none came from a seller
 talking about their own problem - vendors and consultants write there.
 
+**A change of leader is read from profiles, not searched as posts.** A new
+CEO, CFO or head of a function shows up as a fresh start date on the
+person's own profile, and a people search that returns the start date finds
+it directly. People rarely post "I was appointed". Was: a lead had been
+promised companies that just changed their CEO or CFO; a two-week post
+search in the lead's language for "appointed CEO", "new CFO" found nothing,
+and the draft told the lead that almost nobody had announced such a change,
+as if the signal did not exist. Now: pull it from start dates, and never
+report an empty post search as the absence of the signal.
+
 ## Step 0. The guides, the workspace, the plan
 
 - `get_workspace` - name it in the first line. Everything below happens
