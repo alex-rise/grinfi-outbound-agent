@@ -265,16 +265,17 @@ fleet in one week:
   campaign, with only itself as the sender and only people outside its
   network.
 
-**A seat added to the team starts at the team's default limits, with the
-platform's warm-up switched off.** Was: two accounts connected on the same
-day went live at 20 invites and 20 to 30 messages a day, while the warm-up
-value the platform had computed for them stood at 2 and 6 invites; of the
-three accounts the same team had added in the month before, one was
-banned, one hit LinkedIn's weekly invitation limit and was replaced, one
-was swapped out after three days. Now: read the limit rows of a new seat
-before the first person is routed to it, and either switch the warm-up on
-or set five to seven invites a day by hand. The limit is the user's to
-change: say what it is, what you would set, and wait for a yes.
+**A seat new to the team is not always a new account: ask whether it came
+warmed before proposing to cut its limits.** Was: two seats connected on
+the same day went live at 20 invites a day with the platform's warm-up
+switched off, their profiles only weeks old by member number, on a team
+where three new accounts had dropped out in a month; read as fresh
+accounts, they were proposed a cut to six a day, and the user answered
+that both were rented accounts that came warmed and the limits were right.
+Now: read the limit rows of a new seat before people are routed to it;
+when the warm-up is off, ask in one line whether the account came warmed -
+rented seats usually do - and leave the limits alone on a yes. An account
+the client opened themselves starts at five to seven a day.
 
 ## 8. Multichannel attribution
 
