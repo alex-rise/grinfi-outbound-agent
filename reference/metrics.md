@@ -265,6 +265,17 @@ fleet in one week:
   campaign, with only itself as the sender and only people outside its
   network.
 
+**A seat added to the team starts at the team's default limits, with the
+platform's warm-up switched off.** Was: two accounts connected on the same
+day went live at 20 invites and 20 to 30 messages a day, while the warm-up
+value the platform had computed for them stood at 2 and 6 invites; of the
+three accounts the same team had added in the month before, one was
+banned, one hit LinkedIn's weekly invitation limit and was replaced, one
+was swapped out after three days. Now: read the limit rows of a new seat
+before the first person is routed to it, and either switch the warm-up on
+or set five to seven invites a day by hand. The limit is the user's to
+change: say what it is, what you would set, and wait for a yes.
+
 ## 8. Multichannel attribution
 
 Record two fields on every contact: channel of the first touch, channel of

@@ -541,6 +541,19 @@ sender a share in proportion to its daily limit, counting a new or just
 limited account at five to seven a day, so every queue ends about the same
 day, and put colleagues on different senders where there is a choice.
 
+**When the account behind a sender is swapped, restart only what reached
+people from the old account.** Was: on a seat whose account had just been
+swapped, a restart limited to work in progress missed a person who had
+accepted the old account's invite: the first message had failed with "not
+a 1st-degree connection", and the platform had marked the record failed,
+not waiting. Meanwhile the new account kept inviting from the same queue,
+five invites in the forty minutes the restart took to prepare. Now: count
+the old account's invites from the date the user names up to the moment
+the new account was connected, never after it; take failed records with
+no message sent together with the ones in progress; and put the step each
+person stood on into the restart filter, so whoever the new account
+reached in between is left alone.
+
 ## The sequence brief (handed to the copywriter)
 
 ```
