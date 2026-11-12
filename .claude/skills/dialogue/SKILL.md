@@ -233,15 +233,18 @@ the niche a promised guide was waiting on, and the draft acknowledged it and
 promised the guide for the next day; the person we work for: why wait and
 write an in-between message, look now.
 
-A sample built on your own guess about their market says so. When the lead
-answered "yes, show me" without telling you what they sell and to whom, the
-market and the signal you picked come from their profile and your opening
-template: present the result as one hypothesis out of many, then ask for
-their own description of what they sell and to whom inside the trial. Never
-end on "who else should I look for?" - it promises a second free search.
-Was: six samples were drafted as if they were the lead's real market, each
-ending on "who should we look for next?"; the person we work for asked how
-we decide whom to search at all, when nobody told us what they sell.
+**"Yes, show me" gets a question before any search.** When the lead says
+yes to "want me to show you how many of them are in your market?" without
+having told you what they sell and to whom, ask first: what is your
+strongest offer, and who do you usually sell it to - we will look at it and
+show you whom we can pull for you. Build the examples from that answer.
+Your opening template guessed the segment from their profile; a search
+built on that guess shows the lead your guess, not their market. Was: six
+"yes" answers got samples built from their headlines and the template's
+signal, each ending on "who should we look for next?"; the person we work
+for asked how we decide whom to search at all when nobody told us what they
+sell, and set the order: consent, the question about offer and buyers, our
+analysis, then the examples.
 
 If they decline a call: "Understood. Easier to keep going here in writing,
 or is there a format that works better?"
