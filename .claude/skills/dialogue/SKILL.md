@@ -233,6 +233,16 @@ the niche a promised guide was waiting on, and the draft acknowledged it and
 promised the guide for the next day; the person we work for: why wait and
 write an in-between message, look now.
 
+A sample built on your own guess about their market says so. When the lead
+answered "yes, show me" without telling you what they sell and to whom, the
+market and the signal you picked come from their profile and your opening
+template: present the result as one hypothesis out of many, then ask for
+their own description of what they sell and to whom inside the trial. Never
+end on "who else should I look for?" - it promises a second free search.
+Was: six samples were drafted as if they were the lead's real market, each
+ending on "who should we look for next?"; the person we work for asked how
+we decide whom to search at all, when nobody told us what they sell.
+
 If they decline a call: "Understood. Easier to keep going here in writing,
 or is there a format that works better?"
 
