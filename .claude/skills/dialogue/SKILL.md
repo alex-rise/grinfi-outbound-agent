@@ -235,9 +235,13 @@ write an in-between message, look now.
 
 **"Yes, show me" gets a question before any search.** When the lead says
 yes to "want me to show you how many of them are in your market?" without
-having told you what they sell and to whom, ask first: what is your
-strongest offer, and who do you usually sell it to - we will look at it and
-show you whom we can pull for you. Build the examples from that answer.
+having told you what they sell and to whom, ask first, in one message:
+"So we show you your clients rather than our guesses: what do clients most
+often come to you for, and who usually buys - which companies, who exactly,
+which countries? We'll take a look and show you whom we can pull." Do not
+ask for "your strongest offer" head-on: what clients most often come for
+is that offer in the words people answer without thinking. Build the
+examples from that answer.
 Your opening template guessed the segment from their profile; a search
 built on that guess shows the lead your guess, not their market. Was: six
 "yes" answers got samples built from their headlines and the template's
