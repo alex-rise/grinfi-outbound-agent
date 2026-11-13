@@ -207,8 +207,11 @@ These hold on every step of this skill.
     words reached further than the client meant - and the fits fell from
     about 500 to about 340 of 1,344. The same portrait with two plain lines
     (a head of engineering runs the team that builds the product; banks and
-    fintechs are buyers) kept 563, and a read of 45 verdicts found the
-    errors where they were before: a giant's staff let through now and then.
+    fintechs are buyers) kept 563. A read of 45 of its verdicts looked at
+    the roles and called the list about nine-tenths clean; reading every
+    row against the client's stop list and the company's own facts kept
+    193. A sample read checks what the list is filtered on - the owner, the
+    country, the app - not only the titles.
   - A directory may serve automated readers only the pages it already
     holds in its own cache and refuse the rest. Narrower pages (by city, by
     sub-service) are often served and cover the same companies. Read
@@ -257,7 +260,23 @@ These hold on every step of this skill.
   listed, state, or unknown, and whether it actually knows - and read every
   answer other than "independent" by eye before the list goes out. A
   company owned by an investment fund with no corporate parent above it
-  stays: it still buys for itself.
+  stays: it still buys for itself. Was, again: a judge given a portrait
+  that named listed companies and foreign groups' subsidiaries as excluded
+  still kept 162 of them among 561, about a third of the list.
+- **An app found by the company's name is not yet the company's app.**
+  When the list stands on "the company has its own app" and the app was
+  matched by name - a store search, a seller or developer whose name
+  contains the company's - check the owner before any text names the app:
+  the domain of the seller's or developer's website (an App Store lookup
+  returns it, a Google Play app page gives the developer's site and
+  e-mail) against the company's own website. A judge cannot catch this: it
+  sees the app's title, not its owner. Was: of 561 people the judge kept,
+  100 stood on someone else's app - a short name inside a longer one with
+  no word boundary, an acronym inside a grocery brand, namesakes in other
+  countries. The first line of the message names the app, so each of them
+  would have opened on a fact that is false. Now: the owner check is a step
+  of the list, and a row with no app proven to be the company's leaves the
+  list.
 - **Write the user's correction down the moment it is made.** About this
   business, into that client's `rules.md`; about how outreach is done at
   all, into `business/house/rules.md`.
