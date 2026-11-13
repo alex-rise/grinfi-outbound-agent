@@ -336,6 +336,22 @@ go to the person you work for, not into the recap.
 
 ## Rules from real inboxes
 
+**"You pay for what you receive" needs the second half of the sentence in
+the same message.** A buyer who is quoted a per-unit price asks what counts
+as a unit, and the honest answer has two parts: they pay for the rows, the
+companies, the meetings they actually receive, never a separate line for
+the work that was thrown away - and the price of one of those depends on
+what they asked to be on it. Each extra verified field is bought from
+somewhere: a confirmed work email costs more than a name, a confirmed phone
+number much more than an email. So name the price for their own
+specification before the work starts, and say nothing is charged until they
+have agreed to it. Was: a buyer asked whether credits were spent on the
+posts we read and the matches we rejected, and the draft answered that the
+rejects were "on us" - generous, and untrue the moment the next request
+needed phone numbers. The seller does pay for every check; it belongs
+inside the price of the delivered row, not in a promise that the hard
+requests will be free.
+
 **A price objection is answered with the alternative they are already
 paying for, in their own units.** Not "it is worth it" and not a
 discount: name what solving this another way costs them - the hire and
