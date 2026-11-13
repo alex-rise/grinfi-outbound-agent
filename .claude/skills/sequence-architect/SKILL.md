@@ -348,7 +348,14 @@ site, a public feed.
   the template at it; the original company field stays as it came. A name
   that cannot go into a message - a slur, a profanity, a placeholder like
   "Self-employed" or "Therapy Services" - gets a phrase that reads in every
-  sentence of the sequence ("your business"), never an empty value. Before:
+  sentence of the sequence ("your business"), never an empty value. After the cut,
+  flag the cleaned field by machine as well: a trademark sign, an emoji,
+  a second name in another alphabet, brackets, a subtitle after a colon
+  or a dash. Before: a cleaned list of about 1,900 funds still held 16
+  such names ("X Capital™", "X Capital" followed by its name in Chinese
+  characters, "X Kapital - " plus a runic spelling), and one went out in a
+  first message. A stylised brand that is the real name ("Y+ Ventures",
+  "super{set}") stays. Before:
   three templates pasted the raw company field and the October batch was
   one click from going out with "MARC MANI, M.D., INC." in the body. A
   name in another alphabet goes into an English message transliterated
