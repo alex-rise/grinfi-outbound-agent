@@ -200,6 +200,15 @@ These hold on every step of this skill.
     people who buy and use the tool there, one seat per sales unit) and
     a head of sales at any firm under fifty people; the owner read the
     drops and sent the whole list back to be judged again.
+  - A portrait written for people reads differently to a judge: name the
+    borderline roles and industries that ARE a fit, in so many words. Was:
+    a client's agreed portrait, pasted as it was, made the judge drop heads
+    of engineering as "engineers" and banks as "finance" - its exclusion
+    words reached further than the client meant - and the fits fell from
+    about 500 to about 340 of 1,344. The same portrait with two plain lines
+    (a head of engineering runs the team that builds the product; banks and
+    fintechs are buyers) kept 563, and a read of 45 verdicts found the
+    errors where they were before: a giant's staff let through now and then.
   - A directory may serve automated readers only the pages it already
     holds in its own cache and refuse the rest. Narrower pages (by city, by
     sub-service) are often served and cover the same companies. Read
