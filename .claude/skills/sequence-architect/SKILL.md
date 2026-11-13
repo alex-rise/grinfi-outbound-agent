@@ -231,6 +231,15 @@ message history, move them to their own list, and only then add the rest.
   profiles that are connected and synced: do not add leads to the flow
   until every profile in the pool is connected, or a conversation on the
   missing one stays invisible.
+- **A/B test of the opening:** one flow, the split node right after the
+  invite is accepted, and only the messages that differ live inside the
+  branches. Both branches then join one shared tail (the service offer,
+  the goodbye). Was: two copies of the identical last two messages, one
+  per branch; the person we work for redrew it in the editor - nothing
+  is learned from testing two copies of the same text, and one tail is
+  one place to edit. The split node's own counts give the comparison.
+  Same senders, same timing, same entry for both halves, or the test
+  measures the senders instead of the words.
 
 ## Before a win-back: match against current customers by person, not by email
 
