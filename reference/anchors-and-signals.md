@@ -38,6 +38,20 @@ spoke at a conference on your topic. They won a tender.
 **Tier 3.** Firmographic fit only. A track of its own, never a filler
 mixed into a signal campaign.
 
+### Reading a trade show
+
+The buyers of a show are on its speakers page, not in its feed. Was: the
+people posting "see you at the show" were read as its attendees; of 103
+posts that named a fintech show in the month before it, 48 came from
+company pages, and almost all, people included, from exhibitors and their
+staff - sellers. The organizer's speakers page listed 231 names with title
+and company, 66 of them heads of digital, channels or product at banks and
+founders of consumer fintechs. Now: take the speakers page first (it is
+usually plain HTML), then the startups among the exhibitors, and read the
+"going" posts only for attendees from buyer companies. A speaker slot is a
+fact with a date the first line can stand on, whether or not anyone from
+the seller attends.
+
 ## The hiring question
 
 Ask "who is being hired?" before calling a vacancy a signal. It is a
