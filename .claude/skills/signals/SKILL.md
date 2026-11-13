@@ -248,6 +248,22 @@ date are public, and the angry reviews are the hottest. Posts on LinkedIn
 about the same pain were not: of 219 in a month, none came from a seller
 talking about their own problem - vendors and consultants write there.
 
+**The incident a trade body publishes is a signal the networks never
+carry.** Where the buyer's trigger is something bad that happened to them -
+kit stolen, a licence pulled, a fine, a recall - the social networks are
+almost pure noise: one wire story syndicated across local outlets, plus
+anything whose words collide with the search. Measured over 30 days for a
+seller of asset tracking: 287 matches on the obvious phrases, and the real
+ones were a handful; a plant-care app had captured one of the phrases
+outright. The industry's own association, however, prints the incidents its
+members report, with the company named, the item and the date, in a public
+monthly bulletin - and nobody works that list. Before telling anyone the
+signal does not exist, look for the trade body, the regulator's register and
+the insurer's loss list in that field; local news and police appeals rarely
+name the victim company, which is why they read as empty. Was: a probe over
+three networks came back as noise and the draft was about to say posts were
+the only route.
+
 **A change of leader is read from profiles, not searched as posts.** A new
 CEO, CFO or head of a function shows up as a fresh start date on the
 person's own profile, and a people search that returns the start date finds
