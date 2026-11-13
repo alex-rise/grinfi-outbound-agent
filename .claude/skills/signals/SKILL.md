@@ -366,6 +366,16 @@ Numbered, in one message, each with a proposed answer from
   payment providers), the vendors' names are the keywords - the same niche
   rose to more than half of Reddit posts being buyers - and a generic word
   that also lives in another field is dropped, not stop-worded.
+- A place for job listings carries its country: "Dubai, United Arab
+  Emirates", "Calgary, Canada", never the bare city. Was: three probes of the
+  jobs channel came back with zero and nothing spent, and read as "nobody is
+  hiring there" - the places were bare cities, and a place without a country
+  is skipped, not searched (a misspelt country would search the whole
+  planet, so the product refuses it). Became: the same title in the same city
+  with the country found seven vacancies for under a tenth of a cent. A jobs
+  zero with nothing spent is a question about the places and the budget, not
+  an answer: the budget for job listings must cover at least one paid run,
+  or no paid board is asked at all.
 - The reply prompt on each channel carries the text rules of `CLAUDE.md` - no
   long dashes, no emojis in cold outreach, one call to action - and the facts of `business/profile.md`, nothing else, and is
   shown with the preview.
