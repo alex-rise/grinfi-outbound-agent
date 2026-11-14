@@ -383,6 +383,19 @@ done-for-you or consulting service - and that is where to point, with the
 one case closest to the lead's own niche. Never invent a case to fill the
 slot.
 
+**A request outside what you know how to do is declined by competence,
+not by judgement.** A buyer who lists five things they sell will sometimes
+name one or two you will not help with. The temptation is to explain why
+not, and that reads as a lecture to someone who was answering your own
+question. Say instead that you do not know that field well enough to
+advise what to collect there, and leave the product in their hands: they
+have it, the credits are theirs, and they can try what they like. Then go
+straight back to the line you can serve, with the next step on it. Was: a
+draft refused two of a buyer's service lines on moral grounds and
+explained at length what we do not do; the person we work for cut the
+whole passage to one line - we are a product, they can experiment, we
+simply cannot help there.
+
 **Never offer to set the product up for the lead.** Not "we will set it
 up together in fifteen minutes", not "write and I will collect it in your
 trial". A trial exists so they build their own thing. The offer instead
