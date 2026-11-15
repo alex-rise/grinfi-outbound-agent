@@ -88,7 +88,7 @@ check a draft against, not a template to fill.
 apologies, "hope you're well", emojis, metaphors, blame aimed at a
 current contractor, closed questions, or "just a reminder".
 
-## Six more, each from a draft that was corrected
+## Seven more, each from a draft that was corrected
 
 **The promise belongs to whoever writes.** "I" can only promise what the
 person whose profile it is will actually do. From a team profile or a
@@ -132,6 +132,21 @@ minute; the follow-up on day four or five; the next a week after that. On
 a cold list the invite plus three messages is the whole sequence. The
 best anti-nudge we have seen opens by refusing to be one: "not going to
 just nudge - one observation instead", then an open question.
+
+**A line generated from list data is about the person, not about you, and
+never quotes the data.** A model asked for a personal first line from a
+row of profile fields writes the same template again and again. Was:
+"I'm reaching out because...", "As Head of X at Company, you may be the
+right person to...", a title copied word for word in another language,
+the headcount range from the database ("a 501-1000 person organization",
+"from 10,000 employees"), 140-190 characters in one sentence. Now: start
+from the fact about them, one short sentence under about 120 characters,
+the title said by meaning in the language of the message, no numbers from
+the data (headcount, dates, ranges read as a database export, the same
+way an exact appointment date does), and no offer inside the line - the
+offer is the next sentence, written by whoever sends. Check the generated
+lines by code for the banned openers and for numbers, not only by eye:
+the model drifts back to them when nobody counts.
 
 ## How to edit this file
 
