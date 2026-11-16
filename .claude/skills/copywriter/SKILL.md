@@ -486,6 +486,16 @@ saying which words to swap. Was: the private-investor versions were given
 as "replace X with Y" under the fund text, and the reviewer asked for them
 as separate messages so they are not lost when the flow is built.
 
+**No colon-explanations in a cold message.** The shape "claim: the
+explanation of the claim" is a writing habit people recognise instantly as
+machine-written, and two of them in one short message is a tell nobody
+misses. Write it as one sentence with a comma, or as two sentences. Was: a
+first message said "That is how we find buyers: by the posts people engage
+with" and, three lines later, "catches other signals too: for example...";
+the reader answered "no one writes with colons this is very clearly AI" and
+nothing else. A colon in front of a link gets the same treatment - name the
+link instead ("the slots are here").
+
 ## What not to do
 
 - **Do not write a claim that is not in `business/profile.md` or the
