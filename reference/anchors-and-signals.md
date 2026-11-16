@@ -24,6 +24,16 @@ goes on anchor C and says so. One campaign carries one anchor: in a mixed
 campaign the signal contacts pull the average up and hide a segment track
 that returns nothing.
 
+**Keep the evidence with the anchor.** A message that names a signal
+invites "which post?" or "where did you see that?". Store the proof in the
+lead record as fields of their own: the link, the text the person reacted
+to (a post, a job ad), what they did (liked, commented, applied) and their
+own words if they wrote any. Was: one generated line ("you commented on X's
+post about Y") went into the CRM, and the first reply asking which post
+could not be answered without digging through raw files. Now: the link,
+the kind and the person's own words go into the same upload as the line
+the message uses.
+
 ## Signal tiers
 
 **Tier 1, high intent.** An open SDR, BDR or sales role, usable about 30
