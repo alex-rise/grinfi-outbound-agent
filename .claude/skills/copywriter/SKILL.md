@@ -128,6 +128,18 @@ into an argument about your honesty. Without both answers the claim goes
 in without the name or does not go in, and the nameless version is built
 from those same two answers, never invented to fill the gap.
 
+**Writing in someone else's name, an offer they never approved is a
+promise they did not make.** Was: for a short list sent from a client's
+profiles, the first draft offered a free review of the app's recent
+user reviews - a step the client had never agreed to deliver - and the
+person we work for stopped it: a short list needs an offer that does not
+go back to the client for approval. Now: a text for a short list is
+assembled only from what the client already signed off in sequences that
+run - who they are, the facts those messages already state, the free
+first step and the call they already offer. Anything new the client would
+have to deliver, a free audit, a report, a fixed price, waits for the
+client's yes, however small it looks.
+
 ## Step 1. Pick the form from what is sold
 
 Our own flows. The first three rows are the same senders writing to the
