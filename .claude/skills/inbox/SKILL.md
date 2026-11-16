@@ -450,3 +450,11 @@ later; if the dialogue moved on, do not apologise.
 - **Do not send a follow-up without checking the calendar first.** A silent
   booking looks like silence.
 - **Do not change a stage on a live conversation without saying so.**
+
+## Rules added 2026-11-16
+
+**A reason to write comes from that lead's own card, never from memory.** When a lead asks which post you meant, or when the reason is mentioned in a manual message at all, the author, the action and the topic are read from the fields on that lead's card and from nowhere else. Not from what the session remembers, not from a neighbouring collection, not from a list that is roughly about the same thing. No field means no fact: say the reason came from a collection whose link was not kept, and move on to the matter. Was: a reply named a post author taken from another collection that happened to be in the session, the lead searched for it, found nothing, and the one live fact in the message turned out to be false. A second correction sent without checking is worse than the first, because it shows the sender does not know where the fact came from either.
+
+**The report carries finished texts, not descriptions of them.** A line that says what the reply will be about costs the user a round trip and gets the answer "why are you writing this to me instead of the message". Write the message.
+
+**Every row names the channel the conversation actually lives in**, and the channel is corrected the moment it changes. A row that says email while the thread runs in a messenger sends the next person to the wrong window.
