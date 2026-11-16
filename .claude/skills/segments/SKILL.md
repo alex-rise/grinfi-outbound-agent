@@ -716,3 +716,30 @@ points at can be read with `list_leads`.
   the API.**
 - **Do not promise the team anything beyond the sentence the case tool
   returns.**
+
+## Building a list by hand: four traps measured on 120 rows
+
+When a list is built outside the products - straight from a data provider's
+API - these four decide whether it is a list or a pile.
+
+1. **Find people by the company's PAGE, never by its name.** A name search
+   returns a company of the same name in another country, and the rows look
+   perfect until someone checks. Measured: of 100 rows matched by company
+   name, 34 were people at an unrelated firm abroad; the same companies
+   matched by page gave none. A provider field you expected and did not get
+   (the page link under a different key) silently turns the call into a name
+   search, so read one raw response before trusting a field name, and drop a
+   company that has no page link rather than falling back.
+2. **A country in the provider's answer may be an echo of your filter.** Ask
+   for one country and some providers stamp it on every row, including a firm
+   whose city, domain and phone all say somewhere else. Check the city, the
+   domain and the phone instead of the country field.
+3. **Collect the industries that were agreed, not the ones that search well.**
+   A list of the seller's own peers is not an audience, however clean it is.
+   Re-read what was promised in writing before the first call.
+4. **Give every segment a quota.** Filling to a round number in whatever order
+   the provider returned gives you the first segment and nothing of the rest.
+
+And after all four: **check each person's profile live before delivery.** It
+costs a fraction of a percent of the collection and it is the only thing that
+tells "they changed jobs" apart from "this was never their company".
