@@ -603,6 +603,22 @@ The person we work for answered that repeats are not a stop: they move to the
 new list and their threads are read. Now: the base sorted by its threads is
 part of the result, not a reason to stop.
 
+**Check every list for competitors before it goes into a flow, and engager
+lists first of all.** People who react to or comment on posts about tools in
+the user's own category are where the vendors of those tools gather: they
+comment to plug their own product. The fit judge reads "founder, LinkedIn,
+outbound" as a buyer. So before launch, two checks on the whole list: each
+person's company against the company stoplist the workspace already holds,
+and a separate pass over title, headline, company and the comment itself with
+one question - does this company sell what the user sells? Read the hits by
+eye before acting: the pass also flags agencies that run outreach for
+clients, and those are buyers. Was: a list of people who engaged with posts
+about an outreach tool went into a sequence with only the fit judge applied.
+A vendor's founder got the pitch and the person we work for noticed it in
+the inbox. The pass afterwards found about 6% of the list were vendors, and
+some of their companies were already on the stoplist. Now: the competitor
+check is a launch step, like the dedupe.
+
 **A competitor found in a list goes into the company stoplist, not just out
 of the flow.** Competitors are companies that sell what the user sells.
 Agencies that use the same tools to run outreach for clients are buyers,
