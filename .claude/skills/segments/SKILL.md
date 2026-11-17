@@ -743,3 +743,33 @@ API - these four decide whether it is a list or a pile.
 And after all four: **check each person's profile live before delivery.** It
 costs a fraction of a percent of the collection and it is the only thing that
 tells "they changed jobs" apart from "this was never their company".
+
+## Buy the pool in chunks, and collect by the filter's own bands
+
+Three rules measured on two hand-built lists of 120 rows, where the cost per
+delivered row came out between three and twenty times what it should be. All
+three are about the pool, not about the copy.
+
+**Buy companies in chunks sized to the quota that is left, never a pool held
+in reserve.** One run bought 724 companies in a single pass and delivered 100
+rows: 785 paid rows were thrown away, and that waste was half the cost of the
+whole list. Decide how many rows each segment needs, multiply by about 2.5 for
+the rejects and the skew, buy that many, and stop buying the moment a segment
+is full. A provider that charges per returned row charges for the pool you
+never opened.
+
+**A headcount range the provider does not have as a filter is collected wide,
+then counted.** Most people-data providers filter headcount in bands, not by
+exact number. Asked for a range that sits inside a band, you may ask the
+client once whether the exact range matters; by default collect with the bands
+the filter actually has, then count how many of the delivered rows fall inside
+the client's range and say it plainly: the wide list costs this, the strict
+range is roughly four times dearer per row. One run checked the exact range
+only after buying, paid for 581 companies, kept about thirty, and the row came
+out five times dearer than the same route run wide.
+
+**Two clients with overlapping portraits are one collection.** Same country,
+same size band, same kind of decision maker, overlapping industries: build one
+pool, give each client their own volume and their own finishing pass. Two
+separate runs on the same market in one day paid twice for the industry they
+shared.
