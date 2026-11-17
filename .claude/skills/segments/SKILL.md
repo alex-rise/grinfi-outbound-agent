@@ -773,3 +773,25 @@ same size band, same kind of decision maker, overlapping industries: build one
 pool, give each client their own volume and their own finishing pass. Two
 separate runs on the same market in one day paid twice for the industry they
 shared.
+
+## Words only where the source has no filter
+
+Before the first paid page, write out what the client asked for, point by
+point, and for each point check whether the source has a filter: country,
+industry by id, headcount, job title, excluded job titles, tenure in the role,
+recently changed jobs. Set those as filters. Then use words, regexes and a
+model for the part that has no filter: the shade of the offer, the client's own
+competitors, the stoplist, whatever is only visible in a description.
+
+A filter applies before the page is paid for; words apply after. One run
+asked for white-collar businesses only and sifted the industry with a regex
+over the company description, keeping one or two rows out of every paid page
+of twenty-five - while the taxonomy had a ready-made "Professional Services"
+branch, which is what the client had described in words.
+
+Industry is the usual trap, because most sources filter it by id and not by
+name: a free-text industry quietly becomes a full-text search and overrides
+the other filters. Measured: the word "accounting" with the country set to the
+United Kingdom returned a company in Kabul. Look the industry up in the
+taxonomy, take the id, and read the hierarchy while you are there - a parent
+branch often states the client's vague wording better than any list of words.
