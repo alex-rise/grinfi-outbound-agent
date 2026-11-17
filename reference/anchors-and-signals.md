@@ -320,6 +320,20 @@ building such lists:
   fleet does show is its build dates: many of its client apps fall behind
   a platform deadline together.
 
+**Store-rule problems in the app file: measure the share on fresh updates before quoting a volume.** Was: a volume for "the
+current build fails the store's new requirements" was projected from an older sample, where every fourth app failed, and
+promised at about ten times what came out. On a fresh pass over some 4,500 company apps the problem sat in 17%, almost all
+of them apps not updated for a year, and those belong mostly to firms under ten people. Apps updated this year are almost
+always built right (2-5%). Now: check a few hundred apps from the same update window as the list you will buy, and quote the
+volume from that share.
+
+**Complaints in reviews: compare an app with its own past, on apps that still get reviews.** Was: a base of mostly abandoned
+apps was read, and two thirds had no review in three months. On store top charts the opposite trap: five technical
+complaints in 90 days is true of almost half the apps, so it selects nothing, and a rise against the lifetime rating is
+false in a third of cases, because silent five-star ratings inflate the base. Now: top charts per country and category,
+the 90-day share of 1-2 stars against the same app's reviews of the previous year, and the first line quotes what users
+write, in their words, with the period.
+
 ## Websites as a source
 
 For an offer that fixes a site - a rebuild, speed, search, ads, presence in
@@ -419,3 +433,19 @@ answer "which content sites work with network X and not with network Y".
   topic were people talking, with almost no outbound links (5 links in 60
   posts). A page's public card names its site and often an email; a large
   page with no site is an audience owner without a site of their own.
+
+## Public event lists as a source
+
+Organisers publish who came: brand lists of visitors, registered attendee companies, speakers, exhibitors. They are free,
+they carry a date, and a person at such a company costs about two cents to find. Was: buying a ticket to reach the
+attendee platform was the plan; vendors are usually sold the most expensive ticket, some events sell them none, and no
+organiser sells the list. Now: start from the public pages, write only what the page itself says ("among the retailers
+listed as attending", "your colleague is on the speaker list"), and keep the organiser's wording and link on each row.
+Expect most of a list to fall away: on five lists about 15-25% of companies had the size, the country and their own app,
+and the stop list then took another third (subsidiaries, listed, state-owned). Airline and airport lists empty almost
+completely: the carriers are giants and the airports are public bodies.
+
+**Reactions to posts about a technical deadline are builders, not buyers.** Was: people who reacted to posts about store
+deadlines and rewriting old apps were taken as a warm source; of some 2,250 reactors the great majority were developers
+and the leaders were mostly agencies, and not one buyer was left in the target region. Now: take reactors only from posts
+about the buyer's problem in the buyer's words, not about the craft of solving it.
