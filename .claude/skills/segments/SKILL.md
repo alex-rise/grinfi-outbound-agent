@@ -435,12 +435,15 @@ companies.** Size, industry, "not a vendor of X" are read on the company
 page; a people-first search pays for every person found and learns the
 company's size only afterwards. Put the country on the company, not on the
 person, so the size and the industry are checked before anyone is bought.
-Was: a search for heads of IT at companies of 1,000+ people went people
-first, by title, country and a recent job change; it bought 580 people to
-keep 20, because most worked at small firms or at IT vendors, and the
-client's bill came out at eleven times the price of a contact. Now: the
-companies of the right size and industry first, their head of IT second,
-the job-change check last, with a probe of 20-30 rows before the volume.
+Was: a people-first search for heads of IT at large companies bought many
+times more people than it kept, because most worked at small firms or at
+IT vendors. Now: the companies of the right size and industry first, their
+head of IT second, the job-change check last, with a probe of 20-30 rows
+before the volume.
+
+**A size bound on a band's edge starts at the next band.** «From 1,000»
+means 1,001+. Taking LinkedIn's whole 501-1,000 band for the one value on
+its edge doubles the pool with companies the brief excludes.
 
 ## Step 0. Get the rules from the server
 
