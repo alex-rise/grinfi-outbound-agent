@@ -91,6 +91,21 @@ answered that such clients never search for an agency like that. The guide
 that went out instead tracked boutique-opening and collection-launch posts,
 plus vacancies for event and brand-experience managers.
 
+For a seller of outside help - a growth team, an agency, outsourced sales -
+an open vacancy is the weakest version of this. Everyone already watches
+vacancies, and a vacancy does not say whether the company wants help from
+outside or has decided to hire in-house. The stronger moment is when the
+hire has happened and it is one person: a company opens its first office in
+a new region and names one head for it. That person has a regional target
+and no team yet. Was: a lead selling growth services asked which signal
+other teams overlook, the draft offered sales vacancies, and the owner
+rejected it - nothing new for someone who already watches them. Now: a
+month of LinkedIn posts about opening an office in the region, read company
+by company. About one post in a hundred was a real company opening its
+first office there with one named head; the rest were setup consultants,
+news and recruiters. Three such companies, each person checked in the
+role, went out as the sample.
+
 A role title catches every company hiring it, not only the client's niche.
 Read the company names and quote the share that fits, never the total. Was:
 "142 email, CRM and retention openings in a month" offered as the market of
