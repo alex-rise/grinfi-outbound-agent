@@ -40,6 +40,10 @@ collections.
    product, not onto the bill.
 5. **A probe first, then the volume.** Collect 20-30 rows, measure the
    hit rate and the cost, then show the user one line before scaling up.
+   If the probe makes a lead dearer than the plan's price by half or more,
+   stop there. Do not grind through hundreds of rows to reach the number.
+   Show the hit rate and the real price per lead, and change the route or
+   the brief with the user.
 6. **The report to the user is four lines:**
    - how many people;
    - what it cost us, in money;
@@ -425,6 +429,18 @@ is the same failure that makes restaurants and clinics unfindable this
 way. When the segment is that young and that small, tell the user the
 probe is measuring whether the segment exists at all, not only what it
 costs, and that the draft names its exact cap before anything runs.
+
+**When the portrait sets a company condition, the search starts from the
+companies.** Size, industry, "not a vendor of X" are read on the company
+page; a people-first search pays for every person found and learns the
+company's size only afterwards. Put the country on the company, not on the
+person, so the size and the industry are checked before anyone is bought.
+Was: a search for heads of IT at companies of 1,000+ people went people
+first, by title, country and a recent job change; it bought 580 people to
+keep 20, because most worked at small firms or at IT vendors, and the
+client's bill came out at eleven times the price of a contact. Now: the
+companies of the right size and industry first, their head of IT second,
+the job-change check last, with a probe of 20-30 rows before the volume.
 
 ## Step 0. Get the rules from the server
 
