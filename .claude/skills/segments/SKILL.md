@@ -18,10 +18,8 @@ your word alone.
 
 ## Six gates of a collection - read before the first search
 
-Added 2026-11-18, from three days of hand collections that went wrong.
-One collection was priced to him at a third of its
-real cost. Another took the wrong industries. A third bought 34 people
-from the wrong companies out of 100. Each gate is one of these failures.
+Added 2026-11-18. Each gate guards against a failure seen in real hand
+collections.
 
 1. **First, what the client sells and who buys it.** Ask the client
    when the brief does not say. The signal comes after that, and a
@@ -32,15 +30,14 @@ from the wrong companies out of 100. Each gate is one of these failures.
    to that number. Do by hand only the steps the product cannot do, and
    write each one down as a product gap.
 3. **Use the company's page or id, never its name.** A search by
-   company name pulls namesakes from other countries. 34 of 100 people
-   once came from wrong companies this way.
+   company name pulls namesakes from other countries.
 4. **The cost is everything spent.** That means the providers, the
    misses, the discarded rows and the model that did the work by hand.
    Count the model's tokens from the session's own log, not from a
-   guess: one «$1-3 of AI» was $23-26 by the log. The client's price is
-   ×4 of that total divided by the rows delivered. When that price is
-   absurd, the route was wrong: it goes into the product, not onto the
-   bill.
+   guess - a guess is usually several times too low. The client's price
+   is the house's margin over that total, divided by the rows delivered.
+   When that price is absurd, the route was wrong: it goes into the
+   product, not onto the bill.
 5. **A probe first, then the volume.** Collect 20-30 rows, measure the
    hit rate and the cost, then show the user one line before scaling up.
 6. **The report to the user is four lines:**

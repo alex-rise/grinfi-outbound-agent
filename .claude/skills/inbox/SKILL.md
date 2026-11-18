@@ -12,10 +12,9 @@ mandatory. Do not skip steps and do not reorder them. Texts follow the
 
 ## Seven gates - read before any word to the user or to a lead
 
-Added 2026-11-18. These come from 55 corrections over three days of real
-inbox, follow-up and collection work. Each gate is a failure that
-actually happened. The rules further down explain them; this list is what
-gets checked.
+Added 2026-11-18. Each gate guards against a failure seen in real inbox,
+follow-up and collection work. The rules further down explain them; this
+list is what gets checked.
 
 1. **Context first, found by you.** For every person, before any draft:
    - who they are;
@@ -45,7 +44,7 @@ gets checked.
    - Never put drafts, money and plans in the same message.
 5. **Do it, then report it.** «I will look for X» is not a report: find X
    first. The report carries finished texts, not descriptions of texts.
-6. **Counts in a report match the record.** «28 handled» means 28 rows
+6. **Counts in a report match the record.** «N handled» means N rows
    changed in the follow-up base. Name what was not done.
 7. **Nothing reaches a stranger without the user's yes to that exact
    text.** This covers placeholders, «demo» texts and test sends.
