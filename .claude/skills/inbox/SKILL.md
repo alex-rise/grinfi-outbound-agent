@@ -10,6 +10,46 @@ answering, and the people sat unanswered for a day. The order below is
 mandatory. Do not skip steps and do not reorder them. Texts follow the
 `dialogue` skill; this skill is about the process, so that nobody is lost.
 
+## Seven gates - read before any word to the user or to a lead
+
+Added 2026-11-18. These come from 55 corrections over three days of real
+inbox, follow-up and collection work. Each gate is a failure that
+actually happened. The rules further down explain them; this list is what
+gets checked.
+
+1. **Context first, found by you.** For every person, before any draft:
+   - who they are;
+   - the channel the conversation lives in, with a link to the thread;
+   - their last messages;
+   - what was promised and when;
+   - whether they pay (their workspace, found by their email domain).
+
+   Search every source you have before asking the user anything: the CRM
+   inbox, mail, the product's admin, the follow-up base, the notes of
+   other sessions. Asking the user «where did we talk?» or «who is
+   this?» means this gate failed.
+2. **A fact about a lead comes only from a source read in this
+   session.** Their payment status, the post they reacted to, what they
+   asked for: read it, then name where you read it. Never take it from
+   memory, and never from another collection that happens to sit in your
+   context.
+3. **A price comes only from the price page.** That is the house's page
+   (`business/house/` or the company's own handbook). If the price is not
+   there, write «I will confirm». Never quote an estimate, and never
+   quote a number taken from old correspondence.
+4. **One kind of decision per message to the user.**
+   - Drafts go as a numbered list: per item, two lines of context, the
+     finished text, then «send?».
+   - Money (a charge, a refund, a top-up) goes on its own, one item at a
+     time, with the amount and what it pays for.
+   - Never put drafts, money and plans in the same message.
+5. **Do it, then report it.** «I will look for X» is not a report: find X
+   first. The report carries finished texts, not descriptions of texts.
+6. **Counts in a report match the record.** «28 handled» means 28 rows
+   changed in the follow-up base. Name what was not done.
+7. **Nothing reaches a stranger without the user's yes to that exact
+   text.** This covers placeholders, «demo» texts and test sends.
+
 All calls go through the Grinfi MCP (`call_tool` with the toolset and the
 tool name). Toolsets: `linkedin` (messages, unread, mark read), `crm`
 (contacts, stages, mass actions, stoplist), `automations` (continue,
