@@ -212,6 +212,19 @@ next message, plainly.
   "lashes" also sits inside "own" and "war", a four-letter "tattoo" inside
   "status". Stop words of five letters or more, or
   two-word phrases; leave the short ones to the judge.
+- **When the campaign looks for the people who need a service, the sellers
+  of that service post the same words.** For a local B2C service most hits
+  on the plain service words are the providers' own ads: "I am a tutor, my
+  name is", "maybe someone needs", "enrolment is open", "I offer". Put those
+  self-ad phrases among the stop words in the campaign's languages; the
+  requests ("looking for a tutor for my son", "can you recommend") never
+  contain them. Was: a month of one campaign's words caught about 3,400
+  posts, most of them tutors and schools advertising, paid for one by one
+  in AI checks; twenty-five self-ad stop phrases cut it to about 1,900 and
+  every parent's request in the sample stayed. And do not "widen" such a
+  campaign with the format word ("online", "from zero", "conversational"):
+  those are ad words, and they brought about 6,300 posts of ads and spam in
+  the same month.
 - **Market and size go into the judge in so many words.** "Only serious B2B
   companies that sell to other businesses; not the self-employed, not B2C,
   not <market you do not sell to> (its currency, its capital, its
@@ -288,6 +301,18 @@ search in the lead's language for "appointed CEO", "new CFO" found nothing,
 and the draft told the lead that almost nobody had announced such a change,
 as if the signal did not exist. Now: pull it from start dates, and never
 report an empty post search as the absence of the signal.
+
+**Some buyers never ask in public - start from the event they go through.**
+Before promising a lead "people asking for what you sell", read a week of
+the request search for their words. Where the hits are all sellers, CVs
+and ads, the buyers do not post, and the sample is built from a dated
+event instead: an opening, a fresh round, a new head of the function, a
+renovation, a public "we cancelled X over the price". Was: three request
+searches in one day - branded bags, "looking for a developer to build",
+"need a business loan" in city chats - returned two buyers out of about 170
+posts, nearly all sellers, and only brokers' ads; the samples that landed
+were built from openings, rounds and appointments. Say in one line to the
+lead why the list starts from events, with the numbers.
 
 ## Step 0. The guides, the workspace, the plan
 
