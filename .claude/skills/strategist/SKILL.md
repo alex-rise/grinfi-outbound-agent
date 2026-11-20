@@ -131,6 +131,18 @@ team, one copy skeleton:
    source goes into the plan, name whose job the posts are about and read
    the titles of one post's engagers. Count only the decision makers.
    Their need is still checked on the company, not taken from the like.
+8. When almost anyone in the role is a buyer, the list's value is the
+   reason to write, not the targeting. A business whose buyer is any
+   member of a broad profession (every coach who wants to grow, every
+   fractional executive) has no qualitative variable left to filter on,
+   so a tighter filter buys it nothing. Was: such a business got twenty
+   commenters on competitors' posts, judged fit at 30-50%, and answered
+   that finding leads was not the interesting part. What it valued was
+   opening each conversation on that person's own comment, and it asked
+   for a draft of that message next. Now: for a broad buyer, hand over
+   each row with the comment and the post it answers, plus a drafted
+   first message built on that comment. Measure the delivery by drafts
+   the user sends with little or no editing, not by the share that fits.
 
 ## Step 2. The picker, when the user does not know who to reach first
 
