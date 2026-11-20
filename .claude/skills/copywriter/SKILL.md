@@ -400,6 +400,7 @@ Run it on every draft before anyone sees it. All rows must pass.
 | No long dash anywhere, no emoji, no exclamation mark | yes |
 | Reads aloud in the sender's voice in under 20 seconds | yes |
 | One template, several senders: no word in the first person that carries the sender's gender. In Ukrainian and Russian that is the past tense and the short adjectives - "I was glad", "I wrote" change with the writer's gender. Write "we" instead. Was: a line in the masculine went out from a woman's profile | yes |
+| Ukrainian text is checked for Russian calques and slang before it goes out: the preposition the language uses with the country's own name, the Ukrainian word for "a reason to write" rather than the Russian one, a Ukrainian word instead of borrowed English jargon, and no programmer slang a buyer would not say. Was: a proposal carried all four and came back with "remove the water and the clumsy phrases" | yes |
 | Follow-up only: new angle, one line restating who is writing, and one line saying what the previous message was about before it continues | yes |
 | Grinfi only: variables checked against `list_ai_variables`, one sample rendered with `render_ai_template` | yes |
 | Every variable has its count from a sample of the real list and a fallback line where it is under 100%; every claim tied to a date is true for each lead, not on average (sequence-architect, "Before building") | yes |
