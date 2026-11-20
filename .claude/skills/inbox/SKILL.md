@@ -417,6 +417,17 @@ trust.
 And before any apology to a person, check whether they received something
 later; if the dialogue moved on, do not apologise.
 
+A `failed` LinkedIn message is not always an undelivered one. If it still
+carries a send time and a provider message id, it went out and only the
+confirmation timed out, and a resend reaches the person twice. Open the real
+thread before resending. A resend into a thread whose latest reply from the
+lead has not synced yet is refused as "unsynchronized messages": wait for
+the reply to appear, then send again. The other way round, a `done` can
+still turn into `failed` within about fifteen minutes, so confirm delivery
+after that, not at the moment of sending. Was: a sample marked failed was
+queued twice more while the person already had it in their inbox; only the
+platform's own guard stopped the doubles.
+
 ## Step 9. Write it down and report
 
 1. `business/campaigns.md`: today's wave (how many replies, of them
