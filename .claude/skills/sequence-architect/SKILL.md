@@ -273,6 +273,16 @@ site, a public feed.
   the list keeps only the records that have it, or the sentence is
   rewritten to stand without it. There is no third option: an empty
   variable reaches the lead as a gap or as its raw name.
+- **Filled is not the same as right: read the values, not only the
+  count.** A field can be 100% filled with the wrong kind of thing. Was:
+  a greeting name was copied from a CRM field that an older automation
+  had used as a yes-flag, so one record in eight held "yes". The flow
+  checked only that the field existed and was not empty, and a handful
+  of leads got "Hello, yes" before one of them pointed it out. Now: a
+  name field holds a first name in the language of the message (no
+  flags, surnames, company names, Latin letters in a Cyrillic message,
+  or the wrong language's spelling of the name). Before the flow starts,
+  list the distinct values and read them.
 - **Count on the records you will send to.** Big brands, foreign
   publishers and public bodies leave at the judge; their fill rate says
   nothing about the list that goes out. On one measured list two records
