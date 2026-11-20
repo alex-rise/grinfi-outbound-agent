@@ -352,6 +352,14 @@ needed phone numbers. The seller does pay for every check; it belongs
 inside the price of the delivered row, not in a promise that the hard
 requests will be free.
 
+The same goes for the reason to write. A person found by job title and
+company size is the cheapest row; a dated reason on top of it - new in the
+role, the company hiring, what they posted - is extra reading and costs
+more. So a list price in a proposal is written as "from" the portrait-only
+price, never as one flat number. Was: a proposal priced every person at
+the portrait-only rate while its own sample rows each carried a reason;
+the person we work for: the signal analysis is extra money.
+
 **A price objection is answered with the alternative they are already
 paying for, in their own units.** Not "it is worth it" and not a
 discount: name what solving this another way costs them - the hire and
