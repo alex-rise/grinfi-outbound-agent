@@ -443,6 +443,7 @@ it needs a better wording:
 | "market leaders", "best in class" | an adjective with no proof beside it reads as filler |
 | "do you have 15 minutes?" on a cold product touch | asks for the biggest thing first; a micro-yes gets the reply |
 | several questions | the reader answers none of them |
+| a closing question that names the way out: "your own team or a partner?", "still on your list, or already covered?" | the reader takes the exit you offered. Was: a service sequence closed on "who looks after the app, your own team or a partner?"; in its first week 8 of 15 replies were "our own team / covered / not now" and the thread ended there. Now: close on a choice between things you sell ("new features, a redesign or an AI feature?") or on a concrete offer they can say yes to; re-measured after three weeks |
 | spintax | varies the words and not the reason; the reason is the anchor |
 | "loved your post about X" from a tool | readers recognise it, and one recognised line discredits the rest |
 | apologies: "sorry to bother", "I know you are busy" | tells them the message is not worth reading before they read it |
