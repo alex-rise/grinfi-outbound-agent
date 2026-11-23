@@ -62,6 +62,21 @@ usually plain HTML), then the startups among the exhibitors, and read the
 fact with a date the first line can stand on, whether or not anyone from
 the seller attends.
 
+### A quiet niche: the buyer's own tender
+
+When the product is a physical thing bought for a project (houses, cabins,
+modules, equipment), buyers rarely post "looking for a supplier", and the
+request they do make is a public tender. Search tender portals by the
+product's CPV code, not by words: the EU journal, the national portal of
+each export country. An open notice is tier 1 - the buyer is choosing now,
+and the closing date is the date the first line stands on. Was: a lead
+asked for live examples of buyer requests; a month of social posts in four
+languages gave none, only makers and dealers writing about themselves.
+Searching by the code for cabins gave an open notice with a value and a
+deadline in the first pass. Now: tenders by code first, then project news
+(permits, groundbreakings) with the architect or developer named, and the
+social monitor only for the rare direct post.
+
 ## The hiring question
 
 Ask "who is being hired?" before calling a vacancy a signal. It is a
