@@ -222,6 +222,23 @@ When a company gets a new head of the function that buys what the seller sells (
 - Read the sample before quoting a number: a loose industry filter can leave half the rows in the wrong field.
 - Under a year is not "just now". In the text say "recently", and open on the role ("Congrats on the role. The first months usually go into reviewing vendors..."), not on a date you cannot back.
 
+### When the service rides a physical flow, prove the flow, not a new hire
+
+Freight, customs, payment terminals and warehousing are bought by companies that already have the flow: goods coming in from a given country, cards being taken at a till. For these sellers a new head of operations is a weak stand-in. The reader asks first whether the company imports at all, and a profile cannot answer that.
+
+Was: a sample for a freight forwarder whose buyers are import-heavy retail brands. It offered two brands with a new head of operations, and the owner rejected it: "look at which retailers bring goods in from China or the US". Is: the row stands on evidence of the flow itself:
+- national customs importer lists by commodity code and month;
+- bill-of-lading records;
+- the brand's own country-of-origin labels or supplier statements.
+
+A dated element (latest import month, a new range) is added on top, never in place of the flow.
+
+### A setup service is chosen before the opening, not after
+
+Terminals, fit-out, security and signage for a new site are contracted weeks before the doors open. A company that has just opened already has its provider.
+
+Was: payment-terminal samples built on restaurants that had opened that week. The reader answered that those sites follow existing contracts and that the provider is chosen at least 3-4 weeks before opening. Is: the signal is an announced opening that has not happened yet: a franchise entering the country, a site picked, a planning application filed. The row says how far ahead of the opening it is.
+
 ### Do not put a market-wide count in a follow-up
 
 Was: message 2 said "this month there are N of them in Europe and the US". Is: no number in the cold sequence. A count for a whole region says nothing about the reader's own market, and a niche you cannot count makes the line read "zero". Name the signals instead, one event that exists in volume and one request, and offer to count their market when they answer.
