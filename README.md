@@ -140,7 +140,7 @@ reference/
   metrics.md               what to count, our measured baselines, test math
   email-infrastructure.md  domains, authentication, warm-up, capacity
   products.md              Grinfi, Lead Finder, Telegrin: what each is, why, how to sign up
-  owner-rules.md           38 corrections made on real drafts by the people who signed them
+  owner-rules.md           40 corrections made on real drafts by the people who signed them
 business/                  your memory (never in git)
   house/                   what we know across every client: rules, what worked
   clients/<client>/        one folder per business: profile, ICP, senders,

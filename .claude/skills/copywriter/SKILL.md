@@ -74,7 +74,7 @@ Read `business/profile.md`, `business/rules.md` and the sequence brief.
 Read two files before the first line, every time the business is new:
 `reference/first-message-craft.md` (how a first message is built, the six
 things that cost four drafts to learn, and a before-and-after standard of
-editing) and `reference/owner-rules.md` (38 corrections made by the
+editing) and `reference/owner-rules.md` (40 corrections made by the
 people whose name went under the text).
 
 Then read the sequences you already ran that produced meetings, the one

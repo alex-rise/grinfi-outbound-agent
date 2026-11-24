@@ -1,4 +1,4 @@
-# Owner rules: 38 corrections from real drafts
+# Owner rules: 40 corrections from real drafts
 
 Corrections made by the people whose name was under the text, across
 several businesses, on drafts that had already passed every other check
@@ -131,6 +131,13 @@ user's, these are everyone's.
     versions, which slows down installs". A first message rarely needs
     more than 450 characters.
 
+39. A reply written for one thread speaks in the voice of the person
+    whose profile sends it, with that person's grammatical gender. An
+    admission is singular: "I pointed you the wrong way", not "we". The
+    "we" rule stays for templates shared by several senders, where the
+    gender is unknown. Was: an apology from a woman's profile said "we";
+    the owner: you know who is writing.
+
 ## Follow-ups and the close
 
 6. Use social proof instead of instruction: "many agencies use this for
@@ -162,6 +169,11 @@ user's, these are everyone's.
 38. Take time pressure from the platform's deadline, never from your own
     offer expiring. Not "free until 1 November" but "starting now still
     leaves time to make the store's deadline".
+
+40. After the reader has watched a walkthrough video, the next step is
+    examples on their own market or a trial with a first collection, not
+    a call to show the same thing again. Was: a follow-up to a sent video
+    offered a 30-minute demo; the owner asked why a demo after the video.
 
 ## How copy is reviewed
 
