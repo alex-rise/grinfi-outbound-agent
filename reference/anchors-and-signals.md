@@ -481,3 +481,12 @@ completely: the carriers are giants and the airports are public bodies.
 deadlines and rewriting old apps were taken as a warm source; of some 2,250 reactors the great majority were developers
 and the leaders were mostly agencies, and not one buyer was left in the target region. Now: take reactors only from posts
 about the buyer's problem in the buyer's words, not about the craft of solving it.
+
+**Reactions to the sender's own posts: thank from the author, only while it is fresh, and expect few.** Was: the idea
+was to add them to the general post-reaction chain, written from any profile in the pool. A thank-you for a like reads
+right only from the person who wrote the post; from a colleague it reads as being watched. And a founder's posts are
+liked mostly by people already known: on fourteen posts about a fifth of the reactors were the team itself, and of the
+outsiders who fit, more than half were already clients, in talks or in another chain. Now: a separate chain sending only
+from the author's profile, the first line thanks for the like or the comment and names the post's topic, the rest of
+the chain is the post-reaction one unchanged, and only reactions under two weeks old go in - "thanks for the like" two
+months later is strange. Size it as a small warm stream of a few people per post, not as volume.
