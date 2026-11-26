@@ -226,7 +226,17 @@ ask that moves to the product: the call, or the trial set up on what you
 just showed. Do not close it with another question. Was: the delivery
 closed on a question about their process. In 6 of 14 such answers that cost
 one more exchange before anyone booked. The person we work for: once we
-send the result, the message ends on the call or the trial. When the lead's reply
+send the result, the message ends on the call or the trial.
+
+**A deck goes out with the booking link in the same message.** Someone
+who asks for the deck has asked for the call in a slower form; answer with
+both. Not "looking forward to your thoughts", not "happy to jump on a call"
+without a link: those hand the next move back to a busy reader who has no
+reason to make it. If they answer with their own calendar or an assistant,
+book there the same day. Was: four investors asked for the deck in one
+campaign, each got it with "looking forward to your thoughts" or a
+link-less offer of a call, and none of the four had answered or booked by
+the next check, a week later for the earliest. When the lead's reply
 is the last thing the asset waited for, build it in the same pass and send
 it as the answer; no interim "got it, will send tomorrow". Was: a lead named
 the niche a promised guide was waiting on, and the draft acknowledged it and
