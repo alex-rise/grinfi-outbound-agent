@@ -143,6 +143,16 @@ team, one copy skeleton:
    each row with the comment and the post it answers, plus a drafted
    first message built on that comment. Measure the delivery by drafts
    the user sends with little or no editing, not by the share that fits.
+9. A like may pick the list; it writes the first line only when the post
+   states a problem the reader could have. Read the post before opening
+   on it. A joke, a personal story, a congratulation, or any post by
+   someone the reader knows personally collects likes out of friendship,
+   and "you recently liked a post about X" then reads as a misread
+   person. Was: a first message opened on a like of a post about where a
+   business should put spare money; the reader answered that the author
+   was a friend, the post was a joke, and she had no money to place. Now:
+   for those posts the opener is the role or the company's own event, and
+   the like stays out of the text.
 
 ## Step 2. The picker, when the user does not know who to reach first
 
